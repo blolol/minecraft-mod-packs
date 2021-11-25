@@ -1,5 +1,5 @@
 ---
-name: Perkpack Explorer
+name: Perkpack
 pack_version: '1.0.0-pre1'
 minecraft_version: '1.17.1'
 mod_loader: fabric
