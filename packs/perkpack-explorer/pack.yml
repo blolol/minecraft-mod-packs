@@ -50,7 +50,7 @@ mods:
       - fabric-api
     url: https://www.curseforge.com/minecraft/mc-mods/boat-container
   boat-item-view:
-    version: ''
+    version: '0.0.2'
     dependencies:
       - fabric-api
     url: https://www.curseforge.com/minecraft/mc-mods/boat-item-view
@@ -224,7 +224,7 @@ mods:
       - shetiphian-core
     url: https://www.curseforge.com/minecraft/mc-mods/platforms-fabric
   repurposed-structures:
-    version: ''
+    version: '2.5.7'
     dependencies:
       - fabric-api
     url: https://www.curseforge.com/minecraft/mc-mods/repurposed-structures-fabric
