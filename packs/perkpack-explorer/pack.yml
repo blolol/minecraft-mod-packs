@@ -11,58 +11,94 @@ mods:
       - fabric-api
       - fabric-language-kotlin
     url: https://www.curseforge.com/minecraft/mc-mods/adorn
+    curseforge:
+      project: 320215
+      file: 3518470
   architectury-api:
     version: '2.6.35'
     dependencies:
       - fabric-api
     url: https://www.curseforge.com/minecraft/mc-mods/architectury-fabric
+    curseforge:
+      project: 419697
+      file: 3500017
   auto-run:
     version: '0.3.0'
     dependencies:
       - fabric-api
     url: https://www.curseforge.com/minecraft/mc-mods/autorun-fabric
+    curseforge:
+      project: 279429
+      file: 3394638
   bclib:
     version: '0.5.2'
     url: https://www.curseforge.com/minecraft/mc-mods/bclib
+    curseforge:
+      project: 495191
+      file: 3535630
   better-end:
     version: '0.12.3'
     dependencies:
       - bclib
       - fabric-api
     url: https://www.curseforge.com/minecraft/mc-mods/betterend
+    curseforge:
+      project: 413596
+      file: 3535634
   better-f3:
     version: '1.1.5'
     url: https://www.curseforge.com/minecraft/mc-mods/betterf3
+    curseforge:
+      project: 401648
+      file: 3347660
   better-nether:
     version: '5.1.3'
     dependencies:
       - bclib
       - fabric-api
     url: https://www.curseforge.com/minecraft/mc-mods/betternether
+    curseforge:
+      project: 311377
+      file: 3379682
   blur:
     version: '2.4.0'
     dependencies:
       - fabric-api
     url: https://www.curseforge.com/minecraft/mc-mods/blur-fabric
+    curseforge:
+      project: 393563
+      file: 3510590
   boat-container:
     version: '1.0.3'
     dependencies:
       - fabric-api
     url: https://www.curseforge.com/minecraft/mc-mods/boat-container
+    curseforge:
+      project: 526274
+      file: 3508260
   boat-item-view:
     version: '0.0.2'
     dependencies:
       - fabric-api
     url: https://www.curseforge.com/minecraft/mc-mods/boat-item-view
+    curseforge:
+      project: 482160
+      file: 3348848
   bountiful:
     version: '1.0.0'
     dependencies:
       - fabric-language-kotlin
       - kambrik
     url: https://www.curseforge.com/minecraft/mc-mods/bountiful-fabric
+    curseforge:
+      project: 521673
+      file: 3442444
   cardinal-components:
     version: '3.1.1'
     url: https://www.curseforge.com/minecraft/mc-mods/cardinal-components
+    curseforge:
+      project: 318449
+      file: 3397538
   carrier:
     version: '1.8.2'
     dependencies:
@@ -70,253 +106,434 @@ mods:
       - fabric-api
       - fabric-language-kotlin
     url: https://www.curseforge.com/minecraft/mc-mods/carrier
+    curseforge:
+      project: 409184
+      file: 3528672
   charm:
     version: '3.3.2'
     url: https://www.curseforge.com/minecraft/mc-mods/charm
+    curseforge:
+      project: 318872
+      file: 3393290
   charmonium:
     version: '3.3.0'
     url: https://www.curseforge.com/minecraft/mc-mods/charmonium
+    curseforge:
+      project: 378696
+      file: 3379114
   cloth-config:
     version: '5.1.40'
     url: https://www.curseforge.com/minecraft/mc-mods/cloth-config
+    curseforge:
+      project: 319057
+      file: 3521267
   clumps:
     version: '7.0.10'
     url: https://www.curseforge.com/minecraft/mc-mods/clumps
+    curseforge:
+      project: 256717
+      file: 3491821
   continuity:
     version: '1.0.2'
     dependencies:
       - fabric-api
     url: https://www.curseforge.com/minecraft/mc-mods/continuity
+    curseforge:
+      project: 531351
+      file: 3498711
   croptopia:
     version: '1.7.0'
     url: https://www.curseforge.com/minecraft/mc-mods/croptopia-fabric
+    curseforge:
+      project: 415438
+      file: 3534385
   dynamic-fps:
     version: '2.0.6'
     dependencies:
       - fabric-api
     url: https://www.curseforge.com/minecraft/mc-mods/dynamic-fps
+    curseforge:
+      project: 335493
+      file: 3497287
   earth2java:
     version: '1.7.3'
     dependencies:
       - fabric-api
     url: https://www.curseforge.com/minecraft/mc-mods/earth2java-fabric
+    curseforge:
+      project: 398022
+      file: 3443946
   eating-animation:
     version: '1.2'
     url: https://www.curseforge.com/minecraft/mc-mods/eating-animation-fabric
+    curseforge:
+      project: 527023
+      file: 3467759
   enhanced-block-entities:
     version: '0.5'
     dependencies:
       - fabric-api
     url: https://www.curseforge.com/minecraft/mc-mods/enhanced-block-entities
+    curseforge:
+      project: 452046
+      file: 3461725
   fabric-api:
     version: '0.43.0'
     url: https://www.curseforge.com/minecraft/mc-mods/fabric-api
+    curseforge:
+      project: 306612
+      file: 3535192
   fabric-language-kotlin:
     version: '1.6.5'
     url: https://www.curseforge.com/minecraft/mc-mods/fabric-language-kotlin
+    curseforge:
+      project: 308769
+      file: 3477154
   falling-leaves:
     version: '1.7.4'
     dependencies:
       - fabric-api
     url: https://www.curseforge.com/minecraft/mc-mods/falling-leaves-fabric
+    curseforge:
+      project: 417510
+      file: 3492276
   falling-tree:
     version: '2.14.3'
     dependencies:
       - fabric-api
     url: https://www.curseforge.com/minecraft/mc-mods/falling-tree
+    curseforge:
+      project: 349559
+      file: 3506292
   flytre-lib:
-    version: '1.4.3'
+    version: '1.4.2'
     url: https://www.curseforge.com/minecraft/mc-mods/lib
+    curseforge:
+      project: 444498
+      file: 3511041
   go-fish:
     version: '1.3.0'
     url: https://www.curseforge.com/minecraft/mc-mods/go-fish
+    curseforge:
+      project: 431135
+      file: 3452653
   illuminations:
     version: '1.10'
     dependencies:
       - fabric-api
     url: https://www.curseforge.com/minecraft/mc-mods/illuminations
+    curseforge:
+      project: 292908
+      file: 3520879
   indium:
     version: '1.0.1'
     dependencies:
       - iris # Indium actually depends on Sodium. Iris packages a modified version of it.
     url: https://www.curseforge.com/minecraft/mc-mods/indium
+    curseforge:
+      project: 459496
+      file: 3535202
   inspecio:
     version: '1.1.0'
     url: https://www.curseforge.com/minecraft/mc-mods/inspecio
+    curseforge:
+      project: 492180
+      file: 3412784
   inventory-profiles-next:
     version: '1.1.7'
     dependencies:
       - fabric-api
     url: https://www.curseforge.com/minecraft/mc-mods/inventory-profiles-next
+    curseforge:
+      project: 495267
+      file: 3533006
   iris:
     version: '1.1.2+build.9'
     url: https://www.curseforge.com/minecraft/mc-mods/irisshaders
+    curseforge:
+      project: 455508
+      file: 3451773
   just-enough-keys:
     version: '0.3.2'
     dependencies:
       - fabric-api
     url: https://www.curseforge.com/minecraft/mc-mods/just-enough-keys-fabric
+    curseforge:
+      project: 495059
+      file: 3479471
   kambrik:
     version: '1.1.0'
     url: https://www.curseforge.com/minecraft/mc-mods/kambrik
+    curseforge:
+      project: 455585
+      file: 3442450
   krypton:
     version: '0.1.4'
     url: https://www.curseforge.com/minecraft/mc-mods/krypton
+    curseforge:
+      project: 428912
+      file: 3378767
   lambdynamiclights:
     version: '2.0.2'
     dependencies:
       - fabric-api
     url: https://www.curseforge.com/minecraft/mc-mods/lambdynamiclights
+    curseforge:
+      project: 393442
+      file: 3409038
   lazy-dfu:
     version: '0.1.2'
     url: https://www.curseforge.com/minecraft/mc-mods/lazydfu
+    curseforge:
+      project: 433518
+      file: 3209972
   lithium:
     version: '0.7.5'
     url: https://www.curseforge.com/minecraft/mc-mods/lithium
+    curseforge:
+      project: 360438
+      file: 3516367
   lovely-snails:
     version: '1.0.3'
     dependencies:
       - fabric-api
     url: https://www.curseforge.com/minecraft/mc-mods/lovely-snails
+    curseforge:
+      project: 499425
+      file: 3422183
   minecraft-dungeons-armors:
     version: '1.8.1'
     dependencies:
       - fabric-api
     url: https://www.curseforge.com/minecraft/mc-mods/mcda
+    curseforge:
+      project: 426206
+      file: 3534912
   minecraft-dungeons-artifacts:
     version: '1.4.2'
     dependencies:
       - fabric-api
     url: https://www.curseforge.com/minecraft/mc-mods/mcdar
+    curseforge:
+      project: 476788
+      file: 3494181
   minecraft-dungeons-weapons:
     version: '3.6.0'
     dependencies:
       - fabric-api
     url: https://www.curseforge.com/minecraft/mc-mods/mcdw
+    curseforge:
+      project: 407311
+      file: 3516375
   mo-structures:
     version: '1.2.1'
     dependencies:
       - fabric-api
     url: https://www.curseforge.com/minecraft/mc-mods/mo-structures
+    curseforge:
+      project: 378266
+      file: 3367847
   mod-menu:
     version: '2.0.14'
     url: https://www.curseforge.com/minecraft/mc-mods/modmenu
+    curseforge:
+      project: 308702
+      file: 3479750
   more-banner-features:
     version: '1.1.1'
     url: https://www.curseforge.com/minecraft/mc-mods/more-banner-features
+    curseforge:
+      project: 515000
+      file: 3530944
   mouse-tweaks:
     version: '2.15'
     url: https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks
+    curseforge:
+      project: 60089
+      file: 3515479
   near-sightedly:
     version: '1.2.1'
     url: https://www.curseforge.com/minecraft/mc-mods/near-sightedly
+    curseforge:
+      project: 514002
+      file: 3439155
   not-enough-animations:
     version: '1.4.0'
     url: https://www.curseforge.com/minecraft/mc-mods/not-enough-animations
+    curseforge:
+      project: 433760
+      file: 3516262
   pipe:
     version: '1.6.0'
     dependencies:
       - flytre-lib
     url: https://www.curseforge.com/minecraft/mc-mods/pipe
+    curseforge:
+      project: 441787
+      file: 3511674
   platforms:
     version: '1.1.1'
     dependencies:
       - shetiphian-core
     url: https://www.curseforge.com/minecraft/mc-mods/platforms-fabric
+    curseforge:
+      project: 536610
+      file: 3496259
   repurposed-structures:
     version: '2.5.7'
     dependencies:
       - fabric-api
     url: https://www.curseforge.com/minecraft/mc-mods/repurposed-structures-fabric
+    curseforge:
+      project: 391366
+      file: 3527136
   roughly-enough-items:
     version: '6.2.335'
     dependencies:
       - architectury-api
       - fabric-api
     url: https://www.curseforge.com/minecraft/mc-mods/roughly-enough-items
+    curseforge:
+      project: 310111
+      file: 3532452
   shetiphian-core:
     version: '1.1.1'
     dependencies:
       - fabric-api
     url: https://www.curseforge.com/minecraft/mc-mods/shetiphiancore-fabric
+    curseforge:
+      project: 536603
+      file: 3496251
   stonevaults:
     version: '1.1.0'
     dependencies:
       - fabric-api
     url: https://www.curseforge.com/minecraft/mc-mods/stonevaults-dungeons-towers
+    curseforge:
+      project: 503712
+      file: 3394125
   terrific-trinkets:
     version: '0.3.0'
     dependencies:
       - trinkets-api
     url: https://www.curseforge.com/minecraft/mc-mods/terrific-trinkets
+    curseforge:
+      project: 537175
+      file: 3496792
   the-graveyard:
     version: '2.1'
     dependencies:
       - fabric-api
     url: https://www.curseforge.com/minecraft/mc-mods/the-graveyard-fabric
+    curseforge:
+      project: 514468
+      file: 3525494
   time-and-wind:
     version: '1.4'
     dependencies:
       - fabric-api
     url: https://www.curseforge.com/minecraft/mc-mods/time-wind
+    curseforge:
+      project: 477790
+      file: 3516801
   travelers-backpack:
     version: '6.0.0'
     dependencies:
       - fabric-api
     url: https://www.curseforge.com/minecraft/mc-mods/travelers-backpack-fabric
+    curseforge:
+      project: 541171
+      file: 3508937
   trinkets-api:
     version: '3.0.4'
+    url: https://www.curseforge.com/minecraft/mc-mods/trinkets-fabric
+    curseforge:
+      project: 341284
+      file: 3446940
   visuality:
     version: '0.3.2'
     dependencies:
       - fabric-api
     url: https://www.curseforge.com/minecraft/mc-mods/visuality
+    curseforge:
+      project: 521126
+      file: 3531346
   what-the-hell-is-that:
     version: '3.11.2'
     dependencies:
       - fabric-api
     url: https://www.curseforge.com/minecraft/mc-mods/wthit
+    curseforge:
+      project: 440979
+      file: 3522154
   when-dungeons-arise:
     version: '2.1.49'
     dependencies:
       - fabric-api
     url: https://www.curseforge.com/minecraft/mc-mods/when-dungeons-arise-fabric
+    curseforge:
+      project: 511812
+      file: 3535223
   william-wythers-overhauled-overworld:
     version: '1.7'
     url: https://www.curseforge.com/minecraft/mc-mods/william-wythers-overhauled-overworld
+    curseforge:
+      project: 490686
+      file: 3523433
   william-wythers-overhauled-overworld-caves-and-cliffs:
     version: '1.4'
     dependencies:
       - fabric-api
       - william-wythers-overhauled-overworld
     url: https://www.curseforge.com/minecraft/mc-mods/caves-and-cliffs-add-on-for-william-wythers
+    curseforge:
+      project: 497450
+      file: 3491090
   xaeros-minimap:
     version: '21.22.2'
     url: https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap
+    curseforge:
+      project: 263420
+      file: 3532551
   xaeros-world-map:
     version: '1.18.3'
     url: https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map
+    curseforge:
+      project: 317780
+      file: 3532563
   yungs-api:
     version: '19'
     url: https://www.curseforge.com/minecraft/mc-mods/yungs-api-fabric
+    curseforge:
+      project: 421649
+      file: 3479840
   yungs-better-dungeons:
     version: '1.0.2'
     dependencies:
       - fabric-api
       - yungs-api
     url: https://www.curseforge.com/minecraft/mc-mods/yungs-better-dungeons-fabric
+    curseforge:
+      project: 525586
+      file: 3476131
   yungs-better-mineshafts:
     version: '1.0.1'
     dependencies:
       - fabric-api
       - yungs-api
     url: https://www.curseforge.com/minecraft/mc-mods/yungs-better-mineshafts-fabric
+    curseforge:
+      project: 373591
+      file: 3414789
   yungs-better-strongholds:
     version: '1.1.2'
     dependencies:
       - fabric-api
       - yungs-api
     url: https://www.curseforge.com/minecraft/mc-mods/yungs-better-strongholds-fabric
+    curseforge:
+      project: 480684
+      file: 3479839
 client:
   mods:
     - adorn
