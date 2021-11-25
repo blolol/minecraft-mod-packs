@@ -23,6 +23,10 @@ In the above directory structure:
 * The `mods` directory contains mod Jar files.
 * `VERSION` is a file that contains the mod pack version number (e.g. "1.0.2+1.17.1" for a pack at v1.0.2 that's compatible with Minecraft 1.17.1).
 
+## Versioning large files
+
+This repository uses [Git Large File Storage](https://git-lfs.github.com) (LFS) to version JAR files. To install Git LFS, refer to [GitHub's documentation](https://docs.github.com/en/repositories/working-with-files/managing-large-files).
+
 ## Building a mod pack
 
 To build a zip file of a mod pack, use `bin/build MOD_PACK_NAME`. It will create a versioned zip file in the `build` directory.
