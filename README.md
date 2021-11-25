@@ -21,7 +21,7 @@ In the above directory structure:
 
 * The mod pack's name is its directory name.
 * The `mods` directory contains mod Jar files.
-* `VERSION` is a file that contains the mod pack version number (e.g. "1.16.4-v1.2").
+* `VERSION` is a file that contains the mod pack version number (e.g. "1.0.2+1.17.1" for a pack at v1.0.2 that's compatible with Minecraft 1.17.1).
 
 ## Building a mod pack
 
