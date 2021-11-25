@@ -11,6 +11,16 @@ mods:
       - fabric-api
       - fabric-language-kotlin
     url: https://www.curseforge.com/minecraft/mc-mods/adorn
+  architectury-api:
+    version: '2.6.35'
+    dependencies:
+      - fabric-api
+    url: https://www.curseforge.com/minecraft/mc-mods/architectury-fabric
+  auto-run:
+    version: '0.3.0'
+    dependencies:
+      - fabric-api
+    url: https://www.curseforge.com/minecraft/mc-mods/autorun-fabric
   bclib:
     version: '0.5.2'
     url: https://www.curseforge.com/minecraft/mc-mods/bclib
@@ -20,17 +30,30 @@ mods:
       - bclib
       - fabric-api
     url: https://www.curseforge.com/minecraft/mc-mods/betterend
+  better-f3:
+    version: '1.1.5'
+    url: https://www.curseforge.com/minecraft/mc-mods/betterf3
   better-nether:
     version: '5.1.3'
     dependencies:
       - bclib
       - fabric-api
     url: https://www.curseforge.com/minecraft/mc-mods/betternether
+  blur:
+    version: '2.4.0'
+    dependencies:
+      - fabric-api
+    url: https://www.curseforge.com/minecraft/mc-mods/blur-fabric
   boat-container:
     version: '1.0.3'
     dependencies:
       - fabric-api
     url: https://www.curseforge.com/minecraft/mc-mods/boat-container
+  boat-item-view:
+    version: ''
+    dependencies:
+      - fabric-api
+    url: https://www.curseforge.com/minecraft/mc-mods/boat-item-view
   bountiful:
     version: '1.0.0'
     dependencies:
@@ -50,35 +73,100 @@ mods:
   charm:
     version: '3.3.2'
     url: https://www.curseforge.com/minecraft/mc-mods/charm
+  charmonium:
+    version: '3.3.0'
+    url: https://www.curseforge.com/minecraft/mc-mods/charmonium
+  cloth-config:
+    version: '5.1.40'
+    url: https://www.curseforge.com/minecraft/mc-mods/cloth-config
   clumps:
     version: '7.0.10'
     url: https://www.curseforge.com/minecraft/mc-mods/clumps
+  continuity:
+    version: '1.0.2'
+    dependencies:
+      - fabric-api
+    url: https://www.curseforge.com/minecraft/mc-mods/continuity
   croptopia:
     version: '1.7.0'
     url: https://www.curseforge.com/minecraft/mc-mods/croptopia-fabric
+  dynamic-fps:
+    version: '2.0.6'
+    dependencies:
+      - fabric-api
+    url: https://www.curseforge.com/minecraft/mc-mods/dynamic-fps
   earth2java:
     version: '1.7.3'
     dependencies:
       - fabric-api
     url: https://www.curseforge.com/minecraft/mc-mods/earth2java-fabric
+  eating-animation:
+    version: '1.2'
+    url: https://www.curseforge.com/minecraft/mc-mods/eating-animation-fabric
+  enhanced-block-entities:
+    version: '0.5'
+    dependencies:
+      - fabric-api
+    url: https://www.curseforge.com/minecraft/mc-mods/enhanced-block-entities
   fabric-api:
     version: '0.43.0'
     url: https://www.curseforge.com/minecraft/mc-mods/fabric-api
   fabric-language-kotlin:
     version: '1.6.5'
     url: https://www.curseforge.com/minecraft/mc-mods/fabric-language-kotlin
+  falling-leaves:
+    version: '1.7.4'
+    dependencies:
+      - fabric-api
+    url: https://www.curseforge.com/minecraft/mc-mods/falling-leaves-fabric
+  falling-tree:
+    version: '2.14.3'
+    dependencies:
+      - fabric-api
+    url: https://www.curseforge.com/minecraft/mc-mods/falling-tree
   flytre-lib:
     version: '1.4.3'
     url: https://www.curseforge.com/minecraft/mc-mods/lib
   go-fish:
     version: '1.3.0'
     url: https://www.curseforge.com/minecraft/mc-mods/go-fish
+  illuminations:
+    version: '1.10'
+    dependencies:
+      - fabric-api
+    url: https://www.curseforge.com/minecraft/mc-mods/illuminations
+  indium:
+    version: '1.0.1'
+    dependencies:
+      - iris # Indium actually depends on Sodium. Iris packages a modified version of it.
+    url: https://www.curseforge.com/minecraft/mc-mods/indium
+  inspecio:
+    version: '1.1.0'
+    url: https://www.curseforge.com/minecraft/mc-mods/inspecio
+  inventory-profiles-next:
+    version: '1.1.7'
+    dependencies:
+      - fabric-api
+    url: https://www.curseforge.com/minecraft/mc-mods/inventory-profiles-next
+  iris:
+    version: '1.1.2+build.9'
+    url: https://www.curseforge.com/minecraft/mc-mods/irisshaders
+  just-enough-keys:
+    version: '0.3.2'
+    dependencies:
+      - fabric-api
+    url: https://www.curseforge.com/minecraft/mc-mods/just-enough-keys-fabric
   kambrik:
     version: '1.1.0'
     url: https://www.curseforge.com/minecraft/mc-mods/kambrik
   krypton:
     version: '0.1.4'
     url: https://www.curseforge.com/minecraft/mc-mods/krypton
+  lambdynamiclights:
+    version: '2.0.2'
+    dependencies:
+      - fabric-api
+    url: https://www.curseforge.com/minecraft/mc-mods/lambdynamiclights
   lazy-dfu:
     version: '0.1.2'
     url: https://www.curseforge.com/minecraft/mc-mods/lazydfu
@@ -105,9 +193,26 @@ mods:
     dependencies:
       - fabric-api
     url: https://www.curseforge.com/minecraft/mc-mods/mcdw
+  mo-structures:
+    version: '1.2.1'
+    dependencies:
+      - fabric-api
+    url: https://www.curseforge.com/minecraft/mc-mods/mo-structures
+  mod-menu:
+    version: '2.0.14'
+    url: https://www.curseforge.com/minecraft/mc-mods/modmenu
   more-banner-features:
     version: '1.1.1'
     url: https://www.curseforge.com/minecraft/mc-mods/more-banner-features
+  mouse-tweaks:
+    version: '2.15'
+    url: https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks
+  near-sightedly:
+    version: '1.2.1'
+    url: https://www.curseforge.com/minecraft/mc-mods/near-sightedly
+  not-enough-animations:
+    version: '1.4.0'
+    url: https://www.curseforge.com/minecraft/mc-mods/not-enough-animations
   pipe:
     version: '1.6.0'
     dependencies:
@@ -118,11 +223,27 @@ mods:
     dependencies:
       - shetiphian-core
     url: https://www.curseforge.com/minecraft/mc-mods/platforms-fabric
+  repurposed-structures:
+    version: ''
+    dependencies:
+      - fabric-api
+    url: https://www.curseforge.com/minecraft/mc-mods/repurposed-structures-fabric
+  roughly-enough-items:
+    version: '6.2.335'
+    dependencies:
+      - architectury-api
+      - fabric-api
+    url: https://www.curseforge.com/minecraft/mc-mods/roughly-enough-items
   shetiphian-core:
     version: '1.1.1'
     dependencies:
       - fabric-api
     url: https://www.curseforge.com/minecraft/mc-mods/shetiphiancore-fabric
+  stonevaults:
+    version: '1.1.0'
+    dependencies:
+      - fabric-api
+    url: https://www.curseforge.com/minecraft/mc-mods/stonevaults-dungeons-towers
   terrific-trinkets:
     version: '0.3.0'
     dependencies:
@@ -145,39 +266,109 @@ mods:
     url: https://www.curseforge.com/minecraft/mc-mods/travelers-backpack-fabric
   trinkets-api:
     version: '3.0.4'
+  visuality:
+    version: '0.3.2'
+    dependencies:
+      - fabric-api
+    url: https://www.curseforge.com/minecraft/mc-mods/visuality
+  what-the-hell-is-that:
+    version: '3.11.2'
+    dependencies:
+      - fabric-api
+    url: https://www.curseforge.com/minecraft/mc-mods/wthit
+  when-dungeons-arise:
+    version: '2.1.49'
+    dependencies:
+      - fabric-api
+    url: https://www.curseforge.com/minecraft/mc-mods/when-dungeons-arise-fabric
+  william-wythers-overhauled-overworld:
+    version: '1.7'
+    url: https://www.curseforge.com/minecraft/mc-mods/william-wythers-overhauled-overworld
+  william-wythers-overhauled-overworld-caves-and-cliffs:
+    version: '1.4'
+    dependencies:
+      - fabric-api
+      - william-wythers-overhauled-overworld
+    url: https://www.curseforge.com/minecraft/mc-mods/caves-and-cliffs-add-on-for-william-wythers
   xaeros-minimap:
     version: '21.22.2'
     url: https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap
   xaeros-world-map:
     version: '1.18.3'
     url: https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map
+  yungs-api:
+    version: '19'
+    url: https://www.curseforge.com/minecraft/mc-mods/yungs-api-fabric
+  yungs-better-dungeons:
+    version: '1.0.2'
+    dependencies:
+      - fabric-api
+      - yungs-api
+    url: https://www.curseforge.com/minecraft/mc-mods/yungs-better-dungeons-fabric
+  yungs-better-mineshafts:
+    version: '1.0.1'
+    dependencies:
+      - fabric-api
+      - yungs-api
+    url: https://www.curseforge.com/minecraft/mc-mods/yungs-better-mineshafts-fabric
+  yungs-better-strongholds:
+    version: '1.1.2'
+    dependencies:
+      - fabric-api
+      - yungs-api
+    url: https://www.curseforge.com/minecraft/mc-mods/yungs-better-strongholds-fabric
 client:
   mods:
     - adorn
+    - auto-run
     - better-end
+    - better-f3
     - better-nether
+    - blur
     - boat-container
+    - boat-item-view
     - bountiful
     - carrier
     - charm
+    - charmonium
+    - cloth-config
     - clumps
+    - continuity
     - croptopia
+    - dynamic-fps
     - earth2java
+    - eating-animation
+    - enhanced-block-entities
+    - falling-leaves
     - go-fish
+    - illuminations
+    - indium
+    - inspecio
+    - inventory-profiles-next
+    - iris
+    - just-enough-keys
     - krypton
+    - lambdynamiclights
     - lazy-dfu
     - lithium
     - lovely-snails
     - minecraft-dungeons-armors
     - minecraft-dungeons-artifacts
     - minecraft-dungeons-weapons
+    - mod-menu
     - more-banner-features
+    - mouse-tweaks
+    - near-sightedly
+    - not-enough-animations
     - pipe
     - platforms
+    - roughly-enough-items
     - terrific-trinkets
     - the-graveyard
     - time-and-wind
     - travelers-backpack
+    - visuality
+    - what-the-hell-is-that
     - xaeros-minimap
     - xaeros-world-map
 server:
@@ -192,6 +383,7 @@ server:
     - clumps
     - croptopia
     - earth2java
+    - falling-tree
     - go-fish
     - krypton
     - lazy-dfu
@@ -200,12 +392,20 @@ server:
     - minecraft-dungeons-armors
     - minecraft-dungeons-artifacts
     - minecraft-dungeons-weapons
+    - mo-structures
     - more-banner-features
     - pipe
     - platforms
+    - repurposed-structures
     - terrific-trinkets
     - the-graveyard
     - time-and-wind
     - travelers-backpack
+    - when-dungeons-arise
+    - william-wythers-overhauled-overworld
+    - william-wythers-overhauled-overworld-caves-and-cliffs
     - xaeros-minimap
     - xaeros-world-map
+    - yungs-better-dungeons
+    - yungs-better-mineshafts
+    - yungs-better-strongholds
