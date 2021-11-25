@@ -397,6 +397,7 @@ server:
     - pipe
     - platforms
     - repurposed-structures
+    - stonevaults
     - terrific-trinkets
     - the-graveyard
     - time-and-wind
