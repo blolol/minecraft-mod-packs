@@ -17,7 +17,7 @@ end
 task :build, [:slug] => [:build_client, :build_server]
 task :release, [:slug] => [:release_client, :release_server]
 
-CLOBBER.include('build/*.zip')
+CLOBBER.include('build/*')
 
 task :create_build_directory do
   mkdir_p 'build'
