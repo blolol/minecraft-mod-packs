@@ -121,6 +121,12 @@ mods:
     curseforge:
       project: 378696
       file: 3379114
+  chunky:
+    version: '1.2.124'
+    url: https://www.curseforge.com/minecraft/mc-mods/chunky-pregenerator
+    curseforge:
+      project: 433175
+      file: 3426914
   cloth-config:
     version: '5.1.40'
     url: https://www.curseforge.com/minecraft/mc-mods/cloth-config
@@ -548,6 +554,7 @@ client:
     - carrier
     - charm
     - charmonium
+    - chunky
     - cloth-config
     - clumps
     - continuity
@@ -597,6 +604,7 @@ server:
     - bountiful
     - carrier
     - charm
+    - chunky
     - clumps
     - croptopia
     - earth2java
