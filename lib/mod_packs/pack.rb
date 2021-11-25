@@ -61,13 +61,21 @@ module ModPacks
     end
 
     def version
-      definition['pack_version']
+      "#{pack_version}+#{minecraft_version}"
     end
 
     private
 
     def definition
       @definition ||= YAML.load(root.join('pack.yml').read)
+    end
+
+    def minecraft_version
+      definition['minecraft_version']
+    end
+
+    def pack_version
+      definition['pack_version']
     end
 
     def resolve_mods_and_dependencies(mod_slugs)
