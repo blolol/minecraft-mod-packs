@@ -1,0 +1,211 @@
+---
+name: Perkpack Explorer
+pack_version: '1.0.0-pre1'
+minecraft_version: '1.17.1'
+mod_loader: fabric
+mod_loader_version: '0.11.7'
+mods:
+  adorn:
+    version: '2.3.1'
+    dependencies:
+      - fabric-api
+      - fabric-language-kotlin
+    url: https://www.curseforge.com/minecraft/mc-mods/adorn
+  bclib:
+    version: '0.5.2'
+    url: https://www.curseforge.com/minecraft/mc-mods/bclib
+  better-end:
+    version: '0.12.3'
+    dependencies:
+      - bclib
+      - fabric-api
+    url: https://www.curseforge.com/minecraft/mc-mods/betterend
+  better-nether:
+    version: '5.1.3'
+    dependencies:
+      - bclib
+      - fabric-api
+    url: https://www.curseforge.com/minecraft/mc-mods/betternether
+  boat-container:
+    version: '1.0.3'
+    dependencies:
+      - fabric-api
+    url: https://www.curseforge.com/minecraft/mc-mods/boat-container
+  bountiful:
+    version: '1.0.0'
+    dependencies:
+      - fabric-language-kotlin
+      - kambrik
+    url: https://www.curseforge.com/minecraft/mc-mods/bountiful-fabric
+  cardinal-components:
+    version: '3.1.1'
+    url: https://www.curseforge.com/minecraft/mc-mods/cardinal-components
+  carrier:
+    version: '1.8.2'
+    dependencies:
+      - cardinal-components
+      - fabric-api
+      - fabric-language-kotlin
+    url: https://www.curseforge.com/minecraft/mc-mods/carrier
+  charm:
+    version: '3.3.2'
+    url: https://www.curseforge.com/minecraft/mc-mods/charm
+  clumps:
+    version: '7.0.10'
+    url: https://www.curseforge.com/minecraft/mc-mods/clumps
+  croptopia:
+    version: '1.7.0'
+    url: https://www.curseforge.com/minecraft/mc-mods/croptopia-fabric
+  earth2java:
+    version: '1.7.3'
+    dependencies:
+      - fabric-api
+    url: https://www.curseforge.com/minecraft/mc-mods/earth2java-fabric
+  fabric-api:
+    version: '0.43.0'
+    url: https://www.curseforge.com/minecraft/mc-mods/fabric-api
+  fabric-language-kotlin:
+    version: '1.6.5'
+    url: https://www.curseforge.com/minecraft/mc-mods/fabric-language-kotlin
+  flytre-lib:
+    version: '1.4.3'
+    url: https://www.curseforge.com/minecraft/mc-mods/lib
+  go-fish:
+    version: '1.3.0'
+    url: https://www.curseforge.com/minecraft/mc-mods/go-fish
+  kambrik:
+    version: '1.1.0'
+    url: https://www.curseforge.com/minecraft/mc-mods/kambrik
+  krypton:
+    version: '0.1.4'
+    url: https://www.curseforge.com/minecraft/mc-mods/krypton
+  lazy-dfu:
+    version: '0.1.2'
+    url: https://www.curseforge.com/minecraft/mc-mods/lazydfu
+  lithium:
+    version: '0.7.5'
+    url: https://www.curseforge.com/minecraft/mc-mods/lithium
+  lovely-snails:
+    version: '1.0.3'
+    dependencies:
+      - fabric-api
+    url: https://www.curseforge.com/minecraft/mc-mods/lovely-snails
+  minecraft-dungeons-armors:
+    version: '1.8.1'
+    dependencies:
+      - fabric-api
+    url: https://www.curseforge.com/minecraft/mc-mods/mcda
+  minecraft-dungeons-artifacts:
+    version: '1.4.2'
+    dependencies:
+      - fabric-api
+    url: https://www.curseforge.com/minecraft/mc-mods/mcdar
+  minecraft-dungeons-weapons:
+    version: '3.6.0'
+    dependencies:
+      - fabric-api
+    url: https://www.curseforge.com/minecraft/mc-mods/mcdw
+  more-banner-features:
+    version: '1.1.1'
+    url: https://www.curseforge.com/minecraft/mc-mods/more-banner-features
+  pipe:
+    version: '1.6.0'
+    dependencies:
+      - flytre-lib
+    url: https://www.curseforge.com/minecraft/mc-mods/pipe
+  platforms:
+    version: '1.1.1'
+    dependencies:
+      - shetiphian-core
+    url: https://www.curseforge.com/minecraft/mc-mods/platforms-fabric
+  shetiphian-core:
+    version: '1.1.1'
+    dependencies:
+      - fabric-api
+    url: https://www.curseforge.com/minecraft/mc-mods/shetiphiancore-fabric
+  terrific-trinkets:
+    version: '0.3.0'
+    dependencies:
+      - trinkets-api
+    url: https://www.curseforge.com/minecraft/mc-mods/terrific-trinkets
+  the-graveyard:
+    version: '2.1'
+    dependencies:
+      - fabric-api
+    url: https://www.curseforge.com/minecraft/mc-mods/the-graveyard-fabric
+  time-and-wind:
+    version: '1.4'
+    dependencies:
+      - fabric-api
+    url: https://www.curseforge.com/minecraft/mc-mods/time-wind
+  travelers-backpack:
+    version: '6.0.0'
+    dependencies:
+      - fabric-api
+    url: https://www.curseforge.com/minecraft/mc-mods/travelers-backpack-fabric
+  trinkets-api:
+    version: '3.0.4'
+  xaeros-minimap:
+    version: '21.22.2'
+    url: https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap
+  xaeros-world-map:
+    version: '1.18.3'
+    url: https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map
+client:
+  mods:
+    - adorn
+    - better-end
+    - better-nether
+    - boat-container
+    - bountiful
+    - carrier
+    - charm
+    - clumps
+    - croptopia
+    - earth2java
+    - go-fish
+    - krypton
+    - lazy-dfu
+    - lithium
+    - lovely-snails
+    - minecraft-dungeons-armors
+    - minecraft-dungeons-artifacts
+    - minecraft-dungeons-weapons
+    - more-banner-features
+    - pipe
+    - platforms
+    - terrific-trinkets
+    - the-graveyard
+    - time-and-wind
+    - travelers-backpack
+    - xaeros-minimap
+    - xaeros-world-map
+server:
+  mods:
+    - adorn
+    - better-end
+    - better-nether
+    - boat-container
+    - bountiful
+    - carrier
+    - charm
+    - clumps
+    - croptopia
+    - earth2java
+    - go-fish
+    - krypton
+    - lazy-dfu
+    - lithium
+    - lovely-snails
+    - minecraft-dungeons-armors
+    - minecraft-dungeons-artifacts
+    - minecraft-dungeons-weapons
+    - more-banner-features
+    - pipe
+    - platforms
+    - terrific-trinkets
+    - the-graveyard
+    - time-and-wind
+    - travelers-backpack
+    - xaeros-minimap
+    - xaeros-world-map
