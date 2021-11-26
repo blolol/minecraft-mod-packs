@@ -1,6 +1,10 @@
 require 'bundler/setup'
 require 'archive/zip'
+require 'aws-sdk-s3'
+require 'base64'
+require 'cgi/util'
 require 'json'
+require 'digest/md5'
 require 'rake/clean'
 
 $:.unshift('lib')
@@ -10,12 +14,27 @@ def pack(slug)
   ModPacks::Pack.new(slug, "packs/#{slug}")
 end
 
+def upload_to_s3(path)
+  s3 = Aws::S3::Client.new
+  bucket = 'minecraft'
+  file_name = File.basename(path)
+  key = File.join('modpacks', file_name)
+  md5_digest = Digest::MD5.hexdigest(File.read(path))
+
+  existing_object = begin
+    s3.head_object(bucket: bucket, key: key, if_match: md5_digest)
+    puts "Skipping #{file_name}, because it already exists in the #{bucket} S3 bucket"
+  rescue Aws::S3::Errors::NotFound, Aws::S3::Errors::PreconditionFailed
+    puts "Uploading #{file_name} to S3..."
+    s3.put_object(acl: 'public-read', bucket: bucket, key: key, body: File.new(path))
+  end
+
+  "https://#{bucket}.s3.us-east-1.amazonaws.com/modpacks/#{CGI.escape(file_name)}"
+end
+
 def zip_file_path(slug, version, type)
   "build/#{slug}-#{version}-#{type}.zip"
 end
-
-task :build, [:slug] => [:build_client, :build_server]
-task :release, [:slug] => [:release_client, :release_server]
 
 CLOBBER.include('build/*')
 
@@ -68,11 +87,30 @@ task :build_server, [:slug] => :create_build_directory do |task, args|
 end
 
 desc 'Release client package'
-task :release_client => :build_client do
-  # TODO
+task :release_client, [:slug] => :build_client do |task, args|
+  pack = pack(args.slug)
+
+  client_builds = [
+    zip_file_path(pack.slug, pack.version, 'client-curseforge'),
+    zip_file_path(pack.slug, pack.version, 'client-generic')
+  ]
+
+  client_builds.each do |zip_file|
+    public_url = upload_to_s3(zip_file)
+    puts public_url
+  end
 end
 
 desc 'Release server package'
-task :release_server => :build_server do
-  # TODO
+task :release_server, [:slug] => :build_server do |task, args|
+  pack = pack(args.slug)
+  zip_file = zip_file_path(pack.slug, pack.version, 'server')
+  public_url = upload_to_s3(zip_file)
+  puts public_url
 end
+
+desc 'Build client and server packages'
+task :build, [:slug] => [:build_client, :build_server]
+
+desc 'Build and release client and server packages'
+task :release, [:slug] => [:release_client, :release_server]
