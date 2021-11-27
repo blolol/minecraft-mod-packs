@@ -30,8 +30,8 @@ module ModPacks
         },
         manifestType: 'minecraftModpack',
         manifestVersion: 1,
-        name: definition['name'],
-        version: version,
+        name: "#{pack_name} #{pack_version}",
+        version: pack_version,
         author: 'Blolol',
         files: client_mods.map do |mod|
             {
@@ -72,6 +72,10 @@ module ModPacks
 
     def minecraft_version
       definition['minecraft_version']
+    end
+
+    def pack_name
+      definition['name']
     end
 
     def pack_version
