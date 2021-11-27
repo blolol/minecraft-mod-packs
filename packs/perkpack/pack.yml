@@ -217,6 +217,12 @@ mods:
     curseforge:
       project: 444498
       file: 3511041
+  gecko-lib:
+    version: '3.0.29'
+    url: https://www.curseforge.com/minecraft/mc-mods/geckolib
+    curseforge:
+      project: 388172
+      file: 3529832
   go-fish:
     version: '1.3.0'
     url: https://www.curseforge.com/minecraft/mc-mods/go-fish
@@ -430,6 +436,7 @@ mods:
     version: '2.1'
     dependencies:
       - fabric-api
+      - gecko-lib
     url: https://www.curseforge.com/minecraft/mc-mods/the-graveyard-fabric
     curseforge:
       project: 514468
