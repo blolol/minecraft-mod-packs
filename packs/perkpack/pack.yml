@@ -232,13 +232,13 @@ mods:
       project: 292908
       file: 3520879
   indium:
-    version: '1.0.1'
+    version: '1.0.0'
     dependencies:
       - iris # Indium actually depends on Sodium. Iris packages a modified version of it.
     url: https://www.curseforge.com/minecraft/mc-mods/indium
     curseforge:
       project: 459496
-      file: 3535202
+      file: 3484852
   inspecio:
     version: '1.1.0'
     url: https://www.curseforge.com/minecraft/mc-mods/inspecio
