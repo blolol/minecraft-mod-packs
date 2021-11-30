@@ -10,6 +10,14 @@ require 'rake/clean'
 $:.unshift('lib')
 require 'mod_packs'
 
+PATHS_TO_INCLUDE_IN_CLIENT_ZIP = %w(
+  config
+  options.justenoughkeys.txt
+  options.txt
+  resourcepacks
+  shaderpacks
+)
+
 def pack(slug)
   ModPacks::Pack.new(slug, "packs/#{slug}")
 end
@@ -61,7 +69,10 @@ task :build_client_curseforge, [:slug] => :create_build_directory do |task, args
   rm_f zip_file
 
   Archive::Zip.archive(zip_file, tmp_dir.join('manifest.json'))
-  Archive::Zip.archive(zip_file, pack.root.join('config').expand_path, path_prefix: 'overrides')
+
+  PATHS_TO_INCLUDE_IN_CLIENT_ZIP.each do |path|
+    Archive::Zip.archive(zip_file, pack.root.join(path).expand_path, path_prefix: 'overrides')
+  end
 end
 
 desc 'Build generic client package'
@@ -72,7 +83,10 @@ task :build_client_generic, [:slug] => :create_build_directory do |task, args|
   rm_f zip_file
 
   Archive::Zip.archive(zip_file, pack.client_jars.map(&:expand_path), path_prefix: 'mods')
-  Archive::Zip.archive(zip_file, pack.root.join('config').expand_path)
+
+  PATHS_TO_INCLUDE_IN_CLIENT_ZIP.each do |path|
+    Archive::Zip.archive(zip_file, pack.root.join(path).expand_path)
+  end
 end
 
 desc 'Build server package'
