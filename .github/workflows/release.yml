@@ -1,0 +1,26 @@
+name: Release updated mod packs
+on:
+  push:
+    tags: '*/*' # Match tags like "perkpack/1.0.0"
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out release tag
+        uses: actions/checkout@v2
+        with:
+          lfs: true # Download Git LFS files
+      - name: Install Ruby and gem dependencies
+        uses: ruby/setup-ruby
+        with:
+          bundler-cache: true # Run `bundle install`
+      - name: Build and upload packages
+        run: bundle exec rake "upload[${GITHUB_REF_NAME%%/*}]"
+        shell: bash
+        env:
+          AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
+          AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+      - name: Draft GitHub release
+        run: bundle exec rake "release[${GITHUB_REF_NAME}]"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

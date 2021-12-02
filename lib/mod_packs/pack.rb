@@ -44,12 +44,36 @@ module ModPacks
       }
     end
 
+    def curseforge_client_package
+      CurseforgeClientPackage.new(self)
+    end
+
+    def generic_client_package
+      GenericClientPackage.new(self)
+    end
+
+    def minecraft_version
+      definition['minecraft_version']
+    end
+
     def mods
       @mods ||= Hash.new.tap do |mods|
         definition['mods'].each do |mod_slug, mod_definition|
           mods[mod_slug] = Mod.new(mod_slug, mod_definition, self)
         end
       end
+    end
+
+    def pack_name
+      definition['name']
+    end
+
+    def pack_version
+      definition['pack_version']
+    end
+
+    def release(tag)
+      Release.new(self, tag)
     end
 
     def server_jars
@@ -60,6 +84,10 @@ module ModPacks
       @server_mods ||= resolve_mods_and_dependencies(definition.dig('server', 'mods'))
     end
 
+    def server_package
+      ServerPackage.new(self)
+    end
+
     def version
       "#{pack_version}+#{minecraft_version}"
     end
@@ -68,18 +96,6 @@ module ModPacks
 
     def definition
       @definition ||= YAML.load(root.join('pack.yml').read)
-    end
-
-    def minecraft_version
-      definition['minecraft_version']
-    end
-
-    def pack_name
-      definition['name']
-    end
-
-    def pack_version
-      definition['pack_version']
     end
 
     def resolve_mods_and_dependencies(mod_slugs)
