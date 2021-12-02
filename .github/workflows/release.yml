@@ -11,7 +11,7 @@ jobs:
         with:
           lfs: true # Download Git LFS files
       - name: Install Ruby and gem dependencies
-        uses: ruby/setup-ruby
+        uses: ruby/setup-ruby@v1
         with:
           bundler-cache: true # Run `bundle install`
       - name: Build and upload packages
