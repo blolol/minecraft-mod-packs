@@ -442,13 +442,13 @@ mods:
       project: 514468
       file: 3525494
   time-and-wind:
-    version: '1.3'
+    version: '1.4.1'
     dependencies:
       - fabric-api
     url: https://www.curseforge.com/minecraft/mc-mods/time-wind
     curseforge:
       project: 477790
-      file: 3487838
+      file: 3539413
   travelers-backpack:
     version: '6.0.0'
     dependencies:
