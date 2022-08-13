@@ -1,1 +1,2 @@
-/build
+*.mrpack # Modrinth modpack exports
+*.zip # CurseForge modpack exports

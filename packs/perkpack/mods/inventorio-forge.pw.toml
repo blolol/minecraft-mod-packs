@@ -1,0 +1,13 @@
+name = "Inventorio (Forge)"
+filename = "inventorio-1.18-forge-1.7.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "06db13a9da0623494f50c3ea8796d7347e8ff706"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3929526
+project-id = 497122

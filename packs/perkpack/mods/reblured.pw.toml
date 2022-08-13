@@ -1,0 +1,13 @@
+name = "ReBlured"
+filename = "Reblured-1.18.2-1.2.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "445da85362a16679bf2cbff49df5cbdc76a570d7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3921461
+project-id = 637729

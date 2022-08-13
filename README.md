@@ -1,43 +1,8 @@
 # Blolol Minecraft Mod Packs
 
-A collection of mod packs used on Blolol's Minecraft servers. Each subdirectory of `packs` contains mod files and metadata for a mod pack:
+A collection of mod packs used on Blolol's Minecraft servers.
 
-```
-packs/
-  mod-pack-foo/
-    config/
-      mod-1.cfg
-      mod-2.json
-    mods/
-      mod-1.jar
-      mod-2.jar
-    options.txt
-    pack.yml
-  mod-pack-bar/
-    config/
-      mod-3.json
-    mods/
-      mod-1.jar
-      mod-3.jar
-      mod-4.jar
-    resourcepacks/
-      resource-pack-1.zip
-    shaderpacks/
-      shader-pack-1.zip
-    options.txt
-    pack.yml
-```
-
-In the above directory structure:
-
-* The mod pack's name is its directory name.
-* The `mods` directory contains mod Jar files.
-* The `config`, `resourcepacks` and `shaderpacks` directories contain optional configuration files.
-* `pack.yml` is a file that contains metadata about the mod pack, which version of Minecraft it supports, the mod loader platform to use, and which mods and other configuration files to include in the client and server packages.
-
-## Versioning large files
-
-This repository uses [Git Large File Storage](https://git-lfs.github.com) (LFS) to version JAR files. To install Git LFS, refer to [GitHub's documentation](https://docs.github.com/en/repositories/working-with-files/managing-large-files).
+Each subdirectory of `packs` contains a [packwiz](https://github.com/packwiz/packwiz) mod pack definition. packwiz is a command line tool for creating Minecraft mod packs.
 
 ## Building a mod pack
 

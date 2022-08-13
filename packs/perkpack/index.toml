@@ -1,0 +1,171 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/alexs-mobs.pw.toml"
+hash = "03da06567af6005bcfd94525e773bb49b448c58b161757f8f5680b857459766c"
+metafile = true
+
+[[files]]
+file = "mods/autoreglib.pw.toml"
+hash = "4b9f680bd2c3c2efc44ce41626b2fe5860403a4ec38309ab6fd8a04bac16e8bc"
+metafile = true
+
+[[files]]
+file = "mods/badpackets.pw.toml"
+hash = "725a7a56115036a03a624eaa8ba271a31351ccd6273b5e21c7b7bd2a48962f25"
+metafile = true
+
+[[files]]
+file = "mods/biomes-o-plenty.pw.toml"
+hash = "e75d76274519702502a518bcb650ac65becfbeff79f1321568053292e2edb21a"
+metafile = true
+
+[[files]]
+file = "mods/blockui.pw.toml"
+hash = "829568ac6458e145e6340f3e270a39a9c34c15a58b0f4f16a1eef25e8aac95bb"
+metafile = true
+
+[[files]]
+file = "mods/chalk.pw.toml"
+hash = "0e93dc6a684bfe7af69c53e5c200d1d435e23e3c724f25f959f9f72411bdb2ea"
+metafile = true
+
+[[files]]
+file = "mods/citadel.pw.toml"
+hash = "dbe6a9e42390a6e5fa08ebd31c44567981ec8face7afff290930d542bd87f6e7"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "91310bd661de6d8019a7a9d39c761d5005d1bd1bd9b4f0a7e49296640fe6a33f"
+metafile = true
+
+[[files]]
+file = "mods/comforts.pw.toml"
+hash = "4f2b3710d7b300d5caefb30fb1ff8bbd89cab1b180c4a5fd2292dd6bc366e20c"
+metafile = true
+
+[[files]]
+file = "mods/create-deco.pw.toml"
+hash = "79f1c24ecdd631b0282a4a4a32e9f25da2ac3c74d13e577eafb06a8ffdfbbcfb"
+metafile = true
+
+[[files]]
+file = "mods/create.pw.toml"
+hash = "d7bf70918b7b4f33fe50ca4f3b20cb6a3b5d49fa35ca58217190f579adac664a"
+metafile = true
+
+[[files]]
+file = "mods/domum-ornamentum.pw.toml"
+hash = "8724c9afd1e767f24c7755a57664399d37444ddf9a97a135f0b1e6c203444d7a"
+metafile = true
+
+[[files]]
+file = "mods/ecologics.pw.toml"
+hash = "0ef2cf971d4d2ee3791b62a9f643d5e9e6e63f1deb83454342fecb697cb211ee"
+metafile = true
+
+[[files]]
+file = "mods/farmers-delight.pw.toml"
+hash = "3226b84f654ab5db4e3b261d511c40719bf23481ddff853bfb6e33af11a5ab51"
+metafile = true
+
+[[files]]
+file = "mods/fast-leaf-decay.pw.toml"
+hash = "80e1013e0049365892e0c05b6263062ff5d13a2638d4f97129bb2985dbafa424"
+metafile = true
+
+[[files]]
+file = "mods/flywheel.pw.toml"
+hash = "1fb77b30bb9c670b722889ddf1c37854857b4f69e3f1b5dc00b56e70bf73d853"
+metafile = true
+
+[[files]]
+file = "mods/forgeendertech.pw.toml"
+hash = "23638214bcf83a5ce0472ae97a14357e524525432e2c2abba8fd839cb57b8a5e"
+metafile = true
+
+[[files]]
+file = "mods/i-know-what-im-doing.pw.toml"
+hash = "0eff50155b7d3f62d59869ec826a6beb3928f4b672ba55cf24cc224e19490327"
+metafile = true
+
+[[files]]
+file = "mods/inventorio-forge.pw.toml"
+hash = "9e4e8663e4f3d27c85b98d27bfbfd883ea468a8072063b144c2473a3937ff258"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "3e6d5d17bdaa70ae054b4ee2ed06fdad1f9b56cce452af0105d2956ea239a7da"
+metafile = true
+
+[[files]]
+file = "mods/journeymap.pw.toml"
+hash = "d35f37a8030fcea2d00f21143a7918ff9e6b654e3406e07646e1f27a4330f71a"
+metafile = true
+
+[[files]]
+file = "mods/kotlin-for-forge.pw.toml"
+hash = "01a67fa4a98251ec827e59a7f03c4002b953c66f5da51f3e9aae8b30c523ecd4"
+metafile = true
+
+[[files]]
+file = "mods/large-ore-deposits.pw.toml"
+hash = "2bde788bbfafbb3c94b8a48ae64b0e2c0a5f895eb22303c56a9a8da0e8f4d1aa"
+metafile = true
+
+[[files]]
+file = "mods/minecolonies.pw.toml"
+hash = "626d1dd38442e4bb9edb10d0ca28cf12e5567913472d6225cad4d93dd13e2d64"
+metafile = true
+
+[[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "d448b3da16213a9f807b86aad22bdf9d81eb331dc2c01a95834740a6fb7f6865"
+metafile = true
+
+[[files]]
+file = "mods/multi-piston.pw.toml"
+hash = "6c95a0ebe41226922cf1cc6cc5f90911deb2e3e5759d35c6f61746968f6742a7"
+metafile = true
+
+[[files]]
+file = "mods/mutil.pw.toml"
+hash = "176f835505b7b232a6ae872be5d67f9404f56df3d32f16a44e292f2ffced29d9"
+metafile = true
+
+[[files]]
+file = "mods/quark.pw.toml"
+hash = "323bf0949b42dbb97a7c35d17f436a7b2c7eb463cc97f46a54469ff3a0bad027"
+metafile = true
+
+[[files]]
+file = "mods/reblured.pw.toml"
+hash = "3e08ae50d1d7c428ee1098fc86903488f6507b91bdbddb4dd705a938bce626df"
+metafile = true
+
+[[files]]
+file = "mods/structurize.pw.toml"
+hash = "0b47428289ba4a80e67c672c5452bd793c63a463281fa3f6623317ece3d9b703"
+metafile = true
+
+[[files]]
+file = "mods/terrablender.pw.toml"
+hash = "0d6b8b85af3b07f28bb3ffd3bb01c9f82ee79f7a9da7db84c321bcd5d56a1e7c"
+metafile = true
+
+[[files]]
+file = "mods/tetra-pak.pw.toml"
+hash = "b3140ceb807fa7c2cb475760a25c39c7dd527a51089a716113343d7a2b5df2df"
+metafile = true
+
+[[files]]
+file = "mods/tetra.pw.toml"
+hash = "ec9017c44566817565b59e03085b17272f71d2a0f1fb05599314ef7b451812cf"
+metafile = true
+
+[[files]]
+file = "mods/wthit-forge.pw.toml"
+hash = "5f446ecacec091803d398980df4461f6dd89bf160e044c6f2cf90f8592c93a3b"
+metafile = true
