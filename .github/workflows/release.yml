@@ -8,12 +8,40 @@ jobs:
     steps:
       - name: Check out release tag
         uses: actions/checkout@v2
-      - name: Update packwiz files on S3
-        run: |
-          pack_name="${GITHUB_REF_NAME%%/*}"
-          aws s3 sync --delete --acl public-read "packs/${pack_name}" "s3://minecraft/mod-packs/${pack_name}/"
+      - name: Parse mod pack slug from Git tag
+        run: echo "pack_slug=${GITHUB_REF_NAME%%/*}" >> $GITHUB_ENV
+        shell: bash
+      - name: Upload pack files to S3
+        run: aws s3 sync --delete --acl public-read "packs/${pack_slug}" "s3://minecraft/mod-packs/${pack_slug}/"
         shell: bash
         env:
           AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
           AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
           AWS_REGION: us-east-1
+      - name: Draft GitHub release
+        run: |
+          naive_toml_value() {
+            local toml_file="$1"
+            local key="$2"
+            awk -F '[=" ]' "/^${key} / { print $5 }" "$toml_file"
+          }
+
+          pack_var() {
+            local key="$1"
+            naive_toml_value packs/$pack_slug/pack.toml "$key"
+          }
+
+          pack_name="$(pack_var name)"
+          pack_version="$(pack_var version)"
+          pack_minecraft_version="$(pack_var minecraft)"
+          pack_multimc_download_url="https://s3.amazonaws.com/minecraft/mod-packs/${pack_slug}/${pack_name}%20MultiMC%20Instance.zip"
+
+          cat <<EOS > $RUNNER_TEMP/pack_release_notes
+          ## Changes
+
+          * Add release notes here!
+
+          ## Packages
+
+          * [MultiMC Instance](${pack_multimc_download_url})
+        shell: bash
