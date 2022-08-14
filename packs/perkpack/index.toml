@@ -174,3 +174,8 @@ metafile = true
 file = "mods/wthit-forge.pw.toml"
 hash = "5f446ecacec091803d398980df4461f6dd89bf160e044c6f2cf90f8592c93a3b"
 metafile = true
+
+[[files]]
+file = "shaderpacks/complementary.pw.toml"
+hash = "a4ec165def3b66f1407d5718eebfc3d951d50b3b87a9a724e9dabfd3fcf9578e"
+metafile = true

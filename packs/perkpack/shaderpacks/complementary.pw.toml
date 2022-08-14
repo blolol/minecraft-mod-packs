@@ -1,0 +1,8 @@
+name = "Complementary Shaders"
+filename = "ComplementaryShaders_v4.5.zip"
+side = "client"
+
+[download]
+url = "https://s3.amazonaws.com/minecraft/shader-packs/ComplementaryShaders_v4.5.zip"
+hash-format = "sha256"
+hash = "55de6d68796f5db8752593b645f25f631ab7eadd8dcf460677b5c619dea4474d"
