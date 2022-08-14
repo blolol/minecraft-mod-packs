@@ -1,0 +1,8 @@
+name = "OptiFine"
+filename = "OptiFine_1.18.2_HD_U_H7_MOD.jar"
+side = "client"
+
+[download]
+url = "https://s3.amazonaws.com/minecraft/mods/OptiFine_1.18.2_HD_U_H7_MOD.jar"
+hash-format = "sha256"
+hash = "84801bcb2343a0f7780ad53f694a9675d944ce14b842a3a3d89453eb215ce9f2"
