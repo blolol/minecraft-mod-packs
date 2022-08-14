@@ -12,7 +12,16 @@ jobs:
         run: echo "pack_slug=${GITHUB_REF_NAME%%/*}" >> $GITHUB_ENV
         shell: bash
       - name: Upload pack files to S3
-        run: aws s3 sync --delete --acl public-read "packs/${pack_slug}" "s3://minecraft/mod-packs/${pack_slug}/"
+        run: |
+          # Manually set Content-Type and Content-Disposition for TOML files, since the AWS CLI's
+          # automatic MIME type detection sets them to binary/octet-stream
+          aws s3 sync --delete --acl public-read --exclude '*' --include '*.toml' \
+            --content-type application/toml --content-disposition inline \
+            "packs/${pack_slug}" "s3://minecraft/mod-packs/${pack_slug}/"
+
+          # Sync non-TOML files using automatic MIME type detection (the default)
+          aws s3 sync --delete --acl public-read --exclude '*.toml' \
+            "packs/${pack_slug}" "s3://minecraft/mod-packs/${pack_slug}/"
         shell: bash
         env:
           AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
