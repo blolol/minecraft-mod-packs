@@ -47,12 +47,7 @@ jobs:
           * [MultiMC Instance](${pack_multimc_download_url})
           EOS
 
-          echo "Release title: $pack_release_title"
-          echo "Release notes:"
-          cat $RUNNER_TEMP/pack_release_notes
-
-          echo
-          echo gh release create $GITHUB_REF_NAME --draft --title "$pack_release_title" \
+          gh release create $GITHUB_REF_NAME --draft --title "$pack_release_title" \
             --notes-file $RUNNER_TEMP/pack_release_notes \
             $([[ $GITHUB_REF_NAME == */*-pre* ]] && echo -n '--prerelease')
         shell: bash
