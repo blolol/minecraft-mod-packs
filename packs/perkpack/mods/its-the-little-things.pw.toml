@@ -1,0 +1,13 @@
+name = "It's the little things"
+filename = "itlt-1.18.x-2.1.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "898f1de1a99e2ac00fbdac2ba3330a58b4f34237"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3909804
+project-id = 232791

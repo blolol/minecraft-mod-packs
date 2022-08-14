@@ -96,6 +96,11 @@ hash = "9e4e8663e4f3d27c85b98d27bfbfd883ea468a8072063b144c2473a3937ff258"
 metafile = true
 
 [[files]]
+file = "mods/its-the-little-things.pw.toml"
+hash = "4d9bc2fe9d5f1aaa752291a2aa8a97b327ff152157f92e60ab16f303dafc87e5"
+metafile = true
+
+[[files]]
 file = "mods/jei.pw.toml"
 hash = "3e6d5d17bdaa70ae054b4ee2ed06fdad1f9b56cce452af0105d2956ea239a7da"
 metafile = true
