@@ -51,3 +51,5 @@ jobs:
             --notes-file $RUNNER_TEMP/pack_release_notes \
             $([[ $GITHUB_REF_NAME == */*-pre* ]] && echo -n '--prerelease')
         shell: bash
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
