@@ -1,6 +1,18 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/itlt-client.toml"
+hash = "20a9cc3da23200d1b275ea60aa92f9901af03796a80f6cd3852131edb333d6dc"
+
+[[files]]
+file = "config/itlt/icon.ico"
+hash = "2091e98573adc348a2abd065c963b6a9f8af322f868beefa8874f173db14aa5d"
+
+[[files]]
+file = "config/itlt/servers.json"
+hash = "efbeccae6cbd1bff1dda91ced605c136def6af99eca448138ebd345a411f17ba"
+
+[[files]]
 file = "mods/alexs-mobs.pw.toml"
 hash = "03da06567af6005bcfd94525e773bb49b448c58b161757f8f5680b857459766c"
 metafile = true

@@ -8,3 +8,4 @@
 # https://www.nongnu.org/icoutils/
 
 icotool --create --output=images/perkpack.ico images/perkpack-{16,32,48,64,128,256}.png
+cp images/perkpack.ico config/itlt/icon.ico
