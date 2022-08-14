@@ -36,6 +36,7 @@ jobs:
           pack_minecraft_version="$(pack_var minecraft)"
           pack_multimc_download_url="https://s3.amazonaws.com/minecraft/mod-packs/${pack_slug}/${pack_name}%20MultiMC%20Instance.zip"
 
+          pack_release_title="$pack_name $pack_version (Minecraft ${pack_minecraft_version})"
           cat <<EOS > $RUNNER_TEMP/pack_release_notes
           ## Changes
 
@@ -44,4 +45,14 @@ jobs:
           ## Packages
 
           * [MultiMC Instance](${pack_multimc_download_url})
+          EOS
+
+          echo "Release title: $pack_release_title"
+          echo "Release notes:"
+          cat $RUNNER_TEMP/pack_release_notes
+
+          echo
+          echo gh release create $GITHUB_REF_NAME --draft --title "$pack_release_title" \
+            --notes-file $RUNNER_TEMP/pack_release_notes \
+            $([[ $GITHUB_REF_NAME == */*-pre* ]] && echo -n '--prerelease')
         shell: bash
