@@ -23,7 +23,7 @@ jobs:
           naive_toml_value() {
             local toml_file="$1"
             local key="$2"
-            awk -F '[=" ]' "/^${key} / { print $5 }" "$toml_file"
+            awk -F '[=" ]' "/^${key} / { print \$5 }" "$toml_file"
           }
 
           pack_var() {
