@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/create-client.toml"
+hash = "33fe38e4276643e9b848cf40c873e0100d47ac3969e234857a9ffbdfda1e82a0"
+
+[[files]]
+file = "config/create-common.toml"
+hash = "37f49cac91de3cbd44b023c9ba78533cf6fd4402c36da1983fb4055ae99bac76"
+
+[[files]]
 file = "config/itlt-client.toml"
 hash = "20a9cc3da23200d1b275ea60aa92f9901af03796a80f6cd3852131edb333d6dc"
 
@@ -11,6 +19,30 @@ hash = "2091e98573adc348a2abd065c963b6a9f8af322f868beefa8874f173db14aa5d"
 [[files]]
 file = "config/itlt/servers.json"
 hash = "efbeccae6cbd1bff1dda91ced605c136def6af99eca448138ebd345a411f17ba"
+
+[[files]]
+file = "config/minecolonies-client.toml"
+hash = "857c74b338275e4de0177ecf0cea10923830cbee7b6de1c9a3d91199ac8af1ad"
+
+[[files]]
+file = "config/minecolonies-common.toml"
+hash = "7777e4194af00991975275022b3f5808ec25aa574fdfa3193c61f689a4afc6e0"
+
+[[files]]
+file = "config/quark-common.toml"
+hash = "62863712bf57cae76bd911a5060217af4c9f08a7d99802d25dafdcb7f6f4999a"
+
+[[files]]
+file = "config/supplementaries-client.toml"
+hash = "e901b15e2dd4fad32ac35f435e4ee8efb0174213478a6486b07229fa0c107cb3"
+
+[[files]]
+file = "config/supplementaries-common.toml"
+hash = "2170f52d04a6dc049d2aac8198fd346c09bdbeef7d70f140197f2f8c629725e3"
+
+[[files]]
+file = "config/supplementaries-registry.toml"
+hash = "911a8f26d77b2efdfca83368d4803c6b57faaf9472b1f76cda9c52696c82a82f"
 
 [[files]]
 file = "mods/alexs-mobs.pw.toml"
