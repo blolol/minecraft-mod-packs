@@ -171,7 +171,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventorio-forge.pw.toml"
-hash = "9e4e8663e4f3d27c85b98d27bfbfd883ea468a8072063b144c2473a3937ff258"
+hash = "98e762b19d18f757e857c9bcf5d2a56073ae71fc5231cad395962349d3afe201"
 metafile = true
 
 [[files]]
