@@ -43,7 +43,7 @@ jobs:
           pack_name="$(pack_var name)"
           pack_version="$(pack_var version)"
           pack_minecraft_version="$(pack_var minecraft)"
-          pack_polymc_download_url="https://s3.amazonaws.com/minecraft/mod-packs/${pack_slug}/${pack_name}%20PolyMC%20Instance.zip"
+          pack_polymc_download_url="https://s3.amazonaws.com/minecraft/mod-packs/${pack_slug}/${pack_name}_PolyMC_Instance.zip"
           pack_packwiz_metadata_url="https://s3.amazonaws.com/minecraft/mod-packs/${pack_slug}/pack.toml"
 
           pack_release_title="$pack_name $pack_version (Minecraft ${pack_minecraft_version})"
