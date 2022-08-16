@@ -50,6 +50,11 @@ hash = "03da06567af6005bcfd94525e773bb49b448c58b161757f8f5680b857459766c"
 metafile = true
 
 [[files]]
+file = "mods/ambientsounds.pw.toml"
+hash = "b34b776f533880d96779561ce366f446b4a8dfeb833c801e5d6c18f0b507463e"
+metafile = true
+
+[[files]]
 file = "mods/autoreglib.pw.toml"
 hash = "4b9f680bd2c3c2efc44ce41626b2fe5860403a4ec38309ab6fd8a04bac16e8bc"
 metafile = true
@@ -67,6 +72,11 @@ metafile = true
 [[files]]
 file = "mods/blockui.pw.toml"
 hash = "829568ac6458e145e6340f3e270a39a9c34c15a58b0f4f16a1eef25e8aac95bb"
+metafile = true
+
+[[files]]
+file = "mods/blueprint.pw.toml"
+hash = "773663d6959397c974422b2fc504f146f170f0a0090839b97ebc92820a0f7735"
 metafile = true
 
 [[files]]
@@ -90,6 +100,11 @@ hash = "4f2b3710d7b300d5caefb30fb1ff8bbd89cab1b180c4a5fd2292dd6bc366e20c"
 metafile = true
 
 [[files]]
+file = "mods/compat-o-plenty.pw.toml"
+hash = "f982545122a4aca97c373c721c62a751726f230c5c2c61077e05467c9d6d6a29"
+metafile = true
+
+[[files]]
 file = "mods/create-deco.pw.toml"
 hash = "79f1c24ecdd631b0282a4a4a32e9f25da2ac3c74d13e577eafb06a8ffdfbbcfb"
 metafile = true
@@ -97,6 +112,11 @@ metafile = true
 [[files]]
 file = "mods/create.pw.toml"
 hash = "d7bf70918b7b4f33fe50ca4f3b20cb6a3b5d49fa35ca58217190f579adac664a"
+metafile = true
+
+[[files]]
+file = "mods/creativecore.pw.toml"
+hash = "2d9ed6c8325ff9fbcec783c2f94eb22939fc36c1c4b4b11626ab29be3e1276d1"
 metafile = true
 
 [[files]]
@@ -120,6 +140,11 @@ hash = "80e1013e0049365892e0c05b6263062ff5d13a2638d4f97129bb2985dbafa424"
 metafile = true
 
 [[files]]
+file = "mods/ferritecore.pw.toml"
+hash = "5cc2822b0265c3f8202bf41f814e96fb6ff41c86159322bb05bb13d8babc0234"
+metafile = true
+
+[[files]]
 file = "mods/flywheel.pw.toml"
 hash = "1fb77b30bb9c670b722889ddf1c37854857b4f69e3f1b5dc00b56e70bf73d853"
 metafile = true
@@ -127,6 +152,11 @@ metafile = true
 [[files]]
 file = "mods/forgeendertech.pw.toml"
 hash = "23638214bcf83a5ce0472ae97a14357e524525432e2c2abba8fd839cb57b8a5e"
+metafile = true
+
+[[files]]
+file = "mods/hourglass.pw.toml"
+hash = "276fb77b093f87f45c5dcee251b3bee680f7a386692c7a3afea7547d2cce66a3"
 metafile = true
 
 [[files]]
@@ -160,8 +190,18 @@ hash = "01a67fa4a98251ec827e59a7f03c4002b953c66f5da51f3e9aae8b30c523ecd4"
 metafile = true
 
 [[files]]
+file = "mods/krypton-reforged.pw.toml"
+hash = "3a8f223c33599ab510da8671b8402239eef9024fb1a148ab3bc422f05e4951c7"
+metafile = true
+
+[[files]]
 file = "mods/large-ore-deposits.pw.toml"
 hash = "2bde788bbfafbb3c94b8a48ae64b0e2c0a5f895eb22303c56a9a8da0e8f4d1aa"
+metafile = true
+
+[[files]]
+file = "mods/lazy-dfu-forge.pw.toml"
+hash = "ebb19e9c7a826f2d820671cdb8fc3aebb45cccf0751235b46a20701b9a6772b4"
 metafile = true
 
 [[files]]
@@ -200,8 +240,23 @@ hash = "3e08ae50d1d7c428ee1098fc86903488f6507b91bdbddb4dd705a938bce626df"
 metafile = true
 
 [[files]]
+file = "mods/selene.pw.toml"
+hash = "26e591b0b07c8ef07f887eaf3feee21d564c891418e3da0304b39972d6ffb106"
+metafile = true
+
+[[files]]
+file = "mods/small-ships.pw.toml"
+hash = "5a947c4aac0c71958f9a575067976b65295a01582add91b5a9f6c2b4abd150e7"
+metafile = true
+
+[[files]]
 file = "mods/structurize.pw.toml"
 hash = "35a5183ac404ef39a0f7469132a37aedf7d4d605b647dac99f5930b11d9de41a"
+metafile = true
+
+[[files]]
+file = "mods/supplementaries.pw.toml"
+hash = "59a67ef3e7bc27b2114da578fd0c5dd901ad7e5b64e781060d346dd565a998d0"
 metafile = true
 
 [[files]]
@@ -220,8 +275,53 @@ hash = "ec9017c44566817565b59e03085b17272f71d2a0f1fb05599314ef7b451812cf"
 metafile = true
 
 [[files]]
+file = "mods/worldedit.pw.toml"
+hash = "9cba8becd46d571b7576be0d34fea48a7c38f5745265186c7baf1c79251ef373"
+metafile = true
+
+[[files]]
 file = "mods/wthit-forge.pw.toml"
 hash = "5f446ecacec091803d398980df4461f6dd89bf160e044c6f2cf90f8592c93a3b"
+metafile = true
+
+[[files]]
+file = "mods/yungs-api.pw.toml"
+hash = "1b7cd65a70f699874738e98bf2300b4406a295bcb17760d48876db19abf50c5a"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-desert-temples.pw.toml"
+hash = "ba6a749cbdb2b8e990127693249a18ecddd1a2124dd87d6f3497e37dbbdf558b"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-dungeons.pw.toml"
+hash = "799ba57de8c96266d2bec8f18ea749721394e1fdb8b4e95d90ce66a1f87cd3e1"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-mineshafts-forge.pw.toml"
+hash = "23c78b6156a0aef262ef2964d744d50689a193a91991412b68a0da3e5c3eeaef"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-strongholds.pw.toml"
+hash = "2eae47e79517a349e5c76ab4228254d1cbebcdaeb32ee1ee69026b888caaf970"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-witch-huts.pw.toml"
+hash = "18509e12bcbe9da72660134894d17610b33e76c3212a107b8800e416fb94659f"
+metafile = true
+
+[[files]]
+file = "mods/yungs-bridges.pw.toml"
+hash = "2a06398075227d1fea776e7cc5dcce97f1242a53d7697252261f4d9c88d73a92"
+metafile = true
+
+[[files]]
+file = "mods/yungs-extras.pw.toml"
+hash = "25ca73ede906cc0162479b6fefaafa3d4c79f97ccd3580cbb3df2755322c7099"
 metafile = true
 
 [[files]]
