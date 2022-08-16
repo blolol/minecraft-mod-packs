@@ -8,8 +8,23 @@ jobs:
     steps:
       - name: Check out release tag
         uses: actions/checkout@v2
-      - name: Parse mod pack slug from Git tag
-        run: echo "pack_slug=${GITHUB_REF_NAME%%/*}" >> $GITHUB_ENV
+      - name: Extract mod pack details
+        run: |
+          naive_toml_value() {
+            local toml_file="$1"
+            local key="$2"
+            awk -F '[=" ]' "/^${key} / { print \$5 }" "$toml_file"
+          }
+
+          pack_var() {
+            local key="$1"
+            naive_toml_value packs/$pack_slug/pack.toml "$key"
+          }
+
+          echo "pack_slug=${GITHUB_REF_NAME%%/*}" >> $GITHUB_ENV
+          echo "pack_name=$(pack_var name)" >> $GITHUB_ENV
+          echo "pack_version=$(pack_var version)" >> $GITHUB_ENV
+          echo "pack_minecraft_version=$(pack_var minecraft)" >> $GITHUB_ENV
         shell: bash
       - name: Upload pack files to S3
         run: |
@@ -29,20 +44,6 @@ jobs:
           AWS_REGION: us-east-1
       - name: Draft GitHub release
         run: |
-          naive_toml_value() {
-            local toml_file="$1"
-            local key="$2"
-            awk -F '[=" ]' "/^${key} / { print \$5 }" "$toml_file"
-          }
-
-          pack_var() {
-            local key="$1"
-            naive_toml_value packs/$pack_slug/pack.toml "$key"
-          }
-
-          pack_name="$(pack_var name)"
-          pack_version="$(pack_var version)"
-          pack_minecraft_version="$(pack_var minecraft)"
           pack_polymc_download_url="https://s3.amazonaws.com/minecraft/mod-packs/${pack_slug}/${pack_name}_PolyMC_Instance.zip"
           pack_packwiz_metadata_url="https://s3.amazonaws.com/minecraft/mod-packs/${pack_slug}/pack.toml"
 
@@ -64,3 +65,28 @@ jobs:
         shell: bash
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Notify IRC of release
+        continue-on-error: true
+        run: |
+          from='Wheaties'
+          to='#minecraft'
+          message="${GITHUB_ACTOR} released ${pack_name} ${pack_version} (for Minecraft ${pack_minecraft_version})!"
+
+          accept_header='Accept: application/json'
+          authorization_header="Authorization: key=${BLOLOL_API_KEY} secret=${BLOLOL_API_SECRET}"
+          content_type_header='Content-Type: application/json'
+
+          base_url='https://api.blolol.com'
+          request_url="${base_url}/v1/chat/events"
+
+          request_body="$(jq -nc --arg from "$from" --arg to "$to" --arg message "$message" '{"event":{"type":"message","from":$from,"to":$to,"text":$message}}')"
+
+          curl "$request_url" \
+            -H "$accept_header" \
+            -H "$authorization_header" \
+            -H "$content_type_header" \
+            -d "$request_body"
+        shell: bash
+        env:
+          BLOLOL_API_KEY: ${{ secrets.BLOLOL_API_KEY }}
+          BLOLOL_API_SECRET: ${{ secrets.BLOLOL_API_SECRET }}
