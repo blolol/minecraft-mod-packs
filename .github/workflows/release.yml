@@ -45,7 +45,7 @@ jobs:
           AWS_REGION: us-east-1
       - name: Draft GitHub release
         run: |
-          pack_polymc_download_url="https://s3.amazonaws.com/minecraft/mod-packs/${pack_slug}/${pack_name}_PolyMC_Instance.zip"
+          pack_polymc_download_url="https://s3.amazonaws.com/minecraft/mod-packs/${pack_slug}/${pack_slug}-polymc-instance.zip"
           pack_packwiz_metadata_url="https://s3.amazonaws.com/minecraft/mod-packs/${pack_slug}/pack.toml"
 
           pack_release_title="$pack_name $pack_version (Minecraft ${pack_minecraft_version})"
