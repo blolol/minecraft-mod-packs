@@ -66,28 +66,3 @@ jobs:
         shell: bash
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      - name: Notify IRC of release
-        continue-on-error: true
-        run: |
-          from='Wheaties'
-          to='#minecraft'
-          message="${GITHUB_ACTOR} released ${pack_name} ${pack_version} (for Minecraft ${pack_minecraft_version})!"
-
-          accept_header='Accept: application/json'
-          authorization_header="Authorization: key=${BLOLOL_API_KEY} secret=${BLOLOL_API_SECRET}"
-          content_type_header='Content-Type: application/json'
-
-          base_url='https://api.blolol.com'
-          request_url="${base_url}/v1/chat/events"
-
-          request_body="$(jq -nc --arg from "$from" --arg to "$to" --arg message "$message" '{"event":{"type":"message","from":$from,"to":$to,"text":$message}}')"
-
-          curl "$request_url" \
-            -H "$accept_header" \
-            -H "$authorization_header" \
-            -H "$content_type_header" \
-            -d "$request_body"
-        shell: bash
-        env:
-          BLOLOL_API_KEY: ${{ secrets.BLOLOL_API_KEY }}
-          BLOLOL_API_SECRET: ${{ secrets.BLOLOL_API_SECRET }}
