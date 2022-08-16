@@ -251,7 +251,7 @@ metafile = true
 
 [[files]]
 file = "mods/small-ships.pw.toml"
-hash = "5a947c4aac0c71958f9a575067976b65295a01582add91b5a9f6c2b4abd150e7"
+hash = "0bb668e536d48d65fb2a832a00647884267209eb15159224d39f51beaba24ca2"
 metafile = true
 
 [[files]]

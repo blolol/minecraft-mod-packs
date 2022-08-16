@@ -3,11 +3,6 @@ filename = "smallships-1.18.2-2.0.0-Alpha-0.4.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "5c99a2337aff5c83418ac00c77719a6d9af4820c"
-mode = "metadata:curseforge"
-
-[update]
-[update.curseforge]
-file-id = 3908056
-project-id = 450659
+url = "https://s3.amazonaws.com/minecraft/mods/smallships-1.18.2-2.0.0-Alpha-0.4.jar"
+hash-format = "sha256"
+hash = "4b385a969d0954ca562dafe4342c906539eea535a01ab13d71a5ea554195284e"
