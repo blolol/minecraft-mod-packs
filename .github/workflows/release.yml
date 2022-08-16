@@ -21,7 +21,8 @@ jobs:
             naive_toml_value packs/$pack_slug/pack.toml "$key"
           }
 
-          echo "pack_slug=${GITHUB_REF_NAME%%/*}" >> $GITHUB_ENV
+          pack_slug="${GITHUB_REF_NAME%%/*}"
+          echo "pack_slug=${pack_slug}" >> $GITHUB_ENV
           echo "pack_name=$(pack_var name)" >> $GITHUB_ENV
           echo "pack_version=$(pack_var version)" >> $GITHUB_ENV
           echo "pack_minecraft_version=$(pack_var minecraft)" >> $GITHUB_ENV
