@@ -45,6 +45,10 @@ file = "config/supplementaries-registry.toml"
 hash = "911a8f26d77b2efdfca83368d4803c6b57faaf9472b1f76cda9c52696c82a82f"
 
 [[files]]
+file = "defaultconfigs/minecolonies-server.toml"
+hash = "3032981634253996b5aaa463a500c8f044be3627f1c106f1c649572b59899c85"
+
+[[files]]
 file = "mods/alexs-mobs.pw.toml"
 hash = "03da06567af6005bcfd94525e773bb49b448c58b161757f8f5680b857459766c"
 metafile = true
