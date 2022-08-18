@@ -195,11 +195,6 @@ hash = "ba2d212ca4faa681f718a4acc4b002a8a0aa238250522acaaf522e685620c4bb"
 metafile = true
 
 [[files]]
-file = "mods/krypton-reforged.pw.toml"
-hash = "3a8f223c33599ab510da8671b8402239eef9024fb1a148ab3bc422f05e4951c7"
-metafile = true
-
-[[files]]
 file = "mods/large-ore-deposits.pw.toml"
 hash = "2bde788bbfafbb3c94b8a48ae64b0e2c0a5f895eb22303c56a9a8da0e8f4d1aa"
 metafile = true
