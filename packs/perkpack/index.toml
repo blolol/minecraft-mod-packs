@@ -69,6 +69,11 @@ hash = "725a7a56115036a03a624eaa8ba271a31351ccd6273b5e21c7b7bd2a48962f25"
 metafile = true
 
 [[files]]
+file = "mods/better-advancements.pw.toml"
+hash = "6280b2e15c30ff8ed504cae2a9dd9aa5bca660a9442e7f19517d2755155c37a9"
+metafile = true
+
+[[files]]
 file = "mods/biomes-o-plenty.pw.toml"
 hash = "9131c77d39b6d4cb198739eda45560416bfc2ee08c6cb5973a2e3435266ea5e5"
 metafile = true
