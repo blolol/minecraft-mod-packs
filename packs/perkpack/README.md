@@ -54,6 +54,7 @@ This list doesn't include libraries and other dependencies that don't directly a
 | [Domum Ornamentum](https://www.curseforge.com/minecraft/mc-mods/domum-ornamentum) | Technology | Combine different materials to create a nearly infinite variety of building blocks. |
 | [Ecologics](https://www.curseforge.com/minecraft/mc-mods/ecologics) | Atmosphere | Spices up vanilla Minecraft's biomes. It adds penguins, y'all 🐧 |
 | [Farmer's Delight](https://www.curseforge.com/minecraft/mc-mods/farmers-delight) | Atmosphere | A gentle expansion of farming and cooking. |
+| [Farsight](https://www.curseforge.com/minecraft/mc-mods/farsight) | Performance | Caches visited chunks locally, allowing you to see further than the server's view distance. |
 | [Fast Leaf Decay](https://www.curseforge.com/minecraft/mc-mods/fast-leaf-decay) | Quality of Life | Leaves disappear faster after you chop down trees. |
 | [FerriteCore](https://www.curseforge.com/minecraft/mc-mods/ferritecore) | Performance | Memory optimizations for the client and server. |
 | [Hourglass](https://www.curseforge.com/minecraft/mc-mods/hourglass) | Atmosphere | Allows server operators to change the length of days and nights. |
