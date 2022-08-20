@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "README.md"
-hash = "231377802da8a73c88bc83ed48c78d4f51b0e7f04e500e83057599f0d5325722"
-
-[[files]]
 file = "config/create-client.toml"
 hash = "33fe38e4276643e9b848cf40c873e0100d47ac3969e234857a9ffbdfda1e82a0"
 
