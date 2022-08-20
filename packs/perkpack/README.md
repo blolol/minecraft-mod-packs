@@ -4,7 +4,7 @@ Perkpack is Blolol's flavor-of-the-month Minecraft mod pack, used on our private
 
 It doesn't follow any particular theme, and is a reflection of the community's whims. Sometimes we might be interested in a minimalist "vanilla plus" experience, then ruthlessly strip-mining every dimension to oblivion using advanced technology, and the next world might be a hardcore survival challenge.
 
-The current release, Perkpack 2, is based on Minecraft 1.18 and revolves around the [Create](https://www.curseforge.com/minecraft/mc-mods/create) and [MineColonies](https://www.curseforge.com/minecraft/mc-mods/minecolonies) mods. Create adds mechanical components with which you can build all kinds of animated contraptions for automation or decoration—check out [its trailer](https://www.youtube.com/watch?v=rR8W-f9YhYA) to get an idea of what's possible. MineColonies expands on Minecraft's villages, allowing you to create thriving towns and cities with populations of NPCs who gather and use resources as you, the mayor, direct.
+The current release, Perkpack 2, is based on Minecraft 1.18 and revolves around the [Create](https://www.curseforge.com/minecraft/mc-mods/create) and [MineColonies](https://www.curseforge.com/minecraft/mc-mods/minecolonies) mods. Create adds mechanical components with which you can build all kinds of animated contraptions for automation or decoration—check out [its trailer](https://www.youtube.com/watch?v=rR8W-f9YhYA) to get an idea of what's possible. MineColonies expands on Minecraft's villages, allowing you to create thriving towns and cities with populations of NPCs who gather and use resources as you, the mayor, direct. For a complete list of included mods, see ["Mods"](#mods), below.
 
 ## Versions
 
@@ -15,7 +15,7 @@ Perkpack bumps its major version number for each significant Minecraft update (e
 | Perkpack 2 (current) | Minecraft 1.18    |
 | Perkpack 1           | Minecraft 1.17    |
 
-As described in "How to play", below, the mod pack automatically keeps itself up to date once you've installed it. However, if you're interested in the changes between versions, you can find release notes here: https://github.com/blolol/minecraft-mod-packs/releases
+As described in ["How to play"](#how-to-play), below, the mod pack automatically keeps itself up to date once you've installed it. However, if you're interested in the changes between versions, you can find release notes here: https://github.com/blolol/minecraft-mod-packs/releases
 
 Mod pack updates are also announced by Wheaties in the `#minecraft` channels of [Blolol's IRC and Discord servers](https://blolol.com/chat).
 
