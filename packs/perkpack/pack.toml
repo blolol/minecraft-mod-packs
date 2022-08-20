@@ -1,6 +1,6 @@
 name = "Perkpack"
 author = "Raws"
-version = "2.0.0-pre12"
+version = "2.0.0-pre13"
 pack-format = "packwiz:1.1.0"
 
 [index]
