@@ -144,6 +144,11 @@ hash = "9f84fd71dcf5e035523e2d5051d215f8649247a64ecd723228749f4a1533d714"
 metafile = true
 
 [[files]]
+file = "mods/dynamic-view.pw.toml"
+hash = "4b9c5e688a6c0f570e7e3e19ff113ef375a677374a4c6b32b71663ef79556553"
+metafile = true
+
+[[files]]
 file = "mods/ecologics.pw.toml"
 hash = "c28a04d059e8199355fad8765e2a9ff4b50c3685501e8b67f03f56e7a96d9258"
 metafile = true

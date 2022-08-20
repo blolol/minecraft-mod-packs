@@ -52,6 +52,7 @@ This list doesn't include libraries and other dependencies that don't directly a
 | [Create](https://www.curseforge.com/minecraft/mc-mods/create) | Technology | Build and automate using [animated mechanical contraptions!](https://www.youtube.com/watch?v=rR8W-f9YhYA) |
 | [Create Deco](https://www.curseforge.com/minecraft/mc-mods/create-deco) | Technology | Adds new decorative blocks using Create's materials. |
 | [Domum Ornamentum](https://www.curseforge.com/minecraft/mc-mods/domum-ornamentum) | Technology | Combine different materials to create a nearly infinite variety of building blocks. |
+| [Dynamic View](https://www.curseforge.com/minecraft/mc-mods/dynamic-view) | Performance | Dynamically adjusts server-side view distance based on server load. |
 | [Ecologics](https://www.curseforge.com/minecraft/mc-mods/ecologics) | Atmosphere | Spices up vanilla Minecraft's biomes. It adds penguins, y'all 🐧 |
 | [Farmer's Delight](https://www.curseforge.com/minecraft/mc-mods/farmers-delight) | Atmosphere | A gentle expansion of farming and cooking. |
 | [Farsight](https://www.curseforge.com/minecraft/mc-mods/farsight) | Performance | Caches visited chunks locally, allowing you to see further than the server's view distance. |
