@@ -80,6 +80,13 @@ This list doesn't include libraries and other dependencies that don't directly a
 | [YUNG's Bridges](https://www.curseforge.com/minecraft/mc-mods/yungs-bridges) | Atmosphere | Adds naturally-generated bridges to the world. |
 | [YUNG's Extras](https://www.curseforge.com/minecraft/mc-mods/yungs-extras) | Atmosphere | A myriad of structures, including ruins, outposts, obelisks, wells, and lots more. |
 
+The pack also includes a few mods used for server administration, but that don't have much to do with survival gameplay.
+
+| Name | Description |
+|------|-------------|
+| [WorldEdit](https://www.curseforge.com/minecraft/mc-mods/worldedit) | An advanced in-game map editor. |
+| [WorldEditCUI](https://www.curseforge.com/minecraft/mc-mods/worldeditcui-forge-edition-3) | Renders WorldEdit selections visually. |
+
 ## Development
 
 To learn how to contribute to Perkpack, see [this repository's main README](../../README.md).
