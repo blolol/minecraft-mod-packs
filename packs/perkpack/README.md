@@ -4,6 +4,8 @@ Perkpack is Blolol's flavor-of-the-month Minecraft mod pack, used on our private
 
 It doesn't follow any particular theme, and is a reflection of the community's whims. Sometimes we might be interested in a minimalist "vanilla plus" experience, then ruthlessly strip-mining every dimension to oblivion using advanced technology, and the next world might be a hardcore survival challenge.
 
+The current release, Perkpack 2, is based on Minecraft 1.18 and revolves around the [Create](https://www.curseforge.com/minecraft/mc-mods/create) and [MineColonies](https://www.curseforge.com/minecraft/mc-mods/minecolonies) mods. Create adds mechanical components with which you can build all kinds of animated contraptions for automation or decoration—check out [its trailer](https://www.youtube.com/watch?v=rR8W-f9YhYA) to get an idea of what's possible. MineColonies expands on Minecraft's villages, allowing you to create thriving towns and cities with populations of NPCs who gather and use resources as you, the mayor, direct.
+
 ## Versions
 
 Perkpack bumps its major version number for each significant Minecraft update (e.g. from Minecraft 1.18 to 1.19).
