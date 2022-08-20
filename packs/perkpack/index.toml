@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "README.md"
+hash = "231377802da8a73c88bc83ed48c78d4f51b0e7f04e500e83057599f0d5325722"
+
+[[files]]
 file = "config/create-client.toml"
 hash = "33fe38e4276643e9b848cf40c873e0100d47ac3969e234857a9ffbdfda1e82a0"
 
@@ -286,11 +290,6 @@ metafile = true
 [[files]]
 file = "mods/worldedit.pw.toml"
 hash = "9cba8becd46d571b7576be0d34fea48a7c38f5745265186c7baf1c79251ef373"
-metafile = true
-
-[[files]]
-file = "mods/worldeditcui-forge-edition-3.pw.toml"
-hash = "855a7a380899c64f206ec473f4280a8e022ed7cdb2d139d19625150ab479d83f"
 metafile = true
 
 [[files]]

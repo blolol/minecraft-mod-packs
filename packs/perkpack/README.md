@@ -85,7 +85,6 @@ The pack also includes a few mods used for server administration, but that don't
 | Name | Description |
 |------|-------------|
 | [WorldEdit](https://www.curseforge.com/minecraft/mc-mods/worldedit) | An advanced in-game map editor. |
-| [WorldEditCUI](https://www.curseforge.com/minecraft/mc-mods/worldeditcui-forge-edition-3) | Renders WorldEdit selections visually. |
 
 ## Development
 
