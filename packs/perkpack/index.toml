@@ -194,6 +194,11 @@ hash = "98e762b19d18f757e857c9bcf5d2a56073ae71fc5231cad395962349d3afe201"
 metafile = true
 
 [[files]]
+file = "mods/ironchests.pw.toml"
+hash = "2cc2dc7f5c856a56fc4f22acc026db9debdefc2c013ec27227343ccfc55f8619"
+metafile = true
+
+[[files]]
 file = "mods/its-the-little-things.pw.toml"
 hash = "4d9bc2fe9d5f1aaa752291a2aa8a97b327ff152157f92e60ab16f303dafc87e5"
 metafile = true

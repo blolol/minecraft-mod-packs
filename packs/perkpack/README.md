@@ -60,6 +60,7 @@ This list doesn't include libraries and other dependencies that don't directly a
 | [Hourglass](https://www.curseforge.com/minecraft/mc-mods/hourglass) | Atmosphere | Allows server operators to change the length of days and nights. |
 | [I Know What I'm Doing](https://www.curseforge.com/minecraft/mc-mods/i-know-what-im-doing) | Quality of Life | Suppresses Minecraft's in-game tutorial hints. |
 | [Inventorio](https://www.curseforge.com/minecraft/mc-mods/inventorio-forge) | Quality of Life | Inventory enhancements: toolbelt, utility belt, deep pockets, and more. |
+| [Iron Chests: Restocked](https://www.curseforge.com/minecraft/mc-mods/ironchests) | Technology | Adds a variety of chests with different sizes and properties, and dollies for transporting them around. |
 | [Just Enough Items](https://www.curseforge.com/minecraft/mc-mods/jei) (JEI) | Quality of Life | Adds an overlay to your inventory screen that allows you to view items, blocks, recipes, and more. |
 | [JourneyMap](https://www.curseforge.com/minecraft/mc-mods/journeymap) | Quality of Life | Adds an in-game minimap and full-screen map with custom waypoints. |
 | [Large Ore Deposits](https://www.curseforge.com/minecraft/mc-mods/large-ore-deposits) | Atmosphere | Adds rare ultra-large ore veins. Keep an eye out for flowers growing in conspicuous circles! |
