@@ -9,6 +9,10 @@ file = "config/create-common.toml"
 hash = "37f49cac91de3cbd44b023c9ba78533cf6fd4402c36da1983fb4055ae99bac76"
 
 [[files]]
+file = "config/dynview-common.toml"
+hash = "ff54dfca3380e22f36e6b9b4ab8a8163f7ba7cfb678da7e0828165340e179f14"
+
+[[files]]
 file = "config/itlt-client.toml"
 hash = "20a9cc3da23200d1b275ea60aa92f9901af03796a80f6cd3852131edb333d6dc"
 
