@@ -104,6 +104,11 @@ hash = "91310bd661de6d8019a7a9d39c761d5005d1bd1bd9b4f0a7e49296640fe6a33f"
 metafile = true
 
 [[files]]
+file = "mods/clumps.pw.toml"
+hash = "8b73e4851b268861352e394929f0dd808b379c84a50ad7953ab58efad24bfb30"
+metafile = true
+
+[[files]]
 file = "mods/comforts.pw.toml"
 hash = "4f2b3710d7b300d5caefb30fb1ff8bbd89cab1b180c4a5fd2292dd6bc366e20c"
 metafile = true
