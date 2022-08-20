@@ -79,3 +79,7 @@ This list doesn't include libraries and other dependencies that don't directly a
 | [YUNG's Better Witch Huts](https://www.curseforge.com/minecraft/mc-mods/yungs-better-witch-huts) | Atmosphere | Upgrades Minecraft's witch huts with new variants and more meaningful loot. |
 | [YUNG's Bridges](https://www.curseforge.com/minecraft/mc-mods/yungs-bridges) | Atmosphere | Adds naturally-generated bridges to the world. |
 | [YUNG's Extras](https://www.curseforge.com/minecraft/mc-mods/yungs-extras) | Atmosphere | A myriad of structures, including ruins, outposts, obelisks, wells, and lots more. |
+
+## Development
+
+To learn how to contribute to Perkpack, see [this repository's main README](../../README.md).
