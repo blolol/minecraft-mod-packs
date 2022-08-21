@@ -1,6 +1,8 @@
-# ![Perkpack icon](images/perkpack-32.png) Perkpack
+# ![Perkpack shield logo](images/perkpack-32.png) Perkpack
 
-Perkpack is Blolol's flavor-of-the-month Minecraft mod pack, used on our private Minecraft server.
+![Perkpack shield logo superimposed over a screenshot of Minecraft](images/readme/hero.jpg)
+
+**Perkpack is Blolol's Minecraft mod pack, used for blocky shenanigans on our Minecraft server.**
 
 It doesn't follow any particular theme, and is a reflection of the community's whims. Sometimes we might be interested in a minimalist "vanilla plus" experience, then ruthlessly strip-mining every dimension to oblivion using advanced technology, and the next world might be a hardcore survival challenge.
 
