@@ -23,6 +23,7 @@ Mod pack updates are also announced by Wheaties in the `#minecraft` channels of 
 
 Playing Perkpack is a little more involved than launching the vanilla game, but it's nothing onerous. You'll only need to install the mod pack once per significant Minecraft update (e.g. from Minecraft 1.18 to 1.19). It will otherwise automatically keep itself up to date.
 
+1. Install Java 17. [PolyMC has good cross-platform instructions](https://polymc.org/wiki/getting-started/installing-java/) on how to install Adoptium's open source Temurin 17 distribution.
 1. Install the third-party, cross-platform [PolyMC](https://polymc.org) Minecraft game launcher. (PolyMC is a [community-oriented fork](https://polymc.org/wiki/overview/faq/) of [MultiMC](https://multimc.org), which should also work.)
 1. Click the "Add Instance" button. The "New Instance" window will open. Give your instance a name, like "Perkpack". You can optionally set a group, which is a way to organize your Minecraft instances in the main PolyMC window. For example, you could group your instances by Minecraft game version.
 1. In the "New Instance" window, select "Import from zip" in the left sidebar.
