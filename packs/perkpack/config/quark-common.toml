@@ -1430,7 +1430,7 @@
 [client]
 	"Variant Animal Textures" = true
 	"Uses For Curses" = true
-	"Usage Ticker" = true
+	"Usage Ticker" = false
 	"Soul Candles" = true
 	"Microcrafting Helper" = true
 	"Improved Tooltips" = true
