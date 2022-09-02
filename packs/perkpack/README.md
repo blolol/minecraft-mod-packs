@@ -49,6 +49,7 @@ This list doesn't include libraries and other dependencies that don't directly a
 | [Better Advancements](https://www.curseforge.com/minecraft/mc-mods/better-advancements) | Quality of Life | Embiggens the advancements window to make it easier to use. |
 | [Biomes O' Plenty](https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty) | Atmosphere | Adds dozens of new biomes, many with new blocks, to explore. |
 | [Chalk](https://www.curseforge.com/minecraft/mc-mods/chalk) | Quality of Life | Mark your way through caves using chalk! |
+| [Chunk Loaders](https://www.curseforge.com/minecraft/mc-mods/chunk-loaders) | Technology | Craft blocks that will keep chunks of the world loaded, even when you're not around. |
 | [Clumps](https://www.curseforge.com/minecraft/mc-mods/clumps) | Performance | Clumps groups of XP orbs together to reduce lag. |
 | [Comforts](https://www.curseforge.com/minecraft/mc-mods/comforts) | Quality of Life | Use a sleeping bag to skip the night without changing your respawn location. |
 | [Compat O' Plenty](https://www.curseforge.com/minecraft/mc-mods/compat-o-plenty) | Atmosphere | Integrates Biomes O' Plenty's many new woods and other materials into other mods. |
