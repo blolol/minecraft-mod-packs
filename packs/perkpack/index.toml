@@ -34,7 +34,7 @@ hash = "7777e4194af00991975275022b3f5808ec25aa574fdfa3193c61f689a4afc6e0"
 
 [[files]]
 file = "config/quark-common.toml"
-hash = "44722475cd91ed3a79a9de78b715bf15c3c1f6d8a0fd4d62abfd79601981251c"
+hash = "068d618a8dfaf084aa9966f3d92276e0f783cffcc196306fe2c9b0a4ec9986f4"
 
 [[files]]
 file = "config/supplementaries-client.toml"
