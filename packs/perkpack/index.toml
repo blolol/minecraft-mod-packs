@@ -49,6 +49,10 @@ file = "config/supplementaries-registry.toml"
 hash = "911a8f26d77b2efdfca83368d4803c6b57faaf9472b1f76cda9c52696c82a82f"
 
 [[files]]
+file = "defaultconfigs/create-server.toml"
+hash = "261b43e817893fe387403f5c46af5fc0ee6aa0f32c0bace34c1d43f54556a284"
+
+[[files]]
 file = "defaultconfigs/minecolonies-server.toml"
 hash = "3032981634253996b5aaa463a500c8f044be3627f1c106f1c649572b59899c85"
 
