@@ -1,0 +1,41 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "8d1ec188efcba9505dbdb6e64b6df702d510dee21ebb0d24b8d58f93ee07db87"
+metafile = true
+
+[[files]]
+file = "mods/badpackets.pw.toml"
+hash = "3b25d129d50c154e26487294c1bad1d48b220e7ad28f7848452d8040a2344b78"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "775ba9db8af593510ab38e497e4bed1aa5dcd7cae8cdd1d6a2dbe693c28de8fa"
+metafile = true
+
+[[files]]
+file = "mods/immersiveengineering.pw.toml"
+hash = "91ca56b942586b67c9b11ca58a76f024e10a96a2ab7ca8c6c8339c7f56c578bf"
+metafile = true
+
+[[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "9cba22bdbc8c89d44438b1e22ae677f7d6bf1c7f1adecfff2760427f2d974dee"
+metafile = true
+
+[[files]]
+file = "mods/optifine.pw.toml"
+hash = "3b8c0f6166f2fe1443cd93b36e5679ffd3d5fea183d58e451cd8a8709fd8ab1b"
+metafile = true
+
+[[files]]
+file = "mods/roughly-enough-items.pw.toml"
+hash = "b4b49a330dc27c0a62f8ea34eb9ec03129ae4f8c3900d317c23bc9720a4d738e"
+metafile = true
+
+[[files]]
+file = "mods/wthit.pw.toml"
+hash = "b65c785a1a59b4a18362eeaa8f1b13759987a7d6b9cd18c4444f187c93527ab6"
+metafile = true

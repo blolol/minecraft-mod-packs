@@ -1,0 +1,13 @@
+name = "Scumco"
+author = "Raws"
+version = "1.0.0-pre1+1.19.2"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "35a772ba187669c5b40f061f8b7c65b7406e063b97b41b8a0562d9300a90c679"
+
+[versions]
+forge = "43.2.0"
+minecraft = "1.19.2"
