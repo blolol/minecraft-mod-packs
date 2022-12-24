@@ -27,7 +27,7 @@ metafile = true
 
 [[files]]
 file = "mods/optifine.pw.toml"
-hash = "3b8c0f6166f2fe1443cd93b36e5679ffd3d5fea183d58e451cd8a8709fd8ab1b"
+hash = "285808d0f69e89666336a4c7564381b4fd43fa95e6c4e4a76aa7ac15bc8fea1e"
 metafile = true
 
 [[files]]

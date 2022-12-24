@@ -1,7 +1,7 @@
 name = "optifine"
-filename = "OptiFine_1.19.2_HD_U_H9.jar"
+filename = "OptiFine_1.19.2_HD_U_I1_pre4_MOD.jar"
 
 [download]
-url = "https://s3.amazonaws.com/minecraft/mods/1.19/forge/OptiFine_1.19.2_HD_U_H9.jar"
+url = "https://s3.amazonaws.com/minecraft/mods/1.19/forge/OptiFine_1.19.2_HD_U_I1_pre4_MOD.jar"
 hash-format = "sha1"
-hash = "7cc221a6df6831b62c3b676b5f958e82a4487fd8"
+hash = "a935597ed702259b374af162be74997cb8caba5b"
