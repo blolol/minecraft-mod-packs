@@ -11,6 +11,11 @@ hash = "3b25d129d50c154e26487294c1bad1d48b220e7ad28f7848452d8040a2344b78"
 metafile = true
 
 [[files]]
+file = "mods/chalk.pw.toml"
+hash = "115f084a013474e52c783c0c194848d6b39bd6fe55d488e50ec79b66acac456a"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "775ba9db8af593510ab38e497e4bed1aa5dcd7cae8cdd1d6a2dbe693c28de8fa"
 metafile = true
