@@ -21,7 +21,7 @@ services:
       ENABLE_ROLLING_LOGS: 'true'
       EULA: 'true'
       FORGEVERSION: '43.2.0'
-      ICON: https://s3.amazonaws.com/minecraft/server-icons/scumco.png
+      ICON: http://caddy/images/scumco-dev-server-icon-64.png
       LEVEL_TYPE: 'minecraft:amplified'
       MEMORY: '4G'
       MODE: creative
