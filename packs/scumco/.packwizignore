@@ -1,2 +1,6 @@
+*.DS_Store
 *-polymc-instance.zip
+docker-compose.yml
+images
 README.md
+tmp
