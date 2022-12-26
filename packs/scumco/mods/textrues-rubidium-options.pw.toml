@@ -1,0 +1,13 @@
+name = "TexTrue's Rubidium Options"
+filename = "textrues_rubidium_options-1.0.3-Hotfix-mc1.19.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/nm57myYP/versions/OAfclAbj/textrues_rubidium_options-1.0.3-Hotfix-mc1.19.2.jar"
+hash-format = "sha1"
+hash = "d5c5b5fdb19afc5f7da951dd37e97acb55463cb2"
+
+[update]
+[update.modrinth]
+mod-id = "nm57myYP"
+version = "OAfclAbj"

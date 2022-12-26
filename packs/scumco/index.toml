@@ -31,13 +31,23 @@ hash = "9cba22bdbc8c89d44438b1e22ae677f7d6bf1c7f1adecfff2760427f2d974dee"
 metafile = true
 
 [[files]]
-file = "mods/optifine.pw.toml"
-hash = "c88c2e9cea1974afd97c6a80aca3ee0f7d7c1567fd36687f56f66863abbfdd16"
+file = "mods/roughly-enough-items.pw.toml"
+hash = "b4b49a330dc27c0a62f8ea34eb9ec03129ae4f8c3900d317c23bc9720a4d738e"
 metafile = true
 
 [[files]]
-file = "mods/roughly-enough-items.pw.toml"
-hash = "b4b49a330dc27c0a62f8ea34eb9ec03129ae4f8c3900d317c23bc9720a4d738e"
+file = "mods/rubidium-extra.pw.toml"
+hash = "2f003e74e6f4a585d3fa4e6392048075c067ea8aadddd9824bc62836c78dbfe3"
+metafile = true
+
+[[files]]
+file = "mods/rubidium.pw.toml"
+hash = "558977836ce669b99d82aadbcfc313720c89eb6bc295b3c9f769f7d034aaf1c0"
+metafile = true
+
+[[files]]
+file = "mods/textrues-rubidium-options.pw.toml"
+hash = "b2154e4e9f222c9fa0cb38c01a11eb1827ba933a82c743e20f8767d7cd33fe9b"
 metafile = true
 
 [[files]]
