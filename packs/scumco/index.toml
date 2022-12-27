@@ -20,6 +20,11 @@ hash = "3b25d129d50c154e26487294c1bad1d48b220e7ad28f7848452d8040a2344b78"
 metafile = true
 
 [[files]]
+file = "mods/better-advancements.pw.toml"
+hash = "d703869d986cb0e9f945436d47627906c79ca25c83bd6369d4eb2114a22f876a"
+metafile = true
+
+[[files]]
 file = "mods/chalk.pw.toml"
 hash = "115f084a013474e52c783c0c194848d6b39bd6fe55d488e50ec79b66acac456a"
 metafile = true

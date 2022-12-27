@@ -6,10 +6,11 @@ Exploit a virtual world instead of the real one! **ScumCo** is a Minecraft mod p
 
 ## Mods
 
+* [Better Advancements](https://www.curseforge.com/minecraft/mc-mods/better-advancements) — Makes the advancements window (<kbd>L</kbd> key by default) use your entire screen, instead of a postage stamp-sized portion of it.
 * [Chalk](https://www.curseforge.com/minecraft/mc-mods/chalk) — Mark your way through the world with chalk arrows!
 * [Immersive Engineering](https://modrinth.com/mod/immersiveengineering) — Retro-futuristic tech. Build giant machines and wire them up to power sources in order to extricate every last useful material from the ground beneath your blocky feet.
 * [Mouse Tweaks](https://modrinth.com/mod/mouse-tweaks) — Enhances inventory management by adding a few handy functions to your mouse buttons.
-* [Ok Zoomer](https://www.curseforge.com/minecraft/mc-mods/ok-zoomer-forge) — Press <kbd>c</kbd> to join Gen Z.
+* [Ok Zoomer](https://www.curseforge.com/minecraft/mc-mods/ok-zoomer-forge) — Press <kbd>C</kbd> to join Gen Z.
 * [Quark](https://www.curseforge.com/minecraft/mc-mods/quark) and [Quark Oddities](https://www.curseforge.com/minecraft/mc-mods/quark-oddities) — Hundreds of small game tweaks and features. Check out [its feature list](https://quarkmod.net/#features) for full documentation!
 * [Roughly Enough Items](https://modrinth.com/mod/roughly-enough-items) — A customizable item recipe browser.
 * [Rubidium](https://modrinth.com/mod/rubidium) — Makes Minecraft magically run faster.
