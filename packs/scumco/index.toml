@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/okzoomer-client.toml"
+hash = "29813f9c8e4c47df82ff2d0be76a406e5a006a4b4d5e821b8794a6068001be48"
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "8d1ec188efcba9505dbdb6e64b6df702d510dee21ebb0d24b8d58f93ee07db87"
 metafile = true
@@ -28,6 +32,11 @@ metafile = true
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "9cba22bdbc8c89d44438b1e22ae677f7d6bf1c7f1adecfff2760427f2d974dee"
+metafile = true
+
+[[files]]
+file = "mods/ok-zoomer-forge.pw.toml"
+hash = "a806690351bb60a63d16937f9e41f3d03e05d5f187e9285478a0e411cb8425e3"
 metafile = true
 
 [[files]]
