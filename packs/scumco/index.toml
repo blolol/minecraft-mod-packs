@@ -10,6 +10,11 @@ hash = "8d1ec188efcba9505dbdb6e64b6df702d510dee21ebb0d24b8d58f93ee07db87"
 metafile = true
 
 [[files]]
+file = "mods/autoreglib.pw.toml"
+hash = "93e1dd0ac54ad216cf4ee82e5ab12a7de23d7cdfe7a27eb0b0c168a1c939db4a"
+metafile = true
+
+[[files]]
 file = "mods/badpackets.pw.toml"
 hash = "3b25d129d50c154e26487294c1bad1d48b220e7ad28f7848452d8040a2344b78"
 metafile = true
@@ -37,6 +42,16 @@ metafile = true
 [[files]]
 file = "mods/ok-zoomer-forge.pw.toml"
 hash = "a806690351bb60a63d16937f9e41f3d03e05d5f187e9285478a0e411cb8425e3"
+metafile = true
+
+[[files]]
+file = "mods/quark-oddities.pw.toml"
+hash = "c0bc72dd17a97fcdfd2f3c9e31310ad7235b5f9905957032b337f6c8d55c893f"
+metafile = true
+
+[[files]]
+file = "mods/quark.pw.toml"
+hash = "9daa3515d3aeede82c4c39fa4d60bf6642b05a04c9b059f2a14484bf9f0126c9"
 metafile = true
 
 [[files]]
