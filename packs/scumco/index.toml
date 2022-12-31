@@ -80,6 +80,11 @@ hash = "b2154e4e9f222c9fa0cb38c01a11eb1827ba933a82c743e20f8767d7cd33fe9b"
 metafile = true
 
 [[files]]
+file = "mods/toms-storage.pw.toml"
+hash = "7f9eaadfb3575e74a8cf654d82f1828efdbfa4b9a2d641cc335e2255e8972594"
+metafile = true
+
+[[files]]
 file = "mods/wthit.pw.toml"
 hash = "b65c785a1a59b4a18362eeaa8f1b13759987a7d6b9cd18c4444f187c93527ab6"
 metafile = true
