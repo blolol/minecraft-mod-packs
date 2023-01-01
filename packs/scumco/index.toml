@@ -45,6 +45,11 @@ hash = "9cba22bdbc8c89d44438b1e22ae677f7d6bf1c7f1adecfff2760427f2d974dee"
 metafile = true
 
 [[files]]
+file = "mods/moving-elevators.pw.toml"
+hash = "11ed5257369cbb3079e3e4246576d43373a435de25cb4f3d4357ebbe3fa9d7ca"
+metafile = true
+
+[[files]]
 file = "mods/ok-zoomer-forge.pw.toml"
 hash = "a806690351bb60a63d16937f9e41f3d03e05d5f187e9285478a0e411cb8425e3"
 metafile = true
@@ -72,6 +77,16 @@ metafile = true
 [[files]]
 file = "mods/rubidium.pw.toml"
 hash = "558977836ce669b99d82aadbcfc313720c89eb6bc295b3c9f769f7d034aaf1c0"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-config-lib.pw.toml"
+hash = "ad510a025c5e7b9255cf1d8eb0ad0004d095261e3f4691cd9bf488e1b1c3f8a8"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-core-lib.pw.toml"
+hash = "18436dafe26933a3ba1db6c5b7721be12cb8d4c2ee6b9ac4fa62208adbe5032e"
 metafile = true
 
 [[files]]
