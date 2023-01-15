@@ -15,6 +15,7 @@ Exploit a virtual world instead of the real one! **ScumCo** is a Minecraft mod p
 * [Quark](https://www.curseforge.com/minecraft/mc-mods/quark) and [Quark Oddities](https://www.curseforge.com/minecraft/mc-mods/quark-oddities) — Hundreds of small game tweaks and features. Check out [its feature list](https://quarkmod.net/#features) for full documentation!
 * [Roughly Enough Items](https://modrinth.com/mod/roughly-enough-items) — A customizable item recipe browser.
 * [Rubidium](https://modrinth.com/mod/rubidium) — Makes Minecraft magically run faster.
+* [Supplementaries](https://www.curseforge.com/minecraft/mc-mods/supplementaries) — A large selection of decorative and utility blocks and items, like [blackboards](https://github.com/MehVahdJukaar/Supplementaries/wiki/Decorative-Blocks#blackboard) and [block-rotating wrenches](https://github.com/MehVahdJukaar/Supplementaries/wiki/Tools,-Foods-and-Items#wrench). Check [its wiki](https://github.com/MehVahdJukaar/Supplementaries/wiki) for documentation.
 * [Tom's Simple Storage](https://www.curseforge.com/minecraft/mc-mods/toms-storage) — Access your ineffable chest monster from one unified storage terminal!
 * [WTHIT](https://modrinth.com/mod/wthit) — What the hell is that? Explains what you're looking at.
 

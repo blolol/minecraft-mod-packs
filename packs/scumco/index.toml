@@ -80,6 +80,11 @@ hash = "558977836ce669b99d82aadbcfc313720c89eb6bc295b3c9f769f7d034aaf1c0"
 metafile = true
 
 [[files]]
+file = "mods/selene.pw.toml"
+hash = "e2c5e4e6e96280f7deb137ba53eb1d6267c01551c2aa1dccc51fa170d2ce49fc"
+metafile = true
+
+[[files]]
 file = "mods/supermartijn642s-config-lib.pw.toml"
 hash = "ad510a025c5e7b9255cf1d8eb0ad0004d095261e3f4691cd9bf488e1b1c3f8a8"
 metafile = true
@@ -87,6 +92,11 @@ metafile = true
 [[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
 hash = "18436dafe26933a3ba1db6c5b7721be12cb8d4c2ee6b9ac4fa62208adbe5032e"
+metafile = true
+
+[[files]]
+file = "mods/supplementaries.pw.toml"
+hash = "3876c130f7a70b2b6e1e1d62e2bf0b22ed6683131eb0afb5e017dbe88fa01501"
 metafile = true
 
 [[files]]
