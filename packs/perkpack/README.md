@@ -31,6 +31,7 @@ Playing Perkpack is pretty simple stuff. You'll only need to install the mod pac
 
 * [Create](https://modrinth.com/mod/create-fabric) — Automate your world with mechanical contraptions!
 * [EMI](https://modrinth.com/mod/emi) — The latest and greatest in-game recipe viewer.
+* [Iris](https://modrinth.com/mod/iris) — Make the game extra pretty with [shader packs](https://github.com/IrisShaders/Iris/blob/1.19.3/docs/supportedshaders.md). Perkpack comes with [Complementary Reimagined](https://www.complementary.dev/reimagined/) pre-installed, but disabled by default. To enable it, press <kbd>o</kbd> in-game to bring up the shader options screen.
 * [Sodium](https://modrinth.com/mod/sodium), [Lithium](https://modrinth.com/mod/lithium) and [Phosphor](https://modrinth.com/mod/phosphor) — Make Minecraft magically run faster.
 * [WTHIT](https://modrinth.com/mod/wthit) — What the hell is that? Displays a tooltip at the top of your screen with useful information about whatever you're looking at.
 

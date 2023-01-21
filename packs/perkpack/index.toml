@@ -21,6 +21,11 @@ hash = "e8168531c092676d47cac3657bfc525f096f11ff5372ce6e322ad57778b81635"
 metafile = true
 
 [[files]]
+file = "mods/iris.pw.toml"
+hash = "02cef7560c9b885038b3cb2601581a057b9651ef82d0198e34aff1ae7be0d021"
+metafile = true
+
+[[files]]
 file = "mods/lazydfu.pw.toml"
 hash = "b4ca05b39b85c27cd97ccb65d5fb832f5e9fd7ee5710542a3e69dfa30a97ea7d"
 metafile = true
@@ -63,4 +68,9 @@ metafile = true
 [[files]]
 file = "mods/wthit.pw.toml"
 hash = "b003caafe717cbbf9ba2a7539bdd361e4d7e58e0d9602bd81a41387691b7e70c"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-reimagined.pw.toml"
+hash = "c8cbceb1c009c7abdcab4efb23f5774100df4c4f866abd431d1a38611b438fe2"
 metafile = true
