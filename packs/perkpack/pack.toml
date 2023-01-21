@@ -1,13 +1,13 @@
 name = "Perkpack"
 author = "Raws"
-version = "2.0.0-pre21"
+version = "3.0.0-pre1+1.19.2"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "b41a32516a5f8cf796f7bd1302311e44d437d66c829b7306cb1953f236c354ca"
+hash = "7b81c9e9d9e6e21a9865a2dded0dfd77e7683d679b98fe5b0114eaed9a31f17e"
 
 [versions]
-forge = "40.1.74"
-minecraft = "1.18.2"
+minecraft = "1.19.2"
+quilt = "0.18.1-beta.53"

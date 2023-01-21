@@ -1,8 +1,0 @@
-name = "Small Ships"
-filename = "smallships-1.18.2-2.0.0-Alpha-0.4.jar"
-side = "both"
-
-[download]
-url = "https://s3.amazonaws.com/minecraft/mods/smallships-1.18.2-2.0.0-Alpha-0.4.jar"
-hash-format = "sha256"
-hash = "4b385a969d0954ca562dafe4342c906539eea535a01ab13d71a5ea554195284e"

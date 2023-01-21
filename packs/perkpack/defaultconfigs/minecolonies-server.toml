@@ -1,5 +1,0 @@
-[names]
-# Should citizens have a middle initial? (Default: true)
-usemiddleinitial = false
-# Should new citizens use the Eastern name order, with surname first? (Default: false)
-useeasternnameorder = false
