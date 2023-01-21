@@ -29,7 +29,9 @@ Playing Perkpack is pretty simple stuff. You'll only need to install the mod pac
 
 ## Mods
 
-TODO
+* [Create](https://modrinth.com/mod/create-fabric) — Automate your world with mechanical contraptions! And make honeyed apples.
+* [EMI](https://modrinth.com/mod/emi) — The latest and greatest in-game recipe viewer.
+* [WTHIT](https://modrinth.com/mod/wthit) — What the hell is that? Displays a tooltip at the top of your screen with useful information about whatever you're looking at.
 
 ## Development
 
