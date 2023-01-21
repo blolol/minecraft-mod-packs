@@ -16,6 +16,11 @@ hash = "0dae59129e00d7a9e9bd231efc735cb650b8f582fe18138c555c403c6daf5565"
 metafile = true
 
 [[files]]
+file = "mods/indium.pw.toml"
+hash = "e8168531c092676d47cac3657bfc525f096f11ff5372ce6e322ad57778b81635"
+metafile = true
+
+[[files]]
 file = "mods/modmenu.pw.toml"
 hash = "09eb7db3ca7778d91ad66845e41b6b4814655fe375a05d4a69528c74b4f1c8af"
 metafile = true
@@ -23,6 +28,11 @@ metafile = true
 [[files]]
 file = "mods/qsl.pw.toml"
 hash = "52b33bf6600eecca94d7f34b58828fe8969033d68a492abb633bba2394b93cd9"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "aa4dcf55ac3191b0b31437521714c1d28364c3396cf06ef07fa76a08488c1837"
 metafile = true
 
 [[files]]
