@@ -24,7 +24,7 @@ Playing Perkpack is pretty simple stuff. You'll only need to install the mod pac
 
 1. Install [Java 17](https://prismlauncher.org/wiki/getting-started/installing-java/).
 1. Install [Prism Launcher](https://prismlauncher.org).
-1. Click "Add Instance", then "Import from zip", give the instance a name like "ScumCo", then paste in this URL: https://s3.amazonaws.com/minecraft/mod-packs/perkpack/perkpack-polymc-instance.zip
+1. Click "Add Instance", then "Import from zip", give the instance a name like "ScumCo", then paste in this URL: https://s3.amazonaws.com/minecraft/mod-packs/perkpack/perkpack-prism-instance.zip
 1. Once you're in-game, connect to `mc.blolol.com`.
 
 ## Mods

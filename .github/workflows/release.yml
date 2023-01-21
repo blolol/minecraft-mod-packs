@@ -45,10 +45,10 @@ jobs:
           AWS_REGION: us-east-1
       - name: Draft GitHub release
         run: |
-          pack_polymc_download_url="https://s3.amazonaws.com/minecraft/mod-packs/${pack_slug}/${pack_slug}-polymc-instance.zip"
+          pack_release_title="$pack_name $pack_version (Minecraft ${pack_minecraft_version})"
+          pack_prism_download_url="https://s3.amazonaws.com/minecraft/mod-packs/${pack_slug}/${pack_slug}-prism-instance.zip"
           pack_packwiz_metadata_url="https://s3.amazonaws.com/minecraft/mod-packs/${pack_slug}/pack.toml"
 
-          pack_release_title="$pack_name $pack_version (Minecraft ${pack_minecraft_version})"
           cat <<EOS > $RUNNER_TEMP/pack_release_notes
           ## Changes
 
@@ -56,7 +56,7 @@ jobs:
 
           ## Packages
 
-          * **[PolyMC](https://polymc.org) instance:** $pack_polymc_download_url
+          * **[Prism Launcher](https://prismlauncher.org) instance:** $pack_prism_download_url
           * **[packwiz](https://github.com/packwiz/packwiz) metadata:** $pack_packwiz_metadata_url
           EOS
 
