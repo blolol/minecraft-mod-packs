@@ -1,4 +1,4 @@
-<img src="images/perkpack-128.png" style="display: block; float: right">
+<img src="images/perkpack-256.png" style="display: block; float: right">
 
 # Perkpack 3
 
