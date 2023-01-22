@@ -50,6 +50,11 @@ hash = "11ed5257369cbb3079e3e4246576d43373a435de25cb4f3d4357ebbe3fa9d7ca"
 metafile = true
 
 [[files]]
+file = "mods/oculus.pw.toml"
+hash = "0731235f6cb600e85d08dee3d1d9f454a218b6b152fbc456319b2313cfe285f5"
+metafile = true
+
+[[files]]
 file = "mods/ok-zoomer-forge.pw.toml"
 hash = "a806690351bb60a63d16937f9e41f3d03e05d5f187e9285478a0e411cb8425e3"
 metafile = true
@@ -117,4 +122,9 @@ metafile = true
 [[files]]
 file = "mods/wthit.pw.toml"
 hash = "b65c785a1a59b4a18362eeaa8f1b13759987a7d6b9cd18c4444f187c93527ab6"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-reimagined.pw.toml"
+hash = "f5d7514affc9b179166f247eb1611939c79bf485fe820d82371e42ed47a22bc6"
 metafile = true

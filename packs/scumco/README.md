@@ -11,6 +11,7 @@ Exploit a virtual world instead of the real one! **ScumCo** is a Minecraft mod p
 * [Immersive Engineering](https://modrinth.com/mod/immersiveengineering) — Retro-futuristic tech. Build giant machines and wire them up to power sources in order to extricate every last useful material from the ground beneath your blocky feet.
 * [Mouse Tweaks](https://modrinth.com/mod/mouse-tweaks) — Enhances inventory management by adding a few handy functions to your mouse buttons.
 * [Moving Elevators](https://www.curseforge.com/minecraft/mc-mods/moving-elevators) — Move vertically in style.
+* [Oculus](https://modrinth.com/mod/oculus) — Adds support for [shader packs](https://github.com/IrisShaders/Iris/blob/1.19.3/docs/supportedshaders.md). ScumCo comes with [Complementary Reimagined](https://www.complementary.dev/reimagined/) pre-installed, but disabled by default. To enable it, press <kbd>o</kbd> in-game to bring up the shader options screen.
 * [Ok Zoomer](https://www.curseforge.com/minecraft/mc-mods/ok-zoomer-forge) — Press <kbd>C</kbd> to join Gen Z.
 * [Quark](https://www.curseforge.com/minecraft/mc-mods/quark) and [Quark Oddities](https://www.curseforge.com/minecraft/mc-mods/quark-oddities) — Hundreds of small game tweaks and features. Check out [its feature list](https://quarkmod.net/#features) for full documentation!
 * [Roughly Enough Items](https://modrinth.com/mod/roughly-enough-items) — A customizable item recipe browser.
