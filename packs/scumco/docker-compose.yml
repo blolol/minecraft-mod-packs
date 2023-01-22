@@ -22,7 +22,6 @@ services:
       EULA: 'true'
       FORGEVERSION: '43.2.0'
       ICON: http://caddy/images/scumco-dev-server-icon-64.png
-      LEVEL_TYPE: 'minecraft:amplified'
       MEMORY: '4G'
       MODE: creative
       MOTD: 'ScumCo development server'
@@ -32,6 +31,6 @@ services:
       TYPE: FORGE
       USE_AIKAR_FLAGS: 'true'
       VERSION: '1.19.2'
-      VIEW_DISTANCE: 16
+      VIEW_DISTANCE: 20
 volumes:
   caddy:
