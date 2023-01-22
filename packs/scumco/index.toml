@@ -40,6 +40,11 @@ hash = "5880c81df1af395ec3762eff4e98c78f7b75e62db67e1d191a1772d79aabc073"
 metafile = true
 
 [[files]]
+file = "mods/entityculling.pw.toml"
+hash = "ce2b6e0075e19966241735325011caec1d9c9827101f69962af4799e919d722e"
+metafile = true
+
+[[files]]
 file = "mods/immersiveengineering.pw.toml"
 hash = "91ca56b942586b67c9b11ca58a76f024e10a96a2ab7ca8c6c8339c7f56c578bf"
 metafile = true
