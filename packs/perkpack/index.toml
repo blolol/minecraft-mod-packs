@@ -135,6 +135,11 @@ hash = "b2e3be698473bfb3f08865a11e74c9ee8d47239ac72a79d60acc1ee381722a50"
 metafile = true
 
 [[files]]
+file = "mods/selene.pw.toml"
+hash = "1ad6962178b6fb29ed8a6b044ef07524d152987d92b9ba01a9c4ecab27981a83"
+metafile = true
+
+[[files]]
 file = "mods/sodium-extra.pw.toml"
 hash = "8da0d4c285e7e57aee3f08ab4e268d04518704ace4060744f042aef3a7f6bc50"
 metafile = true
@@ -142,6 +147,11 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "aa4dcf55ac3191b0b31437521714c1d28364c3396cf06ef07fa76a08488c1837"
+metafile = true
+
+[[files]]
+file = "mods/supplementaries.pw.toml"
+hash = "327a45179e0b4b1cc1751bff031f79c3ae08da08c35251d04d5e026309207ac2"
 metafile = true
 
 [[files]]
