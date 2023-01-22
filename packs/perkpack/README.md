@@ -29,9 +29,14 @@ Playing Perkpack is pretty simple stuff. You'll only need to install the mod pac
 
 ## Mods
 
-* [AutoRun](https://modrinth.com/mod/autorun) — Hands-free walking, sprinting and boating.
+### New content
+
 * [Create](https://modrinth.com/mod/create-fabric) — Automate your world with mechanical contraptions!
 * [Dynamic Surroundings](https://modrinth.com/mod/dynamicsurroundings_remasteredfabric) — Reverb in caves, better ambient sounds, waterfall particle effects, and more.
+
+### Quality of life
+
+* [AutoRun](https://modrinth.com/mod/autorun) — Hands-free walking, sprinting and boating.
 * [EMI](https://modrinth.com/mod/emi) — The latest and greatest in-game recipe viewer.
 * [Inventory Profiles Next](https://modrinth.com/mod/inventory-profiles-next) — Sort inventories, automatically replace broken tools in your hot bar, and more.
 * [Iris](https://modrinth.com/mod/iris) — Make the game extra pretty with [shader packs](https://github.com/IrisShaders/Iris/blob/1.19.3/docs/supportedshaders.md). Perkpack comes with [Complementary Reimagined](https://www.complementary.dev/reimagined/) pre-installed, but disabled by default. To enable it, press <kbd>o</kbd> in-game to bring up the shader options screen.
