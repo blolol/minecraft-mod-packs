@@ -22,7 +22,7 @@ hash = "e021164ffaa00fad888a8258ae1b2e31c286b17e10e7d9bc20bd234b85b003cf"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "beabfe4430011142e6c8057f0bee327838b4153df7696f38d37ae8b0dc367858"
+hash = "fb8c42789fb23156171a4ee5c1dbccf9f723e96caaf28eda8948e48712df8696"
 
 [[files]]
 file = "mods/autorun.pw.toml"
@@ -75,6 +75,11 @@ hash = "02cef7560c9b885038b3cb2601581a057b9651ef82d0198e34aff1ae7be0d021"
 metafile = true
 
 [[files]]
+file = "mods/isometric-renders.pw.toml"
+hash = "1d1bd4c82deec5f54dc73f027aeb77c60bb6f8d2319e6614a3c4215f0d352c1a"
+metafile = true
+
+[[files]]
 file = "mods/lazydfu.pw.toml"
 hash = "b4ca05b39b85c27cd97ccb65d5fb832f5e9fd7ee5710542a3e69dfa30a97ea7d"
 metafile = true
@@ -102,6 +107,11 @@ metafile = true
 [[files]]
 file = "mods/ok-zoomer.pw.toml"
 hash = "67e52f1d24affe5295829b38769d1181fb147c4ebc86531fce0fae2d1549ef9a"
+metafile = true
+
+[[files]]
+file = "mods/owo-lib.pw.toml"
+hash = "0b105444fcaa38625f2d2b19a658c0cda396a52d0965a112ae126eef843719c1"
 metafile = true
 
 [[files]]

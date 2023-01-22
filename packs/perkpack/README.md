@@ -46,6 +46,10 @@ Playing Perkpack is pretty simple stuff. You'll only need to install the mod pac
 * [Sodium](https://modrinth.com/mod/sodium), [Lithium](https://modrinth.com/mod/lithium) and [Phosphor](https://modrinth.com/mod/phosphor) — Make Minecraft magically run faster.
 * [WTHIT](https://modrinth.com/mod/wthit) — What the hell is that? Displays a tooltip at the top of your screen with useful information about whatever you're looking at.
 
+### Utility
+
+* [Isometric Renders](https://modrinth.com/mod/isometric-renders) — Allows you to render game objects and parts of the game world to transparent PNGs.
+
 ## Development
 
 You can use [Docker Compose](https://docs.docker.com/compose/) to set up a local development environment. The included `docker-compose.yml` will:
