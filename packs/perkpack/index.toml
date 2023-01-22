@@ -86,6 +86,11 @@ hash = "aa4dcf55ac3191b0b31437521714c1d28364c3396cf06ef07fa76a08488c1837"
 metafile = true
 
 [[files]]
+file = "mods/toast-manager.pw.toml"
+hash = "951233ca8ccb44e81e41ace9db7f4b5bf4d80a15ea5641222ca83618d3bc9763"
+metafile = true
+
+[[files]]
 file = "mods/wthit.pw.toml"
 hash = "b003caafe717cbbf9ba2a7539bdd361e4d7e58e0d9602bd81a41387691b7e70c"
 metafile = true
