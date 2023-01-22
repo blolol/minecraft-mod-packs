@@ -1,3 +1,5 @@
+# Required by WTHIT
+
 name = "bad packets"
 filename = "badpackets-fabric-0.2.1.jar"
 side = "both"

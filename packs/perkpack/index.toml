@@ -7,7 +7,7 @@ metafile = true
 
 [[files]]
 file = "mods/badpackets.pw.toml"
-hash = "63edbd012db544d0590a1cd2563a4973c0316b8033370b41a48c05b0e8e667e5"
+hash = "1a473f3183e516bd741f70718785a3243d2e5585eac41d407d55a7f0aded67b1"
 metafile = true
 
 [[files]]
