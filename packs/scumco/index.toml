@@ -85,6 +85,11 @@ hash = "e2c5e4e6e96280f7deb137ba53eb1d6267c01551c2aa1dccc51fa170d2ce49fc"
 metafile = true
 
 [[files]]
+file = "mods/starlight-forge.pw.toml"
+hash = "f8f7cbc0daf05063e9d314d9492a87b2484d97e812a418d9a07b9099bb664021"
+metafile = true
+
+[[files]]
 file = "mods/supermartijn642s-config-lib.pw.toml"
 hash = "ad510a025c5e7b9255cf1d8eb0ad0004d095261e3f4691cd9bf488e1b1c3f8a8"
 metafile = true
