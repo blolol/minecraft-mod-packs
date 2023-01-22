@@ -31,6 +31,7 @@ Playing Perkpack is pretty simple stuff. You'll only need to install the mod pac
 
 * [AutoRun](https://modrinth.com/mod/autorun) — Hands-free walking, sprinting and boating.
 * [Create](https://modrinth.com/mod/create-fabric) — Automate your world with mechanical contraptions!
+* [Dynamic Surroundings](https://modrinth.com/mod/dynamicsurroundings_remasteredfabric) — Reverb in caves, better ambient sounds, waterfall particle effects, and more.
 * [EMI](https://modrinth.com/mod/emi) — The latest and greatest in-game recipe viewer.
 * [Iris](https://modrinth.com/mod/iris) — Make the game extra pretty with [shader packs](https://github.com/IrisShaders/Iris/blob/1.19.3/docs/supportedshaders.md). Perkpack comes with [Complementary Reimagined](https://www.complementary.dev/reimagined/) pre-installed, but disabled by default. To enable it, press <kbd>o</kbd> in-game to bring up the shader options screen.
 * [Mouse Tweaks](https://modrinth.com/mod/mouse-tweaks) — Makes the vanilla RMB item dragging mechanic more useful, adds two new LMB dragging features, and the ability to quickly move items between inventories using your scroll wheel.

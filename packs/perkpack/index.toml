@@ -21,6 +21,11 @@ hash = "19783c9eb3f9c3a9522f47f11fa9b87dd62b64a42e52cadbdf9ce9d5c8d73d46"
 metafile = true
 
 [[files]]
+file = "mods/dynamicsurroundings_remasteredfabric.pw.toml"
+hash = "4d67ab760c17564b2918606dc6cd6944b2b4630c6d147c2ba8989ad932fd73f1"
+metafile = true
+
+[[files]]
 file = "mods/emi.pw.toml"
 hash = "0dae59129e00d7a9e9bd231efc735cb650b8f582fe18138c555c403c6daf5565"
 metafile = true
