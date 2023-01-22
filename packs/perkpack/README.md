@@ -33,6 +33,7 @@ Playing Perkpack is pretty simple stuff. You'll only need to install the mod pac
 
 * [Create](https://modrinth.com/mod/create-fabric) — Automate your world with mechanical contraptions!
 * [Dynamic Surroundings](https://modrinth.com/mod/dynamicsurroundings_remasteredfabric) — Reverb in caves, better ambient sounds, waterfall particle effects, and more.
+* [Supplementaries](https://www.curseforge.com/minecraft/mc-mods/supplementaries) — A large selection of decorative and utility blocks and items, like [blackboards](https://github.com/MehVahdJukaar/Supplementaries/wiki/Decorative-Blocks#blackboard) and [block-rotating wrenches](https://github.com/MehVahdJukaar/Supplementaries/wiki/Tools,-Foods-and-Items#wrench). Check [its wiki](https://github.com/MehVahdJukaar/Supplementaries/wiki) for documentation.
 
 ### Quality of life
 
