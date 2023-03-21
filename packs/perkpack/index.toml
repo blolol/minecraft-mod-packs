@@ -141,7 +141,7 @@ metafile = true
 
 [[files]]
 file = "mods/selene.pw.toml"
-hash = "1ad6962178b6fb29ed8a6b044ef07524d152987d92b9ba01a9c4ecab27981a83"
+hash = "b45ea262518bab598e4b5c80cde0197696af8450508e8f2f0f6bdaf4fb668596"
 metafile = true
 
 [[files]]
@@ -156,7 +156,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "327a45179e0b4b1cc1751bff031f79c3ae08da08c35251d04d5e026309207ac2"
+hash = "12c9b670add5aa30e76ceef64cdcbf6a4691c7fbaa4f47b7fd745eda7b1ed35a"
 metafile = true
 
 [[files]]
