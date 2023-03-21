@@ -27,11 +27,24 @@ Playing Perkpack is pretty simple stuff. You'll only need to install the mod pac
 1. Click "Add Instance", then "Import from zip", give the instance a name like "Perkpack 3", then paste in this URL: https://s3.amazonaws.com/minecraft/mod-packs/perkpack/perkpack-prism-instance.zip
 1. Once you're in-game, connect to `mc.blolol.com`.
 
+![Creating a Prism Launcher instance](images/creating-a-prism-instance.png)
+
 ## Mods
+
+### Create
+
+Perkpack is built around [Create](https://modrinth.com/mod/create-fabric). Create adds a variety of blocks and tools with which you can build mechanical contraptions to automate and decorate your world—think conveyer belts, steam engines, mechanical presses, automated train networks, and much more. To get an idea of what's possible with Create, check out its trailer:
+
+[![Watch "This is Create" on YouTube](images/create-mod-trailer-thumbnail.jpg)](https://www.youtube.com/watch?v=rR8W-f9YhYA)
+
+Create features interactive, in-game documentation using a system called "Ponder". To try it out, open up your inventory and filter it to Create's blocks and items by typing `@create` into the search bar. Find a block or item with "Hold [w] to ponder" in its tooltip to view its animated tutorial:
+
+![Pondering the Mechanical Press](images/create-mod-pondering.jpg)
+
+There's also lots of educational Create content on YouTube!
 
 ### New content
 
-* [Create](https://modrinth.com/mod/create-fabric) — Automate your world with mechanical contraptions!
 * [Create Deco](https://www.curseforge.com/minecraft/mc-mods/create-deco-fabric) — Decor that matches Create's aesthetic.
 * [Dynamic Surroundings](https://modrinth.com/mod/dynamicsurroundings_remasteredfabric) — Reverb in caves, better ambient sounds, waterfall particle effects, and more.
 * [Supplementaries](https://www.curseforge.com/minecraft/mc-mods/supplementaries) — A large selection of decorative and utility blocks and items, like [blackboards](https://github.com/MehVahdJukaar/Supplementaries/wiki/Decorative-Blocks#blackboard) and [block-rotating wrenches](https://github.com/MehVahdJukaar/Supplementaries/wiki/Tools,-Foods-and-Items#wrench). Check [its wiki](https://github.com/MehVahdJukaar/Supplementaries/wiki) for documentation.
