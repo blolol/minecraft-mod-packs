@@ -1,5 +1,6 @@
 *.DS_Store
-*-polymc-instance.zip
+perkpack-prism-instance.zip
+dependencies.md
 docker-compose.yml
 images
 README.md
