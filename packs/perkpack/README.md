@@ -34,23 +34,48 @@ Playing Perkpack is pretty simple stuff. You'll only need to install the mod pac
 
 ### Create
 
-Perkpack is built around [Create](https://modrinth.com/mod/create-fabric). Create adds a variety of blocks and tools with which you can build mechanical contraptions to automate and decorate your world—think conveyer belts, steam engines, mechanical presses, automated train networks, and much more. To get an idea of what's possible with Create, check out its trailer:
+Perkpack is built around [Create](https://modrinth.com/mod/create-fabric). Create adds a variety of blocks and tools with which you can build mechanical contraptions to automate and decorate your world—think conveyer belts, steam engines, mechanical presses, automated train networks, and much more.
 
-[![Watch "This is Create" on YouTube](images/create-mod-trailer-thumbnail.jpg)](https://www.youtube.com/watch?v=rR8W-f9YhYA)
+<details>
+  <summary>
+    Click to expand more about Create
+  </summary>
 
-Create features interactive, in-game documentation using a system called "Ponder". To try it out, open up your inventory and filter it to Create's blocks and items by typing `@create` into the search bar. Find a block or item with "Hold [w] to ponder" in its tooltip to view its animated tutorial:
+  To get an idea of what's possible with Create, check out its trailer:
 
-![Pondering the Mechanical Press](images/create-mod-pondering.jpg)
+  [![Watch "This is Create" on YouTube](images/create-mod-trailer-thumbnail.jpg)](https://www.youtube.com/watch?v=rR8W-f9YhYA)
 
-There's also [a well-maintained wiki](https://create.fandom.com/wiki/Create_Mod_Wiki) and lots of Create content on YouTube!
+  Create features interactive, in-game documentation using a system called "Ponder". To try it out, open up your inventory and filter it to Create's blocks and items by typing `@create` into the search bar. Find a block or item with "Hold [w] to ponder" in its tooltip to view its animated tutorial:
+
+  ![Pondering the Mechanical Press](images/create-mod-pondering.jpg)
+
+  There's also [a well-maintained wiki](https://create.fandom.com/wiki/Create_Mod_Wiki) and lots of Create content on YouTube!
+</details>
+
+### Quality of life
+
+* [AdvancementInfo](https://modrinth.com/mod/advancementinfo) (nicer advancements screen)
+* [Amecs](https://modrinth.com/mod/amecs) (use modifier keys in your key bindings)
+* [AutoRun](https://modrinth.com/mod/autorun) (use <kbd>`</kbd> to toggle autorun)
+* [BetterF3](https://modrinth.com/mod/betterf3) (more readable <kbd>F3</kbd> debug overlay)
+* [Better Mount HUD](https://modrinth.com/mod/better-mount-hud) (more useful HUD while riding)
+* [Couplings](https://modrinth.com/mod/couplings) (simultaneously open adjacent doors)
+* [EMI](https://modrinth.com/mod/emi) (item and recipe viewer)
+* [Inspecio](https://modrinth.com/mod/inspecio) (fancy tooltips for maps, shulker boxes, etc.)
+* [MiniHUD](https://www.curseforge.com/minecraft/mc-mods/minihud) (extremely customizable HUD)
+* [Mouse Tweaks](https://modrinth.com/mod/mouse-tweaks) (nicer inventory management)
+* [Ok Zoomer](https://modrinth.com/mod/ok-zoomer) (use <kbd>c</kbd> and your mouse wheel to zoom)
+* [Symbol Chat](https://modrinth.com/mod/symbol-chat) (easy access to Unicode symbols when chatting, editing signs, and naming items with anvils)
+* [WTHIT](https://modrinth.com/mod/wthit) (tells you what the hell you're looking at)
+* [Yeetus Experimentus](https://modrinth.com/mod/yeetus-experimentus) (silences the experimental features warning when creating a new world)
 
 ### World generation
 
-* [ChoiceTheorem's Overhauled Village](https://modrinth.com/mod/ct-overhaul-village)
-* [Tectonic](https://modrinth.com/datapack/tectonic)
-* [Terralith](https://modrinth.com/mod/terralith)
-* [Terrestria](https://modrinth.com/mod/terrestria)
-* [Traverse](https://modrinth.com/mod/traverse)
+* [ChoiceTheorem's Overhauled Village](https://modrinth.com/mod/ct-overhaul-village) (more interesting villages)
+* [Tectonic](https://modrinth.com/datapack/tectonic) (large-scale terrain)
+* [Terralith](https://modrinth.com/mod/terralith) (new biomes)
+* [Terrestria](https://modrinth.com/mod/terrestria) (new biomes)
+* [Traverse](https://modrinth.com/mod/traverse) (new biomes)
 * [YUNG's Better Desert Temples](https://modrinth.com/mod/yungs-better-desert-temples)
 * [YUNG's Better Dungeons](https://modrinth.com/mod/yungs-better-dungeons)
 * [YUNG's Better Jungle Temples](https://modrinth.com/mod/yungs-better-jungle-temples)
@@ -59,31 +84,10 @@ There's also [a well-maintained wiki](https://create.fandom.com/wiki/Create_Mod_
 * [YUNG's Better Strongholds](https://modrinth.com/mod/yungs-better-strongholds)
 * [YUNG's Better Witch Huts](https://modrinth.com/mod/yungs-better-witch-huts)
 
-### New content
-
-* [Create](https://modrinth.com/mod/create-fabric)
-
-### Quality of life
-
-* [AdvancementInfo](https://modrinth.com/mod/advancementinfo)
-* [Amecs](https://modrinth.com/mod/amecs)
-* [AutoRun](https://modrinth.com/mod/autorun)
-* [BetterF3](https://modrinth.com/mod/betterf3)
-* [Better Mount HUD](https://modrinth.com/mod/better-mount-hud)
-* [Couplings](https://modrinth.com/mod/couplings)
-* [EMI](https://modrinth.com/mod/emi)
-* [Inspecio](https://modrinth.com/mod/inspecio)
-* [MiniHUD](https://www.curseforge.com/minecraft/mc-mods/minihud)
-* [Mouse Tweaks](https://modrinth.com/mod/mouse-tweaks)
-* [Ok Zoomer](https://modrinth.com/mod/ok-zoomer)
-* [Symbol Chat](https://modrinth.com/mod/symbol-chat)
-* [WTHIT](https://modrinth.com/mod/wthit)
-* [Yeetus Experimentus](https://modrinth.com/mod/yeetus-experimentus)
-
 ### Resource packs
 
-* [Default Dark Mode](https://modrinth.com/resourcepack/default-dark-mode)
-* [Fresh Animations](https://modrinth.com/resourcepack/fresh-animations)
+* [Default Dark Mode](https://modrinth.com/resourcepack/default-dark-mode) (:new_moon_with_face:)
+* [Fresh Animations](https://modrinth.com/resourcepack/fresh-animations) (fancy mob animations)
 
 ### Shaders
 
