@@ -54,6 +54,7 @@ There's also [a well-maintained wiki](https://create.fandom.com/wiki/Create_Mod_
 
 ### Resource packs
 
+* [Default Dark Mode](https://modrinth.com/resourcepack/default-dark-mode)
 * [Fresh Animations](https://modrinth.com/resourcepack/fresh-animations)
 
 ### Shaders
