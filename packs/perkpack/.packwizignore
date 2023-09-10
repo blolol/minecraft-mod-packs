@@ -2,6 +2,7 @@
 dependencies.md
 docker-compose.yml
 images
+Makefile
 prism-instance
 prism-instance.zip
 README.md
