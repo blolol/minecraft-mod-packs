@@ -1,3 +1,5 @@
+![Perkpack 3 logo on top of a Minecraft screenshot featuring cherry blossoms and mountains](images/perkpack-hero.jpg)
+
 # Perkpack 3
 
 Perkpack is Blolol's Minecraft mod pack, used for blocky shenanigans on our Minecraft server!
