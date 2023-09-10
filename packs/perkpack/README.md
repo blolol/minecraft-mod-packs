@@ -44,7 +44,20 @@ Create features interactive, in-game documentation using a system called "Ponder
 
 There's also [a well-maintained wiki](https://create.fandom.com/wiki/Create_Mod_Wiki) and lots of Create content on YouTube!
 
-### New content
+### World generation
+
+* [ChoiceTheorem's Overhauled Village](https://modrinth.com/mod/ct-overhaul-village)
+* [Tectonic](https://modrinth.com/datapack/tectonic)
+* [Terralith](https://modrinth.com/mod/terralith)
+* [Terrestria](https://modrinth.com/mod/terrestria)
+* [Traverse](https://modrinth.com/mod/traverse)
+* [YUNG's Better Desert Temples](https://modrinth.com/mod/yungs-better-desert-temples)
+* [YUNG's Better Dungeons](https://modrinth.com/mod/yungs-better-dungeons)
+* [YUNG's Better Jungle Temples](https://modrinth.com/mod/yungs-better-jungle-temples)
+* [YUNG's Better Mineshafts](https://modrinth.com/mod/yungs-better-mineshafts)
+* [YUNG's Better Nether Fortresses](https://modrinth.com/mod/yungs-better-nether-fortresses)
+* [YUNG's Better Strongholds](https://modrinth.com/mod/yungs-better-strongholds)
+* [YUNG's Better Witch Huts](https://modrinth.com/mod/yungs-better-witch-huts)
 
 ### Quality of life
 
