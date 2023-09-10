@@ -1,6 +1,18 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/yosbr/config/MouseTweaks.cfg"
+hash = "adc06ca99bdc9ecb6181f28dc38199e2bbc2d1907bf095de41a0e7e2842c98ea"
+
+[[files]]
+file = "config/yosbr/config/minihud.json"
+hash = "208c534e77863801c46ab471f912686dbcc981bb3ca71716be6118207dc4cab7"
+
+[[files]]
+file = "config/yosbr/options.txt"
+hash = "16fd5cc47ad9428878192ba653f57a4a558d249864b2f09031984f037d1e3262"
+
+[[files]]
 file = "mods/advancementinfo.pw.toml"
 hash = "a14f8a33991b072fcece09a03c630cbfd17bbc74a24a04f9cf537bfa5d425280"
 metafile = true
@@ -263,6 +275,11 @@ metafile = true
 [[files]]
 file = "mods/yeetus-experimentus.pw.toml"
 hash = "e83308adb6a539ac365495764035ddcfeb0d660c606f642f41e908da3f8a4f2b"
+metafile = true
+
+[[files]]
+file = "mods/yosbr.pw.toml"
+hash = "6f6334f336a876088431df70e2bba6ac52ca2ddeb73a4880ce88d6954b09af00"
 metafile = true
 
 [[files]]
