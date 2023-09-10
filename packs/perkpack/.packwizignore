@@ -1,7 +1,8 @@
 *.DS_Store
-perkpack-prism-instance.zip
 dependencies.md
 docker-compose.yml
 images
+prism-instance
+prism-instance.zip
 README.md
 tmp

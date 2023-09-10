@@ -1,4 +1,2 @@
-*.mrpack # Modrinth modpack exports
-*.zip # CurseForge modpack exports
 packs/*/tmp/server/*
 !packs/*/tmp/server/.gitkeep

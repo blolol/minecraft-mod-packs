@@ -25,7 +25,7 @@ Playing Perkpack is pretty simple stuff. You'll only need to install the mod pac
 1. Install [Java](https://prismlauncher.org/wiki/getting-started/installing-java/).
 1. Install [Prism Launcher](https://prismlauncher.org).
 1. In Prism Launcher, click "Add Instance", then "Import".
-1. Give the instance a name like "Perkpack 3", then paste in this URL: https://s3.amazonaws.com/minecraft/mod-packs/perkpack/perkpack-prism-instance.zip
+1. Give the instance a name like "Perkpack 3", then paste in this URL: https://github.com/blolol/minecraft-mod-packs/raw/perkpack/3/packs/perkpack/prism-instance.zip
 1. Once you're in-game, connect to `mc.blolol.com`.
 
 ![Creating a Prism Launcher instance](images/creating-a-prism-instance.png)
@@ -133,6 +133,8 @@ Perkpack includes a set of optimization mods, based on [Fabulously Optimized](ht
 
 ## Development
 
+### Testing the pack
+
 You can use [Docker Compose](https://docs.docker.com/compose/) to set up a local development environment. The included `docker-compose.yml` will:
 
 * Start an HTTP server on port 8082 that will serve up `pack.toml` and other packwiz files.
@@ -140,10 +142,14 @@ You can use [Docker Compose](https://docs.docker.com/compose/) to set up a local
 
 To start both servers, run `docker compose up` in this directory. Minecraft server data will be written into `tmp/server` and ignored by Git. The Docker Compose file includes defaults that will be written to `server.properties`. Once the file is generated, you can customize it.
 
-To create a Prism Launcher instance that connects to your local HTTP server, import `perkpack-prism-instance.zip` to create a new instance. Right-click on the instance and select Edit > Settings > Custom commands. Change the pre-launch command to point at your local server:
+To create a Prism Launcher instance that connects to your local HTTP server, import `prism-instance.zip` to create a new instance. Right-click on the instance and select Edit > Settings > Custom commands. Change the pre-launch command to point at your local server:
 
 ```sh
 "$INST_JAVA" -jar packwiz-installer-bootstrap.jar http://localhost:8082/pack.toml
 ```
 
 To learn how to contribute your changes to Perkpack, see [this repository's main README](../../README.md).
+
+### Building `prism-instance.zip`
+
+To build `prism-instance.zip`, run `make` in this directory. Use `make clean` to remove it.
