@@ -5,6 +5,10 @@ file = "config/yosbr/config/MouseTweaks.cfg"
 hash = "adc06ca99bdc9ecb6181f28dc38199e2bbc2d1907bf095de41a0e7e2842c98ea"
 
 [[files]]
+file = "config/yosbr/config/create-server.toml"
+hash = "4824da2b4a6e5e07cac60ea2c181dbc63a98ae7543e3ae1701fa0de468b4e5f0"
+
+[[files]]
 file = "config/yosbr/config/minihud.json"
 hash = "208c534e77863801c46ab471f912686dbcc981bb3ca71716be6118207dc4cab7"
 
