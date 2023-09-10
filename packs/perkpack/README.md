@@ -42,9 +42,64 @@ Create features interactive, in-game documentation using a system called "Ponder
 
 ![Pondering the Mechanical Press](images/create-mod-pondering.jpg)
 
-There's also [a well-maintained wiki](https://create.fandom.com/wiki/Create_Mod_Wiki) and lots of educational Create content on YouTube!
+There's also [a well-maintained wiki](https://create.fandom.com/wiki/Create_Mod_Wiki) and lots of Create content on YouTube!
 
 ### New content
+
+### Quality of life
+
+* [AdvancementInfo](https://modrinth.com/mod/advancementinfo)
+* [Better Mount HUD](https://modrinth.com/mod/better-mount-hud)
+* [Yeetus Experimentus](https://modrinth.com/mod/yeetus-experimentus)
+
+### Resource packs
+
+* [Fresh Animations](https://modrinth.com/resourcepack/fresh-animations)
+
+### Shaders
+
+Perkpack includes support for third-party shader packs using the [Iris]() mod. To enable and configure shaders in-game, use the default <kbd>o</kbd> key, and use <kbd>k</kbd> to toggle shaders on and off.
+
+The pack includes these shaders by default, but you can also [install your own](https://modrinth.com/shaders):
+
+* [BSL](https://modrinth.com/shader/bsl-shaders)
+* [Complementary Reimagined](https://modrinth.com/shader/complementary-reimagined)
+* [Complementary Unbound](https://modrinth.com/shader/complementary-unbound)
+
+### Performance, bug fixes, compatibility
+
+Perkpack includes a set of optimization mods, based on [Fabulously Optimized](https://modrinth.com/modpack/fabulously-optimized), to increase base game performance, fix a variety of bugs present in the vanilla game, and provide compatibility with OptiFine resource packs.
+
+<details>
+  <summary>
+    Click to expand list of performance mods
+  </summary>
+
+  * [Animatica](https://modrinth.com/mod/animatica)
+  * [Borderless Mining](https://modrinth.com/mod/borderless-mining)
+  * [Capes](https://modrinth.com/mod/capes)
+  * [CIT Resewn](https://modrinth.com/mod/cit-resewn)
+  * [Continuity](https://modrinth.com/mod/continuity)
+  * [Debugify](https://modrinth.com/mod/debugify)
+  * [Dynamic FPS](https://modrinth.com/mod/dynamic-fps)
+  * [Enhanced Block Entities](https://modrinth.com/mod/ebe) (EBE)
+  * [Entity Model Features](https://modrinth.com/mod/entity-model-features) (EMF)
+  * [Entity Culling](https://modrinth.com/mod/entityculling)
+  * [Entity Texture Features](https://modrinth.com/mod/entitytexturefeatures) (ETF)
+  * [Fadeless](https://modrinth.com/mod/fadeless)
+  * [FerriteCore](https://modrinth.com/mod/ferrite-core)
+  * [ImmediatelyFast](https://modrinth.com/mod/immediatelyfast)
+  * [Indium](https://modrinth.com/mod/indium)
+  * [Iris](https://modrinth.com/mod/iris)
+  * [Lithium](https://modrinth.com/mod/lithium)
+  * [Memory Leak Fix](https://modrinth.com/mod/memoryleakfix)
+  * [Model Gap Fix](https://modrinth.com/mod/modelfix)
+  * [ModernFix](https://modrinth.com/mod/modernfix)
+  * [More Culling](https://modrinth.com/mod/moreculling)
+  * [Reese's Sodium Options](https://modrinth.com/mod/reeses-sodium-options)
+  * [Sodium Extra](https://modrinth.com/mod/sodium-extra)
+  * [Sodium](https://modrinth.com/mod/sodium)
+</details>
 
 ## Development
 

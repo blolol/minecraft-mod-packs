@@ -1,6 +1,171 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/advancementinfo.pw.toml"
+hash = "a14f8a33991b072fcece09a03c630cbfd17bbc74a24a04f9cf537bfa5d425280"
+metafile = true
+
+[[files]]
+file = "mods/animatica.pw.toml"
+hash = "f0463f1b50e2c2ab3c726b14236b22e07ce9be4896528ede9d51486a212a5c07"
+metafile = true
+
+[[files]]
+file = "mods/better-mount-hud.pw.toml"
+hash = "961a423cc427d4c785354239e8e7b251b5575756b1cf85dd1bc85011b47f0fbf"
+metafile = true
+
+[[files]]
+file = "mods/borderless-mining.pw.toml"
+hash = "c49d42cddfb05cf5e4882d5753bd98a525c9a994fda5f49651003e8266b7aa9d"
+metafile = true
+
+[[files]]
+file = "mods/capes.pw.toml"
+hash = "4c712d7ad6d2ddb130b845c3b2c660be7cb7795db21be00b130443730719305e"
+metafile = true
+
+[[files]]
+file = "mods/cit-resewn.pw.toml"
+hash = "44e2cc695c040b7bbca462165099fa3c56a98aa8f01104bb067dc850b65f6d02"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "b6348f94ec939f563285dc96683e61da8fc17ab2f2897be2751fa24789513691"
+metafile = true
+
+[[files]]
+file = "mods/continuity.pw.toml"
+hash = "2ff8353009122a86ac846dd8d48b2522d46f3b43111eb3a697d99cc42285a14f"
+metafile = true
+
+[[files]]
+file = "mods/debugify.pw.toml"
+hash = "4ba45966a267b774f5d83442c3c43d740f55e11a910e117e50c046b4f77b5c66"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-fps.pw.toml"
+hash = "ad214677d7d7b71d0d962d4b3f668d34ba2faa19b30ad007afd89a205256505c"
+metafile = true
+
+[[files]]
+file = "mods/ebe.pw.toml"
+hash = "b8270928d44781b9e59982d376bb3cc0d24089ceebef3c79d3e1e881ba7ece60"
+metafile = true
+
+[[files]]
+file = "mods/entity-model-features.pw.toml"
+hash = "003d199f378b384e1583d2a50cd432fd9507b546110285482991f33ad5994306"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "4eec3de8a58a6e64ea96e31781b52f70b4b33ec02a34a45f171e3a1e6697ba86"
+metafile = true
+
+[[files]]
+file = "mods/entitytexturefeatures.pw.toml"
+hash = "16c35cba683a08826b0fcf0da850460c0bad60b2eae5d6e3c437fec705aca77d"
+metafile = true
+
+[[files]]
+file = "mods/fadeless.pw.toml"
+hash = "bd5311680997fada18e6492a91770fdc0762c718b3109820d67c1b019c2f1bf8"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "03e174cf691b52da20bd973b955fae6f3720d3d2120f9d6cc1de5fdf3180013c"
+metafile = true
+
+[[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "0115f86693696e977523c0137f7951a28577290d5e0e176b257e437e14f3fd5f"
+metafile = true
+
+[[files]]
+file = "mods/indium.pw.toml"
+hash = "678d1c7827d30fbe8c225e7f2b8ddc29f1dd69cced29335ee5a670477a0728a2"
+metafile = true
+
+[[files]]
+file = "mods/iris.pw.toml"
+hash = "f2170f677cce023da0b7506a0445352d99690603d70046ec5c90231016b4d3b9"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "c239c951796882b9c93e649a0dba4f2d95804441faaed707b686381b7a5c67da"
+metafile = true
+
+[[files]]
+file = "mods/memoryleakfix.pw.toml"
+hash = "8e42842f48b3227733bafced612212eee2298f567ca599ac6a55b9878ae661da"
+metafile = true
+
+[[files]]
+file = "mods/modelfix.pw.toml"
+hash = "6c417b19bc836d7c516be0097261c49cf1a167951bb4744ec0f3cc0bd0d1d24a"
+metafile = true
+
+[[files]]
+file = "mods/modernfix.pw.toml"
+hash = "e5f92dc07f3f57d187c366dc98c1d16d75df5cf47775b1c2d8589f5a01900536"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.pw.toml"
+hash = "4cd171d3f5f3e1d2948cb1b0062e742a5e85110c9e9a668f9aed5b0cebcb9c97"
+metafile = true
+
+[[files]]
+file = "mods/moreculling.pw.toml"
+hash = "be1f88824f7ceb008ce38ae763a93921db0c27db68577fdb16c29c6a085ec1f3"
+metafile = true
+
+[[files]]
+file = "mods/qkl.pw.toml"
+hash = "b0615e667641dd52e900c970553e0ce80748645dfaa93117bb126dccae3e3c19"
+metafile = true
+
+[[files]]
+file = "mods/qsl.pw.toml"
+hash = "7a06b7203a44d879f81651f5d192933aeac202ca9012fa8e314b7a4560268410"
+metafile = true
+
+[[files]]
+file = "mods/reeses-sodium-options.pw.toml"
+hash = "44b0a2294e1693230308e53b529d671a0303e94b623ba2c2650cdf5760a5a335"
+metafile = true
+
+[[files]]
+file = "mods/sodium-extra.pw.toml"
+hash = "4e691c86059e755a026b8cae8cf0c66396dc39bf47b6c71980589101803ecd36"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "bff35d4d3b4fa8c82b5890555d8d9123c223787c545ba7c000c0208b68a72a6d"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "5128dafec4140a625b5c388f56e9989b8f6780dcce41134ef799bd9be3d5ae1a"
+metafile = true
+
+[[files]]
+file = "mods/yeetus-experimentus.pw.toml"
+hash = "e83308adb6a539ac365495764035ddcfeb0d660c606f642f41e908da3f8a4f2b"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fresh-animations.pw.toml"
+hash = "5923c680ba9498fd3025a457ab2c57febc6c9c66bee660175df4d35eb17dc2a4"
+metafile = true
+
+[[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
 hash = "dc4ade1f36a2d78635c7b505fffa847c4b67a31c5aea9fd7c9d20ec2516a876a"
 metafile = true
