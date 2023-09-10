@@ -6,8 +6,23 @@ hash = "a14f8a33991b072fcece09a03c630cbfd17bbc74a24a04f9cf537bfa5d425280"
 metafile = true
 
 [[files]]
+file = "mods/amecs.pw.toml"
+hash = "16ce27183f78f23c8606787ab2bbbaf01d290b569a4c6d5a6f91b30802ebabd9"
+metafile = true
+
+[[files]]
 file = "mods/animatica.pw.toml"
 hash = "f0463f1b50e2c2ab3c726b14236b22e07ce9be4896528ede9d51486a212a5c07"
+metafile = true
+
+[[files]]
+file = "mods/autorun.pw.toml"
+hash = "66b3916052ccf9d06959db9faccd126aa2eccefc2b002f685d7a00a3b8a19549"
+metafile = true
+
+[[files]]
+file = "mods/badpackets.pw.toml"
+hash = "a1bea09f928280dd62cea871438231389ecbed00f4053bb5d1d4a3ad91545fc3"
 metafile = true
 
 [[files]]
@@ -46,6 +61,11 @@ hash = "2ff8353009122a86ac846dd8d48b2522d46f3b43111eb3a697d99cc42285a14f"
 metafile = true
 
 [[files]]
+file = "mods/couplings.pw.toml"
+hash = "47e796fa0168407d6bf12e3aac6cf29881960df43ed21f844ab34ac891ee0730"
+metafile = true
+
+[[files]]
 file = "mods/ct-overhaul-village.pw.toml"
 hash = "bc9905492f54c07bb62a5126a3ef53188a71a52ada9dc2a84a2888fba6739906"
 metafile = true
@@ -63,6 +83,11 @@ metafile = true
 [[files]]
 file = "mods/ebe.pw.toml"
 hash = "b8270928d44781b9e59982d376bb3cc0d24089ceebef3c79d3e1e881ba7ece60"
+metafile = true
+
+[[files]]
+file = "mods/emi.pw.toml"
+hash = "4f0afa4e70e830f08266c181c2a0deb207780712db6e7f8961ffb62061afada0"
 metafile = true
 
 [[files]]
@@ -101,8 +126,18 @@ hash = "678d1c7827d30fbe8c225e7f2b8ddc29f1dd69cced29335ee5a670477a0728a2"
 metafile = true
 
 [[files]]
+file = "mods/inspecio.pw.toml"
+hash = "280af6886fbdec37ccfab4d8a7cbd2d3777a198a5fa0d2ec15dc9b9c8b0eff67"
+metafile = true
+
+[[files]]
 file = "mods/iris.pw.toml"
 hash = "f2170f677cce023da0b7506a0445352d99690603d70046ec5c90231016b4d3b9"
+metafile = true
+
+[[files]]
+file = "mods/krypton.pw.toml"
+hash = "71ef7cc16632c0039fe194183b5885968c6d740aaa67a58000653ae0cb40b882"
 metafile = true
 
 [[files]]
@@ -146,6 +181,11 @@ hash = "be1f88824f7ceb008ce38ae763a93921db0c27db68577fdb16c29c6a085ec1f3"
 metafile = true
 
 [[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "669008dbd2508a67f8c409096cf2357de450f26a69494289e5852045ade7d358"
+metafile = true
+
+[[files]]
 file = "mods/ok-zoomer.pw.toml"
 hash = "23583083d03c8effa3dca4c17c7da2fcf57d653292b02898afe8d7029be6b0d7"
 metafile = true
@@ -181,6 +221,11 @@ hash = "bff35d4d3b4fa8c82b5890555d8d9123c223787c545ba7c000c0208b68a72a6d"
 metafile = true
 
 [[files]]
+file = "mods/symbol-chat.pw.toml"
+hash = "d54c8655b93f5b267605b77505f9e4dc63c479b300aae97a88e163029d65b6fc"
+metafile = true
+
+[[files]]
 file = "mods/tectonic.pw.toml"
 hash = "c9072b33298e95459c644344c8f8e7317a2f503a469e24bf51e63dca9c560db1"
 metafile = true
@@ -198,6 +243,11 @@ metafile = true
 [[files]]
 file = "mods/traverse.pw.toml"
 hash = "fa828cee58820db21721f890e029e0469480e330ff44556d1611ddb5faf9da64"
+metafile = true
+
+[[files]]
+file = "mods/wthit.pw.toml"
+hash = "874a680170fbf36204ee1c4e57650b6a28b15d10a32163964850aaccc9a7457a"
 metafile = true
 
 [[files]]

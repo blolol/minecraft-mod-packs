@@ -59,13 +59,25 @@ There's also [a well-maintained wiki](https://create.fandom.com/wiki/Create_Mod_
 * [YUNG's Better Strongholds](https://modrinth.com/mod/yungs-better-strongholds)
 * [YUNG's Better Witch Huts](https://modrinth.com/mod/yungs-better-witch-huts)
 
+### New content
+
+* [Create](https://modrinth.com/mod/create-fabric)
+
 ### Quality of life
 
 * [AdvancementInfo](https://modrinth.com/mod/advancementinfo)
+* [Amecs](https://modrinth.com/mod/amecs)
+* [AutoRun](https://modrinth.com/mod/autorun)
 * [BetterF3](https://modrinth.com/mod/betterf3)
 * [Better Mount HUD](https://modrinth.com/mod/better-mount-hud)
+* [Couplings](https://modrinth.com/mod/couplings)
+* [EMI](https://modrinth.com/mod/emi)
+* [Inspecio](https://modrinth.com/mod/inspecio)
 * [MiniHUD](https://www.curseforge.com/minecraft/mc-mods/minihud)
+* [Mouse Tweaks](https://modrinth.com/mod/mouse-tweaks)
 * [Ok Zoomer](https://modrinth.com/mod/ok-zoomer)
+* [Symbol Chat](https://modrinth.com/mod/symbol-chat)
+* [WTHIT](https://modrinth.com/mod/wthit)
 * [Yeetus Experimentus](https://modrinth.com/mod/yeetus-experimentus)
 
 ### Resource packs
@@ -108,6 +120,7 @@ Perkpack includes a set of optimization mods, based on [Fabulously Optimized](ht
   * [ImmediatelyFast](https://modrinth.com/mod/immediatelyfast)
   * [Indium](https://modrinth.com/mod/indium)
   * [Iris](https://modrinth.com/mod/iris)
+  * [Krypton](https://modrinth.com/mod/krypton)
   * [Lithium](https://modrinth.com/mod/lithium)
   * [Memory Leak Fix](https://modrinth.com/mod/memoryleakfix)
   * [Model Gap Fix](https://modrinth.com/mod/modelfix)
