@@ -1,5 +1,3 @@
-<img src="images/perkpack-256.png" style="display: block; float: right">
-
 # Perkpack 3
 
 Perkpack is Blolol's Minecraft mod pack, used for blocky shenanigans on our Minecraft server!
