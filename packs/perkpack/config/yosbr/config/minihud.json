@@ -203,7 +203,7 @@
     "infoRegionFile": false,
     "infoRotationPitch": false,
     "infoRotationYaw": false,
-    "infoServerTPS": true,
+    "infoServerTPS": false,
     "infoSlimeChunk": false,
     "infoSpeed": false,
     "infoSpeedAxis": false,

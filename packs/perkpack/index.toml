@@ -10,7 +10,7 @@ hash = "4824da2b4a6e5e07cac60ea2c181dbc63a98ae7543e3ae1701fa0de468b4e5f0"
 
 [[files]]
 file = "config/yosbr/config/minihud.json"
-hash = "208c534e77863801c46ab471f912686dbcc981bb3ca71716be6118207dc4cab7"
+hash = "546f628ca84a2a1608fd5f2ca3b9e6a66bf59bfdf2fad3f8f102ae76c6634b6b"
 
 [[files]]
 file = "config/yosbr/options.txt"
