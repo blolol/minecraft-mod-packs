@@ -5,7 +5,7 @@ side = "client"
 [download]
 url = "https://cdn.modrinth.com/data/Q1vvjJYV/versions/Mshu5RrT/BSL_v8.2.05.zip"
 hash-format = "sha1"
-hash = "d5eeeadfea8fee1b00c8ac75e15c625324c94ff5"
+hash = "08f2b997d93c9eaa71e18886862cadf03f55437a"
 
 [update]
 [update.modrinth]
