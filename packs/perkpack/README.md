@@ -89,6 +89,27 @@ Perkpack is built around [Create](https://modrinth.com/mod/create-fabric). Creat
 * [Default Dark Mode](https://modrinth.com/resourcepack/default-dark-mode) (:new_moon_with_face:)
 * [Fresh Animations](https://modrinth.com/resourcepack/fresh-animations) (fancy mob animations)
 
+### Datapacks
+
+These are not included in the mod pack, but are used on the Perkpack servers. They're documented here in case you'd like to add them to your own singleplayer worlds.
+
+* AFK detection
+  * [Detect AFK Players](https://modrinth.com/datapack/detect-afk)
+  * [Pause Day Cycle](https://modrinth.com/datapack/pause-day-cycle)
+  * [AFK Announce](https://github.com/clo4/detect-afk/releases/tag/v1.0.0)
+  * [AFK Team](https://github.com/clo4/detect-afk/releases/tag/v1.0.0)
+* Vanilla Tweaks data packs (https://vanillatweaks.net/share#kRxmuI)
+  * Fast Leaf Decay
+  * Track Raw Statistics
+  * Track Statistics
+  * Player Head Drops
+  * Anti Enderman Grief
+  * Anti Ghast Grief
+  * Double Shulker Shells
+  * Dragon Drops
+  * More Mob Heads
+  * Wandering Trades
+
 ### Shaders
 
 Perkpack includes support for third-party shader packs using the [Iris]() mod. To enable and configure shaders in-game, use the default <kbd>o</kbd> key, and use <kbd>k</kbd> to toggle shaders on and off.
