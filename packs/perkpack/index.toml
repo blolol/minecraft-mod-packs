@@ -9,6 +9,10 @@ file = "config/yosbr/config/create-server.toml"
 hash = "4824da2b4a6e5e07cac60ea2c181dbc63a98ae7543e3ae1701fa0de468b4e5f0"
 
 [[files]]
+file = "config/yosbr/config/iris.properties"
+hash = "5815aded2bfdd4d0d6467ae72eaab5a21035960193c89414921b6ec376b69527"
+
+[[files]]
 file = "config/yosbr/config/minihud.json"
 hash = "546f628ca84a2a1608fd5f2ca3b9e6a66bf59bfdf2fad3f8f102ae76c6634b6b"
 
