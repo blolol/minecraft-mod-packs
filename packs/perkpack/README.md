@@ -62,7 +62,10 @@ There's also [a well-maintained wiki](https://create.fandom.com/wiki/Create_Mod_
 ### Quality of life
 
 * [AdvancementInfo](https://modrinth.com/mod/advancementinfo)
+* [BetterF3](https://modrinth.com/mod/betterf3)
 * [Better Mount HUD](https://modrinth.com/mod/better-mount-hud)
+* [MiniHUD](https://www.curseforge.com/minecraft/mc-mods/minihud)
+* [Ok Zoomer](https://modrinth.com/mod/ok-zoomer)
 * [Yeetus Experimentus](https://modrinth.com/mod/yeetus-experimentus)
 
 ### Resource packs
