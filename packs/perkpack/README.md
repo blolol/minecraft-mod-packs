@@ -133,6 +133,7 @@ Perkpack includes a set of optimization mods, based on [Fabulously Optimized](ht
   * [Borderless Mining](https://modrinth.com/mod/borderless-mining)
   * [Capes](https://modrinth.com/mod/capes)
   * [CIT Resewn](https://modrinth.com/mod/cit-resewn)
+  * [Clumps](https://modrinth.com/mod/clumps)
   * [Continuity](https://modrinth.com/mod/continuity)
   * [Debugify](https://modrinth.com/mod/debugify)
   * [Dynamic FPS](https://modrinth.com/mod/dynamic-fps)
