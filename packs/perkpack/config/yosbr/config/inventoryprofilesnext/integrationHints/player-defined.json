@@ -1,0 +1,83 @@
+{
+  "com.simibubi.create.content.schematics.cannon.SchematicannonMenu": {
+      "playerSideOnly": true
+  },
+  "com.simibubi.create.content.schematics.cannon.SchematicannonScreen": {
+      "buttonHints": {
+          "MOVE_TO_CONTAINER": {
+              "horizontalOffset": 8,
+              "bottom": -4
+          },
+          "SORT": {
+              "horizontalOffset": 20,
+              "bottom": 8
+          },
+          "SORT_COLUMNS": {
+              "horizontalOffset": 20,
+              "bottom": 8
+          },
+          "SORT_ROWS": {
+              "horizontalOffset": 20,
+              "bottom": 8
+          },
+          "CONTINUOUS_CRAFTING": {
+              "horizontalOffset": 32,
+              "bottom": -20
+          }
+      }
+  },
+  "com.simibubi.create.content.equipment.toolbox.ToolboxMenu": {
+      "playerSideOnly": true
+  },
+  "com.simibubi.create.content.equipment.toolbox.ToolboxScreen": {
+      "buttonHints": {
+          "MOVE_TO_CONTAINER": {
+              "horizontalOffset": 42,
+              "bottom": -4
+          },
+          "SORT": {
+              "horizontalOffset": 54,
+              "bottom": 8
+          },
+          "SORT_COLUMNS": {
+              "horizontalOffset": 54,
+              "bottom": 8
+          },
+          "SORT_ROWS": {
+              "horizontalOffset": 54,
+              "bottom": 8
+          },
+          "CONTINUOUS_CRAFTING": {
+              "horizontalOffset": 66,
+              "bottom": -20
+          }
+      }
+  },
+  "com.simibubi.create.content.schematics.table.SchematicTableMenu": {
+      "playerSideOnly": true
+  },
+  "com.simibubi.create.content.schematics.table.SchematicTableScreen": {
+      "buttonHints": {
+          "MOVE_TO_CONTAINER": {
+              "horizontalOffset": 8,
+              "bottom": -4
+          },
+          "SORT": {
+              "horizontalOffset": 20,
+              "bottom": 8
+          },
+          "SORT_COLUMNS": {
+              "horizontalOffset": 20,
+              "bottom": 8
+          },
+          "SORT_ROWS": {
+              "horizontalOffset": 20,
+              "bottom": 8
+          },
+          "CONTINUOUS_CRAFTING": {
+              "horizontalOffset": 32,
+              "bottom": -20
+          }
+      }
+  }
+}

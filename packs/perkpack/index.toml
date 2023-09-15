@@ -9,6 +9,14 @@ file = "config/yosbr/config/create-server.toml"
 hash = "4824da2b4a6e5e07cac60ea2c181dbc63a98ae7543e3ae1701fa0de468b4e5f0"
 
 [[files]]
+file = "config/yosbr/config/inventoryprofilesnext/integrationHints/player-defined.json"
+hash = "fa39c0ba3fc6d07578094aa3a69a05f30942a948c559bc88e11d6a49aa281280"
+
+[[files]]
+file = "config/yosbr/config/inventoryprofilesnext/inventoryprofiles.json"
+hash = "b3aaec91bcf07bd2bf49a83d69d9b314e014157a895964b1b6434b62b14f94a0"
+
+[[files]]
 file = "config/yosbr/config/iris.properties"
 hash = "5815aded2bfdd4d0d6467ae72eaab5a21035960193c89414921b6ec376b69527"
 
@@ -161,6 +169,11 @@ hash = "280af6886fbdec37ccfab4d8a7cbd2d3777a198a5fa0d2ec15dc9b9c8b0eff67"
 metafile = true
 
 [[files]]
+file = "mods/inventory-profiles-next.pw.toml"
+hash = "33c89073f71a972da05cfee8c8b00eec1549e406222b0abab659e38b42797820"
+metafile = true
+
+[[files]]
 file = "mods/iris.pw.toml"
 hash = "659e2447deffc797f441ed09c0b05d75138253dfacfe1479d3938e55773be4b6"
 metafile = true
@@ -168,6 +181,11 @@ metafile = true
 [[files]]
 file = "mods/krypton.pw.toml"
 hash = "71ef7cc16632c0039fe194183b5885968c6d740aaa67a58000653ae0cb40b882"
+metafile = true
+
+[[files]]
+file = "mods/libipn.pw.toml"
+hash = "8547edbdc700238255794cdbb3b142d2bdb9f17a65b36ac1ce3c92e1aa942c3d"
 metafile = true
 
 [[files]]

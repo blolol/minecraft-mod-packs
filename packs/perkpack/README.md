@@ -62,6 +62,7 @@ Perkpack is built around [Create](https://modrinth.com/mod/create-fabric). Creat
 * [Couplings](https://modrinth.com/mod/couplings) (simultaneously open adjacent doors)
 * [EMI](https://modrinth.com/mod/emi) (item and recipe viewer)
 * [Inspecio](https://modrinth.com/mod/inspecio) (fancy tooltips for maps, shulker boxes, etc.)
+* [Inventory Profiles Next](https://modrinth.com/mod/inventory-profiles-next) (inventory sorting and other related features)
 * [MiniHUD](https://www.curseforge.com/minecraft/mc-mods/minihud) (extremely customizable HUD, use <kbd>h</kbd> to toggle and </kbd>h + c</kbd> to configure)
 * [Mouse Tweaks](https://modrinth.com/mod/mouse-tweaks) (nicer inventory management)
 * [Ok Zoomer](https://modrinth.com/mod/ok-zoomer) (use <kbd>c</kbd> and your mouse wheel to zoom)
