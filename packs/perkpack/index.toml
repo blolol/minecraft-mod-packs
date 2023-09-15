@@ -14,7 +14,7 @@ hash = "fa39c0ba3fc6d07578094aa3a69a05f30942a948c559bc88e11d6a49aa281280"
 
 [[files]]
 file = "config/yosbr/config/inventoryprofilesnext/inventoryprofiles.json"
-hash = "b3aaec91bcf07bd2bf49a83d69d9b314e014157a895964b1b6434b62b14f94a0"
+hash = "5a9d3e3dcffc69adc5f1b37d4831d7c60814942bf4e0701634b6296ac1910f56"
 
 [[files]]
 file = "config/yosbr/config/iris.properties"
@@ -176,6 +176,11 @@ metafile = true
 [[files]]
 file = "mods/iris.pw.toml"
 hash = "659e2447deffc797f441ed09c0b05d75138253dfacfe1479d3938e55773be4b6"
+metafile = true
+
+[[files]]
+file = "mods/itemswapper.pw.toml"
+hash = "a87a5e7a9a1234525c9b2d5259e061317c35e0c863c2b061a2e6d2826c05f152"
 metafile = true
 
 [[files]]
