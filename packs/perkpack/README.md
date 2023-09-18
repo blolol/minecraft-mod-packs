@@ -68,6 +68,7 @@ Perkpack is built around [Create](https://modrinth.com/mod/create-fabric). Creat
 * [Mouse Tweaks](https://modrinth.com/mod/mouse-tweaks) (nicer inventory management)
 * [Ok Zoomer](https://modrinth.com/mod/ok-zoomer) (use <kbd>c</kbd> and your mouse wheel to zoom)
 * [Symbol Chat](https://modrinth.com/mod/symbol-chat) (easy access to Unicode symbols when chatting, editing signs, and naming items with anvils)
+* [Trinkets](https://modrinth.com/mod/trinkets) (wear a helm and Create engineering goggles at the same time!)
 * [WTHIT](https://modrinth.com/mod/wthit) (tells you what the hell you're looking at)
 * [Yeetus Experimentus](https://modrinth.com/mod/yeetus-experimentus) (silences the experimental features warning when creating a new world)
 
