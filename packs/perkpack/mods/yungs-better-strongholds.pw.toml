@@ -1,13 +1,13 @@
 name = "YUNG's Better Strongholds"
-filename = "YungsBetterStrongholds-1.20-Fabric-4.0.1.jar"
+filename = "YungsBetterStrongholds-1.20-Fabric-4.0.3.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/kidLKymU/versions/A5qUVGg0/YungsBetterStrongholds-1.20-Fabric-4.0.1.jar"
+url = "https://cdn.modrinth.com/data/kidLKymU/versions/yV6hn0bB/YungsBetterStrongholds-1.20-Fabric-4.0.3.jar"
 hash-format = "sha1"
-hash = "2d248c244327e1fcfa04e040daca3966093fb620"
+hash = "f7a5eb03935abe845c6691ae99ae42889fdd5da1"
 
 [update]
 [update.modrinth]
 mod-id = "kidLKymU"
-version = "A5qUVGg0"
+version = "yV6hn0bB"
