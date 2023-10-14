@@ -55,6 +55,7 @@ Perkpack is built around [Create](https://modrinth.com/mod/create-fabric). Creat
 ### New content
 
 * [Chipped](https://modrinth.com/mod/chipped) (thousands of building block variants)
+* [Extended Drawers](https://modrinth.com/mod/extended-drawers) (store items in drawers)
 
 ### Quality of life
 

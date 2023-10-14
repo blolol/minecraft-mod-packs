@@ -9,6 +9,10 @@ file = "config/yosbr/config/create-server.toml"
 hash = "4824da2b4a6e5e07cac60ea2c181dbc63a98ae7543e3ae1701fa0de468b4e5f0"
 
 [[files]]
+file = "config/yosbr/config/extended_drawers.json"
+hash = "bb4cd41035374d80086fb74c4dae5c4caf33ffcebb7aa1fba4af2f45290175a0"
+
+[[files]]
 file = "config/yosbr/config/inventoryprofilesnext/integrationHints/player-defined.json"
 hash = "fa39c0ba3fc6d07578094aa3a69a05f30942a948c559bc88e11d6a49aa281280"
 
@@ -154,6 +158,11 @@ hash = "16c35cba683a08826b0fcf0da850460c0bad60b2eae5d6e3c437fec705aca77d"
 metafile = true
 
 [[files]]
+file = "mods/extended-drawers.pw.toml"
+hash = "e3137551d2a404841772a0f7e2ea734857d866aa6d5bb18ac51b2a714e2e5cb3"
+metafile = true
+
+[[files]]
 file = "mods/fadeless.pw.toml"
 hash = "bd5311680997fada18e6492a91770fdc0762c718b3109820d67c1b019c2f1bf8"
 metafile = true
@@ -251,6 +260,11 @@ metafile = true
 [[files]]
 file = "mods/ok-zoomer.pw.toml"
 hash = "a60f50e7c0ae6420e4a36f4e2fabaa4663bf79236531c1b23fd9c425121b2203"
+metafile = true
+
+[[files]]
+file = "mods/patchouli.pw.toml"
+hash = "cd1f0cf0ae2b6e1c14e3caa4685ae721cb590835110e076400cd986be1db9903"
 metafile = true
 
 [[files]]
