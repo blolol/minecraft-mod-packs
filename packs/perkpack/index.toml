@@ -174,7 +174,7 @@ metafile = true
 
 [[files]]
 file = "mods/extended-drawers.pw.toml"
-hash = "e3137551d2a404841772a0f7e2ea734857d866aa6d5bb18ac51b2a714e2e5cb3"
+hash = "d07327811b3ed617a25af4b9e114358320840c83c34e8a14079a797d24394e79"
 metafile = true
 
 [[files]]
@@ -444,7 +444,7 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/bsl-shaders.pw.toml"
-hash = "820c7a11a6d105ee6b8e4faaf0b93f807fcdbc803f816437e2170c76c439e38c"
+hash = "1ba03fe6f860ba25078f9ae09e36fccce65934dd8010693f7fe320f29ea4deb8"
 metafile = true
 
 [[files]]
