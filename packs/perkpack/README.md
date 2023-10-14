@@ -58,6 +58,7 @@ Perkpack is built around [Create](https://modrinth.com/mod/create-fabric). Creat
 * [Chunk Loaders](https://modrinth.com/mod/chunk-loaders) (keep chunks loaded when you're not around)
 * [Decorative Blocks](https://modrinth.com/mod/decorative-blocks) (supports, pillars, chains, beams, braziers, chandeliers and more, oh my)
 * [Extended Drawers](https://modrinth.com/mod/extended-drawers) (store items in drawers)
+* [Macaw's Fences & Walls](https://www.curseforge.com/minecraft/mc-mods/macaws-fences-and-walls) (more fences! more walls!)
 
 ### Quality of life
 
