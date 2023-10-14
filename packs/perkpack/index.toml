@@ -44,6 +44,11 @@ hash = "f0463f1b50e2c2ab3c726b14236b22e07ce9be4896528ede9d51486a212a5c07"
 metafile = true
 
 [[files]]
+file = "mods/athena-ctm.pw.toml"
+hash = "ead86ab1bacf74c7ad2d28c11157c2982fab4d15d2c25158e77b7491eff3d983"
+metafile = true
+
+[[files]]
 file = "mods/autorun.pw.toml"
 hash = "66b3916052ccf9d06959db9faccd126aa2eccefc2b002f685d7a00a3b8a19549"
 metafile = true
@@ -71,6 +76,11 @@ metafile = true
 [[files]]
 file = "mods/capes.pw.toml"
 hash = "4c712d7ad6d2ddb130b845c3b2c660be7cb7795db21be00b130443730719305e"
+metafile = true
+
+[[files]]
+file = "mods/chipped.pw.toml"
+hash = "fd15a165cf8782b21ea9ce958468dbb4bee1fc092fd3d83f901631e075eced75"
 metafile = true
 
 [[files]]
@@ -256,6 +266,11 @@ metafile = true
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "44b0a2294e1693230308e53b529d671a0303e94b623ba2c2650cdf5760a5a335"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-lib.pw.toml"
+hash = "c89835f045a03832c287470cd1729a70f1265e3eac7b3cdaf603c3c1fd677689"
 metafile = true
 
 [[files]]

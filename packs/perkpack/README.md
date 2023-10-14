@@ -52,6 +52,10 @@ Perkpack is built around [Create](https://modrinth.com/mod/create-fabric). Creat
   There's also [a well-maintained wiki](https://create.fandom.com/wiki/Create_Mod_Wiki) and lots of Create content on YouTube!
 </details>
 
+### New content
+
+* [Chipped](https://modrinth.com/mod/chipped) (thousands of building block variants)
+
 ### Quality of life
 
 * [AdvancementInfo](https://modrinth.com/mod/advancementinfo) (nicer advancements screen)
