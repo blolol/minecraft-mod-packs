@@ -30,7 +30,7 @@ hash = "546f628ca84a2a1608fd5f2ca3b9e6a66bf59bfdf2fad3f8f102ae76c6634b6b"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "16fd5cc47ad9428878192ba653f57a4a558d249864b2f09031984f037d1e3262"
+hash = "5aa5b554585a920bded9fdbc8511fe61660b24c616632bdb7fe6f71b334032fe"
 
 [[files]]
 file = "mods/advancementinfo.pw.toml"
@@ -85,6 +85,11 @@ metafile = true
 [[files]]
 file = "mods/chipped.pw.toml"
 hash = "fd15a165cf8782b21ea9ce958468dbb4bee1fc092fd3d83f901631e075eced75"
+metafile = true
+
+[[files]]
+file = "mods/chunk-loaders.pw.toml"
+hash = "41a89c0fe615607eb0f02c93d38680ff5fbaba96c45b71065a47317c142c86b2"
 metafile = true
 
 [[files]]
@@ -300,6 +305,16 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "9a927c3e0830ba32e1b8a2e543597781724462595b8cce58f676962b442bb52b"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-config-lib.pw.toml"
+hash = "075b0a946ee6bc32d2eadde90257bdf53d09493978b3b7add5af49716691799e"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-core-lib.pw.toml"
+hash = "8d2d9bf76b6a9dddada92d642ac89d57a46d7ff629b6275958ff1d14d3d1a884"
 metafile = true
 
 [[files]]
