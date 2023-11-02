@@ -60,6 +60,7 @@ Perkpack is built around [Create](https://modrinth.com/mod/create-fabric). Creat
 * [Create: Jetpack](https://modrinth.com/mod/create-jetpack)
 * [Create: Steam 'n' Rails](https://modrinth.com/mod/create-steam-n-rails)
 * [Decorative Blocks](https://modrinth.com/mod/decorative-blocks) (supports, pillars, chains, beams, braziers, chandeliers and more, oh my)
+* [Dramatic Doors](https://modrinth.com/mod/dramatic-doors) (one- and three-block-tall door variants)
 * [Extended Drawers](https://modrinth.com/mod/extended-drawers) (store items in drawers)
 * [Handcrafted](https://modrinth.com/mod/handcrafted) (comfy furniture and decorations)
 * [Macaw's Bridges](https://www.curseforge.com/minecraft/mc-mods/macaws-bridges) (bridge and stair variants)
