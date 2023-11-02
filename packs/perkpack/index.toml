@@ -9,6 +9,14 @@ file = "config/yosbr/config/create-server.toml"
 hash = "4824da2b4a6e5e07cac60ea2c181dbc63a98ae7543e3ae1701fa0de468b4e5f0"
 
 [[files]]
+file = "config/yosbr/config/create_jetpack-client.toml"
+hash = "9bce287b5409f809b69d4b7fa4848993ec5fdc92561cb65318dae044a1ddbef7"
+
+[[files]]
+file = "config/yosbr/config/create_jetpack-common.toml"
+hash = "a85c09eac46f7fb2729d02abb34527952683c9539233b96049028c14fc571c27"
+
+[[files]]
 file = "config/yosbr/config/extended_drawers.json"
 hash = "bb4cd41035374d80086fb74c4dae5c4caf33ffcebb7aa1fba4af2f45290175a0"
 
@@ -129,6 +137,11 @@ metafile = true
 [[files]]
 file = "mods/create-fabric-sodium-fix.pw.toml"
 hash = "738234a75b69eadde29b6ebda5f0be28a3ac7f583d31f9a9a62febd4e784c3b7"
+metafile = true
+
+[[files]]
+file = "mods/create-jetpack.pw.toml"
+hash = "61ad112f947709507c21d9755cbde300bea4fab210f4d54e37085ce6ae6a7231"
 metafile = true
 
 [[files]]
