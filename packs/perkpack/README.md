@@ -58,6 +58,7 @@ Perkpack is built around [Create](https://modrinth.com/mod/create-fabric). Creat
 * [Chunk Loaders](https://modrinth.com/mod/chunk-loaders) (keep chunks loaded when you're not around)
 * [Create: Diesel Generators](https://modrinth.com/mod/create-diesel-generators-fabric)
 * [Create: Jetpack](https://modrinth.com/mod/create-jetpack)
+* [Create: Steam 'n' Rails](https://modrinth.com/mod/create-steam-n-rails)
 * [Decorative Blocks](https://modrinth.com/mod/decorative-blocks) (supports, pillars, chains, beams, braziers, chandeliers and more, oh my)
 * [Extended Drawers](https://modrinth.com/mod/extended-drawers) (store items in drawers)
 * [Handcrafted](https://modrinth.com/mod/handcrafted) (comfy furniture and decorations)
