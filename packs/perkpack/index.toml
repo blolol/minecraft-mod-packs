@@ -413,6 +413,11 @@ hash = "1c43a497cc911474b50a0706b05f1e6040179f1443a59112f2c56157f12c7165"
 metafile = true
 
 [[files]]
+file = "mods/time-control.pw.toml"
+hash = "e910a683a61b0569ec1a8bb9a811afd58bd777cc60c911c6561daa2800432738"
+metafile = true
+
+[[files]]
 file = "mods/traverse.pw.toml"
 hash = "fa828cee58820db21721f890e029e0469480e330ff44556d1611ddb5faf9da64"
 metafile = true
