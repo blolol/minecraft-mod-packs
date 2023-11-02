@@ -3,3 +3,7 @@ resourcePacks:["vanilla","file/FreshAnimations_v1.8.1.zip","continuity/default",
 incompatibleResourcePacks:["file/FreshAnimations_v1.8.1.zip"]
 key_key.autorun.toggle:key.keyboard.grave.accent
 key_chunkloaders.keys.open_screen:key.keyboard.unknown
+key_key.jetpack.toggle_active.description:key.keyboard.g
+key_key.jetpack.toggle_hover.description:key.keyboard.h
+key_key.showmeyourskin.open_settings:key.keyboard.k
+key_key.showmeyourskin.global_toggle:key.keyboard.j

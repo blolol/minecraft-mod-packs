@@ -41,8 +41,16 @@ file = "config/yosbr/config/minihud.json"
 hash = "546f628ca84a2a1608fd5f2ca3b9e6a66bf59bfdf2fad3f8f102ae76c6634b6b"
 
 [[files]]
+file = "config/yosbr/config/showmeyourskin-server.json"
+hash = "a04c497c7fe26f24b5efab88e631362859b677db15d6d1b8c7818cbfe80cf3b7"
+
+[[files]]
+file = "config/yosbr/options.amecsapi.txt"
+hash = "4f7e38ee7c2006606f925bd8469b4841091492e93780a6d5377ab6e55c957a5c"
+
+[[files]]
 file = "config/yosbr/options.txt"
-hash = "5aa5b554585a920bded9fdbc8511fe61660b24c616632bdb7fe6f71b334032fe"
+hash = "96565e9336f133f29792740278725032bc29e69d3f69d844296408a063e22b28"
 
 [[files]]
 file = "mods/advancementinfo.pw.toml"
@@ -357,6 +365,11 @@ metafile = true
 [[files]]
 file = "mods/servux.pw.toml"
 hash = "5e78027ca7fa10fb5ca74614dae6941696f7db526afb36f678df75a636cf8739"
+metafile = true
+
+[[files]]
+file = "mods/show-me-your-skin.pw.toml"
+hash = "c43e60b6454158457ae778da78627e3cdcd452c3411702337c10c72b95064df1"
 metafile = true
 
 [[files]]

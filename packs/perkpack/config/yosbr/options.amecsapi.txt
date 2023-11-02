@@ -1,0 +1,4 @@
+key_modifiers_key.jetpack.toggle_active.description:0,1,0
+key_modifiers_key.jetpack.toggle_hover.description:0,1,0
+key_modifiers_key.showmeyourskin.open_settings:1,0,0
+key_modifiers_key.showmeyourskin.global_toggle:1,0,0
