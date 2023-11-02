@@ -71,6 +71,7 @@ Perkpack is built around [Create](https://modrinth.com/mod/create-fabric). Creat
 * [Better Mount HUD](https://modrinth.com/mod/better-mount-hud) (more useful HUD while riding)
 * [Couplings](https://modrinth.com/mod/couplings) (simultaneously open adjacent doors)
 * [EMI](https://modrinth.com/mod/emi) (item and recipe viewer)
+* [FallingTree](https://modrinth.com/mod/fallingtree) (enchant your axe to fell entire trees at once)
 * [Inspecio](https://modrinth.com/mod/inspecio) (fancy tooltips for maps, shulker boxes, etc.)
 * [Inventory Profiles Next](https://modrinth.com/mod/inventory-profiles-next) (inventory sorting and other related features)
 * [ItemSwapper](https://modrinth.com/plugin/itemswapper) (quick item switching using <kbd>r</kbd>)

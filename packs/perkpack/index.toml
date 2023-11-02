@@ -13,6 +13,10 @@ file = "config/yosbr/config/extended_drawers.json"
 hash = "bb4cd41035374d80086fb74c4dae5c4caf33ffcebb7aa1fba4af2f45290175a0"
 
 [[files]]
+file = "config/yosbr/config/fallingtree.json"
+hash = "55a756620d44aa5f6d7a50de8a04b7f28def4583c130dead82137b3a3acc0fc3"
+
+[[files]]
 file = "config/yosbr/config/inventoryprofilesnext/integrationHints/player-defined.json"
 hash = "fa39c0ba3fc6d07578094aa3a69a05f30942a948c559bc88e11d6a49aa281280"
 
@@ -180,6 +184,11 @@ metafile = true
 [[files]]
 file = "mods/fadeless.pw.toml"
 hash = "bd5311680997fada18e6492a91770fdc0762c718b3109820d67c1b019c2f1bf8"
+metafile = true
+
+[[files]]
+file = "mods/fallingtree.pw.toml"
+hash = "9e2a974e3b686e1e0370722b2e59497c99baeff1a844ff30131a22818d17f3b7"
 metafile = true
 
 [[files]]
