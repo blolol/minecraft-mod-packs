@@ -22,6 +22,9 @@ Mod pack updates are also announced by Wheaties in the `#minecraft` channels of 
 
 Playing Perkpack is pretty simple stuff. You'll only need to install the mod pack once per significant Minecraft update (e.g. from Minecraft 1.19 to 1.20). It will otherwise automatically keep itself up to date.
 
+> [!IMPORTANT]
+> **If you already have Prism Launcher installed, make sure you're running version 7.2 or newer.** Earlier versions may fail to launch the mod pack and show an error like "The process failed to start.  Pre-Launch command failed with code 0."
+
 1. Install [Java](https://prismlauncher.org/wiki/getting-started/installing-java/).
 1. Install [Prism Launcher](https://prismlauncher.org).
 1. In Prism Launcher, click "Add Instance", then "Import".
