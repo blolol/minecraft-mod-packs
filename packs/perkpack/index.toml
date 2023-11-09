@@ -428,6 +428,11 @@ hash = "b2e02d1210f025b905299bfc88f895058640158343322641aca2c4875622c992"
 metafile = true
 
 [[files]]
+file = "mods/villager-leads.pw.toml"
+hash = "3a56c2815869dd7c60e9a3ab1734e652abf15cea78162c7d135ddf04f6eecc52"
+metafile = true
+
+[[files]]
 file = "mods/wthit.pw.toml"
 hash = "874a680170fbf36204ee1c4e57650b6a28b15d10a32163964850aaccc9a7457a"
 metafile = true
