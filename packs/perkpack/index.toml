@@ -1,6 +1,42 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/bluemap/core.conf"
+hash = "92a4db6786e699b4b1d7904609b6e843dcefffe4230cd273e0005dfe7fc9b9c0"
+
+[[files]]
+file = "config/bluemap/maps/end.conf"
+hash = "707557319244326590749a5738d87269e64dc1fb373f364c678e94ba60de26fc"
+
+[[files]]
+file = "config/bluemap/maps/nether-roof.conf"
+hash = "cf1bf84c17956492c0a91c7f7a5bc5d0238a90c31437a55688bc7ebaa287c6e7"
+
+[[files]]
+file = "config/bluemap/maps/overworld.conf"
+hash = "309861d965764d7a46f008a5e8ee21547b423718a071c6f3887c91b4424fc986"
+
+[[files]]
+file = "config/bluemap/plugin.conf"
+hash = "526c17706d05ccff505ee369ea115a77dfec9ccddb10f9a5c3d7f2ed3ac5d948"
+
+[[files]]
+file = "config/bluemap/storages/file.conf"
+hash = "bc22faeb151c936963e4f66e6f8e1a5cf4745b1c08f20e7b16ffb6b54a847aeb"
+
+[[files]]
+file = "config/bluemap/storages/sql.conf"
+hash = "e432cc1478308cd47177754911268c4119b14bc2775ff21194efda1001274fb7"
+
+[[files]]
+file = "config/bluemap/webapp.conf"
+hash = "a5f8f3922402aa168207b70432c319108ae983155d2603d700faa5aa4383274e"
+
+[[files]]
+file = "config/bluemap/webserver.conf"
+hash = "72c46f94834d5341ac5b1071ddf074c7a31baed1a3f37e387c48e9a5f9cd372a"
+
+[[files]]
 file = "config/yosbr/config/MouseTweaks.cfg"
 hash = "adc06ca99bdc9ecb6181f28dc38199e2bbc2d1907bf095de41a0e7e2842c98ea"
 
@@ -95,6 +131,16 @@ metafile = true
 [[files]]
 file = "mods/betterf3.pw.toml"
 hash = "ba31b113733abc813e36738bdc8104fad628232d29907f66f48cf8c45299de9f"
+metafile = true
+
+[[files]]
+file = "mods/bluemap-sign-markers.pw.toml"
+hash = "6629d607e986cec66e2ca7440dbb3fde85ad80def8cc2c6793b6feade47ecc8f"
+metafile = true
+
+[[files]]
+file = "mods/bluemap.pw.toml"
+hash = "7d6d52853ebaee0e2e446385eec5c38aa9cb7211a3e00ef546433bb2e5450457"
 metafile = true
 
 [[files]]

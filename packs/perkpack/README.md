@@ -181,6 +181,13 @@ Perkpack includes a set of optimization mods, based on [Fabulously Optimized](ht
   * [Sodium](https://modrinth.com/mod/sodium)
 </details>
 
+### Server-only
+
+These mods only run on the server.
+
+* [BlueMap](https://modrinth.com/plugin/bluemap)
+* [BlueMap Sign Markers](https://modrinth.com/mod/bluemap-sign-markers)
+
 ## Development
 
 ### Testing the pack
