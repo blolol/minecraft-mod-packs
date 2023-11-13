@@ -185,6 +185,7 @@ Perkpack includes a set of optimization mods, based on [Fabulously Optimized](ht
 
 These mods only run on the server.
 
+* [Axiom](https://modrinth.com/mod/axiom)
 * [BlueMap](https://modrinth.com/plugin/bluemap)
 * [BlueMap Sign Markers](https://modrinth.com/mod/bluemap-sign-markers)
 
