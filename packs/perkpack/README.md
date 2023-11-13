@@ -183,11 +183,20 @@ Perkpack includes a set of optimization mods, based on [Fabulously Optimized](ht
 
 ### Server-only
 
-These mods only run on the server.
+These mods are only installed by default on the server. They're used for server administration.
+
+<details>
+  <summary>
+    Click to expand list of server-only mods
+  </summary>
 
 * [Axiom](https://modrinth.com/mod/axiom)
 * [BlueMap](https://modrinth.com/plugin/bluemap)
 * [BlueMap Sign Markers](https://modrinth.com/mod/bluemap-sign-markers)
+* [Scroll for WorldEdit](https://www.curseforge.com/minecraft/mc-mods/scroll-for-worldedit)
+* [WorldEdit](https://www.curseforge.com/minecraft/mc-mods/worldedit)
+* [WorldEdit CUI](https://www.curseforge.com/minecraft/mc-mods/worldeditcui-fabric)
+</details>
 
 ## Development
 

@@ -414,6 +414,11 @@ hash = "c89835f045a03832c287470cd1729a70f1265e3eac7b3cdaf603c3c1fd677689"
 metafile = true
 
 [[files]]
+file = "mods/scroll-for-worldedit.pw.toml"
+hash = "443dd86e6154c6bd033b43ef1812e4fbb21988c02a61eb9c01b699b7a1e14cea"
+metafile = true
+
+[[files]]
 file = "mods/servux.pw.toml"
 hash = "5e78027ca7fa10fb5ca74614dae6941696f7db526afb36f678df75a636cf8739"
 metafile = true
@@ -481,6 +486,16 @@ metafile = true
 [[files]]
 file = "mods/villager-leads.pw.toml"
 hash = "3a56c2815869dd7c60e9a3ab1734e652abf15cea78162c7d135ddf04f6eecc52"
+metafile = true
+
+[[files]]
+file = "mods/worldedit.pw.toml"
+hash = "315afc024f86659bb71ee99e0232396d4740c1c9ffabd2a244d4c9dfecbb9562"
+metafile = true
+
+[[files]]
+file = "mods/worldeditcui-fabric.pw.toml"
+hash = "6cb7fe009cd19d07ffe4dc35d8a739d40e565bdbba1eda42fc2b09ad745e46eb"
 metafile = true
 
 [[files]]
