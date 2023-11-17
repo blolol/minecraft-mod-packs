@@ -1,4 +1,5 @@
 *.DS_Store
+datapacks/*
 dependencies.md
 docker-compose.yml
 images

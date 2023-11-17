@@ -220,3 +220,14 @@ To learn how to contribute your changes to Perkpack, see [this repository's main
 ### Building `prism-instance.zip`
 
 To build `prism-instance.zip`, run `make` in this directory. Use `make clean` to remove it.
+
+### Building data packs
+
+To build any of the custom data packs in `packs/perkpack/datapacks`, first change directory into the datapack's folder, then use `zip` to create an archive. This avoids creating a top-level folder within the resulting zip file, which will prevent Minecraft from identifying the data pack.
+
+```
+cd datapacks/perkpack_extended_drawers
+zip -r ../perkpack_extended_drawers.zip .
+```
+
+You can also use e.g. `make datapacks/perkpack_extended_drawers.zip`.
