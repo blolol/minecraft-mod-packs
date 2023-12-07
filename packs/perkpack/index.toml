@@ -284,6 +284,11 @@ hash = "9198158df2e73f860f7352adabc41d2341659ade1ddd07f340c45d0fb9a6cfa5"
 metafile = true
 
 [[files]]
+file = "mods/farmers-delight-fabric.pw.toml"
+hash = "76a2166b6bc2678069a93ced5969d56ee8189d6a30a86f57da75bd89af0e7f4c"
+metafile = true
+
+[[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "39a6a39433b1b104bfafafcd60a8171f866daa2ebefffd64df822d0e69288e3a"
 metafile = true
@@ -431,6 +436,11 @@ metafile = true
 [[files]]
 file = "mods/show-me-your-skin.pw.toml"
 hash = "c43e60b6454158457ae778da78627e3cdcd452c3411702337c10c72b95064df1"
+metafile = true
+
+[[files]]
+file = "mods/slice-and-dice.pw.toml"
+hash = "89fc4d8fa43ced76ba5452eef196d5986d831ba828921cc133e4fc6139a123f0"
 metafile = true
 
 [[files]]
