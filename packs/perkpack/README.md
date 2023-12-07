@@ -59,6 +59,7 @@ Perkpack is built around [Create](https://modrinth.com/mod/create-fabric). Creat
 
 * [Chipped](https://modrinth.com/mod/chipped) (thousands of building block variants)
 * [Chunk Loaders](https://modrinth.com/mod/chunk-loaders) (keep chunks loaded when you're not around)
+* [Create: Deco](https://www.curseforge.com/minecraft/mc-mods/create-deco-fabric) (new Create-themed decoration blocks)
 * [Create: Diesel Generators](https://modrinth.com/mod/create-diesel-generators-fabric)
 * [Create: Jetpack](https://modrinth.com/mod/create-jetpack)
 * [Create: Steam 'n' Rails](https://modrinth.com/mod/create-steam-n-rails)

@@ -194,18 +194,23 @@ hash = "47e796fa0168407d6bf12e3aac6cf29881960df43ed21f844ab34ac891ee0730"
 metafile = true
 
 [[files]]
+file = "mods/create-deco-fabric.pw.toml"
+hash = "b2a5a33a6f778f8e96ce3e31deae416cdc63446caa21fad1a88128309b2121be"
+metafile = true
+
+[[files]]
 file = "mods/create-diesel-generators-fabric.pw.toml"
 hash = "d2218b74d104cfd239c2bc6e1a3adb92142f3437f40d2053d9adb95bb5b7fd86"
 metafile = true
 
 [[files]]
-file = "mods/create-fabric-sodium-fix.pw.toml"
-hash = "738234a75b69eadde29b6ebda5f0be28a3ac7f583d31f9a9a62febd4e784c3b7"
+file = "mods/create-jetpack.pw.toml"
+hash = "61ad112f947709507c21d9755cbde300bea4fab210f4d54e37085ce6ae6a7231"
 metafile = true
 
 [[files]]
-file = "mods/create-jetpack.pw.toml"
-hash = "61ad112f947709507c21d9755cbde300bea4fab210f4d54e37085ce6ae6a7231"
+file = "mods/create-sodium-fix.pw.toml"
+hash = "8a459a56c6bd2380679dbaf026cad12b500ee62c6339d48773fe09e5da9dc4dd"
 metafile = true
 
 [[files]]

@@ -1,0 +1,7 @@
+name = "create-sodium-fix"
+filename = "create-sodium-fix-0.5.1-d-build.1161+mc1.20.1.jar"
+
+[download]
+url = "https://minecraft.s3.amazonaws.com/mods/1.20.1/create-sodium-fix-0.5.1-d-build.1161%2Bmc1.20.1.jar"
+hash-format = "sha256"
+hash = "94af4b6379ec306a01157ae499ecf2d6a697bb92b0241353356fb6fce4fd8f31"
