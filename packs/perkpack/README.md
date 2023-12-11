@@ -72,6 +72,7 @@ Perkpack is built around [Create](https://modrinth.com/mod/create-fabric). Creat
 * [Macaw's Bridges](https://www.curseforge.com/minecraft/mc-mods/macaws-bridges) (bridge and stair variants)
 * [Macaw's Fences & Walls](https://www.curseforge.com/minecraft/mc-mods/macaws-fences-and-walls) (fence, wall and gate variants)
 * [Supplementaries](https://modrinth.com/mod/supplementaries) (lots of vanilla-like content; refer to [its wiki](https://github.com/MehVahdJukaar/Supplementaries/wiki))
+* [Traveler's Backpack](https://modrinth.com/mod/travelersbackpack) (haul your stuff around in style)
 
 ### Quality of life
 
