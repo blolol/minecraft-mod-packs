@@ -95,6 +95,7 @@ Perkpack is built around [Create](https://modrinth.com/mod/create-fabric). Creat
 * [Show Me Your Skin!](https://modrinth.com/mod/show-me-your-skin) (hide your armor if you'd prefer)
 * [Symbol Chat](https://modrinth.com/mod/symbol-chat) (easy access to Unicode symbols when chatting, editing signs, and naming items with anvils)
 * [Time Control](https://modrinth.com/mod/time-control) (customization of the day/night cycle)
+* [Trade Cycling](https://modrinth.com/mod/trade-cycling) (cycle villager trades with the click of a button)
 * [Trinkets](https://modrinth.com/mod/trinkets) (wear a helm and Create engineering goggles at the same time!)
 * [VillagerLeads](https://modrinth.com/mod/villager-leads) (leash villagers and wandering traders)
 * [WTHIT](https://modrinth.com/mod/wthit) (tells you what the hell you're looking at)
