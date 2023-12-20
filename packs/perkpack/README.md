@@ -74,6 +74,7 @@ Perkpack is built around [Create](https://modrinth.com/mod/create-fabric). Creat
 * [Nether Chest](https://modrinth.com/mod/nether-chest) (shared Ender Chest)
 * [Supplementaries](https://modrinth.com/mod/supplementaries) (lots of vanilla-like content; refer to [its wiki](https://github.com/MehVahdJukaar/Supplementaries/wiki))
 * [Traveler's Backpack](https://modrinth.com/mod/travelersbackpack) (haul your stuff around in style)
+* [Waystones](https://modrinth.com/mod/waystones) (teleport around the world)
 
 ### Quality of life
 

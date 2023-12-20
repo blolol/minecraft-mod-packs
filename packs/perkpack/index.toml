@@ -37,6 +37,10 @@ file = "config/bluemap/webserver.conf"
 hash = "72c46f94834d5341ac5b1071ddf074c7a31baed1a3f37e387c48e9a5f9cd372a"
 
 [[files]]
+file = "config/waystones-common.toml"
+hash = "4f4587d57cec656e9c268eed9b95b3c577fa9780eefa54d4b2c18d1c7408711a"
+
+[[files]]
 file = "config/yosbr/config/MouseTweaks.cfg"
 hash = "adc06ca99bdc9ecb6181f28dc38199e2bbc2d1907bf095de41a0e7e2842c98ea"
 
@@ -129,6 +133,11 @@ hash = "e5a68e0e0d90aac1d965ab7cab5858c474e875be9012a7c8a3adf96420faa726"
 metafile = true
 
 [[files]]
+file = "mods/balm.pw.toml"
+hash = "b25474cd7e4cff1ff70fbcbd1a466aa518850d8fa82da1114667f04a03fc9fff"
+metafile = true
+
+[[files]]
 file = "mods/better-mount-hud.pw.toml"
 hash = "961a423cc427d4c785354239e8e7b251b5575756b1cf85dd1bc85011b47f0fbf"
 metafile = true
@@ -201,6 +210,11 @@ metafile = true
 [[files]]
 file = "mods/couplings.pw.toml"
 hash = "47e796fa0168407d6bf12e3aac6cf29881960df43ed21f844ab34ac891ee0730"
+metafile = true
+
+[[files]]
+file = "mods/crafttweaker.pw.toml"
+hash = "f504ad6d6e32d60deea0e15bfa645259ff42d7b6d36dd8ebc72e7a221de883ca"
 metafile = true
 
 [[files]]
@@ -301,6 +315,11 @@ metafile = true
 [[files]]
 file = "mods/farmers-delight-fabric.pw.toml"
 hash = "dc4a6ad558baacff8619bcb127784bfa27eb6ca4c177eae12d86b833eca80694"
+metafile = true
+
+[[files]]
+file = "mods/faux-custom-entity-data.pw.toml"
+hash = "a4da8bc46ad51d30597bd2235add659f0ee49123a7140487de7d127659a87e4b"
 metafile = true
 
 [[files]]
@@ -544,6 +563,11 @@ hash = "3a56c2815869dd7c60e9a3ab1734e652abf15cea78162c7d135ddf04f6eecc52"
 metafile = true
 
 [[files]]
+file = "mods/waystones.pw.toml"
+hash = "086f56d0a3c8f1a7b289b9949d7de08362f717295d89f0db0d13421ec860a453"
+metafile = true
+
+[[files]]
 file = "mods/worldedit.pw.toml"
 hash = "315afc024f86659bb71ee99e0232396d4740c1c9ffabd2a244d4c9dfecbb9562"
 metafile = true
@@ -622,6 +646,10 @@ metafile = true
 file = "resourcepacks/fresh-animations.pw.toml"
 hash = "5923c680ba9498fd3025a457ab2c57febc6c9c66bee660175df4d35eb17dc2a4"
 metafile = true
+
+[[files]]
+file = "scripts/perkpack/waystones.zs"
+hash = "636abda5b2867e4640aee34f9ce41e0e75c20788d4666d4ed25b9268897e3413"
 
 [[files]]
 file = "shaderpacks/bsl-shaders.pw.toml"
