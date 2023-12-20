@@ -71,6 +71,7 @@ Perkpack is built around [Create](https://modrinth.com/mod/create-fabric). Creat
 * [Handcrafted](https://modrinth.com/mod/handcrafted) (comfy furniture and decorations)
 * [Macaw's Bridges](https://www.curseforge.com/minecraft/mc-mods/macaws-bridges) (bridge and stair variants)
 * [Macaw's Fences & Walls](https://www.curseforge.com/minecraft/mc-mods/macaws-fences-and-walls) (fence, wall and gate variants)
+* [Nether Chest](https://modrinth.com/mod/nether-chest) (shared Ender Chest)
 * [Supplementaries](https://modrinth.com/mod/supplementaries) (lots of vanilla-like content; refer to [its wiki](https://github.com/MehVahdJukaar/Supplementaries/wiki))
 * [Traveler's Backpack](https://modrinth.com/mod/travelersbackpack) (haul your stuff around in style)
 

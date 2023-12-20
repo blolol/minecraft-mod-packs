@@ -414,6 +414,11 @@ hash = "669008dbd2508a67f8c409096cf2357de450f26a69494289e5852045ade7d358"
 metafile = true
 
 [[files]]
+file = "mods/nether-chest.pw.toml"
+hash = "35a19eb76f45987452f2ef14e1238b04251f8abf398636554b8016593b2fecd0"
+metafile = true
+
+[[files]]
 file = "mods/ok-zoomer.pw.toml"
 hash = "a60f50e7c0ae6420e4a36f4e2fabaa4663bf79236531c1b23fd9c425121b2203"
 metafile = true
