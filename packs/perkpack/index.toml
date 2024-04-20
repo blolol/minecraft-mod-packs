@@ -363,6 +363,11 @@ hash = "a87a5e7a9a1234525c9b2d5259e061317c35e0c863c2b061a2e6d2826c05f152"
 metafile = true
 
 [[files]]
+file = "mods/just-hammers.pw.toml"
+hash = "333ba3267bd04ed6fe6629a4bd67a193887b7cc55df36bc59da3124c1be9a651"
+metafile = true
+
+[[files]]
 file = "mods/krypton.pw.toml"
 hash = "71ef7cc16632c0039fe194183b5885968c6d740aaa67a58000653ae0cb40b882"
 metafile = true
