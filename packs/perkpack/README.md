@@ -57,6 +57,7 @@ Perkpack is built around [Create](https://modrinth.com/mod/create-fabric). Creat
 
 ### New content
 
+* [Amendments](https://modrinth.com/mod/amendments) (lanterns on walls, display items on hanging signs, more cauldron features, hang banners and pots from ceilings, and more)
 * [Chipped](https://modrinth.com/mod/chipped) (thousands of building block variants)
 * [Chunk Loaders](https://modrinth.com/mod/chunk-loaders) (keep chunks loaded when you're not around)
 * [Create: Deco](https://www.curseforge.com/minecraft/mc-mods/create-deco-fabric) (new Create-themed decoration blocks)
@@ -73,7 +74,7 @@ Perkpack is built around [Create](https://modrinth.com/mod/create-fabric). Creat
 * [Macaw's Bridges](https://www.curseforge.com/minecraft/mc-mods/macaws-bridges) (bridge and stair variants)
 * [Macaw's Fences & Walls](https://www.curseforge.com/minecraft/mc-mods/macaws-fences-and-walls) (fence, wall and gate variants)
 * [Nether Chest](https://modrinth.com/mod/nether-chest) (shared Ender Chest)
-* [Supplementaries](https://modrinth.com/mod/supplementaries) (lots of vanilla-like content; refer to [its wiki](https://github.com/MehVahdJukaar/Supplementaries/wiki))
+* [Supplementaries](https://modrinth.com/mod/supplementaries) and [Supplementaries Squared](https://modrinth.com/mod/supplementaries-squared) (lots of vanilla-like content; refer to [its wiki](https://github.com/MehVahdJukaar/Supplementaries/wiki))
 * [Traveler's Backpack](https://modrinth.com/mod/travelersbackpack) (haul your stuff around in style)
 * [Waystones](https://modrinth.com/mod/waystones) (teleport around the world)
 
@@ -201,12 +202,8 @@ These mods are only installed by default on the server. They're used for server 
     Click to expand list of server-only mods
   </summary>
 
-* [Axiom](https://modrinth.com/mod/axiom)
 * [BlueMap](https://modrinth.com/plugin/bluemap)
 * [BlueMap Sign Markers](https://modrinth.com/mod/bluemap-sign-markers)
-* [Scroll for WorldEdit](https://www.curseforge.com/minecraft/mc-mods/scroll-for-worldedit)
-* [WorldEdit](https://www.curseforge.com/minecraft/mc-mods/worldedit)
-* [WorldEdit CUI](https://www.curseforge.com/minecraft/mc-mods/worldeditcui-fabric)
 </details>
 
 ## Development

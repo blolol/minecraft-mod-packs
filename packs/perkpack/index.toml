@@ -103,6 +103,11 @@ hash = "d66bc9c3f81429f138de5eae6226dce25f620f90df864bf7f0f9121708bf0bcc"
 metafile = true
 
 [[files]]
+file = "mods/amendments.pw.toml"
+hash = "85b53ee6b538d78dc1fdfb207aae8c47fc41304b05847c9d49b469232875db4d"
+metafile = true
+
+[[files]]
 file = "mods/animatica.pw.toml"
 hash = "f0463f1b50e2c2ab3c726b14236b22e07ce9be4896528ede9d51486a212a5c07"
 metafile = true
@@ -120,11 +125,6 @@ metafile = true
 [[files]]
 file = "mods/autorun.pw.toml"
 hash = "66b3916052ccf9d06959db9faccd126aa2eccefc2b002f685d7a00a3b8a19549"
-metafile = true
-
-[[files]]
-file = "mods/axiom.pw.toml"
-hash = "c94f4a70cc390f0763e6f3414acef092e411dc0c3d397d3928ab2bf105d50e14"
 metafile = true
 
 [[files]]
@@ -179,7 +179,7 @@ metafile = true
 
 [[files]]
 file = "mods/chipped.pw.toml"
-hash = "fd15a165cf8782b21ea9ce958468dbb4bee1fc092fd3d83f901631e075eced75"
+hash = "8cc8ae82b42d7da756faa8d03bc3073bac5d4c494606d926cd238e3a9c5d7352"
 metafile = true
 
 [[files]]
@@ -214,32 +214,27 @@ metafile = true
 
 [[files]]
 file = "mods/crafttweaker.pw.toml"
-hash = "f504ad6d6e32d60deea0e15bfa645259ff42d7b6d36dd8ebc72e7a221de883ca"
+hash = "15c7b55ba4917984c3a4c1ec758b33f712bdf1e1121b60b2fb0850a5c85b4c22"
 metafile = true
 
 [[files]]
 file = "mods/create-deco-fabric.pw.toml"
-hash = "b2a5a33a6f778f8e96ce3e31deae416cdc63446caa21fad1a88128309b2121be"
+hash = "e8225481e446df2a0d8f08f59b8de1810d07ad21e1efcd6b656a5e46032c200b"
 metafile = true
 
 [[files]]
-file = "mods/create-diesel-generators-fabric.pw.toml"
-hash = "d2218b74d104cfd239c2bc6e1a3adb92142f3437f40d2053d9adb95bb5b7fd86"
+file = "mods/create-fabric.pw.toml"
+hash = "26394151533372bce2229f31c8df7f65e2deb751cc823f317cd30682381acc8f"
 metafile = true
 
 [[files]]
 file = "mods/create-jetpack.pw.toml"
-hash = "62d2a0578959ce2ed450891edc4877bd15716bd2aa9ac7d01d5001c9343d0df1"
-metafile = true
-
-[[files]]
-file = "mods/create-sodium-fix.pw.toml"
-hash = "8a459a56c6bd2380679dbaf026cad12b500ee62c6339d48773fe09e5da9dc4dd"
+hash = "93f8459ef551d239aba91b04529a2fa9bc8fe3630000e1478928e7900b4ae22c"
 metafile = true
 
 [[files]]
 file = "mods/create-steam-n-rails.pw.toml"
-hash = "2995bd6fc4d6cfb207625005e7392fc09aefe226a0441cceca6687dfc1883ad6"
+hash = "e2a5dba48a7a2c809a2d3b0fa4ae5d3664d559415fb843e09111f2bc4e068304"
 metafile = true
 
 [[files]]
@@ -259,7 +254,7 @@ metafile = true
 
 [[files]]
 file = "mods/dramatic-doors.pw.toml"
-hash = "ff039f270f97ada2f1c6a7db83fdb38aa2fb35d0fd5596fec7b3c9382f1ea2d1"
+hash = "ccdd24b949ad8647f0963333614c46544cb7fa8d76deb3d6ab9887b680d03506"
 metafile = true
 
 [[files]]
@@ -313,8 +308,8 @@ hash = "7f8ae1d282437ebdc5c2318ec5fc603536d33156e9c9bd34ccdda2a25b26e7a0"
 metafile = true
 
 [[files]]
-file = "mods/farmers-delight-fabric.pw.toml"
-hash = "dc4a6ad558baacff8619bcb127784bfa27eb6ca4c177eae12d86b833eca80694"
+file = "mods/farmers-delight-refabricated.pw.toml"
+hash = "b7a1fb2faac9cd962d6ce3fad226e9deeb2194b10f6b545b10ce65fc2e63f73d"
 metafile = true
 
 [[files]]
@@ -329,7 +324,7 @@ metafile = true
 
 [[files]]
 file = "mods/handcrafted.pw.toml"
-hash = "2e3547b6513fabf4cc51efc2488115ea8297ec0e4845d57abad8d9e1a798b924"
+hash = "2dded9237b5fbf729ca1947780e8de50bfaaad8b95371370e5263620122bad20"
 metafile = true
 
 [[files]]
@@ -424,7 +419,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "db0666dfafeb0790232e8306a468b5725f372114d4bcd9f2743994e62458a3e7"
+hash = "dbf0d2e7c313030080e7ca5919f6cb095ce023ed97bd1b34f3c9ff27ba32cb64"
 metafile = true
 
 [[files]]
@@ -459,7 +454,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "db2669fd5202942c0d0514c797c198506470e149542ac9d65e33e04f1a01db23"
+hash = "5a6df3930d69602402cd13bf860195ac44680e2d4556e8d1254ae730fcb4b0f9"
 metafile = true
 
 [[files]]
@@ -469,12 +464,7 @@ metafile = true
 
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
-hash = "d8d167c69fa2b57d6ef71f1649da05ac7cbfbc9213b43aeb6e81ed9ffa49a114"
-metafile = true
-
-[[files]]
-file = "mods/scroll-for-worldedit.pw.toml"
-hash = "443dd86e6154c6bd033b43ef1812e4fbb21988c02a61eb9c01b699b7a1e14cea"
+hash = "ed3cf45b08dcd6ba3259a7adcc1940fbccfbf4ade1da616d3c4244f17c7f74b2"
 metafile = true
 
 [[files]]
@@ -489,7 +479,7 @@ metafile = true
 
 [[files]]
 file = "mods/slice-and-dice.pw.toml"
-hash = "89fc4d8fa43ced76ba5452eef196d5986d831ba828921cc133e4fc6139a123f0"
+hash = "7cfd850586a354b0a14b04234dbc5254f80610b69f7ffc1a7e60a63332739cf1"
 metafile = true
 
 [[files]]
@@ -513,8 +503,13 @@ hash = "1c016f800988efb78998ad081203e9789f720d9ae81826fd8c191eecdcc15ad3"
 metafile = true
 
 [[files]]
+file = "mods/supplementaries-squared.pw.toml"
+hash = "fc2b9e736debce94f84f38197405e0e38c04a48a430c642e37e3f50a9402b5a6"
+metafile = true
+
+[[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "81b48eebbc96d136cd385a1cf4d2d3f977d77ee1e19463b0c4681b8ab302df89"
+hash = "29810615e8704ebfa3f0fc632247b1dcf255fe3227d4224e05d84b4076169509"
 metafile = true
 
 [[files]]
@@ -570,16 +565,6 @@ metafile = true
 [[files]]
 file = "mods/waystones.pw.toml"
 hash = "086f56d0a3c8f1a7b289b9949d7de08362f717295d89f0db0d13421ec860a453"
-metafile = true
-
-[[files]]
-file = "mods/worldedit.pw.toml"
-hash = "315afc024f86659bb71ee99e0232396d4740c1c9ffabd2a244d4c9dfecbb9562"
-metafile = true
-
-[[files]]
-file = "mods/worldeditcui-fabric.pw.toml"
-hash = "6cb7fe009cd19d07ffe4dc35d8a739d40e565bdbba1eda42fc2b09ad745e46eb"
 metafile = true
 
 [[files]]
