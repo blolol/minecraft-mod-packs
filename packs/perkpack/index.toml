@@ -409,7 +409,7 @@ metafile = true
 
 [[files]]
 file = "mods/memoryleakfix.pw.toml"
-hash = "8e42842f48b3227733bafced612212eee2298f567ca599ac6a55b9878ae661da"
+hash = "3c0945a312aca06a2185b00cb03ae482949b008d72614497148aa2df301af019"
 metafile = true
 
 [[files]]
@@ -424,7 +424,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "a99e2672e7585f6e31278a4a18b37865ab780175b93eb740064a692635f36a1b"
+hash = "8f0af1f5e27da3027d01516d0ebd8a0f86a528fe2f1ccd461f2a8e3b3ca847fa"
 metafile = true
 
 [[files]]
@@ -439,7 +439,7 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "be1f88824f7ceb008ce38ae763a93921db0c27db68577fdb16c29c6a085ec1f3"
+hash = "979e6d73369f2e45666e49c387f7f4f9b266df1085d4a7a949039aac461b3c13"
 metafile = true
 
 [[files]]
