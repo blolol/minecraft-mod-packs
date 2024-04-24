@@ -243,6 +243,11 @@ hash = "e2a5dba48a7a2c809a2d3b0fa4ae5d3664d559415fb843e09111f2bc4e068304"
 metafile = true
 
 [[files]]
+file = "mods/create-train-perspective.pw.toml"
+hash = "cf9f02068f4122a1f993b8656483ed9f8c0ff2bed4b4ff9962196398fe5929ca"
+metafile = true
+
+[[files]]
 file = "mods/ct-overhaul-village.pw.toml"
 hash = "80298b747a1905798731066e4d8344aa2bb3367fb8b7d7492780cac46e9047f7"
 metafile = true

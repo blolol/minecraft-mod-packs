@@ -88,6 +88,7 @@ Perkpack is built around [Create](https://modrinth.com/mod/create-fabric). Creat
 * [Better Mount HUD](https://modrinth.com/mod/better-mount-hud) (more useful HUD while riding)
 * [Carry On](https://modrinth.com/mod/carry-on) (move chests around, pick up villagers, stack mobs on top of each other)
 * [Couplings](https://modrinth.com/mod/couplings) (simultaneously open adjacent doors)
+* [Create: Train Perspective](https://modrinth.com/mod/create-train-perspective) (passengers' bodies follow the orientation of Create trains)
 * [EMI](https://modrinth.com/mod/emi) (item and recipe viewer)
 * [EMI Trades](https://modrinth.com/mod/emitrades) (villager trades in EMI)
 * [FallingTree](https://modrinth.com/mod/fallingtree) (enchant your axe to fell entire trees at once)
