@@ -60,6 +60,7 @@ Perkpack is built around [Create](https://modrinth.com/mod/create-fabric). Creat
 * [Amendments](https://modrinth.com/mod/amendments) (lanterns on walls, display items on hanging signs, more cauldron features, hang banners and pots from ceilings, and more)
 * [Chipped](https://modrinth.com/mod/chipped) (thousands of building block variants)
 * [Chunk Loaders](https://modrinth.com/mod/chunk-loaders) (keep chunks loaded when you're not around)
+* [Create: Bells & Whistles](https://modrinth.com/mod/bellsandwhistles) (decorative blocks for trains, like cowcatchers, headlights and ladders)
 * [Create: Copycats+](https://modrinth.com/mod/copycats) (Create copycat blocks in more shapes)
 * [Create: Deco](https://www.curseforge.com/minecraft/mc-mods/create-deco-fabric) (new Create-themed decoration blocks)
 * [Create: Diesel Generators](https://modrinth.com/mod/create-diesel-generators-fabric)
