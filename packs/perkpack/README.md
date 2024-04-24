@@ -175,7 +175,6 @@ Perkpack includes a set of optimization mods, based on [Fabulously Optimized](ht
   * [Clumps](https://modrinth.com/mod/clumps)
   * [Continuity](https://modrinth.com/mod/continuity)
   * [Debugify](https://modrinth.com/mod/debugify)
-  * [Dynamic FPS](https://modrinth.com/mod/dynamic-fps)
   * [Enhanced Block Entities](https://modrinth.com/mod/ebe) (EBE)
   * [Entity Model Features](https://modrinth.com/mod/entity-model-features) (EMF)
   * [Entity Culling](https://modrinth.com/mod/entityculling)
