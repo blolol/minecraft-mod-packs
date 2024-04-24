@@ -99,7 +99,6 @@ Perkpack is built around [Create](https://modrinth.com/mod/create-fabric). Creat
 * [MiniHUD](https://www.curseforge.com/minecraft/mc-mods/minihud) (extremely customizable HUD, use <kbd>h</kbd> to toggle and </kbd>h + c</kbd> to configure)
 * [Mouse Tweaks](https://modrinth.com/mod/mouse-tweaks) (nicer inventory management)
 * [Ok Zoomer](https://modrinth.com/mod/ok-zoomer) (use <kbd>c</kbd> and your mouse wheel to zoom)
-* [Show Me Your Skin!](https://modrinth.com/mod/show-me-your-skin) (hide your armor if you'd prefer)
 * [Symbol Chat](https://modrinth.com/mod/symbol-chat) (easy access to Unicode symbols when chatting, editing signs, and naming items with anvils)
 * [Time Control](https://modrinth.com/mod/time-control) (customization of the day/night cycle)
 * [Trade Cycling](https://modrinth.com/mod/trade-cycling) (cycle villager trades with the click of a button)
