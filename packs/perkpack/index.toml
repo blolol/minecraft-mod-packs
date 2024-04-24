@@ -114,12 +114,12 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "a243675bc757485925b293932ee289b9fbcfb3b75bd3ba74eca7603f191cedad"
+hash = "0cbcd58c49decc0ecbccd330fcc8326e3b8769e22e1740e229f09541acf3df7f"
 metafile = true
 
 [[files]]
 file = "mods/athena-ctm.pw.toml"
-hash = "ead86ab1bacf74c7ad2d28c11157c2982fab4d15d2c25158e77b7491eff3d983"
+hash = "e09ceae04e73831b93c43e6a1f12da063fc24e1074f39fab1e00234a8de8a1e2"
 metafile = true
 
 [[files]]
@@ -194,7 +194,7 @@ metafile = true
 
 [[files]]
 file = "mods/cit-resewn.pw.toml"
-hash = "44e2cc695c040b7bbca462165099fa3c56a98aa8f01104bb067dc850b65f6d02"
+hash = "2cf2d6c7683cbaa8d4d91374d5a92e6166176aefe5e0d7a0a2714c9321f8add0"
 metafile = true
 
 [[files]]
