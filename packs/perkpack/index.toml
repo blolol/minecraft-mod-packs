@@ -233,6 +233,11 @@ hash = "e8225481e446df2a0d8f08f59b8de1810d07ad21e1efcd6b656a5e46032c200b"
 metafile = true
 
 [[files]]
+file = "mods/create-dreams-and-desires.pw.toml"
+hash = "003eb1868f928e79b0b69176124436d334e527fd45ead50bb9774691a47a6b48"
+metafile = true
+
+[[files]]
 file = "mods/create-fabric.pw.toml"
 hash = "26394151533372bce2229f31c8df7f65e2deb751cc823f317cd30682381acc8f"
 metafile = true

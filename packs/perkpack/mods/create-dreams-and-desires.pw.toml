@@ -1,0 +1,13 @@
+name = "Create: Dreams & Desires"
+filename = "create_dd-0.1c.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/JmybsfWs/versions/ecuNWZrN/create_dd-0.1c.jar"
+hash-format = "sha1"
+hash = "c9e32545aff3343e43f39f5035f8efe29569b198"
+
+[update]
+[update.modrinth]
+mod-id = "JmybsfWs"
+version = "ecuNWZrN"

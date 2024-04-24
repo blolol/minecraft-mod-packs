@@ -63,7 +63,7 @@ Perkpack is built around [Create](https://modrinth.com/mod/create-fabric). Creat
 * [Create: Bells & Whistles](https://modrinth.com/mod/bellsandwhistles) (decorative blocks for trains, like cowcatchers, headlights and ladders)
 * [Create: Copycats+](https://modrinth.com/mod/copycats) (Create copycat blocks in more shapes)
 * [Create: Deco](https://www.curseforge.com/minecraft/mc-mods/create-deco-fabric) (new Create-themed decoration blocks)
-* [Create: Diesel Generators](https://modrinth.com/mod/create-diesel-generators-fabric)
+* [Create: Dreams & Desires](https://modrinth.com/mod/create-dreams-and-desires) (Create quality of life improvements and decorative blocks)
 * [Create: Jetpack](https://modrinth.com/mod/create-jetpack)
 * [Create: Slice & Dice](https://modrinth.com/mod/slice-and-dice) (compatibility between Create and Farmer's Delight)
 * [Create: Steam 'n' Rails](https://modrinth.com/mod/create-steam-n-rails)
