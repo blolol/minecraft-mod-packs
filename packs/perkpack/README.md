@@ -87,6 +87,7 @@ Perkpack is built around [Create](https://modrinth.com/mod/create-fabric). Creat
 * [AutoRun](https://modrinth.com/mod/autorun) (use <kbd>`</kbd> to toggle autorun)
 * [BetterF3](https://modrinth.com/mod/betterf3) (more readable <kbd>F3</kbd> debug overlay)
 * [Better Mount HUD](https://modrinth.com/mod/better-mount-hud) (more useful HUD while riding)
+* [Building Wands](https://modrinth.com/mod/building-wands) (build quicker with magic wands)
 * [Carry On](https://modrinth.com/mod/carry-on) (move chests around, pick up villagers, stack mobs on top of each other)
 * [Couplings](https://modrinth.com/mod/couplings) (simultaneously open adjacent doors)
 * [Create: Train Perspective](https://modrinth.com/mod/create-train-perspective) (passengers' bodies follow the orientation of Create trains)
