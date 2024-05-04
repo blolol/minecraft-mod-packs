@@ -154,7 +154,7 @@ metafile = true
 
 [[files]]
 file = "mods/bluemap-sign-markers.pw.toml"
-hash = "4cf3c2edacbd4ca95e74599a9b6fe817923e121c11cea0d438dc57097459dbf8"
+hash = "4422182a26bf507564b39b4495e6b237a19cdbe3ce53c8aa993828ea98d325f3"
 metafile = true
 
 [[files]]
