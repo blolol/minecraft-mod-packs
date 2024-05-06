@@ -64,6 +64,7 @@ Perkpack is built around [Create](https://modrinth.com/mod/create-fabric). Creat
 * [Create: Copycats+](https://modrinth.com/mod/copycats) (Create copycat blocks in more shapes)
 * [Create: Deco](https://www.curseforge.com/minecraft/mc-mods/create-deco-fabric) (new Create-themed decoration blocks)
 * [Create: Dreams & Desires](https://modrinth.com/mod/create-dreams-and-desires) (Create quality of life improvements and decorative blocks)
+* [Create: Enchantment Industry](https://modrinth.com/mod/create-enchantment-industry-fabric) (XP and enchanting meets heavy industry)
 * [Create: Jetpack](https://modrinth.com/mod/create-jetpack)
 * [Create: Slice & Dice](https://modrinth.com/mod/slice-and-dice) (compatibility between Create and Farmer's Delight)
 * [Create: Steam 'n' Rails](https://modrinth.com/mod/create-steam-n-rails)
