@@ -73,6 +73,7 @@ Perkpack is built around [Create](https://modrinth.com/mod/create-fabric). Creat
 * [Extended Drawers](https://modrinth.com/mod/extended-drawers) (store items in drawers)
 * [Farmer's Delight](https://modrinth.com/mod/farmers-delight-fabric) (gently expands upon farming and cooking)
 * [Handcrafted](https://modrinth.com/mod/handcrafted) (comfy furniture and decorations)
+* [Immersive Paintings](https://modrinth.com/mod/immersive-paintings) (custom paintings)
 * [Just Hammers](https://modrinth.com/mod/just-hammers) (hammers that are able to mine in 3x3x1, 3x3x3, 5x5x1, 5x5x3 and 5x5x5 areas)
 * [Macaw's Bridges](https://www.curseforge.com/minecraft/mc-mods/macaws-bridges) (bridge and stair variants)
 * [Macaw's Fences & Walls](https://www.curseforge.com/minecraft/mc-mods/macaws-fences-and-walls) (fence, wall and gate variants)
