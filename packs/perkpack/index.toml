@@ -268,6 +268,11 @@ hash = "cf9f02068f4122a1f993b8656483ed9f8c0ff2bed4b4ff9962196398fe5929ca"
 metafile = true
 
 [[files]]
+file = "mods/createaddition.pw.toml"
+hash = "b5a83b1ca240286be1aa97b3c3dd96c2e481dc0332dc2541f900cded4a719a82"
+metafile = true
+
+[[files]]
 file = "mods/ct-overhaul-village.pw.toml"
 hash = "8eda14f9c18b7886871baf01634f2c8d3225e2c909a41da07437e2018f186784"
 metafile = true

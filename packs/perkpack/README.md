@@ -62,6 +62,7 @@ Perkpack is built around [Create](https://modrinth.com/mod/create-fabric). Creat
 * [Chunk Loaders](https://modrinth.com/mod/chunk-loaders) (keep chunks loaded when you're not around)
 * [Create: Bells & Whistles](https://modrinth.com/mod/bellsandwhistles) (decorative blocks for trains, like cowcatchers, headlights and ladders)
 * [Create: Copycats+](https://modrinth.com/mod/copycats) (Create copycat blocks in more shapes)
+* [Create: Crafts & Additions](https://modrinth.com/mod/createaddition) (Create + electricity, plus some other useful items, like straws that allow Blaze Burners to accept liquid fuel)
 * [Create: Deco](https://www.curseforge.com/minecraft/mc-mods/create-deco-fabric) (new Create-themed decoration blocks)
 * [Create: Dreams & Desires](https://modrinth.com/mod/create-dreams-and-desires) (Create quality of life improvements and decorative blocks)
 * [Create: Enchantment Industry](https://modrinth.com/mod/create-enchantment-industry-fabric) (XP and enchanting meets heavy industry)
