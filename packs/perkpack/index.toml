@@ -81,10 +81,6 @@ file = "config/yosbr/config/minihud.json"
 hash = "546f628ca84a2a1608fd5f2ca3b9e6a66bf59bfdf2fad3f8f102ae76c6634b6b"
 
 [[files]]
-file = "config/yosbr/config/showmeyourskin-server.json"
-hash = "a04c497c7fe26f24b5efab88e631362859b677db15d6d1b8c7818cbfe80cf3b7"
-
-[[files]]
 file = "config/yosbr/options.amecsapi.txt"
 hash = "4f7e38ee7c2006606f925bd8469b4841091492e93780a6d5377ab6e55c957a5c"
 
@@ -535,6 +531,11 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "cd49906a91e2ff1c11acba79192d609c232f2f73d82cc6a646e7338c8e76aa8a"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+hash = "96e3771cd09bb4a808d1c1fcb5a050efdc2ffb4efe7b584407ed54c46c0388d9"
 metafile = true
 
 [[files]]

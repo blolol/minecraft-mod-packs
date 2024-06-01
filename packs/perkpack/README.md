@@ -197,6 +197,7 @@ Perkpack includes a set of optimization mods, based on [Fabulously Optimized](ht
   * [Reese's Sodium Options](https://modrinth.com/mod/reeses-sodium-options)
   * [Sodium Extra](https://modrinth.com/mod/sodium-extra)
   * [Sodium](https://modrinth.com/mod/sodium)
+  * [Spark](https://modrinth.com/mod/spark)
 </details>
 
 ### Server-only
