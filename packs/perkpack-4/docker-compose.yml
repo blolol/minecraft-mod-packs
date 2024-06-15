@@ -1,0 +1,35 @@
+services:
+  caddy: # HTTP server to serve Packwiz files locally
+    container_name: caddy
+    image: caddy:2
+    ports:
+      - "8083:80"
+    volumes:
+      - "./Caddyfile:/etc/caddy/Caddyfile:ro"
+      - "caddy_data:/data"
+      - ".:/usr/share/caddy:ro"
+  minecraft:
+    container_name: minecraft
+    image: itzg/minecraft-server
+    depends_on:
+      - caddy
+    ports:
+      - "25565:25565"
+    volumes:
+      - "./tmp/server:/data"
+    environment:
+      DIFFICULTY: peaceful
+      EULA: "true"
+      FABRIC_LOADER_VERSION: "0.15.11"
+      ICON: http://caddy/images/server-icon.png
+      MEMORY: "8G"
+      MODE: creative
+      MOTD: "Perkpack 4 dev"
+      OPS_FILE: https://s3.amazonaws.com/minecraft/allowlists/blolol.ops.json
+      PACKWIZ_URL: http://caddy/pack.toml
+      SPAWN_PROTECTION: 0
+      TYPE: FABRIC
+      USE_AIKAR_FLAGS: "true"
+      VERSION: "1.20.4"
+volumes:
+  caddy_data:

@@ -1,0 +1,6 @@
+*.DS_Store
+Caddyfile
+docker-compose.yml
+images
+README.md
+tmp
