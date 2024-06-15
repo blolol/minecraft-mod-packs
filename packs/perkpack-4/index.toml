@@ -119,8 +119,18 @@ hash = "378184d2642a7ed600c63b8a3f93a76255592a0f4695c992a130784f1bb2dc94"
 metafile = true
 
 [[files]]
+file = "mods/c2me-fabric.pw.toml"
+hash = "e2c268027d63e997ef750bcbc76e9ee29c775b7121a0be28a121bc4f332a7092"
+metafile = true
+
+[[files]]
 file = "mods/capes.pw.toml"
 hash = "c03db130a2fa422bf31b1ffdf598c79b49795b9e0eaff59efff8254d9bc17fea"
+metafile = true
+
+[[files]]
+file = "mods/chunky.pw.toml"
+hash = "6211df918f9c91638c0e6e56361192afcd60d336b95687e4766540f9d2b6f118"
 metafile = true
 
 [[files]]
@@ -141,6 +151,11 @@ metafile = true
 [[files]]
 file = "mods/controlify.pw.toml"
 hash = "78864640da732d5bad0539df973a7fabaf2b8cce06263f2094363665a8f6770e"
+metafile = true
+
+[[files]]
+file = "mods/cristel-lib.pw.toml"
+hash = "fb656204c3eb267b4d485f33409a7b6ab2ad10164589e4838ee4175062139c01"
 metafile = true
 
 [[files]]
@@ -184,8 +199,13 @@ hash = "489c1b03fb49b1e1a62541465a305f56a6743078b3cec2d420e182c3b45f0015"
 metafile = true
 
 [[files]]
+file = "mods/expanded-ecosphere.pw.toml"
+hash = "a98e3b9520b07d805da284a971b843a070dd5d087543aa1d332d199d542f2817"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "0126ef7b1211888b957bed30375225a8c7b054899134acb0a20d2018e87038ba"
+hash = "fe7dbe82cf758cc6a73e96f57229e6be3696588388da757fbd936ac8c08c224f"
 metafile = true
 
 [[files]]
@@ -249,6 +269,11 @@ hash = "9524b64c1fbd34ed37d1872290b1bdd7fbbffee79cefb8a7b2a305befb5939ea"
 metafile = true
 
 [[files]]
+file = "mods/lithosphere.pw.toml"
+hash = "0ad2acf782f3dc365acd9fb68796e57cdd7d9b4980b57981c727d0cb7fcd8e9a"
+metafile = true
+
+[[files]]
 file = "mods/main-menu-credits.pw.toml"
 hash = "7c37e08616fc1158f01cd11c086f736f7b6cc63ae64299444ebdc5be3f8d06a0"
 metafile = true
@@ -283,8 +308,18 @@ file = "mods/moreculling-1.20.4-0.23.1.jar"
 hash = "400127d8289f59b4df3ddaf121f84cd7ebe3030c1ae159338df48561f4c91634"
 
 [[files]]
+file = "mods/natures-spirit.pw.toml"
+hash = "2aaa817131cdb60949ecb8ac1a9e73bc9083af07398436c90d5b309416f80966"
+metafile = true
+
+[[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "c97e40e9cb7705398823566bfed965fc7c2fc16456ac696f387dbe50f3f780b7"
+metafile = true
+
+[[files]]
+file = "mods/noisium.pw.toml"
+hash = "4e87ee9b05c48cf4ca532f455de6d21d1c7c6adae8f90f9020d7ca0a159472b9"
 metafile = true
 
 [[files]]
@@ -325,6 +360,16 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "5e73967368d47038c38dc52fa298b45603fbe6baf2608f171638ff767178ad9a"
+metafile = true
+
+[[files]]
+file = "mods/terrablender.pw.toml"
+hash = "3200794bd60930c107145b4b89eda6a56473ca6f8e9b18462cd62713a2a688c8"
+metafile = true
+
+[[files]]
+file = "mods/wwoo.pw.toml"
+hash = "99b9d34c670e8c10bde560ada5850001b9f5e02156b416cee0eec217265b4b61"
 metafile = true
 
 [[files]]
