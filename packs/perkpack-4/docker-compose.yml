@@ -1,6 +1,5 @@
 services:
   caddy: # HTTP server to serve Packwiz files locally
-    container_name: caddy
     image: caddy:2
     ports:
       - "8083:80"
@@ -9,7 +8,6 @@ services:
       - "caddy_data:/data"
       - ".:/usr/share/caddy:ro"
   minecraft:
-    container_name: minecraft
     image: itzg/minecraft-server
     depends_on:
       - caddy
