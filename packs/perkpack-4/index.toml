@@ -363,6 +363,11 @@ hash = "5e73967368d47038c38dc52fa298b45603fbe6baf2608f171638ff767178ad9a"
 metafile = true
 
 [[files]]
+file = "mods/steep-surface-fix.pw.toml"
+hash = "b13a0bd64c3822300fe58bc2825c63fa7ea6bb2d1fba7a948ebd70b8e93dac64"
+metafile = true
+
+[[files]]
 file = "mods/terrablender.pw.toml"
 hash = "3200794bd60930c107145b4b89eda6a56473ca6f8e9b18462cd62713a2a688c8"
 metafile = true
