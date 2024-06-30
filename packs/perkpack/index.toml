@@ -169,6 +169,11 @@ hash = "29885615b9a13b46a8c0e2da012b0f51f1eeea35d6fcb58d74fe094c959f4400"
 metafile = true
 
 [[files]]
+file = "mods/c2me-fabric.pw.toml"
+hash = "5afe4e900b83aa83109d0c845df28e9695d8e3639518b0f08169a547f0e3682b"
+metafile = true
+
+[[files]]
 file = "mods/capes.pw.toml"
 hash = "4c712d7ad6d2ddb130b845c3b2c660be7cb7795db21be00b130443730719305e"
 metafile = true
@@ -270,7 +275,7 @@ metafile = true
 
 [[files]]
 file = "mods/ct-overhaul-village.pw.toml"
-hash = "8eda14f9c18b7886871baf01634f2c8d3225e2c909a41da07437e2018f186784"
+hash = "fdaf9a15414ff330b44b60b8ad02b1a400bc0ad552ca722c4820b27c2947867c"
 metafile = true
 
 [[files]]
@@ -281,6 +286,11 @@ metafile = true
 [[files]]
 file = "mods/decorative-blocks.pw.toml"
 hash = "43ea00d836bef5a72eb2e074e5b0ba534e09d31e41a674c8b3d77f307dfbd619"
+metafile = true
+
+[[files]]
+file = "mods/distanthorizons.pw.toml"
+hash = "83c151159e2095557b8a96eb76fdf5f99e7a4cff32847ec3039293f298a65bc7"
 metafile = true
 
 [[files]]
@@ -414,6 +424,11 @@ hash = "c239c951796882b9c93e649a0dba4f2d95804441faaed707b686381b7a5c67da"
 metafile = true
 
 [[files]]
+file = "mods/lithostitched.pw.toml"
+hash = "72b2a495aae6c3fdee3fac74de0f94d1cfc85514e396103c29552dc4d57fe68d"
+metafile = true
+
+[[files]]
 file = "mods/macaws-bridges.pw.toml"
 hash = "6d0b53ba557484608cc77f0f05311d51a1fd8b9af89b0586aabf8f950e903d57"
 metafile = true
@@ -476,6 +491,11 @@ metafile = true
 [[files]]
 file = "mods/nether-chest.pw.toml"
 hash = "35a19eb76f45987452f2ef14e1238b04251f8abf398636554b8016593b2fecd0"
+metafile = true
+
+[[files]]
+file = "mods/noisium.pw.toml"
+hash = "e7712ecf20e3c2e52da19f968762b671726222cbc4c48206231b56b6c6cd79a7"
 metafile = true
 
 [[files]]
