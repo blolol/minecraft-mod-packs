@@ -1,9 +1,10 @@
 services:
-  caddy: # An HTTP server to serve Packwiz files locally
+  caddy: # HTTP server to serve Packwiz files locally
     image: caddy
     ports:
       - '8082:80'
     volumes:
+      - './Caddyfile:/etc/caddy/Caddyfile:ro'
       - 'caddy:/data'
       - '.:/usr/share/caddy'
   minecraft:
