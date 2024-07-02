@@ -1,13 +1,13 @@
 name = "Fast Better Grass"
 filename = "Fast Better Grass.zip"
-side = "both"
+side = "client"
 
 [download]
+url = "https://cdn.modrinth.com/data/dspVZXKP/versions/1lpmCieT/Fast%20Better%20Grass.zip"
 hash-format = "sha1"
-hash = "5ccd58d368c6ffe41a3290152afeb1b7efab9b53"
-mode = "metadata:curseforge"
+hash = "cf15d3a580db704fae9033003b6573ed68d3a834"
 
 [update]
-[update.curseforge]
-file-id = 5272754
-project-id = 819030
+[update.modrinth]
+mod-id = "dspVZXKP"
+version = "1lpmCieT"

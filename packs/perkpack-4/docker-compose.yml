@@ -15,8 +15,9 @@ services:
       - "25565:25565"
     volumes:
       - "./tmp/server:/data"
+      - "./datapacks.txt:/tmp/datapacks.txt:ro"
     environment:
-      DIFFICULTY: peaceful
+      DATAPACKS_FILE: /tmp/datapacks.txt
       EULA: "true"
       FABRIC_LOADER_VERSION: "0.15.11"
       ICON: http://caddy/images/server-icon.png
@@ -28,6 +29,6 @@ services:
       SPAWN_PROTECTION: 0
       TYPE: FABRIC
       USE_AIKAR_FLAGS: "true"
-      VERSION: "1.20.4"
+      VERSION: "1.21"
 volumes:
   caddy_data:

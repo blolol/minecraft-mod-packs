@@ -1,13 +1,16 @@
 name = "Perkpack 4"
 author = "Raws"
-version = "0.0.1-pre+1.20.4"
+version = "0.0.1+1.21"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "d1fdf8157efda587c344a0d0361de5a40f0554ff97e368f1ddd414158500846d"
+hash = "bdecbb83fabafaf200de1f754be355f48862d314bb49d09af00230dbdce75b80"
 
 [versions]
 fabric = "0.15.11"
-minecraft = "1.20.4"
+minecraft = "1.21"
+
+[options]
+acceptable-game-versions = []

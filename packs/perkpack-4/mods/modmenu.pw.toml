@@ -1,13 +1,13 @@
 name = "Mod Menu"
-filename = "modmenu-9.0.0.jar"
-side = "both"
+filename = "modmenu-11.0.1.jar"
+side = "client"
 
 [download]
+url = "https://cdn.modrinth.com/data/mOgUt4GM/versions/xhN1IvHi/modmenu-11.0.1.jar"
 hash-format = "sha1"
-hash = "eb09a3b6668407df4ad9b24849d52a38c448877e"
-mode = "metadata:curseforge"
+hash = "e4ba66f6036a4902433bb517d55120c4237c512f"
 
 [update]
-[update.curseforge]
-file-id = 5162846
-project-id = 308702
+[update.modrinth]
+mod-id = "mOgUt4GM"
+version = "xhN1IvHi"

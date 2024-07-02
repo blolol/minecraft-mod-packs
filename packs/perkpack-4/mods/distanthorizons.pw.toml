@@ -1,18 +1,18 @@
 name = "Distant Horizons"
-filename = "DistantHorizons-2.1.2-a-1.20.4-forge-fabric.jar"
+filename = "DistantHorizons-2.1.2-a-1.21-neo-fabric.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/uCdwusMi/versions/YN8jhotL/DistantHorizons-2.1.2-a-1.20.4-forge-fabric.jar"
+url = "https://cdn.modrinth.com/data/uCdwusMi/versions/NCz4yZ3v/DistantHorizons-2.1.2-a-1.21-neo-fabric.jar"
 hash-format = "sha1"
-hash = "d1e8febc7e8ec189ea4a1d45e47ed682990b3882"
+hash = "4f417abb5ada24f83e2a817b27541384e4ea98a2"
 
 [update]
 [update.modrinth]
 mod-id = "uCdwusMi"
-version = "YN8jhotL"
+version = "NCz4yZ3v"
 
 [option]
 optional = true
 default = true
-description = "Might be incompatible with Apple Silicon-based Macs."
+description = "Might be incompatible with Apple Silicon-based Macs. For everyone else, Distant Horizons allows you to crank your view distance up to insane levels with a relatively minor performance hit."

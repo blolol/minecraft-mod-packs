@@ -25,7 +25,7 @@ Playing Perkpack is pretty simple stuff. You'll only need to install the mod pac
 > [!IMPORTANT]
 > **If you already have Prism Launcher installed, make sure you're running version 7.2 or newer.** Earlier versions may fail to launch the mod pack and show an error like "The process failed to start. Pre-Launch command failed with code 0."
 
-1. Install [Java](https://prismlauncher.org/wiki/getting-started/installing-java/).
+1. Install [Java 17](https://prismlauncher.org/wiki/getting-started/installing-java/).
 1. Install [Prism Launcher](https://prismlauncher.org).
 1. In Prism Launcher, click "Add Instance", then "Import".
 1. Give the instance a name like "Perkpack 3", then paste in this URL: https://github.com/blolol/minecraft-mod-packs/raw/perkpack/3/packs/perkpack/prism-instance.zip
