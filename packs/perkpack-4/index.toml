@@ -1,14 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "Makefile"
-hash = "59f0c82b24bcd7510104d43668e192a488eaa8116c362560c48ba43bcf48c966"
-
-[[files]]
-file = "datapacks.txt"
-hash = "5cfc5f788bb36b89437c3ed04975f969f891c8fb653cb4bf1d13680a015d90bf"
-
-[[files]]
 file = "mods/ambientsounds.pw.toml"
 hash = "de619f9de200e4f42075d884a943ef426f3ce133268362432e7537b5d24bff7e"
 metafile = true
@@ -157,30 +149,6 @@ metafile = true
 file = "mods/xaeros-world-map.pw.toml"
 hash = "e9f628cc8d3a658a9b0ceb2272993d0dd9f5736aad1fb8178e6071cd63a8438e"
 metafile = true
-
-[[files]]
-file = "prism-instance/.minecraft/packwiz-installer-bootstrap.jar"
-hash = "a8fbb24dc604278e97f4688e82d3d91a318b98efc08d5dbfcbcbcab6443d116c"
-
-[[files]]
-file = "prism-instance/.minecraft/servers.dat"
-hash = "6571053b0bc133c21ffcd78bced9ce0a16b48f1663e7ed03fe384c724df48bce"
-
-[[files]]
-file = "prism-instance/instance.cfg"
-hash = "1f82db6f73b1c5132561d2037247fe7b37d8191f652e056d6e233ae04736272f"
-
-[[files]]
-file = "prism-instance/manifest.txt"
-hash = "6e3ac9d232a77add7b862de3d5ae95ac6606c47f3e15e4c2230a9770e4745ecd"
-
-[[files]]
-file = "prism-instance/mmc-pack.json"
-hash = "a174e2ad16a91ac3af19a7e06c78d9568b3fe92ef0fe1bb468f5fc19be0e42f4"
-
-[[files]]
-file = "prism-instance/perkpack.png"
-hash = "0e54ff1cbee3dbeacfc786947b652d89f6c9cded919c8d3ab57aeca9aeba0516"
 
 [[files]]
 file = "resourcepacks/better-leaves.pw.toml"

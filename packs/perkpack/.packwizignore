@@ -1,7 +1,6 @@
 *.DS_Store
 Caddyfile
 datapacks/*
-dependencies.md
 docker-compose.yml
 images
 Makefile
