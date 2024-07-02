@@ -43,11 +43,11 @@ Playing the Perkpack 4 preview is, like Perkpack 3, pretty simple stuff. You'll 
 * In video settings, you can toggle "fullscreen" to "borderless", thanks to [Cubes Without Borders](https://modrinth.com/mod/cubes-without-borders).
 * A couple of nice resource packs are included, but are disabled by default. You can enable whichever ones you want. The recommended load order is:
   * [Fast Better Grass](https://modrinth.com/resourcepack/fast-better-grass)
-  * Vanilla
-  * Fabric
+  * Default (built into the game)
+  * Fabric Mods
   * [Dramatic Skys](https://modrinth.com/resourcepack/dramatic-skys)
   * [Motschen's Better Leaves](https://modrinth.com/resourcepack/better-leaves)
-  * Better Leaves Compatibility (Motschen's Better Leaves compatibility for Nature's Spirit)
+  * Bushy Leaves Compat (Motschen's Better Leaves compatibility for Nature's Spirit; you can safely ignore the version mismatch warning)
   * [Fresh Animations](https://modrinth.com/resourcepack/fresh-animations)
 * Press <kbd>o</kbd> to choose a shader pack, and <kbd>k</kbd> to toggle them on and off.
 * Press <kbd>c</kbd> and use your mouse wheel to zoom using the [Ok Zoomer](https://modrinth.com/mod/ok-zoomer) mod.
