@@ -60,6 +60,7 @@ Playing the Perkpack 4 preview is, like Perkpack 3, pretty simple stuff. You'll 
 
 * [AmbientSounds](https://modrinth.com/mod/ambientsounds) (pleasing ambiance)
 * [Cubes Without Borders](https://modrinth.com/mod/cubes-without-borders) (borderless fullscreen mode)
+* [EMI](https://modrinth.com/mod/emi) (item and recipe viewer)
 * [Horse Buff](https://modrinth.com/mod/horsebuff) (quality of life tweaks for horses)
 * [Ok Zoomer](https://modrinth.com/mod/ok-zoomer) (use <kbd>c</kbd> and your mouse wheel to zoom)
 * [Xaero's Minimap](https://modrinth.com/mod/xaeros-minimap) (minimap)
