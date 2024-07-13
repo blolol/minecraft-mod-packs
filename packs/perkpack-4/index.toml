@@ -126,6 +126,11 @@ hash = "46af7d3bd6fec707eb0d9aac51c4cd1a85888266cf250b4dae7b2780487df7fb"
 metafile = true
 
 [[files]]
+file = "mods/simple-emerald-tools-fabric.pw.toml"
+hash = "aa0101a5150d53d99ef82d2aaa26e97b88dbea59e89d1a1d26f36d609ebfe856"
+metafile = true
+
+[[files]]
 file = "mods/sodium-extra.pw.toml"
 hash = "28f2167da063c1be7b1f4e534cdcbb446daa569cc32ffe1c0705663a9a06a5b9"
 metafile = true

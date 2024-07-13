@@ -65,6 +65,10 @@ Playing the Perkpack 4 preview is, like Perkpack 3, pretty simple stuff. You'll 
 * [Xaero's Minimap](https://modrinth.com/mod/xaeros-minimap) (minimap)
 * [Xaero's World Map](https://modrinth.com/mod/xaeros-world-map) (use <kbd>m</kbd> to toggle the world map)
 
+### Tools
+
+* [Easy Emerald Tools & More](https://www.curseforge.com/minecraft/mc-mods/simple-emerald-tools-fabric) (sets of armor, tools and weapons between vanilla iron and diamond, and 3x3 mining tools)
+
 ### World generation
 
 * [Dungeons and Taverns](https://modrinth.com/datapack/dungeons-and-taverns) (new structures)
