@@ -2,8 +2,9 @@
 
 This is the in-development Perkpack 4 mod pack preview, based on Minecraft 1.21 and the Fabric mod loader.
 
-If you're coming from Perkpack 3 and haven't kept up with Minecraft news, you might want to peruse the major changes to the base game since 1.20.1:
+If you're coming from Perkpack 3 and haven't kept up with Minecraft news, you might want to peruse the big changes in the last few major game updates:
 
+* [1.20 "Trails & Tails" update guide](https://minecraft.wiki/w/Java_Edition_guides/Trails_%26_Tales)
 * [1.20.5 "Armored Paws" update guide](https://minecraft.wiki/w/Java_Edition_guides/Armored_Paws)
 * [1.21 "Tricky Trials" update guide](https://minecraft.wiki/w/Java_Edition_guides/Tricky_Trials)
 
@@ -11,12 +12,12 @@ If you're coming from Perkpack 3 and haven't kept up with Minecraft news, you mi
 
 Perkpack bumps its major version number for each significant Minecraft update (e.g. from Minecraft 1.20 to 1.21).
 
-| Perkpack Version     | Minecraft Version |
-|----------------------|-------------------|
-| [Perkpack 4](https://github.com/blolol/minecraft-mod-packs/tree/main/packs/perkpack-4#readme) (preview) | Minecraft 1.21 |
-| [Perkpack 3](https://github.com/blolol/minecraft-mod-packs/tree/main/packs/perkpack#readme) (current) | Minecraft 1.20 |
-| Perkpack 2           | Minecraft 1.18    |
-| Perkpack 1           | Minecraft 1.17    |
+| Perkpack Version     | Minecraft Version | Java Version |
+|----------------------|-------------------|--------------|
+| [Perkpack 4](https://github.com/blolol/minecraft-mod-packs/tree/main/packs/perkpack-4#readme) (preview) | [Minecraft 1.21](https://minecraft.wiki/w/Java_Edition_1.21) | Java 21 |
+| [Perkpack 3](https://github.com/blolol/minecraft-mod-packs/tree/main/packs/perkpack#readme) (current) | [Minecraft 1.20](https://minecraft.wiki/w/Java_Edition_1.20) | Java 17 |
+| Perkpack 2           | [Minecraft 1.18](https://minecraft.wiki/w/Java_Edition_1.18)    | Java 17      |
+| Perkpack 1           | [Minecraft 1.17](https://minecraft.wiki/w/Java_Edition_1.17)    | Java 17      |
 
 As described in ["How to play"](#how-to-play), below, the mod pack automatically keeps itself up to date once you've installed it. If you're interested in the changes between versions, you can find release notes here: https://github.com/blolol/minecraft-mod-packs/releases
 
