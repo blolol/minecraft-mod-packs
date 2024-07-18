@@ -11,6 +11,11 @@ hash = "e4555d24669cf571bfa4e7f96c713ea09c672cb20c68c153b8617fac2d63fe48"
 metafile = true
 
 [[files]]
+file = "mods/better-clouds.pw.toml"
+hash = "423e142f9a7285f75af63580dfd4f1e9421a22e9ec0e77f1404e4a62396f3f1e"
+metafile = true
+
+[[files]]
 file = "mods/biomes-o-plenty.pw.toml"
 hash = "fa6e9e9fdae2076a024ad68f147b535e3d8acbedb8a4bf9a7f8dc0e0813cc5bd"
 metafile = true
@@ -173,6 +178,11 @@ metafile = true
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
 hash = "e9f628cc8d3a658a9b0ceb2272993d0dd9f5736aad1fb8178e6071cd63a8438e"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "7f7768f2047011ed61c9bbec29bbcd2d06c5eb8ab731d442b9ecc2c01bbc8c6b"
 metafile = true
 
 [[files]]
