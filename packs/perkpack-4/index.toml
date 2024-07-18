@@ -151,6 +151,11 @@ hash = "46af7d3bd6fec707eb0d9aac51c4cd1a85888266cf250b4dae7b2780487df7fb"
 metafile = true
 
 [[files]]
+file = "mods/replaymod.pw.toml"
+hash = "1620f91ddc348882ec91d159ff475b89399ba7067201eb5244392460a0f1183d"
+metafile = true
+
+[[files]]
 file = "mods/simple-emerald-tools-fabric.pw.toml"
 hash = "2befabc062f8a3e47469bf18c8a1dc416490c30e8e4138eafb8d58942489bcd3"
 metafile = true

@@ -69,6 +69,7 @@ Playing the Perkpack 4 preview is, like Perkpack 3, pretty simple stuff. You'll 
 * [EMI](https://modrinth.com/mod/emi) (item and recipe viewer)
 * [Horse Buff](https://modrinth.com/mod/horsebuff) (quality of life tweaks for horses)
 * [Ok Zoomer](https://modrinth.com/mod/ok-zoomer) (press <kbd>c</kbd> and your mouse wheel to zoom)
+* [ReplayMod](https://modrinth.com/mod/replaymod) (optional; used to record gameplay and create fancy videos)
 * [Xaero's Minimap](https://modrinth.com/mod/xaeros-minimap) (minimap)
 * [Xaero's World Map](https://modrinth.com/mod/xaeros-world-map) (press <kbd>m</kbd> to toggle the world map)
 
@@ -89,7 +90,7 @@ Playing the Perkpack 4 preview is, like Perkpack 3, pretty simple stuff. You'll 
 
 * [Chunky](https://modrinth.com/plugin/chunky)
 * [Concurrent Chunk Management Engine](https://modrinth.com/mod/c2me-fabric)
-* [Distant Horizons](https://modrinth.com/mod/distanthorizons)
+* [Distant Horizons](https://modrinth.com/mod/distanthorizons) (optional)
 * [Entity Model Features](https://modrinth.com/mod/entity-model-features) (EMF)
 * [Entity Culling](https://modrinth.com/mod/entityculling)
 * [Entity Texture Features](https://modrinth.com/mod/entitytexturefeatures) (ETF)
