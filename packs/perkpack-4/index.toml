@@ -6,6 +6,11 @@ hash = "de619f9de200e4f42075d884a943ef426f3ce133268362432e7537b5d24bff7e"
 metafile = true
 
 [[files]]
+file = "mods/autorun.pw.toml"
+hash = "e4555d24669cf571bfa4e7f96c713ea09c672cb20c68c153b8617fac2d63fe48"
+metafile = true
+
+[[files]]
 file = "mods/biomes-o-plenty.pw.toml"
 hash = "fa6e9e9fdae2076a024ad68f147b535e3d8acbedb8a4bf9a7f8dc0e0813cc5bd"
 metafile = true

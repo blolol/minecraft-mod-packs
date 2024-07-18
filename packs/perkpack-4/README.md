@@ -53,18 +53,21 @@ Playing the Perkpack 4 preview is, like Perkpack 3, pretty simple stuff. You'll 
 * Press <kbd>c</kbd> and use your mouse wheel to zoom using the [Ok Zoomer](https://modrinth.com/mod/ok-zoomer) mod.
 * Press <kbd>m</kbd> to open [Xaero's World Map](https://modrinth.com/mod/xaeros-world-map).
 * [Xaero's Minimap](https://modrinth.com/mod/xaeros-minimap) is enabled by default, but there's no default keybind to toggle it on and off. You can assign one in the game's key bindings screen.
+* [Horse Buff](https://modrinth.com/mod/horsebuff) prevents saddled horses from wandering, so you don't need to carry a lead and a fence post. Horses also no longer sink in water, so you can swim across rivers without dismounting. There are a couple of other useful features as well; check the mod's page for details.
+* The [AutoRun](https://modrinth.com/mod/autorun) hotkey (defaults to <kbd>`</kbd>) not only works for running with your own two legs, but also with boats, horses, and other mounts.
 
 ## Mods
 
 ### Quality of life
 
 * [AmbientSounds](https://modrinth.com/mod/ambientsounds) (pleasing ambiance)
+* [AutoRun](https://modrinth.com/mod/autorun) (press <kbd>`</kbd> to autorun)
 * [Cubes Without Borders](https://modrinth.com/mod/cubes-without-borders) (borderless fullscreen mode)
 * [EMI](https://modrinth.com/mod/emi) (item and recipe viewer)
 * [Horse Buff](https://modrinth.com/mod/horsebuff) (quality of life tweaks for horses)
-* [Ok Zoomer](https://modrinth.com/mod/ok-zoomer) (use <kbd>c</kbd> and your mouse wheel to zoom)
+* [Ok Zoomer](https://modrinth.com/mod/ok-zoomer) (press <kbd>c</kbd> and your mouse wheel to zoom)
 * [Xaero's Minimap](https://modrinth.com/mod/xaeros-minimap) (minimap)
-* [Xaero's World Map](https://modrinth.com/mod/xaeros-world-map) (use <kbd>m</kbd> to toggle the world map)
+* [Xaero's World Map](https://modrinth.com/mod/xaeros-world-map) (press <kbd>m</kbd> to toggle the world map)
 
 ### Tools
 
