@@ -6,6 +6,11 @@ hash = "de619f9de200e4f42075d884a943ef426f3ce133268362432e7537b5d24bff7e"
 metafile = true
 
 [[files]]
+file = "mods/biomes-o-plenty.pw.toml"
+hash = "fa6e9e9fdae2076a024ad68f147b535e3d8acbedb8a4bf9a7f8dc0e0813cc5bd"
+metafile = true
+
+[[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "02b86828f925b9c077affdcad610425414931c7dbe083fef42e3743acc80f7ab"
 metafile = true
@@ -68,6 +73,11 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "078c828454d8a361baae372b5ee3dc33e5f3573fa19bdac8589b38da9dbc5c03"
+metafile = true
+
+[[files]]
+file = "mods/glitchcore.pw.toml"
+hash = "c88fd4801f88e697b33a5552289a40c08f06b11b0578cd560547b08d0674d928"
 metafile = true
 
 [[files]]

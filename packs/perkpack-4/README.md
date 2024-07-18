@@ -72,6 +72,7 @@ Playing the Perkpack 4 preview is, like Perkpack 3, pretty simple stuff. You'll 
 
 ### World generation
 
+* [Biomes O' Plenty](https://modrinth.com/mod/biomes-o-plenty) (new biomes)
 * [Dungeons and Taverns](https://modrinth.com/datapack/dungeons-and-taverns) (new structures)
 * [Larger Ore Veins: Deluxe](https://modrinth.com/datapack/larger-ore-veins-deluxe) (ore veins are less common, but larger)
 * [Lithosphere](https://modrinth.com/datapack/lithosphere) (cinematic terrain)
