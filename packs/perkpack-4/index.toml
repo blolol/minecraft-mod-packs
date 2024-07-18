@@ -132,7 +132,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-emerald-tools-fabric.pw.toml"
-hash = "aa0101a5150d53d99ef82d2aaa26e97b88dbea59e89d1a1d26f36d609ebfe856"
+hash = "2befabc062f8a3e47469bf18c8a1dc416490c30e8e4138eafb8d58942489bcd3"
 metafile = true
 
 [[files]]
