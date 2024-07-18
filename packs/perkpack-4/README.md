@@ -55,6 +55,7 @@ Playing the Perkpack 4 preview is, like Perkpack 3, pretty simple stuff. You'll 
 * [Xaero's Minimap](https://modrinth.com/mod/xaeros-minimap) is enabled by default, but there's no default keybind to toggle it on and off. You can assign one in the game's key bindings screen.
 * [Horse Buff](https://modrinth.com/mod/horsebuff) prevents saddled horses from wandering, so you don't need to carry a lead and a fence post. Horses also no longer sink in water, so you can swim across rivers without dismounting. There are a couple of other useful features as well; check the mod's page for details.
 * The [AutoRun](https://modrinth.com/mod/autorun) hotkey (defaults to <kbd>`</kbd>) not only works for running with your own two legs, but also with boats, horses, and other mounts.
+* Want to chop down entire trees at once, or dig out 3x3 areas? Check out the special tools added by [Easy Emerald Tools & More](https://www.curseforge.com/minecraft/mc-mods/simple-emerald-tools-fabric). To easily see all of the available items and their recipes in-game, type `@emerald` (or any other part of the mod name) into [EMI](https://modrinth.com/mod/emi)'s search bar in your inventory screen to filter the list to items added by the mod. Left-click on any item to see its recipe.
 
 ## Mods
 
