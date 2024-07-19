@@ -11,6 +11,11 @@ hash = "e4555d24669cf571bfa4e7f96c713ea09c672cb20c68c153b8617fac2d63fe48"
 metafile = true
 
 [[files]]
+file = "mods/badpackets.pw.toml"
+hash = "529f85e7837b766acfd4031d3563d5d96f4d0a83f00dd5328a1b943abda3f8b9"
+metafile = true
+
+[[files]]
 file = "mods/better-clouds.pw.toml"
 hash = "423e142f9a7285f75af63580dfd4f1e9421a22e9ec0e77f1404e4a62396f3f1e"
 metafile = true
@@ -176,13 +181,18 @@ hash = "11d45d83c817b2fa8572d7668d294763449b0fa62bde431665dcb833a9e581d3"
 metafile = true
 
 [[files]]
+file = "mods/wthit.pw.toml"
+hash = "a2aaff383dbff827f599dc55c7649dc89e7bc7c84a806caed505eaba40ed6b3c"
+metafile = true
+
+[[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "9f590e02371a224d8a005ec5f6fe0f025f1b3642345c17d1feaa2cb4f4028fdd"
+hash = "7104f0642e6b0103a255aed6745ed136969006afa6db950f48b7c24a665ecd92"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "e9f628cc8d3a658a9b0ceb2272993d0dd9f5736aad1fb8178e6071cd63a8438e"
+hash = "46bd65b68a5dd7437106c7c0c88c18128c60082d9012fe6c6692c3176d25b89e"
 metafile = true
 
 [[files]]

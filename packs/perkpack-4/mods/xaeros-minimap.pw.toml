@@ -11,3 +11,8 @@ hash = "dc22cb21d9337addc6b68dee9aaeeef51ccc3c80"
 [update.modrinth]
 mod-id = "1bokaNcj"
 version = "enRPivaa"
+
+[option]
+optional = true
+default = false
+description = "Adds a minimap to your HUD. Disabled by default, in case you prefer to play the game in a more vanilla fashion. Works with or without Xaero's World Map."

@@ -41,8 +41,9 @@ Playing the Perkpack 4 preview is, like Perkpack 3, pretty simple stuff. You'll 
 
 ### Helpful tips
 
-* In video settings, you can toggle "fullscreen" to "borderless", thanks to [Cubes Without Borders](https://modrinth.com/mod/cubes-without-borders).
-* A couple of nice resource packs are included, but are disabled by default. You can enable whichever ones you want. The recommended load order is:
+* **Optional mods:** When you start the game, a window will appear prompting you to select from a list of optional mods, such as Distant Horizons and Xaero's Minimap. Some, such as Distant Horizons, are optional for technical reasons (they don't work on Macs, for example). Others, like Xaero's map mods and What the Hell Is That, are disabled by default in case you'd prefer to play the game in a more "vanilla" fashion, without knowing exactly where you are and what you're looking at. Each time you launch the game, you'll have a few seconds to click a button to reconfigure the optional mods, so you can enable or disable any of them at any time.
+* **Borderless windowed mode:** In video settings, you can toggle "fullscreen" to "borderless", thanks to [Cubes Without Borders](https://modrinth.com/mod/cubes-without-borders).
+* **Pretty resource packs:** A couple of nice resource packs are included, but are disabled by default. You can enable whichever ones you want. The recommended load order is:
   * [Fast Better Grass](https://modrinth.com/resourcepack/fast-better-grass)
   * Default (built into the game)
   * Fabric Mods
@@ -50,19 +51,20 @@ Playing the Perkpack 4 preview is, like Perkpack 3, pretty simple stuff. You'll 
   * [Motschen's Better Leaves](https://modrinth.com/resourcepack/better-leaves)
   * Bushy Leaves Compat (Motschen's Better Leaves compatibility for Nature's Spirit; you can safely ignore the version mismatch warning)
   * [Fresh Animations](https://modrinth.com/resourcepack/fresh-animations)
-* Press <kbd>o</kbd> to choose a shader pack, and <kbd>k</kbd> to toggle them on and off.
-* Press <kbd>c</kbd> and use your mouse wheel to zoom using the [Ok Zoomer](https://modrinth.com/mod/ok-zoomer) mod.
-* Press <kbd>m</kbd> to open [Xaero's World Map](https://modrinth.com/mod/xaeros-world-map).
-* [Xaero's Minimap](https://modrinth.com/mod/xaeros-minimap) is enabled by default, but there's no default keybind to toggle it on and off. You can assign one in the game's key bindings screen.
-* [Horse Buff](https://modrinth.com/mod/horsebuff) prevents saddled horses from wandering, so you don't need to carry a lead and a fence post. Horses also no longer sink in water, so you can swim across rivers without dismounting. There are a couple of other useful features as well; check the mod's page for details.
-* The [AutoRun](https://modrinth.com/mod/autorun) hotkey (defaults to <kbd>`</kbd>) not only works for running with your own two legs, but also with boats, horses, and other mounts.
-* Want to chop down entire trees at once, or dig out 3x3 areas? Check out the special tools added by [Easy Emerald Tools & More](https://www.curseforge.com/minecraft/mc-mods/simple-emerald-tools-fabric). To easily see all of the available items and their recipes in-game, type `@emerald` (or any other part of the mod name) into [EMI](https://modrinth.com/mod/emi)'s search bar in your inventory screen to filter the list to items added by the mod. Left-click on any item to see its recipe.
+* **Shaders:** Press <kbd>o</kbd> to choose a shader pack, and <kbd>k</kbd> to toggle them on and off.
+* **Zooming:** Press <kbd>c</kbd> and use your mouse wheel to zoom using the [Ok Zoomer](https://modrinth.com/mod/ok-zoomer) mod.
+* **Maps:** If you chose to enable Xaero's Minimap and/or Xaero's World Map:
+  * Press <kbd>m</kbd> to open [Xaero's World Map](https://modrinth.com/mod/xaeros-world-map).
+  * [Xaero's Minimap](https://modrinth.com/mod/xaeros-minimap) is enabled by default, but there's no default keybind to toggle it on and off. You can assign one in the game's key bindings screen.
+* **[Horse Buff](https://modrinth.com/mod/horsebuff)** prevents saddled horses from wandering, so you don't need to carry a lead and a fence post. Horses also no longer sink in water, so you can swim across rivers without dismounting. There are a couple of other useful features as well; check the mod's page for details.
+* The **[AutoRun](https://modrinth.com/mod/autorun)** hotkey (unfortunately defaults to <kbd>o</kbd>, which conflicts with the shader config menu; we recommend changing it to a convenient key like <kbd>`</kbd>) not only works for running with your own two legs, but also with boats, horses, and other mounts.
+* Want to **chop down entire trees at once, or dig out 3x3 areas?** Check out the special tools added by [Easy Emerald Tools & More](https://www.curseforge.com/minecraft/mc-mods/simple-emerald-tools-fabric). To easily see all of the available items and their recipes in-game, type `@emerald` (or any other part of the mod name) into [EMI](https://modrinth.com/mod/emi)'s search bar in your inventory screen to filter the list to items added by the mod. Left-click on any item to see its recipe.
 
 ## Mods
 
 ### Quality of life
 
-* [AmbientSounds](https://modrinth.com/mod/ambientsounds) (pleasing ambiance)
+* [AmbientSounds](https://modrinth.com/mod/ambientsounds) (immersive ambient sounds for different biomes)
 * [AutoRun](https://modrinth.com/mod/autorun) (press <kbd>`</kbd> to autorun)
 * [Better Clouds](https://modrinth.com/mod/better-clouds) (beautiful clouds that fit in with vanilla)
 * [Cubes Without Borders](https://modrinth.com/mod/cubes-without-borders) (borderless fullscreen mode)
@@ -70,12 +72,13 @@ Playing the Perkpack 4 preview is, like Perkpack 3, pretty simple stuff. You'll 
 * [Horse Buff](https://modrinth.com/mod/horsebuff) (quality of life tweaks for horses)
 * [Ok Zoomer](https://modrinth.com/mod/ok-zoomer) (press <kbd>c</kbd> and your mouse wheel to zoom)
 * [ReplayMod](https://modrinth.com/mod/replaymod) (optional; used to record gameplay and create fancy videos)
-* [Xaero's Minimap](https://modrinth.com/mod/xaeros-minimap) (minimap)
-* [Xaero's World Map](https://modrinth.com/mod/xaeros-world-map) (press <kbd>m</kbd> to toggle the world map)
+* [What the Hell Is That](https://modrinth.com/mod/wthit) (optional; displays a HUD that shows what the hell it is you're looking at)
+* [Xaero's Minimap](https://modrinth.com/mod/xaeros-minimap) (optional; minimap in your HUD)
+* [Xaero's World Map](https://modrinth.com/mod/xaeros-world-map) (optional; press <kbd>m</kbd> to toggle a full-screen world map)
 
 ### Tools
 
-* [Easy Emerald Tools & More](https://www.curseforge.com/minecraft/mc-mods/simple-emerald-tools-fabric) (sets of armor, tools and weapons between vanilla iron and diamond, and 3x3 mining tools)
+* [Easy Emerald Tools & More](https://www.curseforge.com/minecraft/mc-mods/simple-emerald-tools-fabric) (sets of armor, tools and weapons between vanilla iron and diamond, and 3x3 mining tools; finally a use for all of that copper!)
 
 ### World generation
 
@@ -84,7 +87,7 @@ Playing the Perkpack 4 preview is, like Perkpack 3, pretty simple stuff. You'll 
 * [Larger Ore Veins: Deluxe](https://modrinth.com/datapack/larger-ore-veins-deluxe) (ore veins are less common, but larger)
 * [Lithosphere](https://modrinth.com/datapack/lithosphere) (cinematic terrain)
 * [Nature's Spirit](https://modrinth.com/mod/natures-spirit) (new biomes)
-* [Tidal Towns](https://modrinth.com/datapack/tidal-towns) (floating villages)
+* [Tidal Towns](https://modrinth.com/datapack/tidal-towns) (waterborne villages)
 
 ### Performance
 

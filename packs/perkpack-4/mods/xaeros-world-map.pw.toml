@@ -11,3 +11,8 @@ hash = "25e8508f32f3ba067123b9f2e2ffcacf408961ef"
 [update.modrinth]
 mod-id = "NcUtCpym"
 version = "ekubtdIk"
+
+[option]
+optional = true
+default = false
+description = "Adds a full-screen map that pairs with Xaero's Minimap. Disabled by default, in case you prefer to play the game in a more vanilla fashion. Works with or without Xaero's Minimap."
