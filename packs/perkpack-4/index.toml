@@ -41,6 +41,11 @@ hash = "9a0135fbcfdc8f9efbed49fcb2e5641272ed218553cc37897eea94eb4fe47f1b"
 metafile = true
 
 [[files]]
+file = "mods/comforts.pw.toml"
+hash = "0d7fb8cd97b8e670839ea475b63df903039890bddfb14b2c6ddcf0a1980059af"
+metafile = true
+
+[[files]]
 file = "mods/creativecore.pw.toml"
 hash = "da7d89a5ef4c67e74396b4a1decc94331260ec76c72723bcde45e048904cf0e2"
 metafile = true

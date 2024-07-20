@@ -78,6 +78,7 @@ Playing the Perkpack 4 preview is, like Perkpack 3, pretty simple stuff. You'll 
 
 ### Tools
 
+* [Comforts](https://modrinth.com/mod/comforts) (sleeping bags and hammocks; sleep without setting your respawn point)
 * [Easy Emerald Tools & More](https://www.curseforge.com/minecraft/mc-mods/simple-emerald-tools-fabric) (sets of armor, tools and weapons between vanilla iron and diamond, and 3x3 mining tools; finally a use for all of that copper!)
 
 ### World generation
