@@ -69,7 +69,6 @@ Playing the Perkpack 4 preview is, like Perkpack 3, pretty simple stuff. You'll 
 * [Better Clouds](https://modrinth.com/mod/better-clouds) (beautiful clouds that fit in with vanilla)
 * [Cubes Without Borders](https://modrinth.com/mod/cubes-without-borders) (borderless fullscreen mode)
 * [EMI](https://modrinth.com/mod/emi) (item and recipe viewer)
-* [Horse Buff](https://modrinth.com/mod/horsebuff) (quality of life tweaks for horses)
 * [Ok Zoomer](https://modrinth.com/mod/ok-zoomer) (press <kbd>c</kbd> and your mouse wheel to zoom)
 * [ReplayMod](https://modrinth.com/mod/replaymod) (optional; used to record gameplay and create fancy videos)
 * [What the Hell Is That](https://modrinth.com/mod/wthit) (optional; displays a HUD that shows what the hell it is you're looking at)
@@ -80,6 +79,11 @@ Playing the Perkpack 4 preview is, like Perkpack 3, pretty simple stuff. You'll 
 
 * [Comforts](https://modrinth.com/mod/comforts) (sleeping bags and hammocks; sleep without setting your respawn point)
 * [Easy Emerald Tools & More](https://www.curseforge.com/minecraft/mc-mods/simple-emerald-tools-fabric) (sets of armor, tools and weapons between vanilla iron and diamond, and 3x3 mining tools; finally a use for all of that copper!)
+
+### Getting around
+
+* [Horse Buff](https://modrinth.com/mod/horsebuff) (quality of life tweaks for horses)
+* [Small Ships](https://modrinth.com/mod/small-ships) (need a seagoing vessel larger than a rowboat?)
 
 ### World generation
 

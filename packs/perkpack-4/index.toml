@@ -82,7 +82,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "fc96b91acafcbaf76bf94d2dff7d53a53fdbf52ccc6030acbfffe13a365cc982"
+hash = "9e796b52f72bd9eee7d716a5014d8214956ed3f7661d0f44af85c8a86775bbbf"
 metafile = true
 
 [[files]]
@@ -93,6 +93,11 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "078c828454d8a361baae372b5ee3dc33e5f3573fa19bdac8589b38da9dbc5c03"
+metafile = true
+
+[[files]]
+file = "mods/forge-config-api-port.pw.toml"
+hash = "10abfd16e1d823f58348dbc02a3ac241b5dbf0abeecf9002bf9e73bb1a8d36f0"
 metafile = true
 
 [[files]]
@@ -168,6 +173,11 @@ metafile = true
 [[files]]
 file = "mods/simple-emerald-tools-fabric.pw.toml"
 hash = "2befabc062f8a3e47469bf18c8a1dc416490c30e8e4138eafb8d58942489bcd3"
+metafile = true
+
+[[files]]
+file = "mods/small-ships.pw.toml"
+hash = "395577e9ef9462a8b55568d1bcf5f71287ac04ce6c6ef20b1b597b67d1f8173f"
 metafile = true
 
 [[files]]

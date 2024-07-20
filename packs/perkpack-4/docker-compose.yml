@@ -19,7 +19,7 @@ services:
     environment:
       DATAPACKS_FILE: /tmp/datapacks.txt
       EULA: "true"
-      FABRIC_LOADER_VERSION: "0.15.11"
+      FABRIC_LOADER_VERSION: "0.16.0"
       ICON: http://caddy/images/server-icon.png
       MEMORY: "8G"
       MODE: creative
