@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/ambientsounds.pw.toml"
-hash = "de619f9de200e4f42075d884a943ef426f3ce133268362432e7537b5d24bff7e"
+hash = "0543bf0e7d7ac48e221c7e97b55ca7add1c8a1a4b9c5d487688782472fe287b9"
 metafile = true
 
 [[files]]
@@ -27,7 +27,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "02b86828f925b9c077affdcad610425414931c7dbe083fef42e3743acc80f7ab"
+hash = "1af76f25bad7ee8dad72015483d1263170707f2f17bb029557b8051b6136ff05"
 metafile = true
 
 [[files]]
@@ -47,12 +47,12 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "da7d89a5ef4c67e74396b4a1decc94331260ec76c72723bcde45e048904cf0e2"
+hash = "0cc365d0b8dc524a0b857c8bd162a478b1f52e5a307f18b32ef8c8091ad29259"
 metafile = true
 
 [[files]]
 file = "mods/cubes-without-borders.pw.toml"
-hash = "0ccb67864aa95ee32318023ff5e1782a3d0df70311d061b2716ba6a93507df41"
+hash = "11699829fc65c378c5bcccbea9375304ce6194aed18d2f02ee733ed44879efb4"
 metafile = true
 
 [[files]]
@@ -67,7 +67,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "de858d34871042c79ee2a664582c1be5afee9421a870038f8cbeba520d406181"
+hash = "86e971b1f82d63c791f7e7574c0ebfc9d1e4b6a23085257599ded29ed365ce6c"
 metafile = true
 
 [[files]]
@@ -77,7 +77,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "27ac8197dad6a1d489a153c86559915412b03e9101173694a5a22ad9a2b2ab43"
+hash = "b2af1699d567294bf20e80fd62069f65aca68746a78655984d30332b65ebd5a4"
 metafile = true
 
 [[files]]
@@ -142,12 +142,12 @@ metafile = true
 
 [[files]]
 file = "mods/natures-spirit.pw.toml"
-hash = "29d2564fe13c91577d1b9b47d121a048c00b53bcfc37b4efd3d9ffecbd4533fb"
+hash = "9bb10870932bb211e97da1db50766a6b5fdc4c231168a745b87cfa68779ee732"
 metafile = true
 
 [[files]]
 file = "mods/noisium.pw.toml"
-hash = "dff9ac35963eb4ae25aab0d29898c4b8c689547124a065a719a8bb8f86ced9d4"
+hash = "5c19a3fa886d36fd32ee8434b7948972329b96fa1f4064d8beadae832f168654"
 metafile = true
 
 [[files]]
@@ -157,12 +157,12 @@ metafile = true
 
 [[files]]
 file = "mods/placeholder-api.pw.toml"
-hash = "2661599c537d494d1b7bf2aaee0b64c5d80b1944dc1bf3094be1db93f860783b"
+hash = "d0311de4c47e48ba0c1769253c7bd8fd541ed81c60823c539116a963e58c9128"
 metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "46af7d3bd6fec707eb0d9aac51c4cd1a85888266cf250b4dae7b2780487df7fb"
+hash = "c497424b603b0b9fc190427fd7aa0985d23a74f4cba6c554e14f7dbd29385df2"
 metafile = true
 
 [[files]]
@@ -242,7 +242,7 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/complementary-unbound.pw.toml"
-hash = "f5f2f634a21371f9e857e33a2e45dfbad531b6c0bbe28bd7b9f53ec357b0cc23"
+hash = "9ed342e0d8a2200d2a5c01826dba51b70433ad2c0e998fda893b5fa2911c2516"
 metafile = true
 
 [[files]]
