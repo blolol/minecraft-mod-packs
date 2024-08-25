@@ -26,6 +26,7 @@ services:
       MOTD: "Perkpack 4 dev"
       OPS_FILE: https://s3.amazonaws.com/minecraft/allowlists/blolol.ops.json
       PACKWIZ_URL: http://caddy/pack.toml
+      REMOVE_OLD_DATAPACKS: "true"
       SPAWN_PROTECTION: 0
       TYPE: FABRIC
       USE_AIKAR_FLAGS: "true"
