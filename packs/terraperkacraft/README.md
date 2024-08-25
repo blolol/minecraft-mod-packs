@@ -18,9 +18,10 @@ If you haven't played Minecraft in a while, you might want to peruse the last fe
 
 It's just a few clicks to install Java, the game launcher, and the mod pack. Once you've installed it, TerraPerkaCraft will keep itself up to date each time you launch it.
 
+> [!IMPORTANT]
+> TerraPerkaCraft and Minecraft 1.20.1 **require Java 17,** and are incompatible with newer or older releases. Make sure you install the correct version!
+
 1. Install [Java 17](https://prismlauncher.org/wiki/getting-started/installing-java/).
-   > [!IMPORTANT]
-   > TerraPerkaCraft and Minecraft 1.20.1 **require Java 17,** and are incompatible with newer or older releases. Make sure you install the correct version!
 2. Install [Prism Launcher](https://prismlauncher.org).
 3. In Prism Launcher, click "Add Instance", then "Import".
 4. Give the instance a name like "TerraPerkaCraft", then paste in this URL: https://github.com/blolol/minecraft-mod-packs/raw/main/packs/terraperkacraft/prism-instance.zip
