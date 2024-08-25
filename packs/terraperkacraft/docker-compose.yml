@@ -1,0 +1,35 @@
+services:
+  caddy: # HTTP server to serve Packwiz files locally
+    image: caddy:2
+    ports:
+      - "8083:80"
+    volumes:
+      - "./Caddyfile:/etc/caddy/Caddyfile:ro"
+      - "caddy_data:/data"
+      - ".:/usr/share/caddy:ro"
+  minecraft:
+    image: itzg/minecraft-server
+    depends_on:
+      - caddy
+    ports:
+      - "25565:25565"
+    volumes:
+      - "./tmp/server:/data"
+      # - "./datapacks.txt:/tmp/datapacks.txt:ro"
+    environment:
+      # DATAPACKS_FILE: /tmp/datapacks.txt
+      EULA: "true"
+      ICON: http://caddy/images/server-icon.png
+      MEMORY: "8G"
+      MODE: creative
+      MOTD: "TerraPerkaCraft dev"
+      NEOFORGE_VERSION: "47.1.106"
+      OPS_FILE: https://s3.amazonaws.com/minecraft/allowlists/blolol.ops.json
+      PACKWIZ_URL: http://caddy/pack.toml
+      REMOVE_OLD_DATAPACKS: "true"
+      SPAWN_PROTECTION: 0
+      TYPE: NEOFORGE
+      USE_AIKAR_FLAGS: "true"
+      VERSION: "1.20.1"
+volumes:
+  caddy_data:

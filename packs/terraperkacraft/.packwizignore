@@ -1,0 +1,10 @@
+*.DS_Store
+Caddyfile
+datapacks.txt
+docker-compose.yml
+images
+Makefile
+prism-instance
+prism-instance.zip
+README.md
+tmp
