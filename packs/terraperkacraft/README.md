@@ -1,6 +1,6 @@
-# TerraPerkaCraft
+![TerraPerkaCraft logo](images/title.png)
 
-This is Blolol's [TerraFirmaCraft](https://modrinth.com/mod/terrafirmacraft) (TFC) hardcore survival Minecraft mod pack, based on Minecraft 1.20 and the NeoForge mod loader.
+**TerraPerkaCraft** is Blolol's [TerraFirmaCraft](https://modrinth.com/mod/terrafirmacraft) (TFC) hardcore survival Minecraft mod pack, based on Minecraft 1.20 and the NeoForge mod loader.
 
 TerraFirmaCraft is a total conversion mod that increases the depth and raises the difficulty of Minecraft's survival mode. Expect to spend much longer in the early game, collecting sticks and stones to [knap basic tools](https://terrafirmacraft.github.io/Field-Guide/en_us/getting_started/introduction.html), keeping your [campfire fueled](https://terrafirmacraft.github.io/Field-Guide/en_us/getting_started/firepit.html), and contending with [hunger, thirst](https://terrafirmacraft.github.io/Field-Guide/en_us/getting_started/food_and_water.html), [temperature and changing seasons](https://terrafirmacraft.github.io/Field-Guide/en_us/the_world/climate.html).
 
