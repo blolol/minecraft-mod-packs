@@ -26,7 +26,7 @@ It's just a few clicks to install Java, the game launcher, and the mod pack. Onc
 3. In Prism Launcher, click "Add Instance", then "Import".
 4. Give the instance a name like "TerraPerkaCraft", then paste in this URL: https://github.com/blolol/minecraft-mod-packs/raw/main/packs/terraperkacraft/prism-instance.zip
 5. Right-click the instance, select Edit > Settings > Java, and ensure the selected version of Java points to an installation of Java 17.
-6. Once you're in-game, connect to `tfc.mc.blolol.com`.
+6. Once you're in-game, connect to `tpc.mc.blolol.com`.
 
 ## Mods
 
