@@ -11,8 +11,23 @@ hash = "11171584cf9dc17e280e5b53320b9d39fa3dc23b2cf737d77e0ccb78b9c6dcc7"
 metafile = true
 
 [[files]]
+file = "mods/ambientsounds.pw.toml"
+hash = "50ba6c1e5a6d5bf9d848f1e54d7c9e8efc76720e5ce90b4e48b142d0941cbb95"
+metafile = true
+
+[[files]]
 file = "mods/arborfirmacraft-(afc).pw.toml"
 hash = "a3af82de62f7819d7e6a0f26355770b438cdaea1c4aa6480ced36de542620b47"
+metafile = true
+
+[[files]]
+file = "mods/chunky.pw.toml"
+hash = "5fe1f778e66001230e37dba27caf42a5a5170b9030a09c17c88c2198438695e6"
+metafile = true
+
+[[files]]
+file = "mods/creativecore.pw.toml"
+hash = "7904b90959114c56ada031802a4d1097fd716964c7c3624eae9fabf1b23020d0"
 metafile = true
 
 [[files]]

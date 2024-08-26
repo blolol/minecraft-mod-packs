@@ -38,8 +38,14 @@ It's just a few clicks to install Java, the game launcher, and the mod pack. Onc
 * [ArborFirmaCraft](https://modrinth.com/mod/arborfirmacraft-(afc)) adds tree species that correspond with the vanilla Minecraft wood colors that are otherwise missing from TerraFirmaCraft
 * [Roads and Roofs](https://modrinth.com/mod/roads-and-roofs-tfc) provides an immersive road-building process and a movement speed boost on completed roads
 
+### Ambience
+
+* [AmbientSounds](https://modrinth.com/mod/ambientsounds)
+* [Sound Physics Remastered](https://modrinth.com/mod/sound-physics-remastered)
+
 ### Performance
 
+* [Chunky](https://modrinth.com/plugin/chunky)
 * [Distant Horizons](https://modrinth.com/mod/sound-physics-remastered) (optional)
 * [Embeddium](https://modrinth.com/mod/embeddium)
 * [Embeddium++](https://modrinth.com/mod/embeddiumplus)
@@ -47,4 +53,3 @@ It's just a few clicks to install Java, the game launcher, and the mod pack. Onc
 * [ImmediatelyFast](https://modrinth.com/mod/immediatelyfast)
 * [ModernFix](https://modrinth.com/mod/modernfix)
 * [Radium](https://modrinth.com/mod/radium)
-* [Sound Physics Remastered](https://modrinth.com/mod/sound-physics-remastered)
