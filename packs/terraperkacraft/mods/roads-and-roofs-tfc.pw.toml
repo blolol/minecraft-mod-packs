@@ -1,0 +1,13 @@
+name = "Roads and Roofs TFC"
+filename = "rnr-0.2.0-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ca9X1Phr/versions/xQksRL9O/rnr-0.2.0-1.20.1.jar"
+hash-format = "sha1"
+hash = "9607d6c34e239e9410e6d14b2354e09dfd0abc40"
+
+[update]
+[update.modrinth]
+mod-id = "ca9X1Phr"
+version = "xQksRL9O"

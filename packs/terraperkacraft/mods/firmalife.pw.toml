@@ -1,0 +1,13 @@
+name = "Firmalife"
+filename = "Firmalife-1.20.1-2.1.7.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/5bKeBHw2/versions/n7yDfNsO/Firmalife-1.20.1-2.1.7.jar"
+hash-format = "sha1"
+hash = "4c5e1747b497d1122e0bf984eca4e48772928522"
+
+[update]
+[update.modrinth]
+mod-id = "5bKeBHw2"
+version = "n7yDfNsO"

@@ -20,9 +20,10 @@ services:
       # DATAPACKS_FILE: /tmp/datapacks.txt
       EULA: "true"
       ICON: http://caddy/images/server-icon.png
+      LEVEL_TYPE: "tfc:overworld"
       MEMORY: "8G"
       MODE: creative
-      MOTD: "TerraPerkaCraft dev"
+      MOTD: "TerraPerkaCraft development server"
       NEOFORGE_VERSION: "47.1.106"
       OPS_FILE: https://s3.amazonaws.com/minecraft/allowlists/blolol.ops.json
       PACKWIZ_URL: http://caddy/pack.toml

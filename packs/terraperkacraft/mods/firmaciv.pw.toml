@@ -1,0 +1,13 @@
+name = "Firma: Civilization"
+filename = "FirmaCivilization-1.20.1-1.0.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/6o49a8Vz/versions/iUECMUql/FirmaCivilization-1.20.1-1.0.5.jar"
+hash-format = "sha1"
+hash = "b1bb13d7f4dccbae3b3bddc3b2fb4745d7675086"
+
+[update]
+[update.modrinth]
+mod-id = "6o49a8Vz"
+version = "iUECMUql"

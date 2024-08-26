@@ -1,0 +1,13 @@
+name = "ArborFirmaCraft (AFC)"
+filename = "afc-1.0.13-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/9q4wtMjp/versions/yZ9b2MTz/afc-1.0.13-1.20.1.jar"
+hash-format = "sha1"
+hash = "64c78e916235aa269384e56b59cf69130e86ade8"
+
+[update]
+[update.modrinth]
+mod-id = "9q4wtMjp"
+version = "yZ9b2MTz"
