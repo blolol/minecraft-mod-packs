@@ -16,6 +16,11 @@ hash = "a3af82de62f7819d7e6a0f26355770b438cdaea1c4aa6480ced36de542620b47"
 metafile = true
 
 [[files]]
+file = "mods/distanthorizons.pw.toml"
+hash = "0740153d2076da460c3ece92163fdba78960bee420ef90d12eb806547a75a170"
+metafile = true
+
+[[files]]
 file = "mods/embeddium.pw.toml"
 hash = "b814fff06b977987df71b2e0fd8a4f68439a88c5ec5dd843ad59638beabc2f3a"
 metafile = true
@@ -63,6 +68,11 @@ metafile = true
 [[files]]
 file = "mods/roads-and-roofs-tfc.pw.toml"
 hash = "398ac4625c734ea2ad0f3819cb9d774d707788559b2c0235b2f4539d84c9d364"
+metafile = true
+
+[[files]]
+file = "mods/sound-physics-remastered.pw.toml"
+hash = "414ed4ce44929f2989bfe7a5bf5ddcbffc48883dc074e9a6fd3be4f6483ed0ea"
 metafile = true
 
 [[files]]

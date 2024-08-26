@@ -40,9 +40,11 @@ It's just a few clicks to install Java, the game launcher, and the mod pack. Onc
 
 ### Performance
 
+* [Distant Horizons](https://modrinth.com/mod/sound-physics-remastered) (optional)
 * [Embeddium](https://modrinth.com/mod/embeddium)
 * [Embeddium++](https://modrinth.com/mod/embeddiumplus)
 * [FerriteCore](https://modrinth.com/mod/ferrite-core)
 * [ImmediatelyFast](https://modrinth.com/mod/immediatelyfast)
 * [ModernFix](https://modrinth.com/mod/modernfix)
 * [Radium](https://modrinth.com/mod/radium)
+* [Sound Physics Remastered](https://modrinth.com/mod/sound-physics-remastered)
