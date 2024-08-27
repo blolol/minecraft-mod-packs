@@ -28,6 +28,13 @@ It's just a few clicks to install Java, the game launcher, and the mod pack. Onc
 5. Right-click the instance, select Edit > Settings > Java, and ensure the selected version of Java points to an installation of Java 17.
 6. Once you're in-game, connect to `tpc.mc.blolol.com`.
 
+### Tips and tricks
+
+* You can make the red Mojang loading screen a less eye-searing black and white. Go to Main Menu > Options > Accessibility Settings, and enable Monochrome Logo.
+* You can switch to borderless window mode in Main Menu > Options > Video Settings > General, and cycle Fullscreen Mode until it says "Borderless".
+* To customize [What the Hell is That](https://modrinth.com/mod/wthit)'s HUD, go to Main Menu > Mods > WTHIT > Config.
+* You can filter [Just Enough Items](https://modrinth.com/mod/jei)' item list by mod name. Open your inventory screen, press <kbd>^F</kbd> (or <kbd>⌘F</kbd> on a Mac) to focus the search input, and enter `@terra`, or any other fragment of a mod name prefixed with `@`, to filter the list of blocks and items to ones added by that mod. More advanced features are documented on [the mod's Modrinth page](https://modrinth.com/mod/jei).
+
 ## Mods
 
 * [TerraFirmaCraft](https://modrinth.com/mod/terrafirmacraft) ([field guide](https://terrafirmacraft.github.io/Field-Guide/en_us/))
@@ -37,6 +44,11 @@ It's just a few clicks to install Java, the game launcher, and the mod pack. Onc
   * [Ridiculously Simple Roofs](https://modrinth.com/mod/alekiroofs) adds slab-like roof blocks
 * [ArborFirmaCraft](https://modrinth.com/mod/arborfirmacraft-(afc)) adds tree species that correspond with the vanilla Minecraft wood colors that are otherwise missing from TerraFirmaCraft
 * [Roads and Roofs](https://modrinth.com/mod/roads-and-roofs-tfc) provides an immersive road-building process and a movement speed boost on completed roads
+
+### Quality of Life
+
+* [Just Enough Items](https://modrinth.com/mod/jei) for more easily browsing and searching items and recipes in your inventory screen
+* [What the Hell is That?](https://modrinth.com/mod/wthit) (WTHIT) provides a small HUD at the top of your screen that displays the name of the block or entity you're looking at in the world
 
 ### Ambience
 

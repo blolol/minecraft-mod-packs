@@ -21,6 +21,11 @@ hash = "a3af82de62f7819d7e6a0f26355770b438cdaea1c4aa6480ced36de542620b47"
 metafile = true
 
 [[files]]
+file = "mods/badpackets.pw.toml"
+hash = "b1e70c01c737670dab9430ea844053bdc0ffbb62519ea8846deaeb3c49de9655"
+metafile = true
+
+[[files]]
 file = "mods/chunky.pw.toml"
 hash = "5fe1f778e66001230e37dba27caf42a5a5170b9030a09c17c88c2198438695e6"
 metafile = true
@@ -66,6 +71,11 @@ hash = "1ef40993b8abff2b77e3f5f59874e6de0348e4c39f6b8e5561fa672a8b1c5c0b"
 metafile = true
 
 [[files]]
+file = "mods/jei.pw.toml"
+hash = "131edd02530ea454dc449b86765aeae89b1149a00476f3586c2fbb2991c20241"
+metafile = true
+
+[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "198f1556d7bb15f0a62ef990cbcb9cdef6e6430e25c7094a6c7abe58ac388d9d"
 metafile = true
@@ -93,4 +103,9 @@ metafile = true
 [[files]]
 file = "mods/terrafirmacraft.pw.toml"
 hash = "f2b629cf3e4e10834d484ce97f66bab97179305d5324abe3001a6f507a608ad2"
+metafile = true
+
+[[files]]
+file = "mods/wthit.pw.toml"
+hash = "203b95da689f38eec737c0a2c9f5ee2e95dd9c6b930fe88678e4e608ea49cee3"
 metafile = true
