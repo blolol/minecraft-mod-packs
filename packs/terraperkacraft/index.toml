@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/bcc-common.toml"
-hash = "bc97ffc07e81bccbcab420ca1d908352d9bbf415cb4ee86e2b04ba9623eb9d9b"
+hash = "0afd9d1485a5c19a9bba18ed212dc3c49f9d4118b578591a9025f6c1a252f9ff"
 
 [[files]]
 file = "configureddefaults/config/MouseTweaks.cfg"
