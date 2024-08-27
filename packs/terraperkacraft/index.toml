@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = "configureddefaults/config/MouseTweaks.cfg"
+hash = "adc06ca99bdc9ecb6181f28dc38199e2bbc2d1907bf095de41a0e7e2842c98ea"
+
+[[files]]
+file = "configureddefaults/config/embeddium++.toml"
+hash = "06723b7c2491ac2c7be93539e35ebd64e1e3417db32c87061feffd97fd6c5920"
+
+[[files]]
 file = "mods/alekiroofs.pw.toml"
 hash = "6c27443ac2d779a0bb7f46379905d4acde7b2fc63708f464e6c8c984d9659bc6"
 metafile = true
@@ -28,6 +36,11 @@ metafile = true
 [[files]]
 file = "mods/chunky.pw.toml"
 hash = "5fe1f778e66001230e37dba27caf42a5a5170b9030a09c17c88c2198438695e6"
+metafile = true
+
+[[files]]
+file = "mods/configured-defaults.pw.toml"
+hash = "4f23ec4f00364a26a94516833be54028cefd525e8ac1bc0697e5f6718fc97bac"
 metafile = true
 
 [[files]]
@@ -78,6 +91,11 @@ metafile = true
 [[files]]
 file = "mods/modernfix.pw.toml"
 hash = "198f1556d7bb15f0a62ef990cbcb9cdef6e6430e25c7094a6c7abe58ac388d9d"
+metafile = true
+
+[[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "ea7f91e66e1e475cd5fa10f56caa46a6a53754da99ed3252e6a6f68b731699b1"
 metafile = true
 
 [[files]]
