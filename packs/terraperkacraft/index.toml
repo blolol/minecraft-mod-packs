@@ -108,6 +108,11 @@ hash = "ea7f91e66e1e475cd5fa10f56caa46a6a53754da99ed3252e6a6f68b731699b1"
 metafile = true
 
 [[files]]
+file = "mods/obsidianui.pw.toml"
+hash = "20ae985a3d4a13c4fee0abbf2e37b152750d606ffd9aeb3d94b823d47c360fe0"
+metafile = true
+
+[[files]]
 file = "mods/patchouli.pw.toml"
 hash = "4d0b66ba4cb3c2965bf961d4bb991babb6a60f8a20709d1e295ed7fc8b6d8929"
 metafile = true
@@ -120,6 +125,11 @@ metafile = true
 [[files]]
 file = "mods/roads-and-roofs-tfc.pw.toml"
 hash = "398ac4625c734ea2ad0f3819cb9d774d707788559b2c0235b2f4539d84c9d364"
+metafile = true
+
+[[files]]
+file = "mods/ryoamiclights.pw.toml"
+hash = "236f2081c7d05b4aedd9a44e57434818332f63091645d7d3b2fd6356de0646aa"
 metafile = true
 
 [[files]]
