@@ -26,7 +26,7 @@
 	#Set to false to disable the popup message telling you that you can config quark in the q menu
 	"Enable Onboarding" = false
 	#The amount of slots the chest button system should seek when trying to figure out if a container should be eligible for them.
-	"Chest Button Slot Target" = 27
+	"Chest Button Slot Target" = 18
 	#Set this to false to not generate the Quark Programmer Art resource pack
 	"Generate Programmer Art" = true
 
@@ -1947,4 +1947,3 @@
 		"Destroy Lost Items" = false
 		#Set this to false to only allow the owner of a totem to collect its items rather than any player
 		"Allow Anyone To Collect" = true
-

@@ -5,16 +5,16 @@ file = "config/bcc-common.toml"
 hash = "0afd9d1485a5c19a9bba18ed212dc3c49f9d4118b578591a9025f6c1a252f9ff"
 
 [[files]]
+file = "config/quark-common.toml"
+hash = "c0d9305ad7fa7a61ca9e8b3ec5251ac34eb8f07be8c1727a6ad6fe363658925e"
+
+[[files]]
 file = "configureddefaults/config/MouseTweaks.cfg"
 hash = "adc06ca99bdc9ecb6181f28dc38199e2bbc2d1907bf095de41a0e7e2842c98ea"
 
 [[files]]
 file = "configureddefaults/config/embeddium++.toml"
 hash = "06723b7c2491ac2c7be93539e35ebd64e1e3417db32c87061feffd97fd6c5920"
-
-[[files]]
-file = "configureddefaults/config/quark-common.toml"
-hash = "978606e8f0fa369d6af3c182d5858f58d29c36d4490002d6756aca2a639f26db"
 
 [[files]]
 file = "mods/alekiroofs.pw.toml"
