@@ -49,6 +49,7 @@ It's just a few clicks to install Java, the game launcher, and the mod pack. Onc
 
 * [Just Enough Items](https://modrinth.com/mod/jei) for more easily browsing and searching items and recipes in your inventory screen
 * [Mouse Tweaks](https://modrinth.com/mod/mouse-tweaks) allows you to use your scroll wheel to move items between your inventory and containers
+* [Quark](https://modrinth.com/mod/quark) adds an auto-walk keybind, inventory sorting and filtering, and a couple of other quality of life tweaks
 * [RyoamicLights](https://modrinth.com/mod/ryoamiclights) adds dynamic lights (a torch held in your hand lights up the world around you)
 * [What the Hell is That?](https://modrinth.com/mod/wthit) (WTHIT) provides a small HUD at the top of your screen that displays the name of the block or entity you're looking at in the world
 
