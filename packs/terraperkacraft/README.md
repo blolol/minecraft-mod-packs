@@ -32,7 +32,7 @@ It's just a few clicks to install Java, the game launcher, and the mod pack. Onc
 
 * You can make the red Mojang loading screen a less eye-searing black and white. Go to Main Menu > Options > Accessibility Settings, and enable Monochrome Logo.
 * You can switch to borderless window mode in Main Menu > Options > Video Settings > General, and cycle Fullscreen Mode until it says "Borderless".
-* To customize [What the Hell is That](https://modrinth.com/mod/wthit)'s HUD, go to Main Menu > Mods > WTHIT > Config.
+* To toggle [Jade](https://modrinth.com/mod/jade)'s HUD at the top of your screen that displays details of what you're looking at in the world, press <kbd>1</kbd> on your keypad with the default key binds. To customize Jade's settings, go to Main Menu > Mods > Jade > Config.
 * You can filter [Just Enough Items](https://modrinth.com/mod/jei)' item list by mod name. Open your inventory screen, press <kbd>^F</kbd> (or <kbd>⌘F</kbd> on a Mac) to focus the search input, and enter `@terra`, or any other fragment of a mod name prefixed with `@`, to filter the list of blocks and items to ones added by that mod. More advanced features are documented on [the mod's Modrinth page](https://modrinth.com/mod/jei).
 
 ## Mods
@@ -47,11 +47,11 @@ It's just a few clicks to install Java, the game launcher, and the mod pack. Onc
 
 ### Quality of Life
 
+* [Jade](https://modrinth.com/mod/jade) provides a small HUD at the top of your screen that displays the name of the block or entity you're looking at in the world
 * [Just Enough Items](https://modrinth.com/mod/jei) for more easily browsing and searching items and recipes in your inventory screen
 * [Mouse Tweaks](https://modrinth.com/mod/mouse-tweaks) allows you to use your scroll wheel to move items between your inventory and containers
 * [Quark](https://modrinth.com/mod/quark) adds an auto-walk keybind, inventory sorting and filtering, and a couple of other quality of life tweaks
 * [RyoamicLights](https://modrinth.com/mod/ryoamiclights) adds dynamic lights (a torch held in your hand lights up the world around you)
-* [What the Hell is That?](https://modrinth.com/mod/wthit) (WTHIT) provides a small HUD at the top of your screen that displays the name of the block or entity you're looking at in the world
 
 ### Ambience
 

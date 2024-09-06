@@ -97,6 +97,11 @@ hash = "1ef40993b8abff2b77e3f5f59874e6de0348e4c39f6b8e5561fa672a8b1c5c0b"
 metafile = true
 
 [[files]]
+file = "mods/jade.pw.toml"
+hash = "481da4fd99cc2c132084655eb7daa62b963e6a18e3881df795e6bb828fad822f"
+metafile = true
+
+[[files]]
 file = "mods/jei.pw.toml"
 hash = "131edd02530ea454dc449b86765aeae89b1149a00476f3586c2fbb2991c20241"
 metafile = true
@@ -149,11 +154,6 @@ metafile = true
 [[files]]
 file = "mods/terrafirmacraft.pw.toml"
 hash = "f2b629cf3e4e10834d484ce97f66bab97179305d5324abe3001a6f507a608ad2"
-metafile = true
-
-[[files]]
-file = "mods/wthit.pw.toml"
-hash = "203b95da689f38eec737c0a2c9f5ee2e95dd9c6b930fe88678e4e608ea49cee3"
 metafile = true
 
 [[files]]
