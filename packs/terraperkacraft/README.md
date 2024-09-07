@@ -8,6 +8,8 @@ Game systems are explained using an in-game field guide (press <kbd>e</kbd> to v
 
 The TerraFirmaCraft base game is further expanded with [Firmalife](https://terrafirmacraft.github.io/Field-Guide/en_us/firmalife/)'s cooking and farming, and [Firma: Civilization](https://terrafirmacraft.github.io/Field-Guide/en_us/firmaciv/)'s boats and navigation.
 
+More information about Blolol's history with TerraFirmaCraft, and details about TerraPerkaCraft servers and worlds, can be found on Borkpaedia: https://wiki.blolol.com/TerraPerkaCraft
+
 ## How to play
 
 If you haven't played Minecraft in a while, you might want to peruse the last few major game updates to see what's new:
