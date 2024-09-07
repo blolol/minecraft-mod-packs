@@ -157,6 +157,11 @@ hash = "f2b629cf3e4e10834d484ce97f66bab97179305d5324abe3001a6f507a608ad2"
 metafile = true
 
 [[files]]
+file = "mods/tfc-support-indicator.pw.toml"
+hash = "7007068d3780337b39921abb22385b47e835b0b7b6e4ef93b74796ad800664e7"
+metafile = true
+
+[[files]]
 file = "mods/zeta.pw.toml"
 hash = "3664bd4082d2852e252fcf094f0d82f4e20b3adb3d9f894c46be6a316e397971"
 metafile = true

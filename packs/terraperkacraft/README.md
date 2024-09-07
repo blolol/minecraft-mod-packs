@@ -48,6 +48,7 @@ It's just a few clicks to install Java, the game launcher, and the mod pack. Onc
 ### Quality of Life
 
 * [Jade](https://modrinth.com/mod/jade) provides a small HUD at the top of your screen that displays the name of the block or entity you're looking at in the world
+  * [TFC Support Indicator](https://modrinth.com/mod/tfc-support-indicator) adds an optional indicator to Jade's HUD about whether the block you're looking at is [supported against collapse](https://terrafirmacraft.github.io/Field-Guide/en_us/mechanics/support_beams.html).
 * [Just Enough Items](https://modrinth.com/mod/jei) for more easily browsing and searching items and recipes in your inventory screen
 * [Mouse Tweaks](https://modrinth.com/mod/mouse-tweaks) allows you to use your scroll wheel to move items between your inventory and containers
 * [Quark](https://modrinth.com/mod/quark) adds an auto-walk keybind, inventory sorting and filtering, and a couple of other quality of life tweaks
