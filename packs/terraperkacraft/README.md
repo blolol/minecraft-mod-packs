@@ -32,10 +32,10 @@ It's just a few clicks to install Java, the game launcher, and the mod pack. Onc
 
 ### Tips and tricks
 
-* You can make the red Mojang loading screen a less eye-searing black and white. Go to Main Menu > Options > Accessibility Settings, and enable Monochrome Logo.
 * You can switch to borderless window mode in Main Menu > Options > Video Settings > General, and cycle Fullscreen Mode until it says "Borderless".
 * To toggle [Jade](https://modrinth.com/mod/jade)'s HUD at the top of your screen that displays details of what you're looking at in the world, press <kbd>1</kbd> on your keypad with the default key binds. To customize Jade's settings, go to Main Menu > Mods > Jade > Config.
 * You can filter [Just Enough Items](https://modrinth.com/mod/jei)' item list by mod name. Open your inventory screen, press <kbd>^F</kbd> (or <kbd>⌘F</kbd> on a Mac) to focus the search input, and enter `@terra`, or any other fragment of a mod name prefixed with `@`, to filter the list of blocks and items to ones added by that mod. More advanced features are documented on [the mod's Modrinth page](https://modrinth.com/mod/jei).
+* For tips about TerraFirmaCraft gameplay, check out [its Borkpaedia article](https://wiki.blolol.com/TerraPerkaCraft).
 
 ## Mods
 
@@ -71,3 +71,7 @@ It's just a few clicks to install Java, the game launcher, and the mod pack. Onc
 * [ImmediatelyFast](https://modrinth.com/mod/immediatelyfast)
 * [ModernFix](https://modrinth.com/mod/modernfix)
 * [Radium](https://modrinth.com/mod/radium)
+
+## Resource packs
+
+TerraPerkaCraft comes with the [Vexxed Visuals](https://www.curseforge.com/minecraft/texture-packs/terrafirmacraft-vexxed-visuals) resource pack, which is a remaster of the default TerraFirmaCraft textures, enabled by default. If you'd like to play with the original textures, go to Main Menu > Options > Resource Packs, and disable Vexxed Visuals.

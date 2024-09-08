@@ -1,0 +1,3 @@
+version:3465
+darkMojangStudiosBackground:true
+resourcePacks:["vanilla","file/Vexxed_Visuals_TFC_v1.2.7.1.zip"]

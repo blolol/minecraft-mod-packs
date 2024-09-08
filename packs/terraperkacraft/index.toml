@@ -17,6 +17,10 @@ file = "configureddefaults/config/embeddium++.toml"
 hash = "06723b7c2491ac2c7be93539e35ebd64e1e3417db32c87061feffd97fd6c5920"
 
 [[files]]
+file = "configureddefaults/options.txt"
+hash = "6372d426d366047053e82269dd5c978b31fb799557deffc40d8fd8305370886a"
+
+[[files]]
 file = "mods/alekiroofs.pw.toml"
 hash = "6c27443ac2d779a0bb7f46379905d4acde7b2fc63708f464e6c8c984d9659bc6"
 metafile = true
@@ -164,4 +168,9 @@ metafile = true
 [[files]]
 file = "mods/zeta.pw.toml"
 hash = "3664bd4082d2852e252fcf094f0d82f4e20b3adb3d9f894c46be6a316e397971"
+metafile = true
+
+[[files]]
+file = "resourcepacks/terrafirmacraft-vexxed-visuals.pw.toml"
+hash = "3b827067c0756e0ffb8f752b6c30436430dd71b91261fb9b66a49c869fd9477e"
 metafile = true
