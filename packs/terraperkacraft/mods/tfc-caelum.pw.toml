@@ -1,0 +1,13 @@
+name = "TFC Caelum"
+filename = "TFCCaelum-1.20.1-1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/WYvV2Kci/versions/wSasbQOH/TFCCaelum-1.20.1-1.2.jar"
+hash-format = "sha1"
+hash = "114e10e497503f5ff4cb13850a8dec9bb9f4d625"
+
+[update]
+[update.modrinth]
+mod-id = "WYvV2Kci"
+version = "wSasbQOH"
