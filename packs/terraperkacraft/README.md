@@ -45,6 +45,7 @@ It's just a few clicks to install Java, the game launcher, and the mod pack. Onc
   * [Nifty Ships](https://modrinth.com/mod/alekiships) adds small boats and larger ships that are built piece by piece in-world, and use a wind and sail simulation
   * [Ridiculously Simple Roofs](https://modrinth.com/mod/alekiroofs) adds slab-like roof blocks
 * [ArborFirmaCraft](https://modrinth.com/mod/arborfirmacraft-(afc)) adds tree species that correspond with the vanilla Minecraft wood colors that are otherwise missing from TerraFirmaCraft
+* [GraveStone Mod](https://modrinth.com/mod/gravestone-mod) places a grave with your stuff when you die, so it doesn't despawn
 * [Roads and Roofs](https://modrinth.com/mod/roads-and-roofs-tfc) provides an immersive road-building process and a movement speed boost on completed roads
 
 ### Quality of Life

@@ -21,6 +21,10 @@ file = "configureddefaults/options.txt"
 hash = "6372d426d366047053e82269dd5c978b31fb799557deffc40d8fd8305370886a"
 
 [[files]]
+file = "defaultconfigs/gravestone-server.toml"
+hash = "7996741d8a7b523c1fa074786b471ba8680ed4bb7ff5963dcb095309f215e496"
+
+[[files]]
 file = "mods/alekiroofs.pw.toml"
 hash = "6c27443ac2d779a0bb7f46379905d4acde7b2fc63708f464e6c8c984d9659bc6"
 metafile = true
@@ -93,6 +97,11 @@ metafile = true
 [[files]]
 file = "mods/firmalife.pw.toml"
 hash = "4f81eba056690e7a6c1010d809670011abc1eec316e425fe21fadccb660a4d0b"
+metafile = true
+
+[[files]]
+file = "mods/gravestone-mod.pw.toml"
+hash = "437b148c531ff5916e7679fdfdda615f2b401c8f2e657772bb4613f2169ecd3b"
 metafile = true
 
 [[files]]
