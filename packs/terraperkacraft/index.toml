@@ -25,6 +25,10 @@ file = "defaultconfigs/gravestone-server.toml"
 hash = "7996741d8a7b523c1fa074786b471ba8680ed4bb7ff5963dcb095309f215e496"
 
 [[files]]
+file = "defaultconfigs/simpledaylengthextender-server.toml"
+hash = "c9a1ea79ff19b12952ac36c2d15bc486d819fc032d1e3ee8ea26eb7053d8eccc"
+
+[[files]]
 file = "mods/alekiroofs.pw.toml"
 hash = "6c27443ac2d779a0bb7f46379905d4acde7b2fc63708f464e6c8c984d9659bc6"
 metafile = true
@@ -157,6 +161,11 @@ metafile = true
 [[files]]
 file = "mods/ryoamiclights.pw.toml"
 hash = "236f2081c7d05b4aedd9a44e57434818332f63091645d7d3b2fd6356de0646aa"
+metafile = true
+
+[[files]]
+file = "mods/simple-day-length-extender.pw.toml"
+hash = "897abd0380c8b951e370a8d6045e7e5d27b2b4a1c7d9b1349c92bff578c19745"
 metafile = true
 
 [[files]]
