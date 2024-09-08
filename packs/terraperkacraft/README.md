@@ -48,7 +48,6 @@ It's just a few clicks to install Java, the game launcher, and the mod pack. Onc
 * [Caelum](https://modrinth.com/mod/caelum) adds a realistic night sky and celestial objects that you can use to navigate
 * [GraveStone Mod](https://modrinth.com/mod/gravestone-mod) places a grave with your stuff when you die, so it doesn't despawn (its obituary feature is disabled, to prevent cheesing your location using the coordinates it shows)
 * [Roads and Roofs](https://modrinth.com/mod/roads-and-roofs-tfc) provides an immersive road-building process and a movement speed boost on completed roads
-* [Simple Day Length Extender](https://www.curseforge.com/minecraft/mc-mods/simple-day-length-extender) for extending days and nights to an hour each
 
 ### Quality of Life
 
