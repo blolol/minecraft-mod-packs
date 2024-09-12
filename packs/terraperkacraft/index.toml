@@ -9,6 +9,10 @@ file = "config/quark-common.toml"
 hash = "c0d9305ad7fa7a61ca9e8b3ec5251ac34eb8f07be8c1727a6ad6fe363658925e"
 
 [[files]]
+file = "config/serverconfigupdater-common.toml"
+hash = "ea6b1aa7347eb65e38d48549f221f32f909de29c84537c65964b5100ebc9f9bb"
+
+[[files]]
 file = "configureddefaults/config/MouseTweaks.cfg"
 hash = "adc06ca99bdc9ecb6181f28dc38199e2bbc2d1907bf095de41a0e7e2842c98ea"
 
@@ -23,6 +27,10 @@ hash = "6372d426d366047053e82269dd5c978b31fb799557deffc40d8fd8305370886a"
 [[files]]
 file = "defaultconfigs/gravestone-server.toml"
 hash = "7996741d8a7b523c1fa074786b471ba8680ed4bb7ff5963dcb095309f215e496"
+
+[[files]]
+file = "defaultconfigs/tfc-server.toml"
+hash = "975d985285b84266e6d335dc322f7071702e9d2278bef5bba33beb041fa0f683"
 
 [[files]]
 file = "mods/alekiroofs.pw.toml"
@@ -121,7 +129,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "131edd02530ea454dc449b86765aeae89b1149a00476f3586c2fbb2991c20241"
+hash = "3e0cd1e2e15a3c797ccfd67901b97b971ecfa7a66d9dc161bcc4cf86f6a61825"
 metafile = true
 
 [[files]]
@@ -162,6 +170,11 @@ metafile = true
 [[files]]
 file = "mods/ryoamiclights.pw.toml"
 hash = "236f2081c7d05b4aedd9a44e57434818332f63091645d7d3b2fd6356de0646aa"
+metafile = true
+
+[[files]]
+file = "mods/serverconfig-updater.pw.toml"
+hash = "cd7ead640f3699a41aa3f9ff17d4f5026e881322509fd41b18198f7270b37aa2"
 metafile = true
 
 [[files]]
