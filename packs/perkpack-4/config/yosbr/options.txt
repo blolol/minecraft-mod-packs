@@ -1,0 +1,7 @@
+darkMojangStudiosBackground:true
+resourcePacks:["vanilla","fabric","file/Better-Leaves-8.1-1.20+.zip","natures_spirit:better_leaves_compatibility","file/FreshAnimations_v1.9.2.zip","file/colourful containers.zip","natures_spirit:emissive_ores_compatibility","natures_spirit:plank_consistency","file/Fast Better Grass.zip"]
+incompatibleResourcePacks:["comforts","distanthorizons","jade","spectrelib","terrablender","xaerominimap","xaeroworldmap","yet_another_config_lib_v3","natures_spirit:better_leaves_compatibility","natures_spirit:emissive_ores_compatibility","natures_spirit:plank_consistency"]
+joinedFirstServer:true
+key_key.autorun.toggle:key.keyboard.grave.accent
+key_gui.xaero_toggle_map:key.keyboard.n
+key_gui.xaero_open_map:key.keyboard.m

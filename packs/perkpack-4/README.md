@@ -43,13 +43,6 @@ Playing the Perkpack 4 preview is, like Perkpack 3, pretty simple stuff. You'll 
 
 * **Optional mods:** When you start the game, a window will appear prompting you to select from a list of optional mods, such as Distant Horizons and Xaero's Minimap. Some, such as Distant Horizons, are optional for technical reasons (they don't work on Macs, for example). Others, like Xaero's map mods and Jade, are disabled by default in case you'd prefer to play the game in a more "vanilla" fashion, without knowing exactly where you are and what you're looking at. Each time you launch the game, you'll have a few seconds to click a button to reconfigure the optional mods, so you can enable or disable any of them at any time.
 * **Borderless windowed mode:** In video settings, you can toggle "fullscreen" to "borderless", thanks to [Cubes Without Borders](https://modrinth.com/mod/cubes-without-borders).
-* **Pretty resource packs:** A couple of nice resource packs are included, but are disabled by default. You can enable whichever ones you want. The recommended load order is:
-  * [Fresh Animations](https://modrinth.com/resourcepack/fresh-animations)
-  * Bushy Leaves Compat (Motschen's Better Leaves compatibility for Nature's Spirit; you can safely ignore the version mismatch warning)
-  * [Motschen's Better Leaves](https://modrinth.com/resourcepack/better-leaves)
-  * [Fast Better Grass](https://modrinth.com/resourcepack/fast-better-grass)
-  * Fabric Mods
-  * Default (built into the game)
 * **Shaders:** Press <kbd>o</kbd> to choose a shader pack, and <kbd>k</kbd> to toggle them on and off.
 * **Zooming:** Press <kbd>c</kbd> and use your mouse wheel to zoom using the [Ok Zoomer](https://modrinth.com/mod/ok-zoomer) mod.
 * **Maps:** If you chose to enable Xaero's Minimap and/or Xaero's World Map:
@@ -58,6 +51,13 @@ Playing the Perkpack 4 preview is, like Perkpack 3, pretty simple stuff. You'll 
 * **[Horse Buff](https://modrinth.com/mod/horsebuff)** prevents saddled horses from wandering, so you don't need to carry a lead and a fence post. Horses also no longer sink in water, so you can swim across rivers without dismounting. There are a couple of other useful features as well; check the mod's page for details.
 * The **[AutoRun](https://modrinth.com/mod/autorun)** hotkey (unfortunately defaults to <kbd>o</kbd>, which conflicts with the shader config menu; we recommend changing it to a convenient key like <kbd>`</kbd>) not only works for running with your own two legs, but also with boats, horses, and other mounts.
 * Want to **chop down entire trees at once, or dig out 3x3 areas?** Check out the special tools added by [Easy Emerald Tools & More](https://www.curseforge.com/minecraft/mc-mods/simple-emerald-tools-fabric). To easily see all of the available items and their recipes in-game, type `@emerald` (or any other part of the mod name) into [EMI](https://modrinth.com/mod/emi)'s search bar in your inventory screen to filter the list to items added by the mod. Left-click on any item to see its recipe.
+
+## Resource packs
+
+* [Colourful Containers](https://www.curseforge.com/minecraft/texture-packs/colourful-containers-gui)
+* [Fast Better Grass](https://modrinth.com/resourcepack/fast-better-grass)
+* [Fresh Animations](https://modrinth.com/resourcepack/fresh-animations)
+* [Motschen's Better Leaves](https://modrinth.com/resourcepack/better-leaves) (optional)
 
 ## Mods
 

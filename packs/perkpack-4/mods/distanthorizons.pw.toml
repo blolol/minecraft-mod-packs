@@ -14,5 +14,5 @@ version = "pEvLEY5E"
 
 [option]
 optional = true
-description = "Might be incompatible with Apple Silicon-based Macs. For everyone else, Distant Horizons allows you to crank your view distance up to insane levels with a relatively minor performance hit."
 default = true
+description = "Distant Horizons allows you to crank your view distance up to insane levels with a relatively minor performance hit. Might be incompatible with some Apple Silicon-based Macs."
