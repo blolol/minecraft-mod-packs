@@ -44,12 +44,12 @@ Playing the Perkpack 4 preview is, like Perkpack 3, pretty simple stuff. You'll 
 * **Optional mods:** When you start the game, a window will appear prompting you to select from a list of optional mods, such as Distant Horizons and Xaero's Minimap. Some, such as Distant Horizons, are optional for technical reasons (they don't work on Macs, for example). Others, like Xaero's map mods and Jade, are disabled by default in case you'd prefer to play the game in a more "vanilla" fashion, without knowing exactly where you are and what you're looking at. Each time you launch the game, you'll have a few seconds to click a button to reconfigure the optional mods, so you can enable or disable any of them at any time.
 * **Borderless windowed mode:** In video settings, you can toggle "fullscreen" to "borderless", thanks to [Cubes Without Borders](https://modrinth.com/mod/cubes-without-borders).
 * **Pretty resource packs:** A couple of nice resource packs are included, but are disabled by default. You can enable whichever ones you want. The recommended load order is:
-  * [Fast Better Grass](https://modrinth.com/resourcepack/fast-better-grass)
-  * Default (built into the game)
-  * Fabric Mods
-  * [Motschen's Better Leaves](https://modrinth.com/resourcepack/better-leaves)
-  * Bushy Leaves Compat (Motschen's Better Leaves compatibility for Nature's Spirit; you can safely ignore the version mismatch warning)
   * [Fresh Animations](https://modrinth.com/resourcepack/fresh-animations)
+  * Bushy Leaves Compat (Motschen's Better Leaves compatibility for Nature's Spirit; you can safely ignore the version mismatch warning)
+  * [Motschen's Better Leaves](https://modrinth.com/resourcepack/better-leaves)
+  * [Fast Better Grass](https://modrinth.com/resourcepack/fast-better-grass)
+  * Fabric Mods
+  * Default (built into the game)
 * **Shaders:** Press <kbd>o</kbd> to choose a shader pack, and <kbd>k</kbd> to toggle them on and off.
 * **Zooming:** Press <kbd>c</kbd> and use your mouse wheel to zoom using the [Ok Zoomer](https://modrinth.com/mod/ok-zoomer) mod.
 * **Maps:** If you chose to enable Xaero's Minimap and/or Xaero's World Map:
