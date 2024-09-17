@@ -41,7 +41,7 @@ Playing the Perkpack 4 preview is, like Perkpack 3, pretty simple stuff. You'll 
 
 ### Helpful tips
 
-* **Optional mods:** When you start the game, a window will appear prompting you to select from a list of optional mods, such as Distant Horizons and Xaero's Minimap. Some, such as Distant Horizons, are optional for technical reasons (they don't work on Macs, for example). Others, like Xaero's map mods and What the Hell Is That, are disabled by default in case you'd prefer to play the game in a more "vanilla" fashion, without knowing exactly where you are and what you're looking at. Each time you launch the game, you'll have a few seconds to click a button to reconfigure the optional mods, so you can enable or disable any of them at any time.
+* **Optional mods:** When you start the game, a window will appear prompting you to select from a list of optional mods, such as Distant Horizons and Xaero's Minimap. Some, such as Distant Horizons, are optional for technical reasons (they don't work on Macs, for example). Others, like Xaero's map mods and Jade, are disabled by default in case you'd prefer to play the game in a more "vanilla" fashion, without knowing exactly where you are and what you're looking at. Each time you launch the game, you'll have a few seconds to click a button to reconfigure the optional mods, so you can enable or disable any of them at any time.
 * **Borderless windowed mode:** In video settings, you can toggle "fullscreen" to "borderless", thanks to [Cubes Without Borders](https://modrinth.com/mod/cubes-without-borders).
 * **Pretty resource packs:** A couple of nice resource packs are included, but are disabled by default. You can enable whichever ones you want. The recommended load order is:
   * [Fast Better Grass](https://modrinth.com/resourcepack/fast-better-grass)
@@ -71,7 +71,7 @@ Playing the Perkpack 4 preview is, like Perkpack 3, pretty simple stuff. You'll 
 * [EMI](https://modrinth.com/mod/emi) (item and recipe viewer)
 * [Ok Zoomer](https://modrinth.com/mod/ok-zoomer) (press <kbd>c</kbd> and your mouse wheel to zoom)
 * [ReplayMod](https://modrinth.com/mod/replaymod) (optional; used to record gameplay and create fancy videos)
-* [What the Hell Is That](https://modrinth.com/mod/wthit) (optional; displays a HUD that shows what the hell it is you're looking at)
+* [Jade](https://modrinth.com/mod/jade) (optional; a HUD that shows details about the block or entity you're looking at)
 * [Xaero's Minimap](https://modrinth.com/mod/xaeros-minimap) (optional; minimap in your HUD)
 * [Xaero's World Map](https://modrinth.com/mod/xaeros-world-map) (optional; press <kbd>m</kbd> to toggle a full-screen world map)
 

@@ -126,6 +126,11 @@ hash = "315648c1b6910b274d4a16bda8eba7ddf380d928edb20c0c36f3ff9776e30fe5"
 metafile = true
 
 [[files]]
+file = "mods/jade.pw.toml"
+hash = "e705cf808ef64a7b15b9fe5b18cf08ab608f086addf007044ab92ff9c77011f1"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "019e6f258127d947cf0b43227c198365b107e35d4e16e29ee8388986aaf62d77"
 metafile = true
@@ -196,11 +201,6 @@ hash = "11d45d83c817b2fa8572d7668d294763449b0fa62bde431665dcb833a9e581d3"
 metafile = true
 
 [[files]]
-file = "mods/wthit.pw.toml"
-hash = "a2aaff383dbff827f599dc55c7649dc89e7bc7c84a806caed505eaba40ed6b3c"
-metafile = true
-
-[[files]]
 file = "mods/xaeros-minimap.pw.toml"
 hash = "7104f0642e6b0103a255aed6745ed136969006afa6db950f48b7c24a665ecd92"
 metafile = true
@@ -217,12 +217,12 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/better-leaves.pw.toml"
-hash = "645e9835a3868607a3d0e8645242b87ac7b6d39ff02248df9ae3e3d8e770e696"
+hash = "4e5a1d1713e927fe0d219653b2f04175fb13b7e52eaf16c081be6b1a022a5d8c"
 metafile = true
 
 [[files]]
 file = "resourcepacks/dramatic-skys.pw.toml"
-hash = "7929d60b3814bbd319e504efdc7996039c990680edf3718dbe76e7506a02d410"
+hash = "fcafc02a6285b93aa3d51c6136836351ba634f14f7d3ffa81b6910c8dd8d7036"
 metafile = true
 
 [[files]]
@@ -237,8 +237,12 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/bsl-shaders.pw.toml"
-hash = "41fbddad14b67a342e35eb7d2c96cfb555014c0f9c0e1e2866a3d2516a33c971"
+hash = "fe23980d96cf347e5c51b2c9b6e190a7a349135f54ba3de7a56632c24d63bd46"
 metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-unbound-preset.txt"
+hash = "c4653cf6cadda368c0ea5f7bb61d491d57bae0f7a8ae24e452d2bc7dbcb86b6a"
 
 [[files]]
 file = "shaderpacks/complementary-unbound.pw.toml"
