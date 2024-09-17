@@ -47,7 +47,6 @@ Playing the Perkpack 4 preview is, like Perkpack 3, pretty simple stuff. You'll 
   * [Fast Better Grass](https://modrinth.com/resourcepack/fast-better-grass)
   * Default (built into the game)
   * Fabric Mods
-  * [Dramatic Skys](https://modrinth.com/resourcepack/dramatic-skys)
   * [Motschen's Better Leaves](https://modrinth.com/resourcepack/better-leaves)
   * Bushy Leaves Compat (Motschen's Better Leaves compatibility for Nature's Spirit; you can safely ignore the version mismatch warning)
   * [Fresh Animations](https://modrinth.com/resourcepack/fresh-animations)

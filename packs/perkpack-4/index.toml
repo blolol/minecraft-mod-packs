@@ -221,11 +221,6 @@ hash = "4e5a1d1713e927fe0d219653b2f04175fb13b7e52eaf16c081be6b1a022a5d8c"
 metafile = true
 
 [[files]]
-file = "resourcepacks/dramatic-skys.pw.toml"
-hash = "fcafc02a6285b93aa3d51c6136836351ba634f14f7d3ffa81b6910c8dd8d7036"
-metafile = true
-
-[[files]]
 file = "resourcepacks/fast-better-grass.pw.toml"
 hash = "f05dedd6fc9f8e3ace51215fb47269a4919870a15c6c166c96c79b87bb9180c4"
 metafile = true
