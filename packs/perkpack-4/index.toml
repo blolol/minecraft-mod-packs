@@ -400,6 +400,11 @@ hash = "6cb2a4cd4eb40eaf19bbb54a6d8fa23643470147e86e19fe04b820e170998ed3"
 metafile = true
 
 [[files]]
+file = "mods/wakes.pw.toml"
+hash = "d4f70b975d57bdc4893f75669c425b29f209afc2e2dc2294862df7535b907997"
+metafile = true
+
+[[files]]
 file = "mods/xaeros-minimap.pw.toml"
 hash = "057a44637ba9a921d1c773bc1e6d561692501b1b620e6d5e50aef84c961a44ea"
 metafile = true

@@ -84,6 +84,7 @@ Playing the Perkpack 4 preview is, like Perkpack 3, pretty simple stuff. You'll 
 * [Sounds](https://modrinth.com/mod/sound)
 * [Tiny Item Animations](https://modrinth.com/mod/tiny-item-animations)
 * [Visuality](https://modrinth.com/mod/rI0hvYcd)
+* [Wakes](https://modrinth.com/mod/wakes)
 
 ### Quality of life
 
