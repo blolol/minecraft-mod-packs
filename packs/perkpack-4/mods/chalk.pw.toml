@@ -1,0 +1,13 @@
+name = "Chalk (Fabric)"
+filename = "chalk-2.2.4+1.21.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/OrtjXTCH/versions/Lsc3Pk9I/chalk-2.2.4%2B1.21.jar"
+hash-format = "sha1"
+hash = "47a236ae4d3000e2683fc6d7e93c2ab2c20836a6"
+
+[update]
+[update.modrinth]
+mod-id = "OrtjXTCH"
+version = "Lsc3Pk9I"
