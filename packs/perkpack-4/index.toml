@@ -21,6 +21,10 @@ file = "config/yosbr/config/jade/jade.json"
 hash = "87a6cf0955e877fb20ba18f2af4c6720af6d3e0084c4f267a88836e441b6a26c"
 
 [[files]]
+file = "config/yosbr/config/particular.json5"
+hash = "db2ec091ef2a2f6c0a3239b266763733e24faf5c618ed6d60e756bc03a0f7101"
+
+[[files]]
 file = "config/yosbr/config/sodium-extra-options.json"
 hash = "43fb1a82af68d724b5277c39ef8dfc13e2701006ca5f2e69c85cc77a9b694e2e"
 
@@ -113,11 +117,6 @@ metafile = true
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "a4fd2e20e1a2444c6892e9f14d94b1b8802a8a4954f9e3e49045aac9b9074f23"
-metafile = true
-
-[[files]]
-file = "mods/cave-dust.pw.toml"
-hash = "73b49e93bdc437c2cd86133b5cfb0a04f80264f785ee660ce002bb24e14286c1"
 metafile = true
 
 [[files]]
@@ -353,6 +352,16 @@ metafile = true
 [[files]]
 file = "mods/ok-zoomer.pw.toml"
 hash = "26027637c0718d1e631e60d8695d9bf6ec5da2c38888c9f5febd100da0fa7937"
+metafile = true
+
+[[files]]
+file = "mods/owo-lib.pw.toml"
+hash = "705b12953afb39daf0def61796eb3e59e562c3781d0b6283db0e5ffd85464036"
+metafile = true
+
+[[files]]
+file = "mods/particular.pw.toml"
+hash = "d878e8159739d1ea9a40185d4ace5c0185343f53310e354c2c0afb4b19d2e563"
 metafile = true
 
 [[files]]
