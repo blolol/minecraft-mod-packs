@@ -375,6 +375,11 @@ hash = "43c56c0e15a459162eb4acbc0334f544badf9be44638a6f4d506f702898d6569"
 metafile = true
 
 [[files]]
+file = "mods/toggle-item-frames.pw.toml"
+hash = "396f20ebd7de85729585c156a08356282addd011d04a13ca6e130dfe82f0e7e2"
+metafile = true
+
+[[files]]
 file = "mods/visuality.pw.toml"
 hash = "6cb2a4cd4eb40eaf19bbb54a6d8fa23643470147e86e19fe04b820e170998ed3"
 metafile = true

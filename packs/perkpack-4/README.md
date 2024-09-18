@@ -88,7 +88,7 @@ Playing the Perkpack 4 preview is, like Perkpack 3, pretty simple stuff. You'll 
 * [AppleSkin](https://modrinth.com/mod/EsAfCjCV)
 * [AutoRun](https://modrinth.com/mod/autorun) (press <kbd>`</kbd> to autorun)
 * [Better Statistics Screen](https://modrinth.com/mod/better-stats)
-* [Better Than Mending](https://modrinth.com/mod/better-than-mending) (shift + right-click to use XP to fix your Mending-enchanted tools)
+* [Better Than Mending](https://modrinth.com/mod/better-than-mending) (sneak + right-click to use XP to fix your Mending-enchanted tools)
 * [Bridging Mod](https://modrinth.com/mod/bridging-mod) (reach-around block placement)
 * [Cubes Without Borders](https://modrinth.com/mod/cubes-without-borders) (borderless fullscreen mode)
 * [Durability Tooltip](https://modrinth.com/mod/durability-tooltip)
@@ -102,6 +102,7 @@ Playing the Perkpack 4 preview is, like Perkpack 3, pretty simple stuff. You'll 
 * [Ok Zoomer](https://modrinth.com/mod/ok-zoomer) (press <kbd>c</kbd> and your mouse wheel to zoom)
 * [Pick Up Notifier](https://modrinth.com/mod/pick-up-notifier) (be notified of all the things you've just collected)
 * [Jade](https://modrinth.com/mod/jade) (press <kbd>1</kbd> on your numpad to toggle a HUD that shows details about the block or entity you're looking at)
+* [Toggle Item Frames](https://modrinth.com/mod/toggle-item-frames) (sneak + right-click an item frame to make it invisible)
 * [Xaero's Minimap](https://modrinth.com/mod/xaeros-minimap) (press <kbd>n</kbd> to toggle a minimap)
 * [Xaero's World Map](https://modrinth.com/mod/xaeros-world-map) (press <kbd>m</kbd> to toggle a full-screen world map)
 
