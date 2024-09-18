@@ -1,4 +1,5 @@
 https://cdn.modrinth.com/data/tpehi7ww/versions/R36cO4pA/Dungeons%20and%20Taverns%20v4.zip
+https://cdn.modrinth.com/data/HSfsxuTo/versions/TQiCdZIY/Explorify%20v1.6.2%20f10-48.zip
 https://cdn.modrinth.com/data/1bRLEs28/versions/RkXH47Aq/large-ore-veins-deluxe-v1.2.2.zip
 https://cdn.modrinth.com/data/EEIwvQVo/versions/pXI4AcBQ/tidal_towns_1_21.zip
 https://s3.amazonaws.com/minecraft/data-packs/natures_spirit_modified_vanilla_trees_1.5.5.zip
