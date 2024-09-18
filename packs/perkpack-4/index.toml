@@ -96,6 +96,11 @@ hash = "ef89ed48340d42ed705dc9e2459d6302f8e54b35a8ca43a1f4a6411df5799933"
 metafile = true
 
 [[files]]
+file = "mods/boids.pw.toml"
+hash = "ec8287b80210ae44f5ded2585678cbc96ee5d6fa1f28cc4846844734e39854d2"
+metafile = true
+
+[[files]]
 file = "mods/bridging-mod.pw.toml"
 hash = "fd658d71efa6e971ccc1cd6d75258b3846aa92339a457cd9bef70e86d21f80ce"
 metafile = true
