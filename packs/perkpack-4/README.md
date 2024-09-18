@@ -79,6 +79,7 @@ Playing the Perkpack 4 preview is, like Perkpack 3, pretty simple stuff. You'll 
 * [AutoRun](https://modrinth.com/mod/autorun) (press <kbd>`</kbd> to autorun)
 * [Better Statistics Screen](https://modrinth.com/mod/better-stats)
 * [Cubes Without Borders](https://modrinth.com/mod/cubes-without-borders) (borderless fullscreen mode)
+* [Easy Anvils](https://modrinth.com/mod/OZBR5JT5) (items remain on anvils, better nametags, many tweaks)
 * [EMI](https://modrinth.com/mod/emi) (item and recipe viewer)
 * [Ok Zoomer](https://modrinth.com/mod/ok-zoomer) (press <kbd>c</kbd> and your mouse wheel to zoom)
 * [Jade](https://modrinth.com/mod/jade) (press <kbd>1</kbd> on your numpad to toggle a HUD that shows details about the block or entity you're looking at)

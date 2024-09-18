@@ -5,6 +5,10 @@ file = "config/yosbr/config/betterclouds-v1.json"
 hash = "e03906cf208db969f55d0544458c16c1b65cef960c1e8cee9b68db07ad30c6c2"
 
 [[files]]
+file = "config/yosbr/config/easyanvils-common.toml"
+hash = "851547a21def4c7664bd2ad259cca8ac7948f56d7e78894dd3238683aef91649"
+
+[[files]]
 file = "config/yosbr/config/jade/jade.json"
 hash = "87a6cf0955e877fb20ba18f2af4c6720af6d3e0084c4f267a88836e441b6a26c"
 
@@ -106,6 +110,11 @@ metafile = true
 [[files]]
 file = "mods/distanthorizons.pw.toml"
 hash = "54cb2c25230415737347c9a3db564661c385c87ebb8afb496575b99bb7bf2908"
+metafile = true
+
+[[files]]
+file = "mods/easy-anvils.pw.toml"
+hash = "f26285c19f0186988f889a12593c510d186678646bc76c082a7be19ee29c67e5"
 metafile = true
 
 [[files]]
@@ -221,6 +230,11 @@ metafile = true
 [[files]]
 file = "mods/placeholder-api.pw.toml"
 hash = "d0311de4c47e48ba0c1769253c7bd8fd541ed81c60823c539116a963e58c9128"
+metafile = true
+
+[[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "e256b952df1dfd9ba362ca7d7d176dd29434cb6721f14ee5c99995df94490465"
 metafile = true
 
 [[files]]
