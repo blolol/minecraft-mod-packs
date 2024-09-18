@@ -331,6 +331,11 @@ hash = "4481041a821a4a2645618ac56d19121292238aa6377cf7ddb06d91b8cbe0bcc1"
 metafile = true
 
 [[files]]
+file = "resourcepacks/compact-font.pw.toml"
+hash = "46628041bbe80bc16b74da5511131fde2a1225785d8eb93bdaa62f1f65b2dea5"
+metafile = true
+
+[[files]]
 file = "resourcepacks/fast-better-grass.pw.toml"
 hash = "f05dedd6fc9f8e3ace51215fb47269a4919870a15c6c166c96c79b87bb9180c4"
 metafile = true
