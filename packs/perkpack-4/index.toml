@@ -5,7 +5,7 @@ file = "config/yosbr/config/betterclouds-v1.json"
 hash = "e03906cf208db969f55d0544458c16c1b65cef960c1e8cee9b68db07ad30c6c2"
 
 [[files]]
-file = "config/yosbr/config/jade.json"
+file = "config/yosbr/config/jade/jade.json"
 hash = "87a6cf0955e877fb20ba18f2af4c6720af6d3e0084c4f267a88836e441b6a26c"
 
 [[files]]
@@ -155,7 +155,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "e705cf808ef64a7b15b9fe5b18cf08ab608f086addf007044ab92ff9c77011f1"
+hash = "a6619aede80ea44ae5cc7fa36eeb0eeb08adbf9229e71a85f845921780d69153"
 metafile = true
 
 [[files]]
@@ -199,11 +199,6 @@ hash = "8aebf35e69552a0c1e51f406815df59f25baa700a2824e9e26cd0d2a036138a0"
 metafile = true
 
 [[files]]
-file = "mods/replaymod.pw.toml"
-hash = "c5c2402bfa95db6dedd5ea9c033f4262bc23f28a82bc4c1d6d19404165f4dc97"
-metafile = true
-
-[[files]]
 file = "mods/simple-emerald-tools-fabric.pw.toml"
 hash = "3061140fe49dc1da2e8d41d2bd8ed7039dda41fe1aa224511e2790e7a7ba945f"
 metafile = true
@@ -230,12 +225,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "d54ea394267fb7b90bad629b2f96c7b7115fabc8eed23494404e77d7153a861c"
+hash = "057a44637ba9a921d1c773bc1e6d561692501b1b620e6d5e50aef84c961a44ea"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "da820e97a76d45a1d2d2dffb63c08a7f6ba542255b5f7b1184824fdb895a897c"
+hash = "c06ffc9de8c8b6c1e9099c05fcfa94d9ae9bff768ff138798ab3a2da545995d5"
 metafile = true
 
 [[files]]

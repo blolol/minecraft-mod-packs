@@ -11,8 +11,3 @@ hash = "606aadc3eec694e2f087eda6a33384e98cc7c3d0"
 [update.modrinth]
 mod-id = "nvQzSEkH"
 version = "VQc9njMw"
-
-[option]
-optional = true
-default = false
-description = "Adds a HUD that shows details about the block or entity you're looking at. Disabled by default, in case you prefer to play the game in a more vanilla fashion."

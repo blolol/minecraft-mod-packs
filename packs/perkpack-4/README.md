@@ -41,15 +41,16 @@ Playing the Perkpack 4 preview is, like Perkpack 3, pretty simple stuff. You'll 
 
 ### Helpful tips
 
-* **Optional mods:** When you start the game, a window will appear prompting you to select from a list of optional mods, such as Distant Horizons and Xaero's Minimap. Some, such as Distant Horizons, are optional for technical reasons (they don't work on Macs, for example). Others, like Xaero's map mods and Jade, are disabled by default in case you'd prefer to play the game in a more "vanilla" fashion, without knowing exactly where you are and what you're looking at. Each time you launch the game, you'll have a few seconds to click a button to reconfigure the optional mods, so you can enable or disable any of them at any time.
+* **Optional mods:** When you start the game, a window will appear prompting you to select from a list of optional mods, such as Distant Horizons. Each time you launch the game, you'll have a few seconds to click a button to reconfigure the optional mods, so you can enable or disable any of them at any time.
 * **Borderless windowed mode:** In video settings, you can toggle "fullscreen" to "borderless", thanks to [Cubes Without Borders](https://modrinth.com/mod/cubes-without-borders).
 * **Shaders:** Press <kbd>o</kbd> to choose a shader pack, and <kbd>k</kbd> to toggle them on and off.
 * **Zooming:** Press <kbd>c</kbd> and use your mouse wheel to zoom using the [Ok Zoomer](https://modrinth.com/mod/ok-zoomer) mod.
-* **Maps:** If you chose to enable Xaero's Minimap and/or Xaero's World Map:
+* **Maps:** You can mix and match a minimap on your HUD and a full-screen world map. Both are highly configurable.
   * Press <kbd>m</kbd> to open [Xaero's World Map](https://modrinth.com/mod/xaeros-world-map).
-  * [Xaero's Minimap](https://modrinth.com/mod/xaeros-minimap) is enabled by default, but there's no default keybind to toggle it on and off. You can assign one in the game's key bindings screen.
+  * Press <kbd>n</kbd> to toggle [Xaero's Minimap](https://modrinth.com/mod/xaeros-minimap).
+* **[Jade](https://modrinth.com/mod/jade)** can show you details about the block or entity you're looking at. Press <kbd>1</kbd> on your numpad to toggle it.
 * **[Horse Buff](https://modrinth.com/mod/horsebuff)** prevents saddled horses from wandering, so you don't need to carry a lead and a fence post. Horses also no longer sink in water, so you can swim across rivers without dismounting. There are a couple of other useful features as well; check the mod's page for details.
-* The **[AutoRun](https://modrinth.com/mod/autorun)** hotkey (unfortunately defaults to <kbd>o</kbd>, which conflicts with the shader config menu; we recommend changing it to a convenient key like <kbd>`</kbd>) not only works for running with your own two legs, but also with boats, horses, and other mounts.
+* **[Auto run](https://modrinth.com/mod/autorun)** not only works for running with your own two legs, but also with boats, horses, and other mounts. Press <kbd>`</kbd> (backtick) to toggle it.
 * Want to **chop down entire trees at once, or dig out 3x3 areas?** Check out the special tools added by [Easy Emerald Tools & More](https://www.curseforge.com/minecraft/mc-mods/simple-emerald-tools-fabric). To easily see all of the available items and their recipes in-game, type `@emerald` (or any other part of the mod name) into [EMI](https://modrinth.com/mod/emi)'s search bar in your inventory screen to filter the list to items added by the mod. Left-click on any item to see its recipe.
 
 ## Resource packs
@@ -69,10 +70,9 @@ Playing the Perkpack 4 preview is, like Perkpack 3, pretty simple stuff. You'll 
 * [Cubes Without Borders](https://modrinth.com/mod/cubes-without-borders) (borderless fullscreen mode)
 * [EMI](https://modrinth.com/mod/emi) (item and recipe viewer)
 * [Ok Zoomer](https://modrinth.com/mod/ok-zoomer) (press <kbd>c</kbd> and your mouse wheel to zoom)
-* [ReplayMod](https://modrinth.com/mod/replaymod) (optional; used to record gameplay and create fancy videos)
-* [Jade](https://modrinth.com/mod/jade) (optional; a HUD that shows details about the block or entity you're looking at)
-* [Xaero's Minimap](https://modrinth.com/mod/xaeros-minimap) (optional; minimap in your HUD)
-* [Xaero's World Map](https://modrinth.com/mod/xaeros-world-map) (optional; press <kbd>m</kbd> to toggle a full-screen world map)
+* [Jade](https://modrinth.com/mod/jade) (press <kbd>1</kbd> on your numpad to toggle a HUD that shows details about the block or entity you're looking at)
+* [Xaero's Minimap](https://modrinth.com/mod/xaeros-minimap) (press <kbd>n</kbd> to toggle a minimap)
+* [Xaero's World Map](https://modrinth.com/mod/xaeros-world-map) (press <kbd>m</kbd> to toggle a full-screen world map)
 
 ### Tools
 
