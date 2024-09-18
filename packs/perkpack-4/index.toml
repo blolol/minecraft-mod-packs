@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/yosbr/config/DistantHorizons.toml"
-hash = "8c3bbcab4cca16cd2b73490d00236de485b375c66ebe711cae8a304f237a8e3f"
+hash = "f77bdf97605450a02c0406376538afd3b178f5a8dd16dbf3486b558d82f28515"
 
 [[files]]
 file = "config/yosbr/config/betterclouds-v1.json"
@@ -11,6 +11,10 @@ hash = "e03906cf208db969f55d0544458c16c1b65cef960c1e8cee9b68db07ad30c6c2"
 [[files]]
 file = "config/yosbr/config/easyanvils-common.toml"
 hash = "851547a21def4c7664bd2ad259cca8ac7948f56d7e78894dd3238683aef91649"
+
+[[files]]
+file = "config/yosbr/config/easymagic-server.toml"
+hash = "8dc6d4f7093b1cfa28e956cea7965636f056cbe344e123ae464c619138d31c66"
 
 [[files]]
 file = "config/yosbr/config/jade/jade.json"
@@ -119,6 +123,11 @@ metafile = true
 [[files]]
 file = "mods/easy-anvils.pw.toml"
 hash = "f26285c19f0186988f889a12593c510d186678646bc76c082a7be19ee29c67e5"
+metafile = true
+
+[[files]]
+file = "mods/easy-magic.pw.toml"
+hash = "c2d0b97844d25dac1ec22d8ed53c7be71646849ec02ee89e31057eb395353556"
 metafile = true
 
 [[files]]
