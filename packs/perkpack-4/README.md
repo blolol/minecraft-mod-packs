@@ -136,6 +136,7 @@ Playing the Perkpack 4 preview is, like Perkpack 3, pretty simple stuff. You'll 
 
 * [Biomes O' Plenty](https://modrinth.com/mod/biomes-o-plenty)
 * [Dungeons and Taverns](https://modrinth.com/datapack/dungeons-and-taverns)
+* [Explorify](https://modrinth.com/datapack/explorify)
 * [Larger Ore Veins: Deluxe](https://modrinth.com/datapack/larger-ore-veins-deluxe)
 * [Lithosphere](https://modrinth.com/datapack/lithosphere)
 * [Nature's Spirit](https://modrinth.com/mod/natures-spirit)

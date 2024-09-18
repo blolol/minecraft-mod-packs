@@ -15,14 +15,13 @@ services:
       - "25565:25565"
     volumes:
       - "./tmp/server:/data"
-      - "./datapacks.txt:/tmp/datapacks.txt:ro"
     environment:
-      DATAPACKS_FILE: /tmp/datapacks.txt
       EULA: "true"
+      DIFFICULTY: peaceful
       FABRIC_LOADER_VERSION: "0.16.5"
       ICON: http://caddy/images/server-icon.png
+      INITIAL_ENABLED_PACKS: "natures_spirit:modified_vanilla_trees"
       MEMORY: "8G"
-      MODE: creative
       MOTD: "Perkpack 4 dev"
       OPS_FILE: https://s3.amazonaws.com/minecraft/allowlists/blolol.ops.json
       PACKWIZ_URL: http://caddy/pack.toml

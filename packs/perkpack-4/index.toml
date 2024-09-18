@@ -175,6 +175,11 @@ hash = "7c4410424962acf607a4b2ff1e522553bdf742d6025ad077772d4d9ec7ef5e50"
 metafile = true
 
 [[files]]
+file = "mods/dungeons-and-taverns.pw.toml"
+hash = "6b0e159b579ffbfe92d68ea48f9c063d8d54f17055b9f4dd0fd8bc07a481c172"
+metafile = true
+
+[[files]]
 file = "mods/durability-tooltip.pw.toml"
 hash = "8625ecc64637f1bc3de1b872017f5f83d448a0a8ef30c643c9a01cc68acb1b90"
 metafile = true
@@ -222,6 +227,11 @@ metafile = true
 [[files]]
 file = "mods/explorers-compass.pw.toml"
 hash = "9946a9b330ec4e73a1d967e08dda59bc63207a73ce01d9019ae9e7fe450f8e46"
+metafile = true
+
+[[files]]
+file = "mods/explorify.pw.toml"
+hash = "fd38874e163e22c18c1b110918f601a822a065119636a2458f7743679d5f0f7d"
 metafile = true
 
 [[files]]
@@ -297,6 +307,11 @@ metafile = true
 [[files]]
 file = "mods/jade.pw.toml"
 hash = "a6619aede80ea44ae5cc7fa36eeb0eeb08adbf9229e71a85f845921780d69153"
+metafile = true
+
+[[files]]
+file = "mods/larger-ore-veins-deluxe.pw.toml"
+hash = "91808cc10450be05e2b3dfa54f4ccf35206583262fae9246cd196c7804461c96"
 metafile = true
 
 [[files]]
@@ -442,6 +457,11 @@ metafile = true
 [[files]]
 file = "mods/terrablender.pw.toml"
 hash = "66ec69b7956bd72b72962e00f2a254987d40624cf9c94f750662da51d824464a"
+metafile = true
+
+[[files]]
+file = "mods/tidal-towns.pw.toml"
+hash = "32199cbd26ec74750b0cc74be230dfb070588b22a0869542d04abe66532e1506"
 metafile = true
 
 [[files]]
