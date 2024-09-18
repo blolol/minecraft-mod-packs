@@ -81,6 +81,7 @@ Playing the Perkpack 4 preview is, like Perkpack 3, pretty simple stuff. You'll 
 * [Easy Anvils](https://modrinth.com/mod/OZBR5JT5) (items remain on anvils, better nametags, many tweaks)
 * [Easy Magic](https://modrinth.com/mod/9hx3AbJM) (items remain on enchanting tables, easy re-rolls)
 * [EMI](https://modrinth.com/mod/emi) (item and recipe viewer)
+* [Leaves Be Gone](https://modrinth.com/mod/AVq17PqV) (quick leaf decay)
 * [Ok Zoomer](https://modrinth.com/mod/ok-zoomer) (press <kbd>c</kbd> and your mouse wheel to zoom)
 * [Jade](https://modrinth.com/mod/jade) (press <kbd>1</kbd> on your numpad to toggle a HUD that shows details about the block or entity you're looking at)
 * [Xaero's Minimap](https://modrinth.com/mod/xaeros-minimap) (press <kbd>n</kbd> to toggle a minimap)
