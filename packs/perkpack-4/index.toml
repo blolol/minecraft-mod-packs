@@ -60,6 +60,11 @@ hash = "af482cdaf7c5d9d5481e7cd789d98ebc17f47e4565a28af6c6365aef896d1404"
 metafile = true
 
 [[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "417b7af3c7cb5f2681960349d3fa118733cbce5d260fadddd792abb24e52fbdc"
+metafile = true
+
+[[files]]
 file = "mods/autorun.pw.toml"
 hash = "e4555d24669cf571bfa4e7f96c713ea09c672cb20c68c153b8617fac2d63fe48"
 metafile = true
@@ -252,6 +257,11 @@ metafile = true
 [[files]]
 file = "mods/iris.pw.toml"
 hash = "e16a6442391c1989dccdcbe100e13063a043caef70b13ab4e37a11a7861cb497"
+metafile = true
+
+[[files]]
+file = "mods/item-placer.pw.toml"
+hash = "6de26d4ecc926f2dbe32f14418266e71b68047cf2741aa831d2969b302a05905"
 metafile = true
 
 [[files]]
