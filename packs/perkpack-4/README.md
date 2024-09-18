@@ -80,6 +80,7 @@ Playing the Perkpack 4 preview is, like Perkpack 3, pretty simple stuff. You'll 
 * [AppleSkin](https://modrinth.com/mod/EsAfCjCV)
 * [AutoRun](https://modrinth.com/mod/autorun) (press <kbd>`</kbd> to autorun)
 * [Better Statistics Screen](https://modrinth.com/mod/better-stats)
+* [Better Than Mending](https://modrinth.com/mod/better-than-mending) (shift + right-click to use XP to fix your Mending-enchanted tools)
 * [Cubes Without Borders](https://modrinth.com/mod/cubes-without-borders) (borderless fullscreen mode)
 * [Durability Tooltip](https://modrinth.com/mod/durability-tooltip)
 * [Easy Anvils](https://modrinth.com/mod/OZBR5JT5) (items remain on anvils, better nametags, many tweaks)
