@@ -70,6 +70,7 @@ Playing the Perkpack 4 preview is, like Perkpack 3, pretty simple stuff. You'll 
 * [Cave Dust](https://modrinth.com/mod/jawg7zT1)
 * [Eating Animation](https://modrinth.com/mod/rUgZvGzi)
 * [Falling Leaves](https://modrinth.com/mod/WhbRG4iK)
+* [ImmersiveThunder](https://modrinth.com/mod/immersivethunder)
 * [Sound Physics Remastered](https://modrinth.com/mod/qyVF9oeo)
 * [Sounds](https://modrinth.com/mod/sound)
 * [Visuality](https://modrinth.com/mod/rI0hvYcd)
