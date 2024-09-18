@@ -134,12 +134,13 @@ Playing the Perkpack 4 preview is, like Perkpack 3, pretty simple stuff. You'll 
 
 ### World generation
 
-* [Biomes O' Plenty](https://modrinth.com/mod/biomes-o-plenty) (new biomes)
-* [Dungeons and Taverns](https://modrinth.com/datapack/dungeons-and-taverns) (new structures)
-* [Larger Ore Veins: Deluxe](https://modrinth.com/datapack/larger-ore-veins-deluxe) (ore veins are less common, but larger)
-* [Lithosphere](https://modrinth.com/datapack/lithosphere) (cinematic terrain)
-* [Nature's Spirit](https://modrinth.com/mod/natures-spirit) (new biomes)
-* [Tidal Towns](https://modrinth.com/datapack/tidal-towns) (waterborne villages)
+* [Biomes O' Plenty](https://modrinth.com/mod/biomes-o-plenty)
+* [Dungeons and Taverns](https://modrinth.com/datapack/dungeons-and-taverns)
+* [Larger Ore Veins: Deluxe](https://modrinth.com/datapack/larger-ore-veins-deluxe)
+* [Lithosphere](https://modrinth.com/datapack/lithosphere)
+* [Nature's Spirit](https://modrinth.com/mod/natures-spirit)
+* [Regions Unexplored](https://modrinth.com/mod/regions-unexplored)
+* [Tidal Towns](https://modrinth.com/datapack/tidal-towns)
 
 ### Performance
 
