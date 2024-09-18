@@ -65,6 +65,7 @@ Playing the Perkpack 4 preview is, like Perkpack 3, pretty simple stuff. You'll 
 ### Aesthetic
 
 * [3D Skin Layers](https://modrinth.com/mod/zV5r3pPn)
+* [Falling Leaves](https://modrinth.com/mod/WhbRG4iK)
 * [Sound Physics Remastered](https://modrinth.com/mod/qyVF9oeo)
 
 ### Quality of life
