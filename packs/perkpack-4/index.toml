@@ -34,7 +34,7 @@ hash = "5f60325504ed1c87697036574a581882b92a18f89e4f7285d0242cb8d9cd1b76"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "f618f04f4937d87db0b95981762e988e3429cdb604a1d1fb51bcfc8492b9c6ea"
+hash = "33cccf08e15dbffcf2fd1f9b38b4e7b157041300c2eb93f8f991d5b82e97abb0"
 
 [[files]]
 file = "config/yosbr/shaderpacks/ComplementaryUnbound_r5.2.2.zip.txt"
@@ -393,6 +393,16 @@ metafile = true
 [[files]]
 file = "resourcepacks/fresh-animations.pw.toml"
 hash = "256b67c869770482657d4dd31124bf705c780c5c798206af522bcd5392c7ded9"
+metafile = true
+
+[[files]]
+file = "resourcepacks/rays-3d-ladders.pw.toml"
+hash = "8c6eb9046061dc85362b9cc9dbc33f17288a3577137c537091a42b0d99bef7d2"
+metafile = true
+
+[[files]]
+file = "resourcepacks/rays-3d-rails.pw.toml"
+hash = "417603d473b71bb2361e10e56b793ee07c052239a5e5ac42518cda36b6793f66"
 metafile = true
 
 [[files]]
