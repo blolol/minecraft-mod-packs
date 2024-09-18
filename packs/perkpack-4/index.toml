@@ -34,7 +34,7 @@ hash = "5f60325504ed1c87697036574a581882b92a18f89e4f7285d0242cb8d9cd1b76"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "a4b5a56c22c5892dae6a924b739d6f4dc543f6fad34e93c0c7c00409a7e321ba"
+hash = "03c403b663613331d0f125bb34bbfa4c6b8928dfa17e399f9fa70fa0ddc6026e"
 
 [[files]]
 file = "config/yosbr/shaderpacks/ComplementaryUnbound_r5.2.2.zip.txt"
@@ -328,6 +328,11 @@ metafile = true
 [[files]]
 file = "mods/natures-spirit.pw.toml"
 hash = "be2ad714effc438fed6f441108b0758fbf9af44c787461cbf24e1493da9dca6c"
+metafile = true
+
+[[files]]
+file = "mods/niftycarts.pw.toml"
+hash = "76944bb902bac1a9f85e30c2aa97905b0421d7a75878f0abc7682ece8240df04"
 metafile = true
 
 [[files]]

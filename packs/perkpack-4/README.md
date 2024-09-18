@@ -123,6 +123,7 @@ Playing the Perkpack 4 preview is, like Perkpack 3, pretty simple stuff. You'll 
 * [Easy Emerald Tools & More](https://www.curseforge.com/minecraft/mc-mods/simple-emerald-tools-fabric) (sets of armor, tools and weapons between vanilla iron and diamond, and 3x3 mining tools; finally a use for all of that copper!)
 * [Explorer's Compass](https://modrinth.com/mod/explorers-compass) (a compass that points you toward a structure of your choice)
 * [Nature's Compass](https://modrinth.com/mod/natures-compass) (a compass that points you toward a biome of your choice)
+* [NiftyCarts](https://modrinth.com/mod/niftycarts) (carts for travel, shipping and farming)
 
 ### Getting around
 

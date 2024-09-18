@@ -3,5 +3,10 @@ resourcePacks:["vanilla","fabric","file/Better-Leaves-8.1-1.20+.zip","natures_sp
 incompatibleResourcePacks:["appleskin","betteradvancements","comforts","distanthorizons","jade","mru","spectrelib","terrablender","xaerominimap","xaeroworldmap","yet_another_config_lib_v3","natures_spirit:better_leaves_compatibility","natures_spirit:emissive_ores_compatibility","natures_spirit:plank_consistency","file/Compact Font.zip","file/crops-3d.zip"]
 joinedFirstServer:true
 key_key.autorun.toggle:key.keyboard.grave.accent
+key_key.cavedust.toggle:key.keyboard.unknown
+key_key.cavedust.reload:key.keyboard.unknown
+key_key.niftycarts.slow:key.keyboard.g
 key_gui.xaero_toggle_map:key.keyboard.n
 key_gui.xaero_open_map:key.keyboard.m
+key_gui.xaero_open_settings:key.keyboard.unknown
+key_iris.keybind.reload:key.keyboard.unknown
