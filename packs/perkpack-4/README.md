@@ -98,6 +98,7 @@ Playing the Perkpack 4 preview is, like Perkpack 3, pretty simple stuff. You'll 
 * [Better Advancements](https://modrinth.com/mod/better-advancements)
 * [Better Statistics Screen](https://modrinth.com/mod/better-stats)
 * [Better Than Mending](https://modrinth.com/mod/better-than-mending) (sneak + right-click to use XP to fix your Mending-enchanted tools)
+* [BetterF3](https://modrinth.com/mod/betterf3)
 * [Bridging Mod](https://modrinth.com/mod/bridging-mod) (reach-around block placement)
 * [Cubes Without Borders](https://modrinth.com/mod/cubes-without-borders) (borderless fullscreen mode)
 * [Durability Tooltip](https://modrinth.com/mod/durability-tooltip)
