@@ -62,6 +62,10 @@ Playing the Perkpack 4 preview is, like Perkpack 3, pretty simple stuff. You'll 
 
 ## Mods
 
+### Aesthetic
+
+* [3D Skin Layers](https://modrinth.com/mod/zV5r3pPn)
+
 ### Quality of life
 
 * [AmbientSounds](https://modrinth.com/mod/ambientsounds) (immersive ambient sounds for different biomes)
