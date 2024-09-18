@@ -121,6 +121,11 @@ hash = "7c4410424962acf607a4b2ff1e522553bdf742d6025ad077772d4d9ec7ef5e50"
 metafile = true
 
 [[files]]
+file = "mods/durability-tooltip.pw.toml"
+hash = "8625ecc64637f1bc3de1b872017f5f83d448a0a8ef30c643c9a01cc68acb1b90"
+metafile = true
+
+[[files]]
 file = "mods/easy-anvils.pw.toml"
 hash = "f26285c19f0186988f889a12593c510d186678646bc76c082a7be19ee29c67e5"
 metafile = true
@@ -288,6 +293,11 @@ metafile = true
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
 hash = "47870c885ade491cf58a094e23b9e1d53f12e7ae738d933c26f60290c6259edd"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-config-lib.pw.toml"
+hash = "a694429e03e20de9d94ddfe3964321ad981c16008f449789ee9ebb1c5c4470bc"
 metafile = true
 
 [[files]]

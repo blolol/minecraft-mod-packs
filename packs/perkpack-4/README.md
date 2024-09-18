@@ -79,6 +79,7 @@ Playing the Perkpack 4 preview is, like Perkpack 3, pretty simple stuff. You'll 
 * [AutoRun](https://modrinth.com/mod/autorun) (press <kbd>`</kbd> to autorun)
 * [Better Statistics Screen](https://modrinth.com/mod/better-stats)
 * [Cubes Without Borders](https://modrinth.com/mod/cubes-without-borders) (borderless fullscreen mode)
+* [Durability Tooltip](https://modrinth.com/mod/durability-tooltip)
 * [Easy Anvils](https://modrinth.com/mod/OZBR5JT5) (items remain on anvils, better nametags, many tweaks)
 * [Easy Magic](https://modrinth.com/mod/9hx3AbJM) (items remain on enchanting tables, easy re-rolls)
 * [EMI](https://modrinth.com/mod/emi) (item and recipe viewer)
