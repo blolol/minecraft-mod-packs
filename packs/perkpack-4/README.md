@@ -75,6 +75,7 @@ Playing the Perkpack 4 preview is, like Perkpack 3, pretty simple stuff. You'll 
 * [Falling Leaves](https://modrinth.com/mod/WhbRG4iK)
 * [Glowing Torchflower](https://modrinth.com/mod/glowing-torchflower)
 * [ImmersiveThunder](https://modrinth.com/mod/immersivethunder)
+* [Smooth Scrolling](https://modrinth.com/mod/smooth-scroll)
 * [Sound Physics Remastered](https://modrinth.com/mod/qyVF9oeo)
 * [Sounds](https://modrinth.com/mod/sound)
 * [Tiny Item Animations](https://modrinth.com/mod/tiny-item-animations)
