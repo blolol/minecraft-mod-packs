@@ -105,6 +105,11 @@ hash = "73b49e93bdc437c2cd86133b5cfb0a04f80264f785ee660ce002bb24e14286c1"
 metafile = true
 
 [[files]]
+file = "mods/chat-heads.pw.toml"
+hash = "826e951372ef9bf103386d417861776344b54aa6f524c50c32a4da97b7df0205"
+metafile = true
+
+[[files]]
 file = "mods/chunky.pw.toml"
 hash = "8383ab78f5fb08bb0793b6ec4b66807a456bab571aea63699e614a09601de22a"
 metafile = true

@@ -71,6 +71,7 @@ Playing the Perkpack 4 preview is, like Perkpack 3, pretty simple stuff. You'll 
 * [AmbientSounds](https://modrinth.com/mod/ambientsounds)
 * [Better Clouds](https://modrinth.com/mod/better-clouds)
 * [Cave Dust](https://modrinth.com/mod/jawg7zT1)
+* [Chat Heads](https://modrinth.com/mod/chat-heads)
 * [Eating Animation](https://modrinth.com/mod/rUgZvGzi)
 * [Falling Leaves](https://modrinth.com/mod/WhbRG4iK)
 * [Glowing Torchflower](https://modrinth.com/mod/glowing-torchflower)
