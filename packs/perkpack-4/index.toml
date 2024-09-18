@@ -191,6 +191,11 @@ hash = "21ef8fd91e1463a832d045c90781e684c32d0017832b53d123e834535ea56e2d"
 metafile = true
 
 [[files]]
+file = "mods/held-item-info.pw.toml"
+hash = "3d11f813bb93d0dada53443ea60291da449f7a35b5f4dfe9d8859f761d95fbba"
+metafile = true
+
+[[files]]
 file = "mods/horsebuff.pw.toml"
 hash = "5b26ee77901b99a55774424b0167bc22da722ae1b79ec1233ec18d2048d7f81e"
 metafile = true
