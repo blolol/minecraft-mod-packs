@@ -65,6 +65,7 @@ Playing the Perkpack 4 preview is, like Perkpack 3, pretty simple stuff. You'll 
 ### Quality of life
 
 * [AmbientSounds](https://modrinth.com/mod/ambientsounds) (immersive ambient sounds for different biomes)
+* [AppleSkin](https://modrinth.com/mod/EsAfCjCV) (food/hunger HUD improvements)
 * [AutoRun](https://modrinth.com/mod/autorun) (press <kbd>`</kbd> to autorun)
 * [Better Clouds](https://modrinth.com/mod/better-clouds) (beautiful clouds that fit in with vanilla)
 * [Cubes Without Borders](https://modrinth.com/mod/cubes-without-borders) (borderless fullscreen mode)
