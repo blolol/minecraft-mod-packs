@@ -17,10 +17,6 @@ file = "config/yosbr/config/easymagic-server.toml"
 hash = "8dc6d4f7093b1cfa28e956cea7965636f056cbe344e123ae464c619138d31c66"
 
 [[files]]
-file = "config/yosbr/config/flow.config.json"
-hash = "7a16b5c21766588b5effda0145bee61feac7119a2f7f46796b65608eaf37decd"
-
-[[files]]
 file = "config/yosbr/config/jade/jade.json"
 hash = "87a6cf0955e877fb20ba18f2af4c6720af6d3e0084c4f267a88836e441b6a26c"
 
@@ -217,11 +213,6 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "078c828454d8a361baae372b5ee3dc33e5f3573fa19bdac8589b38da9dbc5c03"
-metafile = true
-
-[[files]]
-file = "mods/flow.pw.toml"
-hash = "75669faa8671d17f8ceca8a3cfe0e4932706b1a0e6152320a8edc3e70ea26870"
 metafile = true
 
 [[files]]
