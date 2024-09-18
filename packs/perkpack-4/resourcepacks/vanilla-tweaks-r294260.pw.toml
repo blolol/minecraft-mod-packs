@@ -1,0 +1,8 @@
+name = "vanilla-tweaks-r294260"
+filename = "VanillaTweaks_r294260_MC1.21.x.zip"
+side = "client"
+
+[download]
+url = "https://s3.amazonaws.com/minecraft/resource-packs/VanillaTweaks_r294260_MC1.21.x.zip"
+hash-format = "sha256"
+hash = "86b1461f11b771feb4f248e246278ba34ff4ec873d81f98ad1c2783e51331889"

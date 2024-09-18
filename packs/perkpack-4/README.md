@@ -65,6 +65,7 @@ Playing the Perkpack 4 preview is, like Perkpack 3, pretty simple stuff. You'll 
 * [Motschen's Better Leaves](https://modrinth.com/resourcepack/better-leaves) (optional)
 * [Ray's 3D Ladders](https://modrinth.com/resourcepack/rays-3d-ladders)
 * [Ray's 3D Rails](https://modrinth.com/resourcepack/rays-3d-rails)
+* [Vanilla Tweaks](https://vanillatweaks.net/)
 
 ## Mods
 
