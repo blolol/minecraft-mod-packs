@@ -1,0 +1,13 @@
+name = "Glowing Torchflower"
+filename = "glowing-torchflower-1.20.3-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/1S4LxcvL/versions/7jBMfU4u/glowing-torchflower-1.20.3-1.1.0.jar"
+hash-format = "sha1"
+hash = "ad4d8625d4c55a38ba6f3e181f61144cbafdeaa7"
+
+[update]
+[update.modrinth]
+mod-id = "1S4LxcvL"
+version = "7jBMfU4u"
