@@ -296,6 +296,11 @@ hash = "4b42d246142aabef3c1aeb75e1401ca82c3e76b6467993ff3991dc976e7166e4"
 metafile = true
 
 [[files]]
+file = "mods/natures-compass.pw.toml"
+hash = "ae035fa644520fea23ccc906c0ccf51cab4f2aac90fd8b2fd12009accdd91479"
+metafile = true
+
+[[files]]
 file = "mods/natures-spirit.pw.toml"
 hash = "be2ad714effc438fed6f441108b0758fbf9af44c787461cbf24e1493da9dca6c"
 metafile = true
