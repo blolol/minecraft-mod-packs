@@ -92,6 +92,7 @@ Playing the Perkpack 4 preview is, like Perkpack 3, pretty simple stuff. You'll 
 * [Easy Magic](https://modrinth.com/mod/9hx3AbJM) (items remain on enchanting tables, easy re-rolls)
 * [Easy Shulker Boxes](https://modrinth.com/mod/easy-shulker-boxes) (use shulker boxes directly from your inventory)
 * [EMI](https://modrinth.com/mod/emi) (item and recipe viewer)
+* [Flow](https://modrinth.com/mod/flow) (animated inventory screen transitions)
 * [Held Item Info](https://modrinth.com/mod/held-item-info) (shows useful information about the selected item in your hotbar)
 * [Leaves Be Gone](https://modrinth.com/mod/AVq17PqV) (quick leaf decay)
 * [Ok Zoomer](https://modrinth.com/mod/ok-zoomer) (press <kbd>c</kbd> and your mouse wheel to zoom)
