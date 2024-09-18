@@ -41,7 +41,6 @@ Playing the Perkpack 4 preview is, like Perkpack 3, pretty simple stuff. You'll 
 
 ### Helpful tips
 
-* **Optional mods:** When you start the game, a window will appear prompting you to select from a list of optional mods, such as Distant Horizons. Each time you launch the game, you'll have a few seconds to click a button to reconfigure the optional mods, so you can enable or disable any of them at any time.
 * **Borderless windowed mode:** In video settings, you can toggle "fullscreen" to "borderless", thanks to [Cubes Without Borders](https://modrinth.com/mod/cubes-without-borders).
 * **Shaders:** Press <kbd>o</kbd> to choose a shader pack, and <kbd>k</kbd> to toggle them on and off.
 * **Zooming:** Press <kbd>c</kbd> and use your mouse wheel to zoom using the [Ok Zoomer](https://modrinth.com/mod/ok-zoomer) mod.
@@ -109,7 +108,7 @@ Playing the Perkpack 4 preview is, like Perkpack 3, pretty simple stuff. You'll 
 
 * [Chunky](https://modrinth.com/plugin/chunky)
 * [Concurrent Chunk Management Engine](https://modrinth.com/mod/c2me-fabric)
-* [Distant Horizons](https://modrinth.com/mod/distanthorizons) (optional)
+* [Distant Horizons](https://modrinth.com/mod/distanthorizons)
 * [Entity Model Features](https://modrinth.com/mod/entity-model-features) (EMF)
 * [Entity Culling](https://modrinth.com/mod/entityculling)
 * [Entity Texture Features](https://modrinth.com/mod/entitytexturefeatures) (ETF)

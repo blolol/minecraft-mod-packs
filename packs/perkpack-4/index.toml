@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/yosbr/config/DistantHorizons.toml"
+hash = "8c3bbcab4cca16cd2b73490d00236de485b375c66ebe711cae8a304f237a8e3f"
+
+[[files]]
 file = "config/yosbr/config/betterclouds-v1.json"
 hash = "e03906cf208db969f55d0544458c16c1b65cef960c1e8cee9b68db07ad30c6c2"
 
@@ -109,7 +113,7 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "54cb2c25230415737347c9a3db564661c385c87ebb8afb496575b99bb7bf2908"
+hash = "7c4410424962acf607a4b2ff1e522553bdf742d6025ad077772d4d9ec7ef5e50"
 metafile = true
 
 [[files]]
