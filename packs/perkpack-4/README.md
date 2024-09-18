@@ -54,6 +54,7 @@ Playing the Perkpack 4 preview is, like Perkpack 3, pretty simple stuff. You'll 
 
 ## Resource packs
 
+* [3D Crops Revamped](https://modrinth.com/resourcepack/3d-crops)
 * [Colourful Containers](https://www.curseforge.com/minecraft/texture-packs/colourful-containers-gui)
 * [Compact Font](https://modrinth.com/resourcepack/compact-font)
 * [Door Tweaks](https://modrinth.com/resourcepack/door-tweaks)
