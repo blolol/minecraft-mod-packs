@@ -56,6 +56,7 @@ Playing the Perkpack 4 preview is, like Perkpack 3, pretty simple stuff. You'll 
 
 * [Colourful Containers](https://www.curseforge.com/minecraft/texture-packs/colourful-containers-gui)
 * [Compact Font](https://modrinth.com/resourcepack/compact-font)
+* [Enchant Icons](https://modrinth.com/resourcepack/enchant-icons-countxd)
 * [Fast Better Grass](https://modrinth.com/resourcepack/fast-better-grass)
 * [Fresh Animations](https://modrinth.com/resourcepack/fresh-animations)
 * [Motschen's Better Leaves](https://modrinth.com/resourcepack/better-leaves) (optional)

@@ -386,6 +386,11 @@ hash = "46628041bbe80bc16b74da5511131fde2a1225785d8eb93bdaa62f1f65b2dea5"
 metafile = true
 
 [[files]]
+file = "resourcepacks/enchant-icons-countxd.pw.toml"
+hash = "f0c582e7c5bf716a03f9b98dd11b5241ff4d939b1e365b5c652c9d5c4745d759"
+metafile = true
+
+[[files]]
 file = "resourcepacks/fast-better-grass.pw.toml"
 hash = "f05dedd6fc9f8e3ace51215fb47269a4919870a15c6c166c96c79b87bb9180c4"
 metafile = true
