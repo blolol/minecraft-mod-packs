@@ -58,6 +58,7 @@ Playing the Perkpack 4 preview is, like Perkpack 3, pretty simple stuff. You'll 
 * [Compact Font](https://modrinth.com/resourcepack/compact-font)
 * [Door Tweaks](https://modrinth.com/resourcepack/door-tweaks)
 * [Enchant Icons](https://modrinth.com/resourcepack/enchant-icons-countxd)
+* [Enchanted Covers](https://modrinth.com/resourcepack/enchanted-covers)
 * [Fast Better Grass](https://modrinth.com/resourcepack/fast-better-grass)
 * [Fresh Animations](https://modrinth.com/resourcepack/fresh-animations)
 * [Motschen's Better Leaves](https://modrinth.com/resourcepack/better-leaves) (optional)

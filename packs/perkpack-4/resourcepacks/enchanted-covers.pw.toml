@@ -1,0 +1,13 @@
+name = "Enchanted Covers"
+filename = "EnchantedCovers.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/qLCp6xdi/versions/pazIKQ8V/EnchantedCovers.zip"
+hash-format = "sha1"
+hash = "a55779390c0518bf1f8ee3f1a1bb376f68234cc4"
+
+[update]
+[update.modrinth]
+mod-id = "qLCp6xdi"
+version = "pazIKQ8V"

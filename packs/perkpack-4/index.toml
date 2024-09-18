@@ -38,7 +38,7 @@ hash = "5f60325504ed1c87697036574a581882b92a18f89e4f7285d0242cb8d9cd1b76"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "bd0f165f749dea6d93699d865fe0d962b269c48ec7b98630fb3902ab1ee0f622"
+hash = "8909542b402caf5067407f1828b7886681f07bea01a75293141931f1d6663330"
 
 [[files]]
 file = "config/yosbr/shaderpacks/ComplementaryUnbound_r5.2.2.zip.txt"
@@ -117,6 +117,11 @@ metafile = true
 [[files]]
 file = "mods/chunky.pw.toml"
 hash = "8383ab78f5fb08bb0793b6ec4b66807a456bab571aea63699e614a09601de22a"
+metafile = true
+
+[[files]]
+file = "mods/cit-resewn.pw.toml"
+hash = "4349683af0ac961b433c4c61fb200055057e578ca2d9c399db86787a9cc3d481"
 metafile = true
 
 [[files]]
@@ -442,6 +447,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/enchant-icons-countxd.pw.toml"
 hash = "f0c582e7c5bf716a03f9b98dd11b5241ff4d939b1e365b5c652c9d5c4745d759"
+metafile = true
+
+[[files]]
+file = "resourcepacks/enchanted-covers.pw.toml"
+hash = "b9bf9385a33094628b1578e55d05536d19af80ab8c585ecd7d8bb1549e582816"
 metafile = true
 
 [[files]]
