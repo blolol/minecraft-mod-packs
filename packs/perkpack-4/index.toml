@@ -336,6 +336,11 @@ hash = "66ec69b7956bd72b72962e00f2a254987d40624cf9c94f750662da51d824464a"
 metafile = true
 
 [[files]]
+file = "mods/tiny-item-animations.pw.toml"
+hash = "43c56c0e15a459162eb4acbc0334f544badf9be44638a6f4d506f702898d6569"
+metafile = true
+
+[[files]]
 file = "mods/visuality.pw.toml"
 hash = "6cb2a4cd4eb40eaf19bbb54a6d8fa23643470147e86e19fe04b820e170998ed3"
 metafile = true

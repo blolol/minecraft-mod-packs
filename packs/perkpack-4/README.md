@@ -73,6 +73,7 @@ Playing the Perkpack 4 preview is, like Perkpack 3, pretty simple stuff. You'll 
 * [ImmersiveThunder](https://modrinth.com/mod/immersivethunder)
 * [Sound Physics Remastered](https://modrinth.com/mod/qyVF9oeo)
 * [Sounds](https://modrinth.com/mod/sound)
+* [Tiny Item Animations](https://modrinth.com/mod/tiny-item-animations)
 * [Visuality](https://modrinth.com/mod/rI0hvYcd)
 
 ### Quality of life
