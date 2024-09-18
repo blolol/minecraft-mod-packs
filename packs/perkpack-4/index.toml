@@ -59,6 +59,11 @@ hash = "7d21cea212897ec7b1ec5b0953447273cdebab880ea85236790ef1d0e4351859"
 metafile = true
 
 [[files]]
+file = "mods/better-stats.pw.toml"
+hash = "941bf61ed32600eefffb76356799bbb7cd1a3d1775a6f478cb69657fc8bcccc5"
+metafile = true
+
+[[files]]
 file = "mods/biomes-o-plenty.pw.toml"
 hash = "ef89ed48340d42ed705dc9e2459d6302f8e54b35a8ca43a1f4a6411df5799933"
 metafile = true
@@ -241,6 +246,11 @@ metafile = true
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
 hash = "47870c885ade491cf58a094e23b9e1d53f12e7ae738d933c26f60290c6259edd"
+metafile = true
+
+[[files]]
+file = "mods/tcdcommons.pw.toml"
+hash = "a07734892496719d75a5ad73a8d53950469ffa2348df1aac07a75a6c304271a6"
 metafile = true
 
 [[files]]
