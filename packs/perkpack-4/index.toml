@@ -401,6 +401,11 @@ hash = "a694429e03e20de9d94ddfe3964321ad981c16008f449789ee9ebb1c5c4470bc"
 metafile = true
 
 [[files]]
+file = "mods/symbol-chat.pw.toml"
+hash = "fd03c824d576a87e5bda4851b4cde477fea507ecdc97858da429916323f0b8ec"
+metafile = true
+
+[[files]]
 file = "mods/tcdcommons.pw.toml"
 hash = "a07734892496719d75a5ad73a8d53950469ffa2348df1aac07a75a6c304271a6"
 metafile = true
