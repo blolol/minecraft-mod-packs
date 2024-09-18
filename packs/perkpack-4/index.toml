@@ -86,6 +86,11 @@ hash = "ef89ed48340d42ed705dc9e2459d6302f8e54b35a8ca43a1f4a6411df5799933"
 metafile = true
 
 [[files]]
+file = "mods/bridging-mod.pw.toml"
+hash = "fd658d71efa6e971ccc1cd6d75258b3846aa92339a457cd9bef70e86d21f80ce"
+metafile = true
+
+[[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "a4fd2e20e1a2444c6892e9f14d94b1b8802a8a4954f9e3e49045aac9b9074f23"
 metafile = true
