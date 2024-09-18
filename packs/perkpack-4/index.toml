@@ -236,6 +236,11 @@ hash = "2b8ce9ab97a35059a79d59d540687385d25956c519ce1728fbcfb13fae93a328"
 metafile = true
 
 [[files]]
+file = "mods/mru.pw.toml"
+hash = "4b42d246142aabef3c1aeb75e1401ca82c3e76b6467993ff3991dc976e7166e4"
+metafile = true
+
+[[files]]
 file = "mods/natures-spirit.pw.toml"
 hash = "be2ad714effc438fed6f441108b0758fbf9af44c787461cbf24e1493da9dca6c"
 metafile = true
@@ -293,6 +298,11 @@ metafile = true
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
 hash = "47870c885ade491cf58a094e23b9e1d53f12e7ae738d933c26f60290c6259edd"
+metafile = true
+
+[[files]]
+file = "mods/sound.pw.toml"
+hash = "d5a801fd52c696bdd082f96c2f8f7fa78e9fb5fb6b7c110fed42604b37058b46"
 metafile = true
 
 [[files]]

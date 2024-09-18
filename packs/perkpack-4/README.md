@@ -71,6 +71,7 @@ Playing the Perkpack 4 preview is, like Perkpack 3, pretty simple stuff. You'll 
 * [Eating Animation](https://modrinth.com/mod/rUgZvGzi)
 * [Falling Leaves](https://modrinth.com/mod/WhbRG4iK)
 * [Sound Physics Remastered](https://modrinth.com/mod/qyVF9oeo)
+* [Sounds](https://modrinth.com/mod/sound)
 * [Visuality](https://modrinth.com/mod/rI0hvYcd)
 
 ### Quality of life
