@@ -65,15 +65,16 @@ Playing the Perkpack 4 preview is, like Perkpack 3, pretty simple stuff. You'll 
 ### Aesthetic
 
 * [3D Skin Layers](https://modrinth.com/mod/zV5r3pPn)
+* [AmbientSounds](https://modrinth.com/mod/ambientsounds)
+* [Better Clouds](https://modrinth.com/mod/better-clouds)
 * [Falling Leaves](https://modrinth.com/mod/WhbRG4iK)
 * [Sound Physics Remastered](https://modrinth.com/mod/qyVF9oeo)
+* [Visuality](https://modrinth.com/mod/rI0hvYcd)
 
 ### Quality of life
 
-* [AmbientSounds](https://modrinth.com/mod/ambientsounds) (immersive ambient sounds for different biomes)
-* [AppleSkin](https://modrinth.com/mod/EsAfCjCV) (food/hunger HUD improvements)
+* [AppleSkin](https://modrinth.com/mod/EsAfCjCV)
 * [AutoRun](https://modrinth.com/mod/autorun) (press <kbd>`</kbd> to autorun)
-* [Better Clouds](https://modrinth.com/mod/better-clouds) (beautiful clouds that fit in with vanilla)
 * [Cubes Without Borders](https://modrinth.com/mod/cubes-without-borders) (borderless fullscreen mode)
 * [EMI](https://modrinth.com/mod/emi) (item and recipe viewer)
 * [Ok Zoomer](https://modrinth.com/mod/ok-zoomer) (press <kbd>c</kbd> and your mouse wheel to zoom)
@@ -83,7 +84,7 @@ Playing the Perkpack 4 preview is, like Perkpack 3, pretty simple stuff. You'll 
 
 ### Tools
 
-* [Comforts](https://modrinth.com/mod/comforts) (sleeping bags and hammocks; sleep without setting your respawn point)
+* [Comforts](https://modrinth.com/mod/comforts) (craft a sleeping bag to skip the night without setting your respawn point)
 * [Easy Emerald Tools & More](https://www.curseforge.com/minecraft/mc-mods/simple-emerald-tools-fabric) (sets of armor, tools and weapons between vanilla iron and diamond, and 3x3 mining tools; finally a use for all of that copper!)
 
 ### Getting around

@@ -15,4 +15,4 @@ version = "pEvLEY5E"
 [option]
 optional = true
 default = true
-description = "Distant Horizons allows you to crank your view distance up to insane levels with a relatively minor performance hit. Might be incompatible with some Apple Silicon-based Macs."
+description = "Distant Horizons allows you to crank your view distance up to insane levels with a relatively minor performance hit. Might be incompatible with some Apple Silicon-based Macs and older GPUs, especially when combined with shaders."

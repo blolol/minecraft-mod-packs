@@ -95,7 +95,7 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "9e2ee7a44d9708d6f7748abaad76628bc6fae9b4fa479648ee6681ff384753f6"
+hash = "54cb2c25230415737347c9a3db564661c385c87ebb8afb496575b99bb7bf2908"
 metafile = true
 
 [[files]]
@@ -241,6 +241,11 @@ metafile = true
 [[files]]
 file = "mods/terrablender.pw.toml"
 hash = "66ec69b7956bd72b72962e00f2a254987d40624cf9c94f750662da51d824464a"
+metafile = true
+
+[[files]]
+file = "mods/visuality.pw.toml"
+hash = "6cb2a4cd4eb40eaf19bbb54a6d8fa23643470147e86e19fe04b820e170998ed3"
 metafile = true
 
 [[files]]
