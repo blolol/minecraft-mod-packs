@@ -62,6 +62,7 @@ Playing the Perkpack 4 preview is, like Perkpack 3, pretty simple stuff. You'll 
 * [Enchanted Covers](https://modrinth.com/resourcepack/enchanted-covers)
 * [Fast Better Grass](https://modrinth.com/resourcepack/fast-better-grass)
 * [Fresh Animations](https://modrinth.com/resourcepack/fresh-animations)
+* [Fresh Animations Extensions](https://modrinth.com/resourcepack/fresh-animations-extensions)
 * [Motschen's Better Leaves](https://modrinth.com/resourcepack/better-leaves)
 * [Ray's 3D Ladders](https://modrinth.com/resourcepack/rays-3d-ladders)
 * [Ray's 3D Rails](https://modrinth.com/resourcepack/rays-3d-rails)
