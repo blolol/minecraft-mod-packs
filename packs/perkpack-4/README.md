@@ -67,6 +67,7 @@ Playing the Perkpack 4 preview is, like Perkpack 3, pretty simple stuff. You'll 
 * [3D Skin Layers](https://modrinth.com/mod/zV5r3pPn)
 * [AmbientSounds](https://modrinth.com/mod/ambientsounds)
 * [Better Clouds](https://modrinth.com/mod/better-clouds)
+* [Cave Dust](https://modrinth.com/mod/jawg7zT1)
 * [Eating Animation](https://modrinth.com/mod/rUgZvGzi)
 * [Falling Leaves](https://modrinth.com/mod/WhbRG4iK)
 * [Sound Physics Remastered](https://modrinth.com/mod/qyVF9oeo)
