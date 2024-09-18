@@ -70,6 +70,7 @@ Playing the Perkpack 4 preview is, like Perkpack 3, pretty simple stuff. You'll 
 * [3D Skin Layers](https://modrinth.com/mod/zV5r3pPn)
 * [AmbientSounds](https://modrinth.com/mod/ambientsounds)
 * [Better Clouds](https://modrinth.com/mod/better-clouds)
+* [Better Lanterns](https://modrinth.com/resourcepack/better-lanterns)
 * [Cave Dust](https://modrinth.com/mod/jawg7zT1)
 * [Chat Heads](https://modrinth.com/mod/chat-heads)
 * [Eating Animation](https://modrinth.com/mod/rUgZvGzi)

@@ -38,7 +38,7 @@ hash = "5f60325504ed1c87697036574a581882b92a18f89e4f7285d0242cb8d9cd1b76"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "33cccf08e15dbffcf2fd1f9b38b4e7b157041300c2eb93f8f991d5b82e97abb0"
+hash = "8c4c4e33e38679077cf38f8bb42fbf662379d0ff7ad7be3f0d3742d5be113b46"
 
 [[files]]
 file = "config/yosbr/shaderpacks/ComplementaryUnbound_r5.2.2.zip.txt"
@@ -397,6 +397,11 @@ metafile = true
 [[files]]
 file = "mods/yosbr.pw.toml"
 hash = "6f6334f336a876088431df70e2bba6ac52ca2ddeb73a4880ce88d6954b09af00"
+metafile = true
+
+[[files]]
+file = "resourcepacks/better-lanterns.pw.toml"
+hash = "5b5eb0c335a6663fbe702fb0cb2faf8329bbd9dfcf8d86a2188faeeb83514409"
 metafile = true
 
 [[files]]
