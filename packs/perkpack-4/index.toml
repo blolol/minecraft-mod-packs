@@ -5,6 +5,10 @@ file = "config/yosbr/config/DistantHorizons.toml"
 hash = "f77bdf97605450a02c0406376538afd3b178f5a8dd16dbf3486b558d82f28515"
 
 [[files]]
+file = "config/yosbr/config/MouseTweaks.cfg"
+hash = "adc06ca99bdc9ecb6181f28dc38199e2bbc2d1907bf095de41a0e7e2842c98ea"
+
+[[files]]
 file = "config/yosbr/config/betterclouds-v1.json"
 hash = "e03906cf208db969f55d0544458c16c1b65cef960c1e8cee9b68db07ad30c6c2"
 
@@ -332,6 +336,11 @@ metafile = true
 [[files]]
 file = "mods/modmenu.pw.toml"
 hash = "2b8ce9ab97a35059a79d59d540687385d25956c519ce1728fbcfb13fae93a328"
+metafile = true
+
+[[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "6ff1d7cc8800c891723375aea3426b9b2f50400798374e8f97f96e804cc5c518"
 metafile = true
 
 [[files]]
