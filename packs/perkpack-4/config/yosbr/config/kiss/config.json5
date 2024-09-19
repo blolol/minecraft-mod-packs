@@ -1,0 +1,20 @@
+{
+	// Enable 'Sort' button in inventories
+	"displaySort": false,
+	// Enable second 'Sort' button in player inventory
+	"separateBtn": true,
+	// Sorting also sorts player inventory
+	"sortPlayer": false,
+	// Method of sorting: NAME,CATEGORY,MOD,ID
+	"sortType": "ID",
+	// Display Sort Button Tooltip
+	"displayTooltip": true,
+	// Sort Inventory primary keybinding
+	"keybindingPrimary": "key.keyboard.unknown",
+	// Sort Inventory secondary keybinding
+	"keybindingSecondary": "key.keyboard.unknown",
+	// Sort the inventory that the mouse cursor is hovering over
+	"sortMouseHighlighted": true,
+	// Show extra info about ignore list in tooltip
+	"debugMode": false
+}

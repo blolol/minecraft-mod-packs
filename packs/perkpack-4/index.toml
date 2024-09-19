@@ -25,6 +25,10 @@ file = "config/yosbr/config/jade/jade.json"
 hash = "87a6cf0955e877fb20ba18f2af4c6720af6d3e0084c4f267a88836e441b6a26c"
 
 [[files]]
+file = "config/yosbr/config/kiss/config.json5"
+hash = "3dbbe51683b915c9b31f704d405339cab598416c950591065285dbf32b169c10"
+
+[[files]]
 file = "config/yosbr/config/particular.json5"
 hash = "db2ec091ef2a2f6c0a3239b266763733e24faf5c618ed6d60e756bc03a0f7101"
 
@@ -311,6 +315,11 @@ metafile = true
 [[files]]
 file = "mods/jade.pw.toml"
 hash = "a6619aede80ea44ae5cc7fa36eeb0eeb08adbf9229e71a85f845921780d69153"
+metafile = true
+
+[[files]]
+file = "mods/kiss.pw.toml"
+hash = "0fe793e14bee40ac604f4793bf12ef67f2616f66076c2a187bebe73aeaee2564"
 metafile = true
 
 [[files]]

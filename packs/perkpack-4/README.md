@@ -109,6 +109,7 @@ Playing the Perkpack 4 preview is, like Perkpack 3, pretty simple stuff. You'll 
 * [EMI](https://modrinth.com/mod/emi) (item and recipe viewer)
 * [Held Item Info](https://modrinth.com/mod/held-item-info) (shows useful information about the selected item in your hotbar)
 * [Item Placer](https://modrinth.com/mod/item-placer) (press <kbd>v</kbd> to place an item on any surface of a block; rotate with opt/alt + mouse wheel; right-click to pick the item back up)
+* [Keep Inventories Sorted, Simple](https://modrinth.com/mod/kiss) (disabled by default to avoid confusion; if you want to be able to quickly sort inventories, bind a key to "sort inventory" and/or enable the sort button in the mod's settings)
 * [Leaves Be Gone](https://modrinth.com/mod/AVq17PqV) (quick leaf decay)
 * [Mouse Tweaks](https://modrinth.com/mod/mouse-tweaks) (move items between inventories with your scroll wheel)
 * [Ok Zoomer](https://modrinth.com/mod/ok-zoomer) (press <kbd>c</kbd> and your mouse wheel to zoom)
