@@ -133,6 +133,11 @@ hash = "3e0cd1e2e15a3c797ccfd67901b97b971ecfa7a66d9dc161bcc4cf86f6a61825"
 metafile = true
 
 [[files]]
+file = "mods/map-atlases-forge.pw.toml"
+hash = "1eeaf42b4c6285f4cbcbf20b7d27d865dc80ae6d7652ba4b11948dcc57fb3b9a"
+metafile = true
+
+[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "198f1556d7bb15f0a62ef990cbcb9cdef6e6430e25c7094a6c7abe58ac388d9d"
 metafile = true
@@ -195,6 +200,11 @@ metafile = true
 [[files]]
 file = "mods/tfc-support-indicator.pw.toml"
 hash = "7007068d3780337b39921abb22385b47e835b0b7b6e4ef93b74796ad800664e7"
+metafile = true
+
+[[files]]
+file = "mods/tfcivilization-atlases.pw.toml"
+hash = "71825d3f4a7f851dc1c16a0fe9404101500a7f3d07100311a39fb31f88c25acf"
 metafile = true
 
 [[files]]

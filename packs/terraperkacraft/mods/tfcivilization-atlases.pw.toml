@@ -1,0 +1,13 @@
+name = "TFCivilization Atlases"
+filename = "tfcivilization_atlases-1.1.0-forge-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/TsPVAakB/versions/4AE5K8ER/tfcivilization_atlases-1.1.0-forge-1.20.1.jar"
+hash-format = "sha1"
+hash = "f6b5002d3aa1b1e2df36405b1b67a75da894e3b6"
+
+[update]
+[update.modrinth]
+mod-id = "TsPVAakB"
+version = "4AE5K8ER"
