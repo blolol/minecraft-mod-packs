@@ -243,6 +243,11 @@ hash = "fd38874e163e22c18c1b110918f601a822a065119636a2458f7743679d5f0f7d"
 metafile = true
 
 [[files]]
+file = "mods/extended-drawers.pw.toml"
+hash = "249824784f6aed87c0d584e0c848c22451b00312d477561b68737cc73a9f7f8e"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "a8800671ba62afc0a0a2bcbf4330ba7a5906f5fba7ec88b6d5afac2572ecd617"
 metafile = true
@@ -395,6 +400,11 @@ metafile = true
 [[files]]
 file = "mods/particular.pw.toml"
 hash = "d878e8159739d1ea9a40185d4ace5c0185343f53310e354c2c0afb4b19d2e563"
+metafile = true
+
+[[files]]
+file = "mods/patchouli.pw.toml"
+hash = "74e8b981d6dfde6ba878962430999d556b615c4dbe3fc1d186e0ee4fe1d596d1"
 metafile = true
 
 [[files]]
