@@ -48,9 +48,10 @@ Playing the Perkpack 4 preview is, like Perkpack 3, pretty simple stuff. You'll 
   * Press <kbd>m</kbd> to open [Xaero's World Map](https://modrinth.com/mod/xaeros-world-map).
   * Press <kbd>n</kbd> to toggle [Xaero's Minimap](https://modrinth.com/mod/xaeros-minimap).
 * **[Jade](https://modrinth.com/mod/jade)** can show you details about the block or entity you're looking at. Press <kbd>1</kbd> on your numpad to toggle it.
-* **[Horse Buff](https://modrinth.com/mod/horsebuff)** prevents saddled horses from wandering, so you don't need to carry a lead and a fence post. Horses also no longer sink in water, so you can swim across rivers without dismounting. There are a couple of other useful features as well; check the mod's page for details.
 * **[Auto run](https://modrinth.com/mod/autorun)** not only works for running with your own two legs, but also with boats, horses, and other mounts. Press <kbd>`</kbd> (backtick) to toggle it.
+* **Sorting inventories:** [Keep Inventories Sorted, Stupid](https://modrinth.com/mod/kiss) (KISS) comes with the mod pack, but is disabled by default, to avoid adding potentially confusing keybinds and buttons to the UI. If you want to be able to quickly sort inventories, you can bind a key to "Sort Inventory" in Options > Controls > Key Binds. (A common choice is <kbd>r</kbd>.) You can also enable a sort button on inventory screens in Mods > Keep Inventories Sorted, Simple > Config.
 * Want to **chop down entire trees at once, or dig out 3x3 areas?** Check out the special tools added by [Easy Emerald Tools & More](https://www.curseforge.com/minecraft/mc-mods/simple-emerald-tools-fabric). To easily see all of the available items and their recipes in-game, type `@emerald` (or any other part of the mod name) into [EMI](https://modrinth.com/mod/emi)'s search bar in your inventory screen to filter the list to items added by the mod. Left-click on any item to see its recipe.
+* **[Horse Buff](https://modrinth.com/mod/horsebuff)** prevents saddled horses from wandering, so you don't need to carry a lead and a fence post. Horses also no longer sink in water, so you can swim across rivers without dismounting. There are a couple of other useful features as well; check the mod's page for details.
 
 ## Resource packs
 
