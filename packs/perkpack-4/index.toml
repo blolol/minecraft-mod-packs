@@ -423,6 +423,11 @@ hash = "71f7b64a0b1727d7fa5b25e88f70c5bf55733520e8b0aa87749b16df44179498"
 metafile = true
 
 [[files]]
+file = "mods/shulker+.pw.toml"
+hash = "39229a29962bcc6378b8986192aaa142d12d9a5da8420daf6345a88052f846d9"
+metafile = true
+
+[[files]]
 file = "mods/simple-emerald-tools-fabric.pw.toml"
 hash = "3061140fe49dc1da2e8d41d2bd8ed7039dda41fe1aa224511e2790e7a7ba945f"
 metafile = true
