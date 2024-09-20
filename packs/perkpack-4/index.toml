@@ -21,6 +21,10 @@ file = "config/yosbr/config/easymagic-server.toml"
 hash = "8dc6d4f7093b1cfa28e956cea7965636f056cbe344e123ae464c619138d31c66"
 
 [[files]]
+file = "config/yosbr/config/gravestones.json"
+hash = "33ea21c3720051b1b410bb787ae600fdc9cca189e1712e6a36fd31da457afc5d"
+
+[[files]]
 file = "config/yosbr/config/jade/jade.json"
 hash = "87a6cf0955e877fb20ba18f2af4c6720af6d3e0084c4f267a88836e441b6a26c"
 
@@ -415,6 +419,16 @@ metafile = true
 [[files]]
 file = "mods/placeholder-api.pw.toml"
 hash = "d0311de4c47e48ba0c1769253c7bd8fd541ed81c60823c539116a963e58c9128"
+metafile = true
+
+[[files]]
+file = "mods/pneumono_core.pw.toml"
+hash = "fca8f43a9801f11531b4d45517429e85461d5dd1131875bb55a555ef67470760"
+metafile = true
+
+[[files]]
+file = "mods/pneumono_gravestones.pw.toml"
+hash = "e874848b5a9a25e2a424968ae677c421da1cc49cfdfc91e15aed96327b138be3"
 metafile = true
 
 [[files]]

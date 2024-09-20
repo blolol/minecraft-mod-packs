@@ -108,6 +108,7 @@ Playing the Perkpack 4 preview is, like Perkpack 3, pretty simple stuff. You'll 
 * [Easy Magic](https://modrinth.com/mod/9hx3AbJM) (items remain on enchanting tables, easy re-rolls)
 * [Easy Shulker Boxes](https://modrinth.com/mod/easy-shulker-boxes) (use shulker boxes directly from your inventory)
 * [EMI](https://modrinth.com/mod/emi) (item and recipe viewer)
+* [Gravestones](https://modrinth.com/mod/pneumono_gravestones) (if you die, your stuff is saved in a gravestone)
 * [Held Item Info](https://modrinth.com/mod/held-item-info) (shows useful information about the selected item in your hotbar)
 * [Item Placer](https://modrinth.com/mod/item-placer) (press <kbd>v</kbd> to place an item on any surface of a block; rotate with opt/alt + mouse wheel; right-click to pick the item back up)
 * [Keep Inventories Sorted, Simple](https://modrinth.com/mod/kiss) (disabled by default to avoid confusion; if you want to be able to quickly sort inventories, bind a key to "sort inventory" and/or enable the sort button in the mod's settings)
