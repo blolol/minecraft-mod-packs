@@ -5,15 +5,11 @@ on:
 jobs:
   release:
     runs-on: ubuntu-latest
-    defaults:
-      run:
-        shell: bash
-        working-directory: ./.github/workflows/scripts
     steps:
       - name: Check out release tag
         uses: actions/checkout@v2
       - name: Draft GitHub release
-        run: ./release.sh
+        run: ./.github/workflows/scripts/release.sh
         shell: bash
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

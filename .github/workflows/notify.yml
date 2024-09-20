@@ -6,16 +6,12 @@ on:
 jobs:
   notify:
     runs-on: ubuntu-latest
-    defaults:
-      run:
-        shell: bash
-        working-directory: ./.github/workflows/scripts
     steps:
       - name: Check out release tag
         uses: actions/checkout@v2
       - name: Notify IRC of release
         continue-on-error: true
-        run: ./notify.sh
+        run: ./.github/workflows/scripts/notify.sh
         shell: bash
         env:
           BLOLOL_API_KEY: ${{ secrets.BLOLOL_API_KEY }}
