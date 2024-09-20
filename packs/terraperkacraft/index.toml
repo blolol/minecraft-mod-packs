@@ -21,8 +21,16 @@ file = "configureddefaults/config/embeddium++.toml"
 hash = "06723b7c2491ac2c7be93539e35ebd64e1e3417db32c87061feffd97fd6c5920"
 
 [[files]]
+file = "configureddefaults/config/xaerominimap.txt"
+hash = "d018531488192139472eb17353a8409eeb64203a5634335cb1eada5330635299"
+
+[[files]]
+file = "configureddefaults/config/xaeroworldmap.txt"
+hash = "7bcaa909613c955d99e6982018a780622dfc91c6dd462791f5e67c17599d5a3f"
+
+[[files]]
 file = "configureddefaults/options.txt"
-hash = "6372d426d366047053e82269dd5c978b31fb799557deffc40d8fd8305370886a"
+hash = "b360e0e6fd2519352929f0b20f313b3579411ce0e836c91c27df5d9f185cb185"
 
 [[files]]
 file = "defaultconfigs/gravestone-server.toml"
@@ -84,7 +92,7 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "0740153d2076da460c3ece92163fdba78960bee420ef90d12eb806547a75a170"
+hash = "efd1092527558e11c3628e4338859393c4ae309eb05f852cef16d73debbeeec3"
 metafile = true
 
 [[files]]
@@ -205,6 +213,16 @@ metafile = true
 [[files]]
 file = "mods/tfcivilization-atlases.pw.toml"
 hash = "71825d3f4a7f851dc1c16a0fe9404101500a7f3d07100311a39fb31f88c25acf"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "841a4286bc865071f4cc21e077953308124a1fa4cf6df1a686d9043b12cc781e"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "02e727d18c0d178f33f9f243892ff11afad42fe673a3c54bd7cd29dcf05a8ea5"
 metafile = true
 
 [[files]]

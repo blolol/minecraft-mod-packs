@@ -11,8 +11,3 @@ hash = "7763ed4bcdffa29c71f7b1b323ed513c687488cc"
 [update.modrinth]
 mod-id = "uCdwusMi"
 version = "HH9YLh1q"
-
-[option]
-optional = true
-default = true
-description = "Might be incompatible with Apple Silicon-based Macs. For everyone else, Distant Horizons allows you to crank your view distance up to insane levels with a relatively minor performance hit."
