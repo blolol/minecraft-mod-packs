@@ -1,3 +1,4 @@
+.minecraft/options.txt
 .minecraft/packwiz-installer-bootstrap.jar
 .minecraft/servers.dat
 instance.cfg
