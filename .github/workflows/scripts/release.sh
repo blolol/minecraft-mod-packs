@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 # Drafts a GitHub release for a Blolol Minecraft mod pack.
 
-source ./extract_pack_attributes.sh
+source ./.github/workflows/scripts/extract_pack_attributes.sh
 
 cat <<EOS > $RUNNER_TEMP/pack_release_notes
 This release of [${PACK_NAME}](${PACK_README_URL}) is for [Minecraft ${PACK_MC_VERSION}](${PACK_MC_WIKI_URL}).

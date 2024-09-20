@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 # Notifies the #minecraft channel on irc.blolol.com about a mod pack release.
 
-source ./extract_pack_attributes.sh
+source ./.github/workflows/scripts/extract_pack_attributes.sh
 
 release_tag="${GITHUB_REF_NAME#*/*/}"
 release_url="$(gh release view "$release_tag" --json url | jq -r .url)"
