@@ -8,7 +8,7 @@ release_url="$(gh release view "$release_tag" --json url | jq -r .url)"
 
 from='Wheaties'
 to='#minecraft'
-message="⛏️✨ ${PACK_NAME} ${PACK_VERSION} is out! Release notes: ${release_url}"
+message="⛏️✨ ${PACK_RELEASE_TITLE} is out! Release notes: ${release_url}"
 
 accept_header='Accept: application/json'
 authorization_header="Authorization: key=${BLOLOL_API_KEY} secret=${BLOLOL_API_SECRET}"

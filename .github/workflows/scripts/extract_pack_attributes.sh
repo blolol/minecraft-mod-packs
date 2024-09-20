@@ -18,9 +18,8 @@ PACK_VERSION_MAJOR="${PACK_VERSION%%.*}" # e.g. "4"
 PACK_SLUG="${PACK_BASE_NAME}-${PACK_VERSION_MAJOR}" # e.g. "perkpack-4"
 
 PACK_NAME="$(pack_var name)" # e.g. "Perkpack"
-PACK_MC_VERSION="$(pack_var minecraft)" # e.g. "1.21"
-
 PACK_RELEASE_TITLE="$PACK_NAME $PACK_VERSION" # e.g. "Perkpack 4.0.1"
+PACK_MC_VERSION="$(pack_var minecraft)" # e.g. "1.21"
 
 PACK_GH_BASE_URL="https://github.com/blolol/minecraft-mod-packs/tree/main/packs/${PACK_SLUG}"
 PACK_GH_BASE_URL_RAW="https://raw.githubusercontent.com/blolol/minecraft-mod-packs/main/packs/${PACK_SLUG}"

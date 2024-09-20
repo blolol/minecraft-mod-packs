@@ -16,6 +16,6 @@ This release of [${PACK_NAME}](${PACK_README_URL}) is for [Minecraft ${PACK_MC_V
 * **[packwiz](https://github.com/packwiz/packwiz) metadata:** $PACK_PACKWIZ_METADATA_URL
 EOS
 
-gh release create $GITHUB_REF_NAME --draft --title "$pack_release_title" \
+gh release create $GITHUB_REF_NAME --draft --title "$PACK_RELEASE_TITLE" \
   --notes-file $RUNNER_TEMP/pack_release_notes \
   $([[ $GITHUB_REF_NAME == */*-pre* ]] && echo -n '--prerelease')
