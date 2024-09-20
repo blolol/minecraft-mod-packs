@@ -14,8 +14,8 @@ Perkpack bumps its major version number for each significant Minecraft update (e
 
 | Perkpack Version     | Minecraft Version | Java Version |
 |----------------------|-------------------|--------------|
-| [Perkpack 4](https://github.com/blolol/minecraft-mod-packs/tree/main/packs/perkpack-4#readme) (preview) | [Minecraft 1.21](https://minecraft.wiki/w/Java_Edition_1.21) | Java 21 |
-| [Perkpack 3](https://github.com/blolol/minecraft-mod-packs/tree/main/packs/perkpack#readme) (current) | [Minecraft 1.20](https://minecraft.wiki/w/Java_Edition_1.20) | Java 17 |
+| [Perkpack 4](https://github.com/blolol/minecraft-mod-packs/tree/main/packs/perkpack-4#readme) (current) | [Minecraft 1.21](https://minecraft.wiki/w/Java_Edition_1.21) | Java 21 |
+| [Perkpack 3](https://github.com/blolol/minecraft-mod-packs/tree/main/packs/perkpack#readme) | [Minecraft 1.20](https://minecraft.wiki/w/Java_Edition_1.20) | Java 17 |
 | Perkpack 2           | [Minecraft 1.18](https://minecraft.wiki/w/Java_Edition_1.18)    | Java 17      |
 | Perkpack 1           | [Minecraft 1.17](https://minecraft.wiki/w/Java_Edition_1.17)    | Java 17      |
 
@@ -25,19 +25,19 @@ Mod pack updates are also announced by Wheaties in the `#minecraft` channels of 
 
 ## How to play
 
-Playing the Perkpack 4 preview is, like Perkpack 3, pretty simple stuff. You'll only need to install the mod pack once. It will otherwise automatically keep itself up to date.
+Playing Perkpack 4 is, like Perkpack 3, pretty simple stuff. You'll only need to install the mod pack once. It will otherwise automatically keep itself up to date.
 
 > [!IMPORTANT]
-> **If you haven't yet played Minecraft 1.21, you'll probably need to install Java 21** in step one below. Perkpack 3 is based on Minecraft 1.20.1, which uses Java 17. In Minecraft [1.20.5](https://minecraft.wiki/w/Java_Edition_1.20.5), Mojang updated the game to require Java 21. Perkpack 4 is based on the latest major release as of summer 2024, Minecraft 1.21.
+> **If you haven't yet played Minecraft 1.21, you'll probably need to install Java 21** in step one below. Perkpack 3 was based on Minecraft 1.20.1, which uses Java 17. In Minecraft [1.20.5](https://minecraft.wiki/w/Java_Edition_1.20.5), Mojang updated the game to require Java 21. Perkpack 4 is based on the latest major release as of summer 2024, Minecraft 1.21.
 >
 > Multiple versions of Java can coexist without a problem, but you'll need to either override the Perkpack 4 Prism instance's Java version (right-click > Edit > Settings > Java), or change your default Java version in Prism Launcher's global settings.
 
 1. Install [Java 21](https://prismlauncher.org/wiki/getting-started/installing-java/).
 1. Install [Prism Launcher](https://prismlauncher.org).
 1. In Prism Launcher, click "Add Instance", then "Import".
-1. Give the instance a name like "Perkpack 4 Preview", then paste in this URL: https://github.com/blolol/minecraft-mod-packs/raw/main/packs/perkpack-4/prism-instance.zip
+1. Give the instance a name like "Perkpack 4", then paste in this URL: https://github.com/blolol/minecraft-mod-packs/raw/main/packs/perkpack-4/prism-instance.zip
 1. Right-click the instance, select Edit > Settings > Java, and ensure the Java installation points to an installation of Java 21.
-1. Once you're in-game, connect to `pp4.mc.blolol.dev`.
+1. Once you're in-game, connect to `mc.blolol.com`.
 
 ### Helpful tips
 

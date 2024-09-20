@@ -2,4 +2,4 @@
 .minecraft/servers.dat
 instance.cfg
 mmc-pack.json
-perkpack.png
+perkpack-4@64.png
