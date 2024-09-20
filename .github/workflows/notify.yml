@@ -6,49 +6,16 @@ on:
 jobs:
   notify:
     runs-on: ubuntu-latest
+    defaults:
+      run:
+        shell: bash
+        working-directory: ./.github/workflows/scripts
     steps:
       - name: Check out release tag
         uses: actions/checkout@v2
       - name: Notify IRC of release
         continue-on-error: true
-        run: |
-          naive_toml_value() {
-            local toml_file="$1"
-            local key="$2"
-            awk -F '[=" ]' "/^${key} / { print \$5 }" "$toml_file"
-          }
-
-          pack_var() {
-            local key="$1"
-            naive_toml_value packs/$pack_slug/pack.toml "$key"
-          }
-
-          release_tag="${GITHUB_REF_NAME#*/*/}"
-          pack_slug="${GITHUB_REF_NAME%%/*}"
-          pack_name="$(pack_var name)"
-          pack_version="$(pack_var version)"
-          pack_minecraft_version="$(pack_var minecraft)"
-
-          release_url="$(gh release view "$release_tag" --json url | jq -r .url)"
-
-          from='Wheaties'
-          to='#minecraft'
-          message="[${pack_name}] ${pack_name} ${pack_version} is out! Release notes: ${release_url}"
-
-          accept_header='Accept: application/json'
-          authorization_header="Authorization: key=${BLOLOL_API_KEY} secret=${BLOLOL_API_SECRET}"
-          content_type_header='Content-Type: application/json'
-
-          base_url='https://api.blolol.com'
-          request_url="${base_url}/v1/chat/events"
-
-          request_body="$(jq -nc --arg from "$from" --arg to "$to" --arg message "$message" '{"event":{"type":"message","from":$from,"to":$to,"text":$message}}')"
-
-          curl "$request_url" \
-            -H "$accept_header" \
-            -H "$authorization_header" \
-            -H "$content_type_header" \
-            -d "$request_body"
+        run: ./notify.sh
         shell: bash
         env:
           BLOLOL_API_KEY: ${{ secrets.BLOLOL_API_KEY }}

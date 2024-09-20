@@ -1,53 +1,19 @@
 name: Release updated mod packs
 on:
   push:
-    tags: '*/*' # Match tags like "perkpack/1.0.0"
+    tags: '*/*' # Match tags like "perkpack/4.0.1"
 jobs:
   release:
     runs-on: ubuntu-latest
+    defaults:
+      run:
+        shell: bash
+        working-directory: ./.github/workflows/scripts
     steps:
       - name: Check out release tag
         uses: actions/checkout@v2
       - name: Draft GitHub release
-        run: |
-          naive_toml_value() {
-            local toml_file="$1"
-            local key="$2"
-            awk -F '[=" ]' "/^${key} / { print \$5 }" "$toml_file"
-          }
-
-          pack_var() {
-            local key="$1"
-            naive_toml_value packs/$pack_slug/pack.toml "$key"
-          }
-
-          pack_slug="${GITHUB_REF_NAME%%/*}"
-          pack_name="$(pack_var name)"
-          pack_version="$(pack_var version)"
-          pack_major_version="$(echo $pack_version | awk -F . '{ print $1 }')"
-          pack_minecraft_version="$(pack_var minecraft)"
-
-          pack_tree="${pack_slug}/${pack_major_version}" # Build a Git release branch name like "perkpack/3"
-          pack_base_url="https://github.com/blolol/minecraft-mod-packs/raw/${pack_tree}/packs/${pack_slug}"
-
-          pack_release_title="$pack_name $pack_version (Minecraft ${pack_minecraft_version})"
-          pack_prism_download_url="${pack_base_url}/prism-instance.zip"
-          pack_packwiz_metadata_url="${pack_base_url}/pack.toml"
-
-          cat <<EOS > $RUNNER_TEMP/pack_release_notes
-          ## Changes
-
-          * Add release notes here!
-
-          ## Packages
-
-          * **[Prism Launcher](https://prismlauncher.org) instance:** $pack_prism_download_url
-          * **[packwiz](https://github.com/packwiz/packwiz) metadata:** $pack_packwiz_metadata_url
-          EOS
-
-          gh release create $GITHUB_REF_NAME --draft --title "$pack_release_title" \
-            --notes-file $RUNNER_TEMP/pack_release_notes \
-            $([[ $GITHUB_REF_NAME == */*-pre* ]] && echo -n '--prerelease')
+        run: ./release.sh
         shell: bash
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
