@@ -267,6 +267,16 @@ hash = "9b561d57bf92aa8005e567e4bb95a2b65c8ed9c3ab30de09ea6c7e66f2e4d2da"
 metafile = true
 
 [[files]]
+file = "mods/farmers-cutting-biomes-o-plenty.pw.toml"
+hash = "16b094d050728fcbcfeda91e2ed35157b2b2f2753c4e9937524a2f4d1c705c15"
+metafile = true
+
+[[files]]
+file = "mods/farmers-delight-refabricated.pw.toml"
+hash = "a61a925467373aadbe44e387a0a6fedbaf28a9334a2feb10c645df644eef37e2"
+metafile = true
+
+[[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "078c828454d8a361baae372b5ee3dc33e5f3573fa19bdac8589b38da9dbc5c03"
 metafile = true
@@ -354,6 +364,11 @@ metafile = true
 [[files]]
 file = "mods/modmenu.pw.toml"
 hash = "2b8ce9ab97a35059a79d59d540687385d25956c519ce1728fbcfb13fae93a328"
+metafile = true
+
+[[files]]
+file = "mods/more-delight.pw.toml"
+hash = "c80610581955037712846f2c112217910cd9274068de74547230ce3a829d68ad"
 metafile = true
 
 [[files]]

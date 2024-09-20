@@ -133,6 +133,14 @@ Playing the Perkpack 4 preview is, like Perkpack 3, pretty simple stuff. You'll 
 * [Nature's Compass](https://modrinth.com/mod/natures-compass) (a compass that points you toward a biome of your choice)
 * [NiftyCarts](https://modrinth.com/mod/niftycarts) (carts for travel, shipping and farming)
 
+### Farming
+
+Farmer's Delight gently expands upon Minecraft's farming and cooking experience with new crops and many new tasty meals. You can follow the in-game advancements (<kbd>l</kbd>) to learn how to play, or consult [its wiki](https://github.com/vectorwing/FarmersDelight/wiki/Getting-Started).
+
+* [Farmer's Cutting: Biomes O' Plenty](https://modrinth.com/datapack/farmers-cutting-biomes-o-plenty)
+* [Farmer's Delight](https://modrinth.com/mod/farmers-delight-refabricated)
+* [More Delight](https://modrinth.com/mod/more-delight)
+
 ### Getting around
 
 * [Horse Buff](https://modrinth.com/mod/horsebuff) (quality of life tweaks for horses)
