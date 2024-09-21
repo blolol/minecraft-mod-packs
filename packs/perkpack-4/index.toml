@@ -41,6 +41,10 @@ file = "config/yosbr/config/sodium-extra-options.json"
 hash = "43fb1a82af68d724b5277c39ef8dfc13e2701006ca5f2e69c85cc77a9b694e2e"
 
 [[files]]
+file = "config/yosbr/config/wakes.json"
+hash = "4da85651c0d9d6be3a8a89c3f8cad5212b8553a4d564647908e76fa292126fd3"
+
+[[files]]
 file = "config/yosbr/config/xaerominimap.txt"
 hash = "aebe980a1fe9061b2e4f94bc3c82acb8215ea371917863a6186a01688681ff2a"
 
