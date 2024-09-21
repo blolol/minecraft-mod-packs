@@ -57,10 +57,6 @@ file = "config/yosbr/options.txt"
 hash = "701efa1456868caf8708866002b49ee5b2b32be35ef21798ed1f80847f777d4f"
 
 [[files]]
-file = "config/yosbr/shaderpacks/ComplementaryUnbound_r5.2.2.zip.txt"
-hash = "6db9b096b3f4e6d8808299b1b93f92d0e7c85701e4fd2d4f2a58e5748968f4a8"
-
-[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "1afa3d4cc64e64899fd0c113936d8bef92e5a99aab3d42b14269503582fd38a8"
 metafile = true
