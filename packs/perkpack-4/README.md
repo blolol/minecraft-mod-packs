@@ -10,11 +10,13 @@ There are no tech trees to master, nor an intimidating number of new blocks to c
 
 Ore veins are [rarer, but larger](https://modrinth.com/datapack/larger-ore-veins-deluxe), so when you do discover one, it can keep you supplied for longer. There are [better horses](https://modrinth.com/mod/horsebuff), [horse-drawn carts](https://modrinth.com/mod/niftycarts) and [ships](https://modrinth.com/mod/small-ships) with which to explore the world, [more meals](#farming) to keep you fed, and [gravestones](https://modrinth.com/mod/pneumono_gravestones) to keep your stuff safe when you die. Craft special compasses that can point you toward any [biome](https://modrinth.com/mod/natures-compass) or [structure](https://modrinth.com/mod/explorers-compass) you want to find. [Chalk](https://modrinth.com/mod/chalk) helps you mark your path through caves.
 
+![Updated interface screens and item icons](images/screenshots/ui-and-items.jpg)
+
 Every screen has been [redesigned to look unique](https://www.curseforge.com/minecraft/texture-packs/colourful-containers-gui). You can leave items on [anvils](https://modrinth.com/mod/easy-anvils) and [enchanting tables](https://modrinth.com/mod/easy-magic) and come back to them later. Tool repair and enchantment cost no longer increases over time. You can sneak + right-click an item enchanted with Mending to [repair it using experience from your XP bar](https://modrinth.com/mod/better-than-mending). The enchanting table has a re-roll button to easily re-roll available enchantments.
 
 You can craft tools and armor out of [copper, emeralds, and amethyst](https://www.curseforge.com/minecraft/mc-mods/simple-emerald-tools-fabric) to bridge the gap between iron and diamond. You can also craft hammers that mine 3x3 stone, excavators that mine 3x3 dirt, and tree axes that fell entire trees at once, so you can spend less time mining and more time building, if you want to.
 
-Have fun out there, gamers! Always mine straight down :pickaxe:
+Have fun out there, gamers! Always mine straight down ⛏️
 
 ![Screenshots of a variety of biomes](images/screenshots/biomes-2.jpg)
 
