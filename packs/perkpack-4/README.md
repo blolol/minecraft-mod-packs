@@ -1,4 +1,4 @@
-![Perkpack 4](images/perkpack-4-title-padded.png)
+![Perkpack 4](images/screenshots/hero.jpg)
 
 Welcome to Perkpack 4!
 
@@ -6,11 +6,17 @@ Perkpack 4 is a major Perkpack update, based on Minecraft 1.21 ("Tricky Trials")
 
 There are no tech trees to master, nor an intimidating number of new blocks to choose from. Instead, a slew of [visual](#aesthetic), [interface](#resource-packs), and [quality of life](#quality-of-life) tweaks make Perkpack 4 feel like a fresh game, and explorers have more than [200 new biomes](#world-generation) to discover.
 
+![Screenshots of a variety of biomes](images/screenshots/biomes-1.jpg)
+
 Ore veins are [rarer, but larger](https://modrinth.com/datapack/larger-ore-veins-deluxe), so when you do discover one, it can keep you supplied for longer. There are [better horses](https://modrinth.com/mod/horsebuff), [horse-drawn carts](https://modrinth.com/mod/niftycarts) and [ships](https://modrinth.com/mod/small-ships) with which to explore the world, [more meals](#farming) to keep you fed, and [gravestones](https://modrinth.com/mod/pneumono_gravestones) to keep your stuff safe when you die. Craft special compasses that can point you toward any [biome](https://modrinth.com/mod/natures-compass) or [structure](https://modrinth.com/mod/explorers-compass) you want to find. [Chalk](https://modrinth.com/mod/chalk) helps you mark your path through caves.
 
 Every screen has been [redesigned to look unique](https://www.curseforge.com/minecraft/texture-packs/colourful-containers-gui). You can leave items on [anvils](https://modrinth.com/mod/easy-anvils) and [enchanting tables](https://modrinth.com/mod/easy-magic) and come back to them later. Tool repair and enchantment cost no longer increases over time. You can sneak + right-click an item enchanted with Mending to [repair it using experience from your XP bar](https://modrinth.com/mod/better-than-mending). The enchanting table has a re-roll button to easily re-roll available enchantments.
 
 You can craft tools and armor out of [copper, emeralds, and amethyst](https://www.curseforge.com/minecraft/mc-mods/simple-emerald-tools-fabric) to bridge the gap between iron and diamond. You can also craft hammers that mine 3x3 stone, excavators that mine 3x3 dirt, and tree axes that fell entire trees at once, so you can spend less time mining and more time building, if you want to.
+
+Have fun out there, gamers! Always mine straight down :pickaxe:
+
+![Screenshots of a variety of biomes](images/screenshots/biomes-2.jpg)
 
 If you're new to Minecraft 1.21 and haven't kept up with Minecraft news, you might want to peruse the big changes in the last few major game updates:
 
