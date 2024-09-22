@@ -2,7 +2,7 @@
 
 ### Contents
 
-* [Overview](#readme)
+* [Overview](#welcome-to-perkpack-4)
 * [Versions](#versions)
 * [How to play](#how-to-play)
   * [Helpful tips](#helpful-tips)
