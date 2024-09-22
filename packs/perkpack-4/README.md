@@ -33,7 +33,7 @@ Every screen has been [redesigned to look unique](https://www.curseforge.com/min
 
 You can craft tools and armor out of [copper, emeralds, and amethyst](https://www.curseforge.com/minecraft/mc-mods/simple-emerald-tools-fabric) to bridge the gap between iron and diamond. You can also craft hammers that mine 3x3 stone, excavators that mine 3x3 dirt, and tree axes that fell entire trees at once, so you can spend less time mining and more time building, if you want to.
 
-Have fun out there, gamers! Always mine straight down ⛏️
+Sound like fun? See below for [how to play](#how-to-play)! And remember to always mine straight down ⛏️
 
 ![Screenshots of a variety of biomes](images/screenshots/biomes-2.jpg)
 
