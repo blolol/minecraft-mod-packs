@@ -1,6 +1,23 @@
 ![Perkpack 4](images/screenshots/hero.jpg)
 
-Welcome to Perkpack 4!
+### Contents
+
+* [Overview](#readme)
+* [Versions](#versions)
+* [How to play](#how-to-play)
+  * [Helpful tips](#helpful-tips)
+* [Resource packs](#resource-packs)
+* [Shader packs](#shader-packs)
+* [Mods](#mods)
+  * [Aesthetic](#aesthetic)
+  * [Quality of life](#quality-of-life)
+  * [Tools](#tools)
+  * [Farming](#farming)
+  * [Getting around](#getting-around)
+  * [World generation](#world-generation)
+  * [Performance](#performance)
+
+## Welcome to Perkpack 4!
 
 Perkpack 4 is a major Perkpack update, based on Minecraft 1.21 ("Tricky Trials"), which was released in summer 2024. Compared to [Perkpack 3](../perkpack/README.md), which focused on industry and automation, Perkpack 4's goal is to be a relaxing survival building and exploration experience.
 
