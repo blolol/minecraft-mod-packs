@@ -70,7 +70,6 @@ Playing Perkpack 4 is, like Perkspack prior, pretty simple stuff. You'll only ne
 ### Helpful tips
 
 * **Borderless windowed mode:** In video settings, you can toggle "Fullscreen" to "Borderless", thanks to [Cubes Without Borders](https://modrinth.com/mod/cubes-without-borders).
-  * :warning: As of September 21, 2024, there is [a known issue](https://github.com/Kir-Antipov/cubes-without-borders/issues/30) where the "Fullscreen" option in [Sodium](https://modrinth.com/mod/sodium)'s video settings sometimes appears as a checkbox, instead of as a labeled button that can toggle between "Fullscreen" and "Borderless". If this happens for you, you can press <kbd>Shift</kbd> + <kbd>P</kbd> to display the vanilla video settings screen, where the button should work as expected.
 * **Shaders:** Press <kbd>O</kbd> to choose a shader pack, and <kbd>K</kbd> to toggle them on and off. Perkpack 4 includes [several shaderpacks](#shaders) that are designed to work with [Distant Horizons](https://modrinth.com/mod/distanthorizons).
 * **Zooming:** Press <kbd>C</kbd> and use your mouse wheel to zoom using the [Ok Zoomer](https://modrinth.com/mod/ok-zoomer) mod.
 * **Maps:** You can mix and match a minimap on your HUD and a full-screen world map. Both are highly configurable.
