@@ -62,17 +62,10 @@ Mod pack updates are also announced by Wheaties in the `#minecraft` channels of 
 
 Playing Perkpack 4 is, like Perkspack prior, pretty simple stuff. You'll only need to install the mod pack once. It will otherwise automatically keep itself up to date.
 
-> [!IMPORTANT]
-> **If you haven't yet played Minecraft 1.21, you'll probably need to install Java 21** in step one below. Perkpack 3 was based on Minecraft 1.20.1, which uses Java 17. In Minecraft [1.20.5](https://minecraft.wiki/w/Java_Edition_1.20.5), Mojang updated the game to require Java 21. Perkpack 4 is based on the latest major release as of summer 2024, Minecraft 1.21.
->
-> Multiple versions of Java can coexist without a problem, but you'll need to either override the Perkpack 4 Prism instance's Java version (right-click > Edit > Settings > Java), or change your default Java version in Prism Launcher's global settings.
-
-1. Install [Java 21](https://prismlauncher.org/wiki/getting-started/installing-java/).
-1. Install [Prism Launcher](https://prismlauncher.org).
+1. Install [Prism Launcher](https://prismlauncher.org).<br><small>**Note:** Prism Launcher 9.0 and newer automatically manages Java installations for you, similar to Mojang's official Minecraft launcher. If you're using an older version of Prism, you should update to the latest release! Otherwise, you'll need to [install Java 21](https://prismlauncher.org/wiki/getting-started/installing-java/) yourself, and make sure Prism is configured to use it.</small>
 1. In Prism Launcher, click "Add Instance", then "Import".
 1. Give the instance a name like "Perkpack 4", then paste in this URL: https://github.com/blolol/minecraft-mod-packs/raw/main/packs/perkpack-4/prism-instance.zip
-1. Right-click the instance, select Edit > Settings > Java, and ensure the Java installation points to an installation of Java 21.
-1. Once you're in-game, connect to `mc.blolol.com`.
+1. Once you're in-game, click on Multiplayer and connect to the Perkpack 4 server that should already be in the list. (If you accidentally delete it, the server address is `mc.blolol.com`.)
 
 ### Helpful tips
 
