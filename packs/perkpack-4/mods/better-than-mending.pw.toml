@@ -1,13 +1,13 @@
 name = "Better Than Mending"
-filename = "BetterThanMending-fabric-2.1.0.jar"
+filename = "BetterThanMending-2.2.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/Lvv4SHrK/versions/T8nEZj6q/BetterThanMending-fabric-2.1.0.jar"
+url = "https://cdn.modrinth.com/data/Lvv4SHrK/versions/xv5fSPWX/BetterThanMending-2.2.0.jar"
 hash-format = "sha1"
-hash = "0ec1abc3e71240dcd758b1a92de7e5a26766ff0c"
+hash = "868135dde3fc2f33150870de4a0f1831b74b755a"
 
 [update]
 [update.modrinth]
 mod-id = "Lvv4SHrK"
-version = "T8nEZj6q"
+version = "xv5fSPWX"

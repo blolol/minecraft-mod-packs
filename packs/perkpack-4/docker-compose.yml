@@ -18,7 +18,7 @@ services:
     environment:
       EULA: "true"
       DIFFICULTY: peaceful
-      FABRIC_LOADER_VERSION: "0.16.5"
+      FABRIC_LOADER_VERSION: "0.16.9"
       ICON: http://caddy/images/server-icon.png
       INITIAL_ENABLED_PACKS: "natures_spirit:modified_vanilla_trees"
       MEMORY: "8G"
@@ -29,6 +29,6 @@ services:
       SPAWN_PROTECTION: 0
       TYPE: FABRIC
       USE_AIKAR_FLAGS: "true"
-      VERSION: "1.21"
+      VERSION: "1.21.1"
 volumes:
   caddy_data:

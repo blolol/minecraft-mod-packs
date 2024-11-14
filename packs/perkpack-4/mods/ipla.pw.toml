@@ -1,0 +1,13 @@
+name = "Ipla"
+filename = "ipla-1.19.2-fabric-1.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/7dLiTaTa/versions/zjq2nKKW/ipla-1.19.2-fabric-1.3.jar"
+hash-format = "sha1"
+hash = "e2ff24e498ee4843e099e9c1572ae5dbcd94d429"
+
+[update]
+[update.modrinth]
+mod-id = "7dLiTaTa"
+version = "zjq2nKKW"
