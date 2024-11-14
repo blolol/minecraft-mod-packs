@@ -1,13 +1,13 @@
 name = "Easy Emerald Tools & More [FABRIC]"
-filename = "EmeraldTools-Fabric-1.21-1.8.15.jar"
+filename = "EmeraldTools-Fabric-1.21.1-1.8.17.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "a544a271545153b4be3334b982eb0ff7776909ad"
+hash = "29418be4e570c7354844d8414259f193026aac8a"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5601943
+file-id = 5737041
 project-id = 375954

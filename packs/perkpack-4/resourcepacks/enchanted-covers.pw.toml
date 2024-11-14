@@ -3,11 +3,11 @@ filename = "EnchantedCovers.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/qLCp6xdi/versions/pazIKQ8V/EnchantedCovers.zip"
+url = "https://cdn.modrinth.com/data/qLCp6xdi/versions/DaQ9Wj1Z/EnchantedCovers.zip"
 hash-format = "sha1"
-hash = "a55779390c0518bf1f8ee3f1a1bb376f68234cc4"
+hash = "3da216aaab1017d34251bb7752c8ae5079c40bf4"
 
 [update]
 [update.modrinth]
 mod-id = "qLCp6xdi"
-version = "pazIKQ8V"
+version = "DaQ9Wj1Z"
