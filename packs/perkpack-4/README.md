@@ -181,6 +181,7 @@ Farmer's Delight gently expands upon Minecraft's farming and cooking experience 
 
 ### Getting around
 
+* [Audaki Cart Engine](https://modrinth.com/mod/audaki-cart-engine) (faster minecarts)
 * [Horse Buff](https://modrinth.com/mod/horsebuff) (quality of life tweaks for horses)
 * [Small Ships](https://modrinth.com/mod/small-ships) (need a seagoing vessel larger than a rowboat?)
 

@@ -77,6 +77,11 @@ hash = "417b7af3c7cb5f2681960349d3fa118733cbce5d260fadddd792abb24e52fbdc"
 metafile = true
 
 [[files]]
+file = "mods/audaki-cart-engine.pw.toml"
+hash = "371d8597476ebe854cd8bc47593395803ded7614cc93dc22a9572566484d8584"
+metafile = true
+
+[[files]]
 file = "mods/autorun.pw.toml"
 hash = "e4555d24669cf571bfa4e7f96c713ea09c672cb20c68c153b8617fac2d63fe48"
 metafile = true
