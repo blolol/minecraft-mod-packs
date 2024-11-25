@@ -170,6 +170,7 @@ These shader packs are designed to work with [Distant Horizons](https://modrinth
 * [Extended Drawers](https://modrinth.com/mod/extended-drawers) (an alternative to chests for organization freaks)
 * [Nature's Compass](https://modrinth.com/mod/natures-compass) (a compass that points you toward a biome of your choice)
 * [NiftyCarts](https://modrinth.com/mod/niftycarts) (carts for travel, shipping and farming)
+* [Tide](https://modrinth.com/mod/tide) (new fishing rods, fishing minigame, and fish)
 
 ### Farming
 

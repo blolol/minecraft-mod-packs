@@ -41,6 +41,10 @@ file = "config/yosbr/config/sodium-extra-options.json"
 hash = "43fb1a82af68d724b5277c39ef8dfc13e2701006ca5f2e69c85cc77a9b694e2e"
 
 [[files]]
+file = "config/yosbr/config/tide.toml"
+hash = "4465d9e0453628785fc7f7119e46567bf5552abb1cb24ab0c970ae7015cbe61c"
+
+[[files]]
 file = "config/yosbr/config/wakes.json"
 hash = "4da85651c0d9d6be3a8a89c3f8cad5212b8553a4d564647908e76fa292126fd3"
 
@@ -539,6 +543,11 @@ metafile = true
 [[files]]
 file = "mods/tidal-towns.pw.toml"
 hash = "32199cbd26ec74750b0cc74be230dfb070588b22a0869542d04abe66532e1506"
+metafile = true
+
+[[files]]
+file = "mods/tide.pw.toml"
+hash = "64826b3ba1ce4d9cff8f1fa8f5b2516cb3404f2357bab58bda61b4c368f9207a"
 metafile = true
 
 [[files]]
