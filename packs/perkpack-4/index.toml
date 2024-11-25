@@ -287,6 +287,11 @@ hash = "dded62ce10d426f4948edb2561bf8c7500c73376708312ae49c118447195d50f"
 metafile = true
 
 [[files]]
+file = "mods/fowlplay.pw.toml"
+hash = "5a0b81457a8ed9114ec253b1a8f4d57121082ab7ef0d8dc65a9534d9dbc2e60f"
+metafile = true
+
+[[files]]
 file = "mods/glitchcore.pw.toml"
 hash = "21ef8fd91e1463a832d045c90781e684c32d0017832b53d123e834535ea56e2d"
 metafile = true

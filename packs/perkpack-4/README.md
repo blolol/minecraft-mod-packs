@@ -119,6 +119,7 @@ These shader packs are designed to work with [Distant Horizons](https://modrinth
 * [Continuity](https://modrinth.com/mod/continuity)
 * [Eating Animation](https://modrinth.com/mod/eating-animation)
 * [Falling Leaves](https://modrinth.com/mod/fallingleaves)
+* [Fowl Play](https://modrinth.com/mod/fowlplay)
 * [Glowing Torchflower](https://modrinth.com/mod/glowing-torchflower)
 * [ImmersiveThunder](https://modrinth.com/mod/immersivethunder)
 * [Not Enough Animations](https://modrinth.com/mod/not-enough-animations)
