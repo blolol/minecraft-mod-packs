@@ -141,6 +141,11 @@ hash = "a4fd2e20e1a2444c6892e9f14d94b1b8802a8a4954f9e3e49045aac9b9074f23"
 metafile = true
 
 [[files]]
+file = "mods/chais-build-tools.pw.toml"
+hash = "0afbe0f195354f29577cc7a831f4aae9bd4512d15da230a6e057b854209c4086"
+metafile = true
+
+[[files]]
 file = "mods/chalk-colorful-addon.pw.toml"
 hash = "96ddaae016a3fa6eecb88d9e8ad6f0e15dbd856bae9f8380a091b2316b7a9f6b"
 metafile = true

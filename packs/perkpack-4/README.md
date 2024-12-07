@@ -174,6 +174,7 @@ These shader packs are designed to work with [Distant Horizons](https://modrinth
 
 ### Tools
 
+* [Chai's Build Tools](https://modrinth.com/mod/chais-build-tools) (a wrench for rotating blocks and a trowel for placing random blocks)
 * [Chalk](https://modrinth.com/mod/chalk) and [Chalk: Colorful Addon](https://modrinth.com/mod/chalk-colorful-addon) (mark your way through the world with colored chalk)
 * [Comforts](https://modrinth.com/mod/comforts) (craft a sleeping bag to skip the night without setting your respawn point)
 * [Easy Emerald Tools & More](https://www.curseforge.com/minecraft/mc-mods/simple-emerald-tools-fabric) (sets of armor, tools and weapons between vanilla iron and diamond, and 3x3 mining tools; finally a use for all of that copper!)
