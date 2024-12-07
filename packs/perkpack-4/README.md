@@ -67,6 +67,17 @@ Playing Perkpack 4 is, like Perkspack prior, pretty simple stuff. You'll only ne
 1. Give the instance a name like "Perkpack 4", then paste in this URL: https://github.com/blolol/minecraft-mod-packs/raw/main/packs/perkpack-4/prism-instance.zip
 1. Once you're in-game, click on Multiplayer and connect to the Perkpack 4 server that should already be in the list. (If you accidentally delete it, the server address is `mc.blolol.com`.)
 
+### 🔭 Distant Horizons LODs
+
+**This is optional, but recommended!** These <abbr title="Level of Detail">LODs</abbr> will auto-generate as you explore the world and provide you with staggering view distances with almost zero performance impact, but by downloading the ones that we've already created, you can get views like this right off the bat:
+
+![Comparison of vanilla and Distant Horizons view distances](images/screenshots/distant-horizons-comparison.jpg)
+
+To install:
+
+1. Download [the latest pre-generated Distant Horizons LODs](https://minecraft.s3.us-east-1.amazonaws.com/distant-horizons-lods/blolol-perkpack-4-latest.zip) (this is a multi-gigabyte zip file).
+1. Copy the entire `Distant_Horizons_server_data` folder into your `.minecraft` folder (access it by right-clicking on your Prism Launcher instance and selecting "Folder", then navigating into the `.minecraft` folder; Mac users may need to press <kbd>⌘⇧.</kbd> to show invisible files). You can overwrite any existing `Distant_Horizons_server_data` folder that may be present.
+
 ### Helpful tips
 
 * **Borderless windowed mode:** In video settings, you can toggle "Fullscreen" to "Borderless", thanks to [Cubes Without Borders](https://modrinth.com/mod/cubes-without-borders).
