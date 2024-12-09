@@ -551,6 +551,11 @@ hash = "32199cbd26ec74750b0cc74be230dfb070588b22a0869542d04abe66532e1506"
 metafile = true
 
 [[files]]
+file = "mods/tide.pw.toml"
+hash = "64826b3ba1ce4d9cff8f1fa8f5b2516cb3404f2357bab58bda61b4c368f9207a"
+metafile = true
+
+[[files]]
 file = "mods/tiny-item-animations.pw.toml"
 hash = "43c56c0e15a459162eb4acbc0334f544badf9be44638a6f4d506f702898d6569"
 metafile = true
