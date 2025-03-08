@@ -3,11 +3,11 @@ filename = "§9RAY's §f3D §6Rails§8§o§k.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/jKa9Ievs/versions/tw0hOWwP/%C2%A79RAY%27s%20%C2%A7f3D%20%C2%A76Rails%C2%A78%C2%A7o%C2%A7k.zip"
+url = "https://cdn.modrinth.com/data/jKa9Ievs/versions/XPFczPk4/%C2%A79RAY%27s%20%C2%A7f3D%20%C2%A76Rails%C2%A78%C2%A7o%C2%A7k.zip"
 hash-format = "sha1"
-hash = "489d3c00b5f877bf543844fd4fea3b7a999450a5"
+hash = "df5bc46868452c82f7b5c8ce3744830b6c93a620"
 
 [update]
 [update.modrinth]
 mod-id = "jKa9Ievs"
-version = "tw0hOWwP"
+version = "XPFczPk4"
