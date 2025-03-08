@@ -521,6 +521,11 @@ hash = "6e425ce18fddae80fb55305e2da5202d6bc60c2bd88d6bbc3cb44a502b954ec0"
 metafile = true
 
 [[files]]
+file = "mods/sophisticated-storage-(unofficial-fabric-port).pw.toml"
+hash = "031af4e190eccdf2d122f72a73aa66d20585273eaed3776aca1e3c3bf3991f8a"
+metafile = true
+
+[[files]]
 file = "mods/sound-physics-remastered.pw.toml"
 hash = "2e79e4841ff44bc6ab4ef4fa32c1206b27164478daea4e1d6ffc9bb80f4eb266"
 metafile = true

@@ -181,6 +181,7 @@ These shader packs are designed to work with [Distant Horizons](https://modrinth
 * [Nature's Compass](https://modrinth.com/mod/natures-compass) (a compass that points you toward a biome of your choice)
 * [NiftyCarts](https://modrinth.com/mod/niftycarts) (carts for travel, shipping and farming)
 * [Sophisticated Backpacks](https://modrinth.com/mod/sophisticated-backpacks) (customizable backpacks with lots of useful modular upgrades)
+* [Sophisticated Storage](https://modrinth.com/mod/sophisticated-storage) (customizable, expandable chests and barrels with the same upgrade system as Sophisticated Backpacks)
 * [Tide](https://modrinth.com/mod/tide) (new fishing rods, fishing minigame, and fish)
 
 ### Farming
