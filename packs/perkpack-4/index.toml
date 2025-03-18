@@ -66,6 +66,16 @@ hash = "dd73942366cfb65e4511422f5921d878ab9aa0e3435a4d5d0ddbf38a1c911f22"
 metafile = true
 
 [[files]]
+file = "mods/accessories-tc-layer.pw.toml"
+hash = "35a1a299721a999fbe91896660e7d1da9043ff29c683e6a8fd58c6de34bc065d"
+metafile = true
+
+[[files]]
+file = "mods/accessories.pw.toml"
+hash = "73c058ac1c77438228bd7a93064b873c196ec9d66962f54c1393c7a7026ccfa3"
+metafile = true
+
+[[files]]
 file = "mods/ambientsounds.pw.toml"
 hash = "474d9667d91079235468e9f24a92ecf056ffbee1efa815eb3cf2973dddbcf615"
 metafile = true
@@ -437,7 +447,7 @@ metafile = true
 
 [[files]]
 file = "mods/owo-lib.pw.toml"
-hash = "4016499977a50addf35b81447a7e2bfbe8d1cebcaf341edcbd7bb5ac83f4ed3a"
+hash = "a5c3497b5a4994daaa37438604a3b5e2191c876c0597e933055583e12ea1b237"
 metafile = true
 
 [[files]]

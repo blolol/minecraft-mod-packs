@@ -133,6 +133,7 @@ These shader packs are designed to work with [Distant Horizons](https://modrinth
 
 ### Quality of life
 
+* [Accessories](https://modrinth.com/mod/accessories) (equip a backpack from Sophisticated Backpacks in a new back slot)
 * [AppleSkin](https://modrinth.com/mod/appleskin)
 * [AutoRun](https://modrinth.com/mod/autorun) (press <kbd>`</kbd> to autorun)
 * [Better Advancements](https://modrinth.com/mod/better-advancements)
