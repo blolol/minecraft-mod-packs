@@ -13,6 +13,7 @@ services:
       - caddy
     ports:
       - "25565:25565"
+      - "25585:25585" # Prometheus metrics (https://modrinth.com/mod/fabricexporter)
     volumes:
       - "./tmp/server:/data"
     environment:

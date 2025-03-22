@@ -208,6 +208,7 @@ Farmer's Delight gently expands upon Minecraft's farming and cooking experience 
 * [Entity Model Features](https://modrinth.com/mod/entity-model-features) (EMF)
 * [Entity Culling](https://modrinth.com/mod/entityculling)
 * [Entity Texture Features](https://modrinth.com/mod/entitytexturefeatures) (ETF)
+* [FabricExporter](https://modrinth.com/mod/fabricexporter)
 * [FerriteCore](https://modrinth.com/mod/ferrite-core)
 * [ImmediatelyFast](https://modrinth.com/mod/immediatelyfast)
 * [Indium](https://modrinth.com/mod/indium)
@@ -217,6 +218,7 @@ Farmer's Delight gently expands upon Minecraft's farming and cooking experience 
 * [Reese's Sodium Options](https://modrinth.com/mod/reeses-sodium-options)
 * [Sodium Extra](https://modrinth.com/mod/sodium-extra)
 * [Sodium](https://modrinth.com/mod/sodium)
+* [Spark](https://modrinth.com/mod/spark)
 
 ## Development
 

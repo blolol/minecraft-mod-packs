@@ -281,6 +281,11 @@ hash = "ba3914948d5002e5fba2bbf12b5d69ba705395853320b927bae0be1ebad73272"
 metafile = true
 
 [[files]]
+file = "mods/fabricexporter.pw.toml"
+hash = "71e972cd8e8bda2cee3c37b9b94ce7706dad0c41f27554ef4a03063e48c78092"
+metafile = true
+
+[[files]]
 file = "mods/fabricskyboxes.pw.toml"
 hash = "1f6c74d7140e368e85df87d1bdbb4b533052488dcee7e23ecc1f699dfd2efe82"
 metafile = true
@@ -543,6 +548,11 @@ metafile = true
 [[files]]
 file = "mods/sound.pw.toml"
 hash = "f710c9152e805cfb35e57dc6b4abf1cd778c1bb26a88a121b5677c5d12d25f5d"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+hash = "c05cc19ce8f7e7e9c910dc09ab2c98afb4508d92212a87b7f8a57fe0d4bd6d36"
 metafile = true
 
 [[files]]
