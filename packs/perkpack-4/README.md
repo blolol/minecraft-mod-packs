@@ -122,6 +122,7 @@ These shader packs are designed to work with [Distant Horizons](https://modrinth
 * [Fowl Play](https://modrinth.com/mod/fowlplay)
 * [Glowing Torchflower](https://modrinth.com/mod/glowing-torchflower)
 * [ImmersiveThunder](https://modrinth.com/mod/immersivethunder)
+* [LambDynamicLights](https://modrinth.com/mod/lambdynamiclights)
 * [Not Enough Animations](https://modrinth.com/mod/not-enough-animations)
 * [Particular](https://modrinth.com/mod/particular)
 * [Smooth Scrolling](https://modrinth.com/mod/smooth-scroll)

@@ -33,6 +33,10 @@ file = "config/yosbr/config/kiss/config.json5"
 hash = "3dbbe51683b915c9b31f704d405339cab598416c950591065285dbf32b169c10"
 
 [[files]]
+file = "config/yosbr/config/lambdynlights.toml"
+hash = "3fb6878c73ef77777527ef93ce0d2be77533caff17670c7edc37a553ef639a48"
+
+[[files]]
 file = "config/yosbr/config/particular.json5"
 hash = "db2ec091ef2a2f6c0a3239b266763733e24faf5c618ed6d60e756bc03a0f7101"
 
@@ -373,6 +377,11 @@ metafile = true
 [[files]]
 file = "mods/kiss.pw.toml"
 hash = "0fe793e14bee40ac604f4793bf12ef67f2616f66076c2a187bebe73aeaee2564"
+metafile = true
+
+[[files]]
+file = "mods/lambdynamiclights.pw.toml"
+hash = "90923c49633f38603f54df8307dccf43229f4a90bf9972b3846436d89a5fb0ce"
 metafile = true
 
 [[files]]
