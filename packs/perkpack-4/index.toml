@@ -211,7 +211,7 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "1993f72c129d8b3cb7b5721e2bb01c0ac645613f55eb7a0105578f215e900195"
+hash = "ac27fbe81085ad6b707953789d14f3a582d6c882996592c43e676bed3fb4b6e9"
 metafile = true
 
 [[files]]
