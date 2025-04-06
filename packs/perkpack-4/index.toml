@@ -510,6 +510,11 @@ hash = "bbbac48c6c18caefe324d685bfa44aa7bf7fec06233424292a77aed02e1e5c08"
 metafile = true
 
 [[files]]
+file = "mods/servux.pw.toml"
+hash = "0ad2a459fb745bda66b88493ae70785e54d8d409a57e23f3bee3d3ac4138d8be"
+metafile = true
+
+[[files]]
 file = "mods/simple-emerald-tools-fabric.pw.toml"
 hash = "41e6571bc2054f7f35f8bc5a6ccd0a39e46dad4988802db6b63d2857f0eef8b4"
 metafile = true
