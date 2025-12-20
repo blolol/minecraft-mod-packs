@@ -1,0 +1,5 @@
+minecraft/packwiz-installer-bootstrap.jar
+minecraft/servers.dat
+instance.cfg
+mmc-pack.json
+big-globe@64.png
