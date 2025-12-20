@@ -1,0 +1,13 @@
+name = "Perkpack: Big Globe"
+author = "Blolol"
+version = "1.0.0+1.21.10"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "dcf51c2d842dc5607b3e6480d1144862dfe512d1fe377df2723fc1e607d73e0c"
+
+[versions]
+fabric = "0.18.3"
+minecraft = "1.21.10"
