@@ -129,6 +129,11 @@ hash = "1502d3ac2c2ce4d3dc4c2db6ca6e95fb2a5d4a279e6e1413f6c427be222887a0"
 metafile = true
 
 [[files]]
+file = "mods/better-clouds.pw.toml"
+hash = "d2933afa6dcca20f4846bc1977fecc4ed759dc7af53896274dd133242d22693e"
+metafile = true
+
+[[files]]
 file = "mods/bettergrass.pw.toml"
 hash = "8c4051285a26835f261d0f7ebc5170d27e072c22185cb445c27502502f730567"
 metafile = true
