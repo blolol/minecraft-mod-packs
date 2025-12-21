@@ -1,0 +1,13 @@
+name = "Hang Glider"
+filename = "HangGlider-v21.10.0+mc1.21.10-Fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/uHWrqYcS/versions/fCpxTh1H/HangGlider-v21.10.0%2Bmc1.21.10-Fabric.jar"
+hash-format = "sha512"
+hash = "918823468d5bca199255b8bc19961bb81fe5fd89408d3b7c6846b63e53588883b5480a0728c0f7feed67e2de60de96dd029ba16a91f3c3b5d862e3f5ffdfa17f"
+
+[update]
+[update.modrinth]
+mod-id = "uHWrqYcS"
+version = "fCpxTh1H"

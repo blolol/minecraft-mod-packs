@@ -1,0 +1,13 @@
+name = "Hopper Gadgetry"
+filename = "HopperGadgetry-v21.10.0+mc1.21.10-Fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/RCK4uOMN/versions/iAZDFRJQ/HopperGadgetry-v21.10.0%2Bmc1.21.10-Fabric.jar"
+hash-format = "sha512"
+hash = "1d22b17a9dfb4a9adf06bb4d707dc9272ebdb7d16b7fc963e0e4dd1ebb6aa761461c33ce13ea28cce509fbcee5a2376602f50b4678073229bd9f2a84df3484a3"
+
+[update]
+[update.modrinth]
+mod-id = "RCK4uOMN"
+version = "iAZDFRJQ"

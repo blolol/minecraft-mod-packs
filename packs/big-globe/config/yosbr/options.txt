@@ -21,3 +21,15 @@ key_iris.keybind.shaderPackSelection:key.keyboard.unknown
 key_key.fabricskyboxes.toggle:key.keyboard.unknown
 key_key.optigui.inspect:key.keyboard.unknown
 key_key.bigshot.take_screenshot_2x:key.keyboard.f9
+key_key.jade.config:key.keyboard.unknown
+key_key.jade.show_overlay:key.keyboard.unknown
+key_key.jade.toggle_liquid:key.keyboard.unknown
+key_key.jade.show_recipes:key.keyboard.unknown
+key_key.jade.show_uses:key.keyboard.unknown
+key_key.jade.narrate:key.keyboard.unknown
+key_key.jade.show_details:key.keyboard.unknown
+key_key.jade.profile.0:key.keyboard.unknown
+key_key.jade.profile.1:key.keyboard.unknown
+key_key.jade.profile.2:key.keyboard.unknown
+key_key.jade.profile.3:key.keyboard.unknown
+key_key.journeymap.create_waypoint:key.keyboard.unknown

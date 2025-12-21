@@ -1,0 +1,13 @@
+name = "Big Globe"
+filename = "Big Globe-5.2.0-MC1.21.10.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/xsng1aJf/versions/OobSC6Wi/Big%20Globe-5.2.0-MC1.21.10.jar"
+hash-format = "sha512"
+hash = "c4dd1e6d040b071ebbf79f95a4d4f35e6bf94ef57ad01c8f784ca9427faf5f2d972d34140b658e722ed736ecad246b4a36695b69b01c3276498b29c70188eb95"
+
+[update]
+[update.modrinth]
+mod-id = "xsng1aJf"
+version = "OobSC6Wi"

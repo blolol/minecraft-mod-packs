@@ -1,0 +1,13 @@
+name = "Mounts stay still"
+filename = "mounts-stay-still-1.2.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/WLk5sTwP/versions/Wi2zZfOY/mounts-stay-still-1.2.4.jar"
+hash-format = "sha512"
+hash = "47ad501109dbccd3e5f70a567e619b3324ab2e11fb6bcb919e02d4137904950ed30eb16e84f5828c26ca6d20953f0cc12e51b2c104efac48915914ac29c3bfe0"
+
+[update]
+[update.modrinth]
+mod-id = "WLk5sTwP"
+version = "Wi2zZfOY"

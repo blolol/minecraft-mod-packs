@@ -1,0 +1,13 @@
+name = "Just Hammers"
+filename = "just-hammers-fabric-21.10.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/edU0NbZZ/versions/q8gN7386/just-hammers-fabric-21.10.0.jar"
+hash-format = "sha512"
+hash = "c14f6f6765d12b019bd2ead80a6db8a623287ae16e8260795b17d08bb00a974c923cf0c497f3dd2a99d94d534683c698edaab79d8f133462f22b83cd35b822d7"
+
+[update]
+[update.modrinth]
+mod-id = "edU0NbZZ"
+version = "q8gN7386"
