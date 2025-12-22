@@ -22,7 +22,7 @@ hash = "b7b9cdc1e99bdfd86052e373dc3e0ae87c73760816454b801b09d0cfd7b79604"
 
 [[files]]
 file = "config/yosbr/config/DistantHorizons.toml"
-hash = "df514a7de810562fceb5c0404421a5682cbe27e61129410b169c88c1117ea849"
+hash = "bc54cece2531ce32707c6863348248161c84b2f6a0d4aead033ed01dac7ded1b"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"

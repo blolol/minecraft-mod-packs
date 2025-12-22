@@ -1,5 +1,9 @@
 _version = 3
 
+[client.advanced.graphics]
+  # Don't automatically disable vanilla clouds
+  overrideVanillaGraphicsSettings = false
+
 [client.advanced.graphics.genericRendering]
   # Disable DH's cloud rendering because we ship with Better Clouds
   enableCloudRendering = false
