@@ -1,0 +1,8 @@
+_version = 3
+
+[client.advanced.graphics.genericRendering]
+  # Disable DH's cloud rendering because we ship with Better Clouds
+  enableCloudRendering = false
+
+[common.logging.warning]
+  showModCompatibilityWarningsOnStartup = false

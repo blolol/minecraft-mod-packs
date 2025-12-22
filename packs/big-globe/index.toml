@@ -21,6 +21,10 @@ file = "config/modmenu.json"
 hash = "b7b9cdc1e99bdfd86052e373dc3e0ae87c73760816454b801b09d0cfd7b79604"
 
 [[files]]
+file = "config/yosbr/config/DistantHorizons.toml"
+hash = "df514a7de810562fceb5c0404421a5682cbe27e61129410b169c88c1117ea849"
+
+[[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
 hash = "616e09c8ff849f4a9a07165a0a3513f468469237377546b64135591fca8a0592"
 
@@ -31,6 +35,10 @@ hash = "c335cb5e65abce1bfc063eaddcff3eca759636e32ba7e4993ea249a31ab18816"
 [[files]]
 file = "config/yosbr/config/PaginatedAdvancements.json5"
 hash = "3a1c71d2011cac176e00697237148ee882393b19394374862f8025f129d4c5a2"
+
+[[files]]
+file = "config/yosbr/config/betterclouds-v1.json"
+hash = "001b24f5055fc5a8776ad2dd24dd31c388172eb979fa14716b377354f30f7961"
 
 [[files]]
 file = "config/yosbr/config/bettergrass.json"
