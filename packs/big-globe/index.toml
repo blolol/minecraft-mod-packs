@@ -122,6 +122,16 @@ hash = "77a542a89f359855a2d401682f23f215e06b6789d2d7059a022892b8c7dd2e4d"
 metafile = true
 
 [[files]]
+file = "mods/ambient-environment.pw.toml"
+hash = "a6cce17dce462b079bd99cdf96b7a7eef88e9071972929783dd0917020b869ef"
+metafile = true
+
+[[files]]
+file = "mods/ambientsounds.pw.toml"
+hash = "da436c26003ac49101f5dea0a217ac57c92260e350979d15e5a3730bdf1a5a62"
+metafile = true
+
+[[files]]
 file = "mods/animatica.pw.toml"
 hash = "23b3d1ad268ba3a1eaaea01b74ff3dd5ae9123c0cb0ba29ec85c98b0e6eadfba"
 metafile = true
@@ -177,6 +187,11 @@ hash = "a711df249b2f63ab1e5c642ca0f696734223f617e14eca55892087134235a6f8"
 metafile = true
 
 [[files]]
+file = "mods/chat-heads.pw.toml"
+hash = "0e073702f4562edac6258fd01f8b921628adf48fdd7e70209d93f4978753a0ce"
+metafile = true
+
+[[files]]
 file = "mods/chunky.pw.toml"
 hash = "64badefe03082699f587274a31d1f0793583a4d88aac8ea2226162f80783fb52"
 metafile = true
@@ -204,6 +219,11 @@ metafile = true
 [[files]]
 file = "mods/crash_assistant.pw.toml"
 hash = "ddc78275a3d99bf49a68e7a22305aa62bf07f68938acc55df8e6fd71a67522cd"
+metafile = true
+
+[[files]]
+file = "mods/creativecore.pw.toml"
+hash = "d61eea65d903963fc412f1e6dc4ec5c9f89814358e324cb734e0ec6e40ece483"
 metafile = true
 
 [[files]]
@@ -307,6 +327,11 @@ hash = "f189390bd790e572709704740bfecad322c42d22fc1e82e78440faa2dddae732"
 metafile = true
 
 [[files]]
+file = "mods/held-item-info.pw.toml"
+hash = "15bce919514325447e487d260ec4458165fb4537ccadb9a0e740df4bcf3cb0ef"
+metafile = true
+
+[[files]]
 file = "mods/hide-experimental-warning.pw.toml"
 hash = "a25a71dbb4810a0338f47bb59c9799e63310202d2f360b4e53993698c3c1d5c3"
 metafile = true
@@ -319,6 +344,11 @@ metafile = true
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "37f200e8b855dfbb316f759dbee4723fca93e22fd448c060aab0e86754dc64b4"
+metafile = true
+
+[[files]]
+file = "mods/inventory-particles.pw.toml"
+hash = "93b62ebb21d74c1bb1df530c185a6b62cf4d0696aedd53da2fb78143f3bcd44d"
 metafile = true
 
 [[files]]
@@ -387,6 +417,11 @@ hash = "6006fa2a1c9e1ecb4faf424b2a4c0086ad18077f6cc22c0d25fe59f1d3839900"
 metafile = true
 
 [[files]]
+file = "mods/mossylib.pw.toml"
+hash = "21aa8c384dc7e1ff8cb37eb3852dfb9b1f365c468794448155a80a4bd048e764"
+metafile = true
+
+[[files]]
 file = "mods/mounts-stay-still.pw.toml"
 hash = "4a8edf6d014b423383dc5411b37fd4d1eb145f1422c44fb74ae310d28053235b"
 metafile = true
@@ -414,6 +449,21 @@ metafile = true
 [[files]]
 file = "mods/paginatedadvancements.pw.toml"
 hash = "cbe531f3cb8cd726ba811e3f8c4803ee7c3485be0ed6fce91908aa80a55c907e"
+metafile = true
+
+[[files]]
+file = "mods/particle-interactions.pw.toml"
+hash = "02945ac11400851faf6c99b903559be79eadd499feaecd81ef480ac20aeb7691"
+metafile = true
+
+[[files]]
+file = "mods/particle-rain.pw.toml"
+hash = "11d24c43e240249b5dd24e0dcdb99b4c3ada768c1cd1664ed18fc498d6add67c"
+metafile = true
+
+[[files]]
+file = "mods/particular-reforged.pw.toml"
+hash = "9d3e8fa7ba50020b4d0cae44a676d9efbb143e869f80170ca4b3bb1c3ac4e159"
 metafile = true
 
 [[files]]
@@ -477,6 +527,11 @@ hash = "9a7b77d36b9aba3015e540205750b0bc64223afee043a7146708e26d1e501af9"
 metafile = true
 
 [[files]]
+file = "mods/status-effect-bars.pw.toml"
+hash = "9a0d53217201df1a02fd2c4db95b61136da9b94e734876fe63116f4811538ed5"
+metafile = true
+
+[[files]]
 file = "mods/structure-layout-optimizer.pw.toml"
 hash = "f6304454d85aaee0b0c475094cd723585a71db537d1304f22b89fa87c5c9b407"
 metafile = true
@@ -494,6 +549,21 @@ metafile = true
 [[files]]
 file = "mods/vertigo.pw.toml"
 hash = "b9e21a5fb261987ce4ace6c93dcf71f055c71b3a788a74bec23d5133e7ab2b66"
+metafile = true
+
+[[files]]
+file = "mods/visuality.pw.toml"
+hash = "61d853a4f2d353ac126a8196414efc82d0ca0402da2a8e492383dd539bfe4976"
+metafile = true
+
+[[files]]
+file = "mods/wakes.pw.toml"
+hash = "7d50fe5c99af110d88c568b647fc89ebed0474484cb84019973f16faa42766c6"
+metafile = true
+
+[[files]]
+file = "mods/wavey-capes.pw.toml"
+hash = "2cc887be984dcee8817b2a51a47c79bbdbf569ef89559bb224d11451d8904887"
 metafile = true
 
 [[files]]

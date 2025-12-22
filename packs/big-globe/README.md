@@ -48,6 +48,21 @@ Perkpack: Big Globe uses [Fabulously Optimized](https://modrinth.com/project/1KV
 * [Mouse Tweaks](https://modrinth.com/mod/aC3cM3Vq)
 * [Roughly Enough Items](https://modrinth.com/mod/nfn13YXA)
 
+### Aesthetic
+
+* [Ambient Environment](https://modrinth.com/mod/DyTvM1dv)
+* [AmbientSounds](https://modrinth.com/mod/fM515JnW)
+* [Chat Heads](https://modrinth.com/mod/Wb5oqrBJ)
+* [Held Item Info](https://modrinth.com/project/tEcWzCZz)
+* [Inventory Particles](https://modrinth.com/mod/XYnKrsxH)
+* [Particle Interactions](https://modrinth.com/mod/xFCYuAs8)
+* [Particle Rain](https://modrinth.com/mod/nrikgvxm)
+* [Particular](https://modrinth.com/mod/pYFUU6cq)
+* [Status Effect Bars](https://modrinth.com/mod/x02cBj9Y)
+* [Visuality](https://modrinth.com/mod/rI0hvYcd)
+* [Wakes](https://modrinth.com/mod/dlNu0RQY)
+* [Wavey Capes](https://modrinth.com/mod/kYuIpRLv)
+
 ### Optimization
 
 On top of Fabulously Optimized, Perkpack: Big Globe includes the following performance mods to help clients and servers deal with Big Globe's demanding terrain.
