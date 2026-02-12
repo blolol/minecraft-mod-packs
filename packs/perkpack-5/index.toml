@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/yosbr/config/DistantHorizons.toml"
+hash = "daececb6829f25d7934530224312e9363cea6641d998932b81f571de6fb8e9ae"
+
+[[files]]
 file = "config/yosbr/config/MouseTweaks.cfg"
 hash = "b317eebca4b559618fdfab00654abe556389369a81176b5638ade896af581400"
 
