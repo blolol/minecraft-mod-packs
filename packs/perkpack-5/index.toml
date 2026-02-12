@@ -1,0 +1,135 @@
+hash-format = "sha256"
+
+[[files]]
+file = "README.md"
+hash = "c8dfeb8a0c206b821517109b01eff6b543ef5c3b6eace25b992ae89dd41090c0"
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "75181b55e0407d1fca1e2f346c6501f919f5109545990ddfb66db9cd1b771f8a"
+metafile = true
+
+[[files]]
+file = "mods/cubes-without-borders.pw.toml"
+hash = "8e5f6550359e71ecbea95705ec61fb03313550e6f481cabf48043929909aabae"
+metafile = true
+
+[[files]]
+file = "mods/cyanide.pw.toml"
+hash = "08ab5ee502b94653263fdfea09b0c58958e9e6adffc45cb35f496cc5a0a6fb8d"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-fps.pw.toml"
+hash = "ae6fd52d8bdcbeca5bbe6db840f22f92c1928fe0fda22017b19612b9b00a245a"
+metafile = true
+
+[[files]]
+file = "mods/entity-model-features.pw.toml"
+hash = "985b74e451dce434d27da73f711e365a874e7451220d574223555e888c518b1c"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "9a6f001c27c05b372f72ba0941e4904ab79fb7b1a9bd5944f9d41dc79cfb8ab1"
+metafile = true
+
+[[files]]
+file = "mods/entitytexturefeatures.pw.toml"
+hash = "73a8d2c9acc370851795fb46dae3b3cc25ffdbd045cfd793cbb7700fa78f7630"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "73360e397134d238ee8fd21d33fd7f9275e9441f74f8f1b6ed92278877c0b9f1"
+metafile = true
+
+[[files]]
+file = "mods/forge-cit.pw.toml"
+hash = "5115aa2453a30675b9048bf7862e3193b43fc543ba27c3ecdebc44dce7bce2e5"
+metafile = true
+
+[[files]]
+file = "mods/fusion-connected-textures.pw.toml"
+hash = "9342bd3338c6fbb80f84625e2715a6c443b54daff11826f0dfb9ebb6ab411fd2"
+metafile = true
+
+[[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "3d47b1d933d04934a606be1cbb67481860c3d68c9ed4efc387c7745d23b732a7"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "e7544296d2cdd85e43a60cf3e7a8f3e036782e14abc4efeea7f064d980d59dd5"
+metafile = true
+
+[[files]]
+file = "mods/mod-menu-(neoforge-edition).pw.toml"
+hash = "1a17dcb130a85f5fe951e5187d6e4ffcfcbf7e5c6bf9f6ccb453431c0692143e"
+metafile = true
+
+[[files]]
+file = "mods/modernfix.pw.toml"
+hash = "6ae9430e2319ead3cb8580633c13d119c9d06f097204f3f8afbc0e4681e9a807"
+metafile = true
+
+[[files]]
+file = "mods/moreculling.pw.toml"
+hash = "91696791780719730cb8826de0c53d8513a7c2b320f7d641dbeb6ca974e5cec3"
+metafile = true
+
+[[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "5da18814472be5dc93a21886983646da3a7236413800075ac75229be82d114fa"
+metafile = true
+
+[[files]]
+file = "mods/ok-zoomer.pw.toml"
+hash = "8a5b280bcfbbb9a6682108d873ad152737f4cc1bc34d0c30be4714039ca19bf2"
+metafile = true
+
+[[files]]
+file = "mods/reeses-sodium-options.pw.toml"
+hash = "09306b955060349986ccf6a6d2a67f1e019fa172a7dc690dd6007f81c966309a"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-config.pw.toml"
+hash = "27721caca5a03b743bf25888e1d984142948069dace31453f103f94f7f24d2ce"
+metafile = true
+
+[[files]]
+file = "mods/rrls.pw.toml"
+hash = "b78044fd79ce21750d05dc61b6aede33c4b87cdc16a26f5aff472d4f73ab623c"
+metafile = true
+
+[[files]]
+file = "mods/sodium-dynamic-lights.pw.toml"
+hash = "c1e526d3d17cb3563e596d45c7567ed1fe60c31bdc3457f7a747ef8150bd3c1b"
+metafile = true
+
+[[files]]
+file = "mods/sodium-extra.pw.toml"
+hash = "a1fb713df668ed21dda0602e99cb23b991c8faff841e130d7aae46258c3d6a45"
+metafile = true
+
+[[files]]
+file = "mods/sodium-options-api.pw.toml"
+hash = "d193173f0f5dfb4a921d44e29e8d5cee656dd3a40872939069715bb482b66fc9"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "0281ed9713f3141bdac363056a791845510e14761ea65b4b2813cf96d664b20a"
+metafile = true
+
+[[files]]
+file = "mods/structure-layout-optimizer.pw.toml"
+hash = "27fbafdc78a4a3cb8badb58078ec1f2837e65a5bbe5160e344b0fb3e779c9efe"
+metafile = true
+
+[[files]]
+file = "mods/yeetus-experimentus.pw.toml"
+hash = "5e25dccab496945a5f19bb82383e0ebf98452ffc14cd25c7e0259cc44312281a"
+metafile = true

@@ -1,0 +1,32 @@
+services:
+  caddy: # HTTP server to serve Packwiz files locally
+    image: caddy:2
+    ports:
+      - "8083:80"
+    volumes:
+      - "./Caddyfile:/etc/caddy/Caddyfile:ro"
+      - "caddy_data:/data"
+      - ".:/usr/share/caddy:ro"
+  minecraft:
+    image: itzg/minecraft-server
+    depends_on:
+      - caddy
+    ports:
+      - "25565:25565"
+    volumes:
+      - "./tmp/server:/data"
+    environment:
+      EULA: "true"
+      ICON: http://caddy/images/perkpack-5@64.png
+      MEMORY: "6G"
+      MOTD: "Perkpack 5 dev"
+      NEOFORGE_VERSION: "21.1.219"
+      OPS_FILE: https://s3.amazonaws.com/minecraft/allowlists/blolol.ops.json
+      PACKWIZ_URL: http://caddy/pack.toml
+      REMOVE_OLD_DATAPACKS: "true"
+      SPAWN_PROTECTION: 0
+      TYPE: NEOFORGE
+      USE_AIKAR_FLAGS: "true"
+      VERSION: "1.21.1"
+volumes:
+  caddy_data:

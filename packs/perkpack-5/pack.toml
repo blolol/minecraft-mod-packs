@@ -1,0 +1,13 @@
+name = "Perkpack"
+author = "Ross Paffett"
+version = "5.0.0-pre0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "c1336eac7d39ad63b847267a263dff892431234207ce145e7b4b72c1b1978f09"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.219"
