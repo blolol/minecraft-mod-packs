@@ -13,7 +13,7 @@ Welcome to Perkpack 5! Based on Minecraft 1.21.1, the pack focuses on providing 
 TODO
 
 > [!WARNING]
-> **Note for Mac users:** [Distant Horizons](https://modrinth.com/mod/uCdwusMi)
+> **Note for Mac users:** [Distant Horizons](https://modrinth.com/mod/uCdwusMi) enables staggering view distances and wondrous vistas, but it relies on OpenGL rendering features that aren't well-supported on Macs. If your game crashes on world load, you may need to switch to Distant Horizons' slower, but more compatible, direct renderer.
 >
 > From the main menu, click Mod Menu > click the Distant Horizons icon in the mod list to access its config > Advanced Options > Graphics > Generic Object Rendering, and set Enabled Instanced Rendering to "False".
 >
@@ -156,7 +156,7 @@ TODO
 
 ### Shaders
 
-Perkpack comes with these shader packs, but you can also [add more](https://modrinth.com/discover/shaders?g=categories:iris)
+Perkpack comes with these shader packs, but you can also [add more](https://modrinth.com/discover/shaders?g=categories:iris) using Prism Launcher!
 
 * [Bliss](https://modrinth.com/project/ZvMtQlho)
 * [BSL](https://modrinth.com/project/Q1vvjJYV)
@@ -178,7 +178,7 @@ Perkpack comes with these shader packs, but you can also [add more](https://modr
 * [Jade](https://modrinth.com/mod/nvQzSEkH)
 * [Jade Addons](https://modrinth.com/mod/xuDOzCLy)
 * [JourneyMap](https://modrinth.com/project/lfHFW1mp)
-* [Just Enough Items](https://modrinth.com/mod/u6dRKJwZ)
+* [Just Enough Items](https://modrinth.com/mod/u6dRKJwZ) (JEI)
 * [Just Enough Resources](https://modrinth.com/mod/uEfK2CXF)
 * [Mod Menu](https://modrinth.com/mod/31TqAmXC)
 * [Mouse Tweaks](https://modrinth.com/mod/aC3cM3Vq)
