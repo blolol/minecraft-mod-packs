@@ -1,0 +1,7 @@
+darkMojangStudiosBackground:true
+resourcePacks:[]
+skipMultiplayerWarning:true
+joinedFirstServer:true
+key_key.saveToolbarActivator:key.keyboard.unknown
+key_key.loadToolbarActivator:key.keyboard.unknown
+key_iris.keybind.reload:key.keyboard.unknown

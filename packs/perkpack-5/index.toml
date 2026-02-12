@@ -1,8 +1,16 @@
 hash-format = "sha256"
 
 [[files]]
-file = "README.md"
-hash = "c8dfeb8a0c206b821517109b01eff6b543ef5c3b6eace25b992ae89dd41090c0"
+file = "config/yosbr/config/ok_zoomer/config.json5"
+hash = "8393f01d0e2368ee185bfaf3284bae2513d9818587cff92e189893feacbffbe4"
+
+[[files]]
+file = "config/yosbr/config/sodiumdynamiclights-client.toml"
+hash = "001e45df23122651b3645821df31cf3ada9de4fa1bf8a75c377d45169c124fb2"
+
+[[files]]
+file = "config/yosbr/options.txt"
+hash = "274971a3bbda1a4dc0abed9ac5d174ec4c934d62e9169a91db577088ee9e635c"
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
@@ -142,6 +150,11 @@ metafile = true
 [[files]]
 file = "mods/yeetus-experimentus.pw.toml"
 hash = "5e25dccab496945a5f19bb82383e0ebf98452ffc14cd25c7e0259cc44312281a"
+metafile = true
+
+[[files]]
+file = "mods/yosbr-neo.pw.toml"
+hash = "b9916ff43aeee2c276699c95d3857701ccda87330842a3e1ebb354d5eefd9e60"
 metafile = true
 
 [[files]]
