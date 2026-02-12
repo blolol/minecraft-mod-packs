@@ -1,6 +1,6 @@
 # Perkpack 5
 
-Welcome to Perkpack 5! Based on Minecraft 1.21.1, the pack focuses on providing lots of different advancement trees to explore, whether you're into technology or cheesemaking. Some features from newer versions of vanilla Minecraft, such as [The Copper Age](https://minecraft.wiki/w/The_Copper_Age) game drop, are included as backports. The usual slew of world gen additions, quality of life improvements, and performance optimizations is also included.
+Welcome to Perkpack 5! Based on Minecraft 1.21.1, the pack focuses on providing lots of different advancement trees to explore, whether you're into technology or cheesemaking. Some features from newer versions of vanilla Minecraft, such as the [Copper Age game drop](https://minecraft.wiki/w/The_Copper_Age), are included as backports. The usual slew of world gen additions, quality of life improvements, and performance optimizations is also included.
 
 ## Contents
 
