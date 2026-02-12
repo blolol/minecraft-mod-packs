@@ -116,6 +116,5 @@ Perkpack comes with these shader packs, but you can also [add more](https://modr
 * [No Chat Reports](https://modrinth.com/mod/qQyHxfxd)
 * [Ok Zoomer](https://modrinth.com/mod/aXf2OSFU)
 * [Reese's Sodium Options](https://modrinth.com/mod/Bh37bMuy)
-* [Remove Reloading Screen](https://modrinth.com/mod/ZP7xHXtw)
 * [Sodium Extra](https://modrinth.com/mod/PtjYWJkn)
 * [Yeetus Experimentus](https://modrinth.com/mod/HaaH232J)
