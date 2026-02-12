@@ -1,0 +1,13 @@
+name = "Sophisticated Core"
+filename = "sophisticatedcore-1.21.1-1.4.3.1481.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/nmoqTijg/versions/AMEtqeki/sophisticatedcore-1.21.1-1.4.3.1481.jar"
+hash-format = "sha512"
+hash = "e32b29f81771ae546df9df0763bec035aeb443757ab9c68ee0629159fed35ffd9bd0d0856e317d800f7bb80afa05969bd16ccb7e74f76c5f4aee818f2d9886a5"
+
+[update]
+[update.modrinth]
+mod-id = "nmoqTijg"
+version = "AMEtqeki"

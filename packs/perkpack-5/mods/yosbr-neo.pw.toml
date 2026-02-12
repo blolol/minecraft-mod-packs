@@ -1,6 +1,6 @@
 name = "Your Options Shall Be Neoforged (YOSBR)"
 filename = "yosbr-neo-0.1.2.0.jar"
-side = "client"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/1Q1Lbl0G/versions/dGuijRtq/yosbr-neo-0.1.2.0.jar"

@@ -1,0 +1,13 @@
+name = "BackPort Recipes"
+filename = "backport_recipes-0.0.1 Release-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/CoobMclu/versions/GpwsapAK/backport_recipes-0.0.1%20Release-neoforge-1.21.1.jar"
+hash-format = "sha512"
+hash = "6600f792d38f0b5faf4064164da0c9436065df0293a466010fe0c977a802fc061a2c0ec2351dd6edb0cdb82eec751e0636e552d87751670a030a8ba3b474e629"
+
+[update]
+[update.modrinth]
+mod-id = "CoobMclu"
+version = "GpwsapAK"

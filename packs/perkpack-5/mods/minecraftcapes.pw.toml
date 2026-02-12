@@ -1,0 +1,13 @@
+name = "MinecraftCapes | Wear any cape, cost free"
+filename = "MinecraftCapes NeoForge 1.21.1-1.0.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/9gNVPfzw/versions/OnMgFkEn/MinecraftCapes%20NeoForge%201.21.1-1.0.0.jar"
+hash-format = "sha512"
+hash = "c72ab993efe16e85a0e9b473dbf7ebb6cbc0bd0ff946fecd8cd026072798c9d05eefc31721b8c52a39186c79c14158778dee8f70f5e0bee6acbc2037c5cfec02"
+
+[update]
+[update.modrinth]
+mod-id = "9gNVPfzw"
+version = "OnMgFkEn"

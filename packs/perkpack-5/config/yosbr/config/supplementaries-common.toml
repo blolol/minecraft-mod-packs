@@ -1,0 +1,4 @@
+# Disable waysign world generation to prevent this spammy error in the server log:
+# [DH-World Gen Thread[0]/ERROR] [Supplementaries/]: Failed to get Road Sign Block Entity during generation. How did this happen?
+[building.way_sign.road_signs]
+enabled = false
