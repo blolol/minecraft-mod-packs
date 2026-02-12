@@ -24,6 +24,7 @@ services:
       OPS_FILE: https://s3.amazonaws.com/minecraft/allowlists/blolol.ops.json
       PACKWIZ_URL: http://caddy/pack.toml
       REMOVE_OLD_DATAPACKS: "true"
+      SEED: "4110818398177769998"
       SPAWN_PROTECTION: 0
       TYPE: NEOFORGE
       USE_AIKAR_FLAGS: "true"

@@ -1,0 +1,13 @@
+name = "[Let's Do] Bakery - Farm&Charm Compat"
+filename = "letsdo-bakery-neoforge-2.1.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/oNB5jhlA/versions/oFyR9b4h/letsdo-bakery-neoforge-2.1.4.jar"
+hash-format = "sha512"
+hash = "12097e8f2509fb8fbbe1beb7b9cf2e91ccbe4513916051e596f9c1822bf8b66af2185bf31c3d2c5e12c16e571d03a7cef1a2122aaba830e485cc983ff2466e72"
+
+[update]
+[update.modrinth]
+mod-id = "oNB5jhlA"
+version = "oFyR9b4h"

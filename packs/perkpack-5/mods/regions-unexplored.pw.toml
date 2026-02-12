@@ -1,0 +1,13 @@
+name = "Regions Unexplored"
+filename = "regions_unexplored-neoforge-1.21.1-0.5.9.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Tkikq67H/versions/KrbwbPuJ/regions_unexplored-neoforge-1.21.1-0.5.9.jar"
+hash-format = "sha512"
+hash = "df3e1b95734ec259c6c1ef9e1ce08df96a40868efa171a2009e2b1ea5c9410e86cbcdccc37256e3bd3dbafe77994ad65c801536302bc41d55b3e7915fa0d8a17"
+
+[update]
+[update.modrinth]
+mod-id = "Tkikq67H"
+version = "KrbwbPuJ"

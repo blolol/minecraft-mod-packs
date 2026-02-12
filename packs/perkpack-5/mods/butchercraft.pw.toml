@@ -1,0 +1,13 @@
+name = "Butchercraft"
+filename = "butchercraft-2.6.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/MT2Xm0ih/versions/9W5NzEBf/butchercraft-2.6.4.jar"
+hash-format = "sha512"
+hash = "8baa14f675e353f823f6dc690593e11d58ef19789f90b46a70631f07c2c7691dc7a3ea48e8f905b9bc5602769b6d20fea55916eafb4fa7e43dc776e565becfa7"
+
+[update]
+[update.modrinth]
+mod-id = "MT2Xm0ih"
+version = "9W5NzEBf"

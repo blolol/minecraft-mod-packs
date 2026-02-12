@@ -1,0 +1,13 @@
+name = "Better McDonald's Mod"
+filename = "better_mcdonalds_mod-neoforge-4.4.4+1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/kdnePgr1/versions/MqPWUGdr/better_mcdonalds_mod-neoforge-4.4.4%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "1d0d3d47913e86796d94b741bd7732e6e1b68f22d54e71e54accc73bdeff178dd47e86ddfa23601ceef0353076beca54c93a95a00be3e3fc77c162ebfdf15146"
+
+[update]
+[update.modrinth]
+mod-id = "kdnePgr1"
+version = "MqPWUGdr"
