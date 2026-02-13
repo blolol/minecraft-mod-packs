@@ -26,7 +26,7 @@ Each time you start the game, the mod pack will automatically update itself.
 >
 > From the main menu, click Mod Menu > click the Distant Horizons icon in the mod list to access its config > Advanced Options > Graphics > Generic Object Rendering > set Enabled Instanced Rendering to "False".
 >
-> ![A screen recording showing how to navigate the config menus to distable Distant Horizons' instanced rendering](images/readme/dh-instanced-rendering.mp4)
+> https://github.com/user-attachments/assets/7dc52c50-f8a4-4066-9262-f5903f377978
 >
 > If <em>that</em> doesn't fix the crashes, you might need to disable Distant Horizons altogether (Mod Menu > Distant Horizons > set Enable Rendering to "False"). If you do this, you may also need to re-enable vanilla clouds (main menu > Options > Video Settings > Quality > Clouds), because Distant Horizons disables them in favor of its own cloud rendering.
 
