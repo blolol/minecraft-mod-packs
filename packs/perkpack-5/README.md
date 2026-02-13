@@ -10,14 +10,25 @@ Welcome to Perkpack 5! Based on Minecraft 1.21.1, the pack focuses on providing 
 
 ## How to play
 
-TODO
+Installing the pack is easy using [Prism Launcher](https://prismlauncher.org/):
+
+1. Click "Add Instance", then "Import" on the left.
+1. Add a name for the instance at the top, such as "Perkpack 5".
+1. Copy and paste this URL into the link field: https://github.com/blolol/minecraft-mod-packs/raw/refs/heads/main/packs/perkpack-5/prism-instance.zip
+1. Click "OK", then double-click the new instance to start the game.
+
+Each time you start the game, the mod pack will automatically update itself.
+
+![A screenshot showing Prism Launcher's "Add Instance" interface](images/readme/prism-new-instance.png)
 
 > [!WARNING]
 > **Note for Mac users:** [Distant Horizons](https://modrinth.com/mod/uCdwusMi) enables staggering view distances and wondrous vistas, but it relies on OpenGL rendering features that aren't well-supported on Macs. If your game crashes on world load, you may need to switch to Distant Horizons' slower, but more compatible, direct renderer.
 >
-> From the main menu, click Mod Menu > click the Distant Horizons icon in the mod list to access its config > Advanced Options > Graphics > Generic Object Rendering, and set Enabled Instanced Rendering to "False".
+> From the main menu, click Mod Menu > click the Distant Horizons icon in the mod list to access its config > Advanced Options > Graphics > Generic Object Rendering > set Enabled Instanced Rendering to "False".
 >
-> If <em>that</em> doesn't fix the crashes, you might need to disable Distant Horizons altogether (Mod Menu > Distant Horizons icon, and set Enable Rendering to "False"). If you do this, you may also need to re-enable vanilla clouds (main menu > Options > Video Settings > Quality > Clouds), because Distant Horizons disables them in favor of its own cloud rendering.
+> ![A screen recording showing how to navigate the config menus to distable Distant Horizons' instanced rendering](images/readme/dh-instanced-rendering.mp4)
+>
+> If <em>that</em> doesn't fix the crashes, you might need to disable Distant Horizons altogether (Mod Menu > Distant Horizons > set Enable Rendering to "False"). If you do this, you may also need to re-enable vanilla clouds (main menu > Options > Video Settings > Quality > Clouds), because Distant Horizons disables them in favor of its own cloud rendering.
 
 ## Things to do
 
