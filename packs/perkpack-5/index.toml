@@ -42,7 +42,7 @@ hash = "08f5d56939c2cd24b5d746f01674e8d04ec796fec1f424bb1799dadca65a79cb"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "8231d6a6630b35dca0d330349aa3ba04965737291865faa77fea4b78d2ed505a"
+hash = "249e68fbd67fe0e3e27f0fe27d2851940a0bc45b93284b5d783079d2acc91ef0"
 
 [[files]]
 file = "mods/accessories-compat-layer.pw.toml"
@@ -406,7 +406,7 @@ metafile = true
 
 [[files]]
 file = "mods/feature-recycler.pw.toml"
-hash = "dfea23fdac9822913ae8f1c8751e9f0978ad4398ed8f9e45ca1a69c71025e979"
+hash = "3906397a3ebbc40c0978609fcf0934fab3870c2f7dd9f29ec65b1f257d7d2750"
 metafile = true
 
 [[files]]
