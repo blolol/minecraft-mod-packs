@@ -41,7 +41,7 @@ Each time you start the game, the mod pack will automatically update itself.
 
 ## Things to do
 
-If you're looking for something to do in-game, try pressing <key>L</key> to open the advancements screen. Many of the major content mods provide advancement trees that introduce you to the mod, and provide goals to work toward.
+If you're looking for something to do in-game, try pressing <kbd>L</kbd> to open the advancements screen. Many of the major content mods provide advancement trees that introduce you to the mod, and provide goals to work toward.
 
 ![A screenshot of the Minecraft advancements screen](images/readme/advancements.jpg)
 
