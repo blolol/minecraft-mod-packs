@@ -38,7 +38,43 @@ Each time you start the game, the mod pack will automatically update itself.
 
 ## Things to do
 
-TODO
+If you're looking for something to do in-game, try pressing <key>L</key> to open the advancements screen. Many of the major content mods provide advancement trees that introduce you to the mod, and provide goals to work toward.
+
+![A screenshot of the Minecraft advancements screen](images/readme/advancements.jpg)
+
+### Exploration
+
+🌍 There are more than one hundred new biomes to discover in Perkpack 5. Each of these world gen mods includes an advancement tree to track which ones you've found:
+
+* [Biomes O' Plenty](https://modrinth.com/mod/HXF82T3G)
+* [Oh The Biomes We've Gone](https://modrinth.com/mod/NTi7d3Xc)
+* [Regions Unexplored](https://modrinth.com/mod/Tkikq67H)
+
+🦴 While you're out exploring, keep an eye out for ruins and archeological sites! [Better Archeology](https://modrinth.com/mod/zCh7omyG) expands upon vanilla Minecraft's archeology mechanic.
+
+🐘 Plus, you'll meet lots of new animals out there in the world, thanks to [Alex's Mobs](https://modrinth.com/mod/EmNhnNnt), [Critters and Companions](https://modrinth.com/mod/Yd4wb5wZ), [Jagm's Kiwis](https://modrinth.com/mod/XKrJMfxV) and [Ribbits](https://modrinth.com/mod/8YcE8y4T).
+
+### Technology
+
+Perkpack 5 contains two technology mods: [Create](https://create.fandom.com/wiki/Create_Mod_Wiki) (and its many addons), and [Oritech](https://moddedmc.wiki/en/project/oritech/latest/docs). Create tends toward an Industrial Revolution aesthetic, while Oritech's machines are more modern. Both allow you to do most of the same things, such as extract more material out of your mined ore blocks using various mechanical processes, and they can even be combined!
+
+Check out [major content additions](#major-content-additions) below for the long list of Create addons that add even more content and machines.
+
+### Farming and cooking
+
+If you're looking to pursue a bucolic lifestyle, you're in luck.
+
+* 🧑‍🍳 Farm crops and build cozy kitchens with [Farmer's Delight](https://github.com/vectorwing/FarmersDelight/wiki/Getting-Started) and [Let's Do: Farm & Charm](https://lets-do.ch/wiki/farm-and-charm/).
+* 🍞 Start a bakery with [Let's Do: Bakery](https://lets-do.ch/wiki/bakery/).
+* 🍺 Brew a trendy west coast IPA with [Let's Do: Brewing](https://lets-do.ch/wiki/brewery/).
+* 🧀 Try your hand at cheesemaking with [Let's Do: Meadow](https://lets-do.ch/wiki/meadow/).
+* 🫖 Raise tea plants with [Let's Do: HerbalBrews](https://lets-do.ch/wiki/herbalbrews/).
+* 🍇 Become a vintner with [Let's Do: Vinery](https://lets-do.ch/wiki/vinery/).
+* 🎣 Look for dozens of new fish and upgrade your fishing rod with [Aquaculture](https://github.com/TeamMetallurgy/Aquaculture/wiki/Fishing).
+* 🍔 Start a fast food empire with [Better McDonald's Mod](https://modrinth.com/mod/kdnePgr1).
+* 🥩 Get more out of your meat with [Butchercraft](https://modrinth.com/mod/MT2Xm0ih).
+
+Many of these mods can be automated, too: see [Create Slice & Dice](https://modrinth.com/mod/GmjmRQ0A) and [Create: Central Kitchen](https://modrinth.com/mod/btq68HMO).
 
 ## Mods
 
