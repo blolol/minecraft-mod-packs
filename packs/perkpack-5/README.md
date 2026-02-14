@@ -204,4 +204,5 @@ Perkpack comes with these shader packs, but you can also [add more](https://modr
 * [Oracle Index](https://modrinth.com/mod/J8MMsNrL)
 * [Reese's Sodium Options](https://modrinth.com/mod/Bh37bMuy)
 * [Sodium Extra](https://modrinth.com/mod/PtjYWJkn)
+* [Sounds Be Gone!](https://modrinth.com/mod/FOIvwGKz)
 * [Yeetus Experimentus](https://modrinth.com/mod/HaaH232J)
