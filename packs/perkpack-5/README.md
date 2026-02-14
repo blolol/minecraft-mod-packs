@@ -6,6 +6,9 @@ Welcome to Perkpack 5! Based on Minecraft 1.21.1, the pack focuses on providing 
 
 * [How to play](#how-to-play)
 * [Things to do](#things-to-do)
+  * [Exploration](#exploration)
+  * [Technology](#technology)
+  * [Farming and cooking](#farming-and-cooking)
 * [Mods](#mods)
   * [Aesthetic](#aesthetic)
   * [Gameplay features](#gameplay-features)
