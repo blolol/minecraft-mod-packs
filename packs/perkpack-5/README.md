@@ -88,6 +88,7 @@ Many of these mods can be automated, too: see [Create Slice & Dice](https://modr
 * [Better Clouds](https://modrinth.com/mod/5srFLIaK)
 * [Distant Horizons](https://modrinth.com/mod/uCdwusMi)
 * [Iris](https://modrinth.com/mod/YL57xq9U)
+* [MapFrontiers](https://modrinth.com/project/hWlsli6y)
 * [MinecraftCapes](https://modrinth.com/mod/9gNVPfzw)
 * [Particular](https://modrinth.com/mod/pYFUU6cq)
 * [Sound Physics Remastered](https://modrinth.com/mod/qyVF9oeo)

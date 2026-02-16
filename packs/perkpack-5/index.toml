@@ -50,7 +50,7 @@ hash = "08f5d56939c2cd24b5d746f01674e8d04ec796fec1f424bb1799dadca65a79cb"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "615b083d34d97bd7036a6edf896c9d92876956a6294943a3f274e59aea28751f"
+hash = "a910bebda24c0b0526553eeb73c60e3554162f10226e768f3b170e01416cbb00"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -448,6 +448,11 @@ hash = "5115aa2453a30675b9048bf7862e3193b43fc543ba27c3ecdebc44dce7bce2e5"
 metafile = true
 
 [[files]]
+file = "mods/forge-config-api-port.pw.toml"
+hash = "2e76c80ff830074b19c38520160b00713985e6e9df7a3ff180116e3a73bb8937"
+metafile = true
+
+[[files]]
 file = "mods/fusion-connected-textures.pw.toml"
 hash = "9342bd3338c6fbb80f84625e2715a6c443b54daff11826f0dfb9ebb6ab411fd2"
 metafile = true
@@ -650,6 +655,11 @@ metafile = true
 [[files]]
 file = "mods/macaws-windows.pw.toml"
 hash = "450ed5663bf1d12ffddc78eda5aa56cb7808cbdac6db8102d18461361aaa555f"
+metafile = true
+
+[[files]]
+file = "mods/mapfrontiers.pw.toml"
+hash = "7d3dd71f0a173bcdae1016ffae45dd0bfb5d74655c459c73437d88ab76b6951c"
 metafile = true
 
 [[files]]
