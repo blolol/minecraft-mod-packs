@@ -233,6 +233,7 @@ Perkpack comes with these shader packs, but you can also [add more](https://modr
 * [Accessories Compatibility Layer](https://modrinth.com/mod/ySnjMzLg)
 * [Accessorify](https://modrinth.com/mod/CVRzrXGP)
 * [Better Advancements](https://modrinth.com/mod/Q2OqKxDG)
+* [Better Climbing](https://modrinth.com/project/ZucWZEBV)
 * [Cherished Worlds](https://modrinth.com/mod/3azQ6p0W)
 * [ClientSort](https://modrinth.com/mod/K0AkAin6)
 * [Cubes Without Borders](https://modrinth.com/mod/ETlrkaYF)

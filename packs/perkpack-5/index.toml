@@ -138,6 +138,11 @@ hash = "8cf104d5a118bafaf42b0a05c89d4dbb69e9fd18ff0e298dedeb982a83325502"
 metafile = true
 
 [[files]]
+file = "mods/better-climbing.pw.toml"
+hash = "a8eb83f5f009bd865dbb42b4988d8be78595190fc295d47ebf5402cece95ceca"
+metafile = true
+
+[[files]]
 file = "mods/better-clouds.pw.toml"
 hash = "8169fa6b9fd786fcff725d88a4a3d344fecadb4abc2b2823c65af099d3a82147"
 metafile = true
