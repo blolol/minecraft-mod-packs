@@ -1,0 +1,7 @@
+polygonsOpacity = 0.3
+
+[hud]
+  enabled = false
+  anchor = "ScreenTop"
+  textSize = 4
+  bannerSize = 5

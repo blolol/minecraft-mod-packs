@@ -21,6 +21,10 @@ file = "config/yosbr/config/journeymap-server.toml"
 hash = "e9a9561e51dab88e12c261a7097788e1e3d6ba95c6035bdefa11cc91b4f50ab5"
 
 [[files]]
+file = "config/yosbr/config/mapfrontiers-client.toml"
+hash = "799048a03efcc2d83dc31f26d1713d4424325db3be939e42dffeb011c3c0e5b2"
+
+[[files]]
 file = "config/yosbr/config/mod_menu-client.toml"
 hash = "99b866944a5320905e7f9895aa98f311837675b9c65a6c78a459750aa2403bf6"
 
