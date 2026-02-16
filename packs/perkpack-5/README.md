@@ -193,6 +193,7 @@ Many of these mods can be automated, too: see [Create Slice & Dice](https://modr
 
 * [Athena](https://modrinth.com/mod/b1ZV3DIJ)
 * [CITResewn](https://www.curseforge.com/minecraft/mc-mods/forge-cit)
+* [Clumps](https://modrinth.com/project/Wnxd13zP)
 * [Concurrent Chunk Management Engine](https://modrinth.com/mod/COlSi5iR)
 * [Cyanide](https://modrinth.com/mod/fXbvd6mf)
 * [Dynamic FPS](https://modrinth.com/mod/LQ3K71Q1)
