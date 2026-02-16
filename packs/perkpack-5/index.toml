@@ -46,7 +46,7 @@ hash = "08f5d56939c2cd24b5d746f01674e8d04ec796fec1f424bb1799dadca65a79cb"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "249e68fbd67fe0e3e27f0fe27d2851940a0bc45b93284b5d783079d2acc91ef0"
+hash = "8e15d236d9b99c489c342d863c18aa879cacc9fbbffdfb8dc9b793f060bd76b8"
 
 [[files]]
 file = "mods/accessories-compat-layer.pw.toml"
@@ -831,6 +831,11 @@ metafile = true
 [[files]]
 file = "mods/toms-storage.pw.toml"
 hash = "c743ea0e4f9021ef5f2fd093006e04031da11b933a0a54d86ef77bc13f4965cb"
+metafile = true
+
+[[files]]
+file = "mods/trade-cycling.pw.toml"
+hash = "1ce973c231d9d6a7e788f5a2eb0797a0f5b8beef318d70f97931309ff7ef9abe"
 metafile = true
 
 [[files]]

@@ -38,3 +38,4 @@ key_key.jade.show_recipes:key.keyboard.unknown
 key_key.jade.show_uses:key.keyboard.unknown
 key_key.jade.narrate:key.keyboard.unknown
 key_key.jade.show_details:key.keyboard.unknown
+key_key.trade_cycling.cycle_trades:key.keyboard.unknown
