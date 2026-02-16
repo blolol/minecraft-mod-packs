@@ -180,6 +180,7 @@ Many of these mods can be automated, too: see [Create Slice & Dice](https://modr
 * [Oritech](https://modrinth.com/mod/4sYI62kA)
 * [Regions Unexplored](https://modrinth.com/mod/Tkikq67H)
 * [Ribbits](https://modrinth.com/mod/8YcE8y4T)
+* [Vanilla Backport](https://modrinth.com/project/6xwxDTgf)
 * [William Wythers' Expanded Ecosphere](https://modrinth.com/mod/O1XGs7ps)
 * [YUNG's Better Desert Temples](https://modrinth.com/mod/XNlO7sBv)
 * [YUNG's Better Dungeons](https://modrinth.com/mod/o1C1Dkj5)
