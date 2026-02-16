@@ -83,6 +83,7 @@ Many of these mods can be automated, too: see [Create Slice & Dice](https://modr
 
 ### Aesthetic
 
+* [3D Skin Layers](https://modrinth.com/project/zV5r3pPn)
 * [Better Animations Collection](https://modrinth.com/mod/OoOVj3J3)
 * [Better Clouds](https://modrinth.com/mod/5srFLIaK)
 * [Distant Horizons](https://modrinth.com/mod/uCdwusMi)

@@ -53,6 +53,11 @@ file = "config/yosbr/options.txt"
 hash = "615b083d34d97bd7036a6edf896c9d92876956a6294943a3f274e59aea28751f"
 
 [[files]]
+file = "mods/3dskinlayers.pw.toml"
+hash = "47d32eec023f9d00f16bd5fba49778ad622dca453ec2306e8d1af2daf625b51f"
+metafile = true
+
+[[files]]
 file = "mods/accessories-compat-layer.pw.toml"
 hash = "c255cf4cd29718e3ab0a4c18df8bb7b626e0092c5aad7b4e67f34fc1ad4492f8"
 metafile = true
