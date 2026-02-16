@@ -84,6 +84,7 @@ Many of these mods can be automated, too: see [Create Slice & Dice](https://modr
 ### Aesthetic
 
 * [3D Skin Layers](https://modrinth.com/project/zV5r3pPn)
+* [Advancement Plaques](https://modrinth.com/project/9NM0dXub)
 * [Better Animations Collection](https://modrinth.com/mod/OoOVj3J3)
 * [Better Clouds](https://modrinth.com/mod/5srFLIaK)
 * [Chat Heads](https://modrinth.com/project/Wb5oqrBJ)
