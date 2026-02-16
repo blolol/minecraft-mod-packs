@@ -46,7 +46,7 @@ hash = "08f5d56939c2cd24b5d746f01674e8d04ec796fec1f424bb1799dadca65a79cb"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "8e15d236d9b99c489c342d863c18aa879cacc9fbbffdfb8dc9b793f060bd76b8"
+hash = "615b083d34d97bd7036a6edf896c9d92876956a6294943a3f274e59aea28751f"
 
 [[files]]
 file = "mods/accessories-compat-layer.pw.toml"
