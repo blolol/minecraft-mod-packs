@@ -112,6 +112,7 @@ Many of these mods can be automated, too: see [Create Slice & Dice](https://modr
 * [Sophisticated Backpacks](https://modrinth.com/mod/TyCTlI4b)
 * [Sophisticated Storage](https://modrinth.com/mod/hMlaZH8f)
 * [Storage Drawers](https://modrinth.com/mod/guitPqEi)
+* [Storage Labels](https://modrinth.com/project/x6r7yhfi)
 * [Supplementaries](https://modrinth.com/mod/fFEIiSDQ)
 * [Supplementaries Squared](https://modrinth.com/mod/dCCkNFwE)
 * [Tom's Simple Storage Mod](https://modrinth.com/mod/XZNI4Cpy)

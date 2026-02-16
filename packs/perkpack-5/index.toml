@@ -553,6 +553,11 @@ hash = "27302b0087cf53570cd7a3b4eb550a208cbb6f6ba07210c604176155f39e0078"
 metafile = true
 
 [[files]]
+file = "mods/labels.pw.toml"
+hash = "a4e09391cb50364b131f96b500eabd2f19c88bd5c175b8acd5c7ace5b7689723"
+metafile = true
+
+[[files]]
 file = "mods/lets-do-bakery-farmcharm-compat.pw.toml"
 hash = "cfe679c68800dac6eaa0f3fc816bac156ed51858d7d93a8300740112a4342b79"
 metafile = true
