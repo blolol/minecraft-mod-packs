@@ -245,6 +245,7 @@ Perkpack comes with these shader packs, but you can also [add more](https://modr
 * [No Chat Reports](https://modrinth.com/mod/qQyHxfxd)
 * [Ok Zoomer](https://modrinth.com/mod/aXf2OSFU)
 * [Oracle Index](https://modrinth.com/mod/J8MMsNrL)
+* [Polymorph](https://modrinth.com/project/tagwiZkJ)
 * [Reese's Sodium Options](https://modrinth.com/mod/Bh37bMuy)
 * [RightClickHarvest](https://modrinth.com/mod/Cnejf5xM)
 * [Sodium Extra](https://modrinth.com/mod/PtjYWJkn)
