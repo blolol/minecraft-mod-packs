@@ -86,6 +86,7 @@ Many of these mods can be automated, too: see [Create Slice & Dice](https://modr
 * [3D Skin Layers](https://modrinth.com/project/zV5r3pPn)
 * [Better Animations Collection](https://modrinth.com/mod/OoOVj3J3)
 * [Better Clouds](https://modrinth.com/mod/5srFLIaK)
+* [Chat Heads](https://modrinth.com/project/Wb5oqrBJ)
 * [Distant Horizons](https://modrinth.com/mod/uCdwusMi)
 * [Iris](https://modrinth.com/mod/YL57xq9U)
 * [MapFrontiers](https://modrinth.com/project/hWlsli6y)

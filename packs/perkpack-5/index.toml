@@ -173,6 +173,11 @@ hash = "92705ff84059ac0735eb0dac4eac6a6f7e03049d2eead27c0a127a7320410668"
 metafile = true
 
 [[files]]
+file = "mods/chat-heads.pw.toml"
+hash = "113f65b62b62a8b34d50c1dc3260106581aaf5b84d10dc15c0195a9488a61453"
+metafile = true
+
+[[files]]
 file = "mods/cherished-worlds.pw.toml"
 hash = "63f417eca4f251f85a5ae512394cbb9fa88dfdfb2b934b94637ba8b7dac1a831"
 metafile = true
