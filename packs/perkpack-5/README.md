@@ -231,6 +231,7 @@ Perkpack comes with these shader packs, but you can also [add more](https://modr
 * [Cherished Worlds](https://modrinth.com/mod/3azQ6p0W)
 * [ClientSort](https://modrinth.com/mod/K0AkAin6)
 * [Cubes Without Borders](https://modrinth.com/mod/ETlrkaYF)
+* [Double Doors](https://modrinth.com/project/JrvR9OHr)
 * [EnchantmentDescriptions](https://modrinth.com/mod/UVtY3ZAC)
 * [Item Borders](https://modrinth.com/mod/b1fMg6sH)
 * [Jade](https://modrinth.com/mod/nvQzSEkH)

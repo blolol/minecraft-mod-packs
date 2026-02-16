@@ -333,6 +333,11 @@ hash = "61ce79aeecd3101399a33bbea16444736f2988b363a63c9f3b6a2c4fb0b3828a"
 metafile = true
 
 [[files]]
+file = "mods/double-doors.pw.toml"
+hash = "c7e3cfd32470d3e42baf3dc1dfcf9f17fb43df548d446ae32ec8a105d7604748"
+metafile = true
+
+[[files]]
 file = "mods/dungeons-and-taverns.pw.toml"
 hash = "b9244dca740d333c22f3425991fdd2fd40d3ae12384079a40a6fb7d4bca18a18"
 metafile = true
