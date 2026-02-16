@@ -126,6 +126,7 @@ Many of these mods can be automated, too: see [Create Slice & Dice](https://modr
 
 ### Major content additions
 
+* [Advanced Netherite](https://modrinth.com/project/CFX9ftUJ)
 * [Alex's Mobs](https://modrinth.com/mod/EmNhnNnt)
 * [Aquaculture](https://modrinth.com/mod/Vl1uNAuy)
 * [Aquaculture Delight](https://modrinth.com/mod/U9GJqWrI)

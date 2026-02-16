@@ -73,6 +73,11 @@ hash = "69377da3eb02f91ca12ded74b9b7c10dee102635cf8b093fd30af992a208be0a"
 metafile = true
 
 [[files]]
+file = "mods/advanced-netherite.pw.toml"
+hash = "4a7568e25cac4f4bedba140135036d9481403069a6d9513a922e9901661c05ca"
+metafile = true
+
+[[files]]
 file = "mods/advancement-plaques.pw.toml"
 hash = "395b3ebaa5249551f233467202cd4dabb4c0ee528cf1a2de7dd1253f26f5b0cf"
 metafile = true
