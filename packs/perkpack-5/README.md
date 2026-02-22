@@ -157,6 +157,7 @@ Many of these mods can be automated, too: see [Create Slice & Dice](https://modr
 * [Create: Oxidized](https://modrinth.com/mod/X9kjRZeX)
 * [Create: Power Loader](https://modrinth.com/project/wPQ6GgFE)
 * [Create: Steam 'n' Rails](https://modrinth.com/mod/L3Jv0QZI)
+* [Create: Ultimate Factory](https://modrinth.com/project/N9QToVpw)
 * [Create: Vibrant Vaults](https://modrinth.com/mod/hddN8ksR)
 * [Critters and Companions](https://modrinth.com/mod/Yd4wb5wZ)
 * [Dungeons and Taverns](https://modrinth.com/mod/tpehi7ww)
