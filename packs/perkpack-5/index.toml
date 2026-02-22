@@ -302,6 +302,11 @@ hash = "4783466b402d8e80a919c9a97f4b30aa0be39c411514d5f441d44e4e073c8f2e"
 metafile = true
 
 [[files]]
+file = "mods/create-drill-drain.pw.toml"
+hash = "3fbcb6a8065b89349d223e93fc5d58c1675bc11d1fbee86c4a9976e0f69f482d"
+metafile = true
+
+[[files]]
 file = "mods/create-encased.pw.toml"
 hash = "eef3ee7ba1a3731edf183824a30c720132fcec5d55d83c734dd846bd2ebf92f4"
 metafile = true

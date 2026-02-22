@@ -150,6 +150,7 @@ Many of these mods can be automated, too: see [Create Slice & Dice](https://modr
 * [Create: Deco](https://modrinth.com/mod/sMvUb4Rb)
 * [Create: Design 'n' Decor](https://modrinth.com/mod/x49wilh8)
 * [Create: Dragons Plus](https://modrinth.com/mod/dzb1a5WV)
+* [Create: Drill Drain](https://modrinth.com/project/DRKSn9G8)
 * [Create: Easy Stone Generators](https://modrinth.com/mod/aeW9oim1)
 * [Create: Encased](https://modrinth.com/mod/hSSqdyU1)
 * [Create: Enchantable Machinery](https://modrinth.com/project/eqrvp4NK)
