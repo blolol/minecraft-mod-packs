@@ -150,6 +150,7 @@ Many of these mods can be automated, too: see [Create Slice & Dice](https://modr
 * [Create: Design 'n' Decor](https://modrinth.com/mod/x49wilh8)
 * [Create: Dragons Plus](https://modrinth.com/mod/dzb1a5WV)
 * [Create: Easy Stone Generators](https://modrinth.com/mod/aeW9oim1)
+* [Create: Enchantable Machinery](https://modrinth.com/project/eqrvp4NK)
 * [Create: Enchantment Industry](https://modrinth.com/mod/JWGBpFUP)
 * [Create: Extra Gauges](https://modrinth.com/mod/6YJgomwt)
 * [Create: Interiors](https://modrinth.com/mod/r4Knci2k)
