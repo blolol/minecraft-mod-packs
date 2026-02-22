@@ -159,6 +159,7 @@ Many of these mods can be automated, too: see [Create Slice & Dice](https://modr
 * [Create: Extra Gauges](https://modrinth.com/mod/6YJgomwt)
 * [Create: Interiors](https://modrinth.com/mod/r4Knci2k)
 * [Create: Item Drawers](https://modrinth.com/project/3H1Rxv8i)
+* [Create: Meta Logistics](https://modrinth.com/project/2ACRRn3U)
 * [Create: Oxidized](https://modrinth.com/mod/X9kjRZeX)
 * [Create: Power Loader](https://modrinth.com/project/wPQ6GgFE)
 * [Create: Pretty in Pink](https://modrinth.com/project/sNPHd5e4)
