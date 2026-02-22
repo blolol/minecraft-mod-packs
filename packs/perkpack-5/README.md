@@ -206,6 +206,7 @@ Many of these mods can be automated, too: see [Create Slice & Dice](https://modr
 * [CITResewn](https://www.curseforge.com/minecraft/mc-mods/forge-cit)
 * [Clumps](https://modrinth.com/project/Wnxd13zP)
 * [Concurrent Chunk Management Engine](https://modrinth.com/mod/COlSi5iR)
+* [Create: Threaded Trains](https://modrinth.com/project/RYJzdkDr)
 * [Cyanide](https://modrinth.com/mod/fXbvd6mf)
 * [Dynamic FPS](https://modrinth.com/mod/LQ3K71Q1)
 * [Entity Model Features](https://modrinth.com/mod/4I1XuqiY)
