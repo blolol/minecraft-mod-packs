@@ -158,6 +158,7 @@ Many of these mods can be automated, too: see [Create Slice & Dice](https://modr
 * [Create: Item Drawers](https://modrinth.com/project/3H1Rxv8i)
 * [Create: Oxidized](https://modrinth.com/mod/X9kjRZeX)
 * [Create: Power Loader](https://modrinth.com/project/wPQ6GgFE)
+* [Create: Pretty in Pink](https://modrinth.com/project/sNPHd5e4)
 * [Create: Steam 'n' Rails](https://modrinth.com/mod/L3Jv0QZI)
 * [Create: Ultimate Factory](https://modrinth.com/project/N9QToVpw)
 * [Create: Vibrant Vaults](https://modrinth.com/mod/hddN8ksR)
