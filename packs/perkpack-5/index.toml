@@ -327,6 +327,11 @@ hash = "ee76dbe108ebf5cf68047f60ecabee5aeb029015253dc82c007b941a6d6cfcdf"
 metafile = true
 
 [[files]]
+file = "mods/create-prismatic-shine.pw.toml"
+hash = "10775cfd96ec76fb575527194beeef4b4493297c9b498066ae04aae9c50c4860"
+metafile = true
+
+[[files]]
 file = "mods/create-steam-n-rails-1.21.1.pw.toml"
 hash = "fa7e815272f183ccdeac6baff3690f6291c4117646af8912123b705fde64dbef"
 metafile = true
