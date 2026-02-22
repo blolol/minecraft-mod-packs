@@ -332,6 +332,11 @@ hash = "87e74dfb6c3bf52ef6fc01af605f51290ee45f6643dffddbd11777a43e1d3dfe"
 metafile = true
 
 [[files]]
+file = "mods/create-more-girder.pw.toml"
+hash = "875f1eff51612a8301a134550ecaa4daab23a7b091e265f1b6b579b354b5ebdf"
+metafile = true
+
+[[files]]
 file = "mods/create-power-loader.pw.toml"
 hash = "ee76dbe108ebf5cf68047f60ecabee5aeb029015253dc82c007b941a6d6cfcdf"
 metafile = true
