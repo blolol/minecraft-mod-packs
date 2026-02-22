@@ -153,6 +153,7 @@ Many of these mods can be automated, too: see [Create Slice & Dice](https://modr
 * [Create: Enchantment Industry](https://modrinth.com/mod/JWGBpFUP)
 * [Create: Extra Gauges](https://modrinth.com/mod/6YJgomwt)
 * [Create: Interiors](https://modrinth.com/mod/r4Knci2k)
+* [Create: Item Drawers](https://modrinth.com/project/3H1Rxv8i)
 * [Create: Oxidized](https://modrinth.com/mod/X9kjRZeX)
 * [Create: Power Loader](https://modrinth.com/project/wPQ6GgFE)
 * [Create: Steam 'n' Rails](https://modrinth.com/mod/L3Jv0QZI)
