@@ -852,6 +852,11 @@ hash = "0281ed9713f3141bdac363056a791845510e14761ea65b4b2813cf96d664b20a"
 metafile = true
 
 [[files]]
+file = "mods/sophisticated-backpacks-create-integration.pw.toml"
+hash = "98894c50922dfad36e4313d798d4497a61c42ce855b44fd63aea79b4990cac5d"
+metafile = true
+
+[[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
 hash = "765832eca01cad73acbfac6ed74cb0169cc14ca6c9e7c9b5396cd2d7bdaa547c"
 metafile = true
@@ -859,6 +864,11 @@ metafile = true
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
 hash = "5569b0e47ee6ef3cc89609bc93bbec46bb023153be244510069f37209cd8ab13"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-storage-create-integration.pw.toml"
+hash = "e6bb3eeda43411c95fa84549ba3281df62654e36140ec322190206fc8df512a4"
 metafile = true
 
 [[files]]
