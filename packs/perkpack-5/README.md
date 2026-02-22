@@ -144,6 +144,7 @@ Many of these mods can be automated, too: see [Create Slice & Dice](https://modr
 * [Create Encased](https://modrinth.com/mod/hSSqdyU1)
 * [Create Slice & Dice](https://modrinth.com/mod/GmjmRQ0A)
 * [Create: Bells & Whistles](https://modrinth.com/mod/gJ5afkVv)
+* [Create: Blocks & Bogies](https://modrinth.com/project/j4ARnQwY)
 * [Create: Central Kitchen](https://modrinth.com/mod/btq68HMO)
 * [Create: Connected](https://modrinth.com/mod/Vg5TIO6d)
 * [Create: Copycats+](https://modrinth.com/mod/UT2M39wf)
