@@ -407,6 +407,11 @@ hash = "08ab5ee502b94653263fdfea09b0c58958e9e6adffc45cb35f496cc5a0a6fb8d"
 metafile = true
 
 [[files]]
+file = "mods/direct-chute.pw.toml"
+hash = "87d17b6f585dec07f2b0b70c4577d508610263806926d093a2334e3cb9fca48c"
+metafile = true
+
+[[files]]
 file = "mods/distanthorizons.pw.toml"
 hash = "61ce79aeecd3101399a33bbea16444736f2988b363a63c9f3b6a2c4fb0b3828a"
 metafile = true
