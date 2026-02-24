@@ -167,6 +167,11 @@ hash = "f8b4b7d6dbfbdd5b3ff4a8fbbd95b03edb06b5ecf017e87d9fc7909c313ae6e1"
 metafile = true
 
 [[files]]
+file = "mods/big-contraptions.pw.toml"
+hash = "48d4c9305d9b6313cff72078a5e21236694fdb265ed1b2d52b0c48e4486d7aa0"
+metafile = true
+
+[[files]]
 file = "mods/biomes-o-plenty.pw.toml"
 hash = "9b1610cd28c49d34ce2fd760d208fb569f0e20055fee4c81ed4da6489b340312"
 metafile = true
