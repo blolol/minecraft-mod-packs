@@ -167,6 +167,8 @@ Many of these mods can be automated, too: see [Create Slice & Dice](https://modr
 * [Create: Prismatic Shine](https://modrinth.com/project/udEtt0b2)
 * [Create: Slice & Dice](https://modrinth.com/mod/GmjmRQ0A)
 * [Create: Steam 'n' Rails](https://modrinth.com/mod/L3Jv0QZI)
+* [Create: Stuff 'n' Additions](https://modrinth.com/project/aq9qUUQG)
+* [Create: Stuff 'n' Additions Tank Fix](https://modrinth.com/project/LANuxfjR)
 * [Create: Ultimate Factory](https://modrinth.com/project/N9QToVpw)
 * [Create: Vibrant Vaults](https://modrinth.com/mod/hddN8ksR)
 * [Critters and Companions](https://modrinth.com/mod/Yd4wb5wZ)
