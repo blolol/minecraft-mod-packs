@@ -357,6 +357,11 @@ hash = "10775cfd96ec76fb575527194beeef4b4493297c9b498066ae04aae9c50c4860"
 metafile = true
 
 [[files]]
+file = "mods/create-railways-navigator.pw.toml"
+hash = "ec69488edd55f31c6fc57cac9bab713a14394d1f63054cc4e2e5efc19a55abb9"
+metafile = true
+
+[[files]]
 file = "mods/create-steam-n-rails-1.21.1.pw.toml"
 hash = "fa7e815272f183ccdeac6baff3690f6291c4117646af8912123b705fde64dbef"
 metafile = true

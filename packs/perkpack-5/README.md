@@ -166,6 +166,7 @@ Many of these mods can be automated, too: see [Create Slice & Dice](https://modr
 * [Create: Power Loader](https://modrinth.com/project/wPQ6GgFE)
 * [Create: Pretty in Pink](https://modrinth.com/project/sNPHd5e4)
 * [Create: Prismatic Shine](https://modrinth.com/project/udEtt0b2)
+* [Create: Railways Navigator](https://modrinth.com/project/Dq3STxps)
 * [Create: Slice & Dice](https://modrinth.com/mod/GmjmRQ0A)
 * [Create: Steam 'n' Rails](https://modrinth.com/mod/L3Jv0QZI)
 * [Create: Stuff 'n' Additions](https://modrinth.com/project/aq9qUUQG)
