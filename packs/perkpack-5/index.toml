@@ -247,6 +247,11 @@ hash = "cde21d14fcaf9495f0f5b3d8fb298dd60cb12badc21a27414c25ebf11dfb3fe1"
 metafile = true
 
 [[files]]
+file = "mods/colorful-catalysts.pw.toml"
+hash = "7c4a8ce34a51f79c9a5a5ad7b5b5f1ffb77cde94e0817771dbcfd5b655535baf"
+metafile = true
+
+[[files]]
 file = "mods/comforts.pw.toml"
 hash = "36f2f6e74b7dbeccb504572d47006582207544fa234a095093b97adfc7ecd5ac"
 metafile = true

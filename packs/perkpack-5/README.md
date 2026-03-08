@@ -142,6 +142,7 @@ Many of these mods can be automated, too: see [Create Slice & Dice](https://modr
 * [Create: Bells & Whistles](https://modrinth.com/mod/gJ5afkVv)
 * [Create: Bits 'n' Bobs](https://modrinth.com/project/T8bvmqVZ)
 * [Create: Blocks & Bogies](https://modrinth.com/project/j4ARnQwY)
+* [Create: Colorful Catalysts](https://modrinth.com/project/3ADr1McV)
 * [Create: Central Kitchen](https://modrinth.com/mod/btq68HMO)
 * [Create: Connected](https://modrinth.com/mod/Vg5TIO6d)
 * [Create: Contraption Terminals](https://modrinth.com/mod/gOPAFzp0)
