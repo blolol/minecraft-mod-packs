@@ -482,6 +482,11 @@ hash = "1aa75105514780685caab9b945db2a2ea7c0594ced8c01e12f2a3e331f1af4e6"
 metafile = true
 
 [[files]]
+file = "mods/easy-villagers.pw.toml"
+hash = "232b2eb90823834c0c95a75e4db27b425608dcf1d935340de3dbf3fbf5aa7893"
+metafile = true
+
+[[files]]
 file = "mods/enchanting-infuser.pw.toml"
 hash = "6486106a7390a654715e158a5c59d804b69bf40a28736deb9a4f7742b811da06"
 metafile = true

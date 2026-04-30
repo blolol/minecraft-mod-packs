@@ -106,6 +106,7 @@ Many of these mods can be automated, too: see [Create Slice & Dice](https://modr
 * [Copper Age Backport](https://modrinth.com/mod/a1llHwl4)
 * [Easy Anvils](https://modrinth.com/mod/OZBR5JT5)
 * [Easy Magic](https://modrinth.com/mod/9hx3AbJM)
+* [Easy Villagers](https://modrinth.com/project/Kaov2qgi)
 * [Enchanting Infuser](https://modrinth.com/mod/ePv85y52)
 * [Gravestone Mod](https://modrinth.com/mod/RYtXKJPr)
 * [Infinity Water Bucket](https://modrinth.com/mod/nNMXZUPi)
