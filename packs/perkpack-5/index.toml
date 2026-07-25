@@ -9,20 +9,12 @@ file = "config/yosbr/config/MouseTweaks.cfg"
 hash = "b317eebca4b559618fdfab00654abe556389369a81176b5638ade896af581400"
 
 [[files]]
-file = "config/yosbr/config/expanded_ecosphere/config.json5"
-hash = "2f14a15f39dd290ce61f1b8e1cf786ea92adb33466705e66a48b3de3eba499d4"
-
-[[files]]
 file = "config/yosbr/config/jei/jei-client.ini"
 hash = "b7c690eee340378d8d33b36de6a58d2f68ebc6c8998322284c0279101427a42a"
 
 [[files]]
 file = "config/yosbr/config/journeymap-server.toml"
 hash = "e9a9561e51dab88e12c261a7097788e1e3d6ba95c6035bdefa11cc91b4f50ab5"
-
-[[files]]
-file = "config/yosbr/config/mapfrontiers-client.toml"
-hash = "799048a03efcc2d83dc31f26d1713d4424325db3be939e42dffeb011c3c0e5b2"
 
 [[files]]
 file = "config/yosbr/config/mod_menu-client.toml"
@@ -35,10 +27,6 @@ hash = "8393f01d0e2368ee185bfaf3284bae2513d9818587cff92e189893feacbffbe4"
 [[files]]
 file = "config/yosbr/config/rightclickharvest.json5"
 hash = "0d1a75fa334264e5cd9ef406e506d22861da93c18a3286a0f9bba4ecadde3060"
-
-[[files]]
-file = "config/yosbr/config/sodiumdynamiclights-client.toml"
-hash = "001e45df23122651b3645821df31cf3ada9de4fa1bf8a75c377d45169c124fb2"
 
 [[files]]
 file = "config/yosbr/config/supplementaries-common.toml"
@@ -54,7 +42,7 @@ hash = "08f5d56939c2cd24b5d746f01674e8d04ec796fec1f424bb1799dadca65a79cb"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "a910bebda24c0b0526553eeb73c60e3554162f10226e768f3b170e01416cbb00"
+hash = "b10941b0139e47c22077834f1be637ecea8fe0f7afe5da2123a06ec05252d9ec"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
