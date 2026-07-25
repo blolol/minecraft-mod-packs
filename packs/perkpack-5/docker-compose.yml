@@ -18,16 +18,18 @@ services:
     environment:
       EULA: "true"
       ICON: http://caddy/images/perkpack-5@64.png
+      LEVEL_TYPE: "minecraft:large_biomes"
       MEMORY: "6G"
       MOTD: "Perkpack 5 dev"
-      NEOFORGE_VERSION: "21.1.219"
+      NEOFORGE_VERSION: "21.1.234"
       OPS_FILE: https://s3.amazonaws.com/minecraft/allowlists/blolol.ops.json
       PACKWIZ_URL: http://caddy/pack.toml
       REMOVE_OLD_DATAPACKS: "true"
-      SEED: "4110818398177769998"
+      SEED: "99000050"
       SPAWN_PROTECTION: 0
       TYPE: NEOFORGE
       USE_AIKAR_FLAGS: "true"
+      WORLD: ""
       VERSION: "1.21.1"
 volumes:
   caddy_data:

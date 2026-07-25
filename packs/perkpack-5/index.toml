@@ -180,11 +180,6 @@ hash = "48d4c9305d9b6313cff72078a5e21236694fdb265ed1b2d52b0c48e4486d7aa0"
 metafile = true
 
 [[files]]
-file = "mods/biolith.pw.toml"
-hash = "17a19b546170937c6c676c026b1cd80909ac7ac4fe70b1830ce37b9c72585085"
-metafile = true
-
-[[files]]
 file = "mods/blocks-bogies.pw.toml"
 hash = "feb4efaaeaa4ee270d04de7f06e377ada25e3977649c7d6de227ea6338396634"
 metafile = true
@@ -322,11 +317,6 @@ metafile = true
 [[files]]
 file = "mods/create-connected.pw.toml"
 hash = "61afa588fd3156a29418aef463c527308b014e72d86b5ca7c03f2f28973ca27a"
-metafile = true
-
-[[files]]
-file = "mods/create-contraption-terminals.pw.toml"
-hash = "02d3c2c9758fe92e9010111553cbdc4edd009ffc543af0eac41b7b016a7047d1"
 metafile = true
 
 [[files]]
@@ -565,18 +555,8 @@ hash = "9aab64fbec4cc794817026caf84e7d0dff14ba3892da94aa0e00d23c84560499"
 metafile = true
 
 [[files]]
-file = "mods/feature-recycler.pw.toml"
-hash = "3906397a3ebbc40c0978609fcf0934fab3870c2f7dd9f29ec65b1f257d7d2750"
-metafile = true
-
-[[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "73360e397134d238ee8fd21d33fd7f9275e9441f74f8f1b6ed92278877c0b9f1"
-metafile = true
-
-[[files]]
-file = "mods/forge-cit.pw.toml"
-hash = "5115aa2453a30675b9048bf7862e3193b43fc543ba27c3ecdebc44dce7bce2e5"
 metafile = true
 
 [[files]]
@@ -936,7 +916,7 @@ metafile = true
 
 [[files]]
 file = "mods/smartbrainlib.pw.toml"
-hash = "27c6365bdc19eff05f3231bff86a4f09b2d584fed40de92d67c00b4cbd52862a"
+hash = "6e7ce9c2aee5bb72d2698eb89035c9b2458d20daa0782e1a03cfba7a6647621e"
 metafile = true
 
 [[files]]
@@ -1020,11 +1000,6 @@ hash = "805c7b44181e5826bdbf4fcc21b14d93cd8ff656747356d325a5cb81a8fa3de5"
 metafile = true
 
 [[files]]
-file = "mods/tps-hud-tickpulse.pw.toml"
-hash = "449a0ff81eb4d581915501c0e833fa1364993667d3aa1590c10f663a652f16cd"
-metafile = true
-
-[[files]]
 file = "mods/trashslot.pw.toml"
 hash = "c1e0c805d5ccd49535a6820aa8a2461a516437f90312fcadd393f928e3ce7bf2"
 metafile = true
@@ -1046,7 +1021,7 @@ metafile = true
 
 [[files]]
 file = "mods/wakes-reforged.pw.toml"
-hash = "aae5db2e86db9afbf6a56991ea436a04807663209a9f849e4fc538193d730fc8"
+hash = "a01afb86823e4097f6c88a3f8a2beb042b84e600ca45482981d2d60e1a6d62a8"
 metafile = true
 
 [[files]]
