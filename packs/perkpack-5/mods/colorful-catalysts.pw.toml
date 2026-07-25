@@ -1,13 +1,13 @@
 name = "Create: Colorful Catalysts"
-filename = "colorful_catalysts-1.2.1.jar"
+filename = "colorful_catalysts-2.0.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/3ADr1McV/versions/SrVam98r/colorful_catalysts-1.2.1.jar"
+url = "https://cdn.modrinth.com/data/3ADr1McV/versions/XyrWUlJ7/colorful_catalysts-2.0.1.jar"
 hash-format = "sha512"
-hash = "32bafc9fc2e44f22fd747b9f9ebd094322579589884d8ee8c5a256b158ed0d099880df58495c0e5ca122381a0a2efca54680b38c46a309a2b05f8c34d5e4a29f"
+hash = "1cdf9146f8af0fcc24d8294efb592d37a7684ec80e64d56285109aeab8a7c320203a6ac7e14e23ef85cdc1e7ff8f0e923ef14204ddbb48cd6ba01b069e933d4f"
 
 [update]
 [update.modrinth]
 mod-id = "3ADr1McV"
-version = "SrVam98r"
+version = "XyrWUlJ7"
