@@ -1,0 +1,13 @@
+name = "Create: Extended Filters"
+filename = "createextendedfilters-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/cNMOItGn/versions/KmleHrCm/createextendedfilters-1.0.0.jar"
+hash-format = "sha512"
+hash = "a54f28c904dafda95b9e497bc82f34a72dc1fbd20d06fe7bae90e80456f19b3dcdaa7eec49ee7b82d56d108499184237353d28a4b016de58fb2dfdbbed24d216"
+
+[update]
+[update.modrinth]
+mod-id = "cNMOItGn"
+version = "KmleHrCm"

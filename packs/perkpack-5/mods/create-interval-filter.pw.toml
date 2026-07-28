@@ -1,0 +1,13 @@
+name = "Create: Interval Filter"
+filename = "createintervalfilter-1.0.0+mc-1.21.1-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/CRZZ4kPb/versions/MliWshR9/createintervalfilter-1.0.0%2Bmc-1.21.1-neoforge.jar"
+hash-format = "sha512"
+hash = "67203309d9e0dd6843993a13cfc8469c8b108761481ab6bb34bda212031cafc2e56c9666caa04aaca9930f72314cdfb4d63cc234ab2083cfa18dfedd512cc7a5"
+
+[update]
+[update.modrinth]
+mod-id = "CRZZ4kPb"
+version = "MliWshR9"
