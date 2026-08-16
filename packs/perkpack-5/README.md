@@ -216,6 +216,7 @@ Perkpack comes with these shader packs, but you can also [add more](https://modr
 * [Accessories](https://modrinth.com/mod/jtmvUHXj)
 * [Accessories Compatibility Layer](https://modrinth.com/mod/ySnjMzLg)
 * [Accessorify](https://modrinth.com/mod/CVRzrXGP)
+* [Armor Statues](https://modrinth.com/mod/armor-statues)
 * [Better Advancements](https://modrinth.com/mod/Q2OqKxDG)
 * [Better Climbing](https://modrinth.com/project/ZucWZEBV)
 * [Carry On](https://modrinth.com/project/joEfVgkn)
