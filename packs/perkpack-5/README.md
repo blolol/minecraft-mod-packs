@@ -107,6 +107,7 @@ Many of these mods can be automated, too: see [Create Slice & Dice](https://modr
 * [Easy Villagers](https://modrinth.com/project/Kaov2qgi)
 * [Enchanting Infuser](https://modrinth.com/mod/ePv85y52)
 * [Gravestone Mod](https://modrinth.com/mod/RYtXKJPr)
+* [Just Hammers](https://modrinth.com/mod/just-hammers)
 * [Reconnectible Chains](https://modrinth.com/mod/reconnectible-chains)
 * [Sophisticated Backpacks](https://modrinth.com/mod/TyCTlI4b)
 * [Sophisticated Backpacks Create Integration](https://modrinth.com/project/s85zLEDe)
