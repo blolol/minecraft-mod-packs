@@ -147,6 +147,7 @@ Many of these mods can be automated, too: see [Create Slice & Dice](https://modr
 * [Create: Enchantment Industry](https://modrinth.com/mod/JWGBpFUP)
 * [Create: Extended Filters](https://modrinth.com/mod/create-extended-filters)
 * [Create: Extra Gauges](https://modrinth.com/mod/6YJgomwt)
+* [Create: Frogport Reworked](https://www.curseforge.com/minecraft/mc-mods/frogport-reworked)
 * [Create: Interiors](https://modrinth.com/mod/r4Knci2k)
 * [Create: Interval Filter](https://modrinth.com/mod/create-interval-filter)
 * [Create: Item Drawers](https://modrinth.com/project/3H1Rxv8i)

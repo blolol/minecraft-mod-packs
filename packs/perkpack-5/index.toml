@@ -600,6 +600,11 @@ hash = "184c6768f11e0c33c22c104397ad559c5b9337c709d1d05c8e9c93891dcddaee"
 metafile = true
 
 [[files]]
+file = "mods/frogport-reworked.pw.toml"
+hash = "697d995d8fec1123f852107c105ab1392c36af46a6745c2dfa8f5c106f8cd5aa"
+metafile = true
+
+[[files]]
 file = "mods/fusion-connected-textures.pw.toml"
 hash = "7ce307217d2e79043759700b1046b2986d51953d0d4cb042b98d9dffcf570c2f"
 metafile = true
