@@ -24,7 +24,7 @@ It's just a few clicks to install the game launcher and the mod pack. Once you'v
 * **Borderless fullscreen:** You can switch to borderless fullscreen window mode in Main Menu > Options > Video Settings > General, and cycle Fullscreen Mode until it says "Borderless". If your Fullscreen Mode setting appears as a checkbox, open the vanilla game's video settings by pressing <kbd>Control + Shift + P</kbd> (or <kbd>Command + Shift + P</kbd> on a Mac), and you should be able to cycle the Fullscreen Mode button there.
 * **Jade:** To toggle [Jade](https://modrinth.com/mod/jade)'s HUD at the top of your screen that displays details of what you're looking at in the world, press <kbd>1</kbd> on your keypad with the default key binds. To customize Jade's settings, go to Main Menu > Mods > Jade > Config.
 * **Recipe viewer:** You can filter [Just Enough Items](https://modrinth.com/mod/jei)' item list by mod name. Open your inventory screen, press <kbd>Control + F</kbd> (or <kbd>Command + F</kbd> on a Mac) to focus the search input, and enter `@terra`, or any other fragment of a mod name prefixed with `@`, to filter the list of blocks and items to ones added by that mod. More advanced features are documented on [the mod's Modrinth page](https://modrinth.com/mod/jei).
-* **Maps:** You decide what level of navigation difficulty you find most enjoyable. You can play without any maps at all (the default) or enable [Xaero's Minimap](https://modrinth.com/mod/xaeros-minimap) and/or [Xaero's World Map](https://modrinth.com/mod/xaeros-world-map) in Options > Controls > Key Binds. It's up to you!
+* **Maps:** You decide what level of navigation difficulty you find most enjoyable. You can play without any maps at all (the default) or enable [JourneyMap](https://modrinth.com/plugin/journeymap) in Options > Controls > Key Binds. It's up to you!
 * For tips about TerraFirmaCraft gameplay, check out [its Borkpaedia article](https://wiki.blolol.com/TerraPerkaCraft).
 
 ## Mods
@@ -35,7 +35,6 @@ It's just a few clicks to install the game launcher and the mod pack. Once you'v
 * [Caelum](https://modrinth.com/mod/caelum) adds a realistic night sky and celestial objects that you can use to navigate
 * [GraveStone Mod](https://modrinth.com/mod/gravestone-mod) places a grave with your stuff when you die, so it doesn't despawn (its obituary feature is disabled, to prevent cheesing your location using the coordinates it shows)
 * [Roads and Roofs](https://modrinth.com/mod/roads-and-roofs-tfc) provides an immersive road-building process and a movement speed boost on completed roads
-* [Xaero's Minimap](https://modrinth.com/mod/xaeros-minimap) and [Xaero's World Map](https://modrinth.com/mod/xaeros-world-map)
 
 ### Quality of Life
 
@@ -43,6 +42,7 @@ It's just a few clicks to install the game launcher and the mod pack. Once you'v
 * [Cubes Without Borders](https://modrinth.com/mod/cubes-without-borders) adds borderless fullscreen support
 * [Jade](https://modrinth.com/mod/jade) provides a small HUD at the top of your screen that displays the name of the block or entity you're looking at in the world
   * [TFC Support Indicator](https://modrinth.com/mod/tfc-support-indicator) adds an optional indicator to Jade's HUD about whether the block you're looking at is [supported against collapse](https://terrafirmacraft.github.io/Field-Guide/en_us/core_mechanics/support_beams.html).
+* [JourneyMap](https://modrinth.com/plugin/journeymap) adds a fullscreen and minimap. Both are disabled by default. To use them, map keys to "Show/Hide Fullscreen Map" and/or "Show/Hide Minimap" in Options > Controls > Key Binds.
 * [Just Enough Items](https://modrinth.com/mod/jei) for more easily browsing and searching items and recipes in your inventory screen
 * [Mouse Tweaks](https://modrinth.com/mod/mouse-tweaks) allows you to use your scroll wheel to move items between your inventory and containers
 * [Quark](https://modrinth.com/mod/quark) adds an auto-walk keybind, inventory sorting and filtering, and a couple of other quality of life tweaks

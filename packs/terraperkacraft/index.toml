@@ -9,20 +9,32 @@ file = "configureddefaults/config/MouseTweaks.cfg"
 hash = "adc06ca99bdc9ecb6181f28dc38199e2bbc2d1907bf095de41a0e7e2842c98ea"
 
 [[files]]
+file = "configureddefaults/config/journeymap-server.toml"
+hash = "4f2ae91e0f6be2803dda1814917fe920a4b4c0e594389ba31abefe46cd34a1c8"
+
+[[files]]
 file = "configureddefaults/config/quark-common.toml"
 hash = "27e1271861eb1eb57986ff2ae8de3ffd143cc77d4c52b5ac3af2b8020b945bb9"
 
 [[files]]
-file = "configureddefaults/config/xaerominimap.txt"
-hash = "d018531488192139472eb17353a8409eeb64203a5634335cb1eada5330635299"
+file = "configureddefaults/journeymap/config/6.0/journeymap.core.config"
+hash = "57c92417d390fb3953da88b54c7438134a88b6ada9ad6fed7e7c79e5b7171c61"
 
 [[files]]
-file = "configureddefaults/config/xaeroworldmap.txt"
-hash = "7bcaa909613c955d99e6982018a780622dfc91c6dd462791f5e67c17599d5a3f"
+file = "configureddefaults/journeymap/config/6.0/journeymap.fullmap.config"
+hash = "2c103436d6ea58ef5695d71d8fe788977ef8a647ed6fa50424e21e5b95e40e49"
+
+[[files]]
+file = "configureddefaults/journeymap/config/6.0/journeymap.minimap.config"
+hash = "db9ef04ef3a52126e601b3427ad221aaa86fa85583d3a798f9c6028bbc81e849"
+
+[[files]]
+file = "configureddefaults/journeymap/config/6.0/journeymap.minimap2.config"
+hash = "2e4f3319428bbb2d83af58dd34e28666ef228b8a16055f1fb2586b4fdc6e7a1a"
 
 [[files]]
 file = "configureddefaults/options.txt"
-hash = "83fbf972e4c73e9b8733ff742e16732f5273224031e849baadad246e3200c023"
+hash = "1d873e5ffd5780a17a0d3b800a5330712e2ddded37a02b9aea8cf7b8848ceecd"
 
 [[files]]
 file = "mods/ambientsounds.pw.toml"
@@ -115,6 +127,16 @@ hash = "69eef69e9cd9250e4c08420752d0c6b3990d103af5cafb4ce5eb58bda2df0d23"
 metafile = true
 
 [[files]]
+file = "mods/journeymap.pw.toml"
+hash = "fad5f139a9d3f6678b599d1539f0769a5ebe1d9673201a120566ea37c45b9155"
+metafile = true
+
+[[files]]
+file = "mods/journeymaptfcintegration.pw.toml"
+hash = "dd810f3219671ce18219eb83cd1463d3d127adf478159e0f10dea4b8ebe58ebe"
+metafile = true
+
+[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "c84140c66f233909b392bd7253ca33c59903ffda51beff558d9a2a4a8c6bc269"
 metafile = true
@@ -187,16 +209,6 @@ metafile = true
 [[files]]
 file = "mods/tfc-vessel-tooltip.pw.toml"
 hash = "4e9142d9fc1d7d1a056d77380bd625436233f9b0253a09990c037e9b31772a83"
-metafile = true
-
-[[files]]
-file = "mods/xaeros-minimap.pw.toml"
-hash = "2a1cc1c3d96e65e00ce71cf9ed95067ac6eca1c6f4a9dc70c305033dce448b1b"
-metafile = true
-
-[[files]]
-file = "mods/xaeros-world-map.pw.toml"
-hash = "1ee13133432b1402a3d9a557c2a12ee97674be239f534d8d93a1a260e96ce44b"
 metafile = true
 
 [[files]]
