@@ -6,7 +6,7 @@ TerraFirmaCraft is a total conversion mod that increases the depth and raises th
 
 Game systems are explained using an in-game field guide (press <kbd>e</kbd> to view your inventory, then click the 📘 tab), which is also available online: https://terrafirmacraft.github.io/Field-Guide/en_us/
 
-The TerraFirmaCraft base game is further expanded with [Firmalife](https://terrafirmacraft.github.io/Field-Guide/en_us/firmalife/)'s cooking and farming, and [Firma: Civilization](https://terrafirmacraft.github.io/Field-Guide/en_us/firmaciv/)'s boats and navigation.
+The TerraFirmaCraft base game is further expanded with [Firmalife](https://terrafirmacraft.github.io/Field-Guide/en_us/firmalife/)'s cooking and farming.
 
 More information about Blolol's history with TerraFirmaCraft, and details about TerraPerkaCraft servers and worlds, can be found on Borkpaedia: https://wiki.blolol.com/TerraPerkaCraft
 
@@ -21,9 +21,9 @@ It's just a few clicks to install the game launcher and the mod pack. Once you'v
 
 ### Tips and tricks
 
-* **Borderless fullscreen:** You can switch to borderless fullscreen window mode in Main Menu > Options > Video Settings > General, and cycle Fullscreen Mode until it says "Borderless".
+* **Borderless fullscreen:** You can switch to borderless fullscreen window mode in Main Menu > Options > Video Settings > General, and cycle Fullscreen Mode until it says "Borderless". If your Fullscreen Mode setting appears as a checkbox, open the vanilla game's video settings by pressing <kbd>Control + Shift + P</kbd> (or <kbd>Command + Shift + P</kbd> on a Mac), and you should be able to cycle the Fullscreen Mode button there.
 * **Jade:** To toggle [Jade](https://modrinth.com/mod/jade)'s HUD at the top of your screen that displays details of what you're looking at in the world, press <kbd>1</kbd> on your keypad with the default key binds. To customize Jade's settings, go to Main Menu > Mods > Jade > Config.
-* **Recipe viewer:** You can filter [Just Enough Items](https://modrinth.com/mod/jei)' item list by mod name. Open your inventory screen, press <kbd>^F</kbd> (or <kbd>⌘F</kbd> on a Mac) to focus the search input, and enter `@terra`, or any other fragment of a mod name prefixed with `@`, to filter the list of blocks and items to ones added by that mod. More advanced features are documented on [the mod's Modrinth page](https://modrinth.com/mod/jei).
+* **Recipe viewer:** You can filter [Just Enough Items](https://modrinth.com/mod/jei)' item list by mod name. Open your inventory screen, press <kbd>Control + F</kbd> (or <kbd>Command + F</kbd> on a Mac) to focus the search input, and enter `@terra`, or any other fragment of a mod name prefixed with `@`, to filter the list of blocks and items to ones added by that mod. More advanced features are documented on [the mod's Modrinth page](https://modrinth.com/mod/jei).
 * **Maps:** You decide what level of navigation difficulty you find most enjoyable. You can play without any maps at all (the default) or enable [Xaero's Minimap](https://modrinth.com/mod/xaeros-minimap) and/or [Xaero's World Map](https://modrinth.com/mod/xaeros-world-map) in Options > Controls > Key Binds. It's up to you!
 * For tips about TerraFirmaCraft gameplay, check out [its Borkpaedia article](https://wiki.blolol.com/TerraPerkaCraft).
 
