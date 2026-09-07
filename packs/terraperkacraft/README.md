@@ -42,7 +42,7 @@ It's just a few clicks to install the game launcher and the mod pack. Once you'v
 * [Chat Heads](https://modrinth.com/mod/chat-heads) adds player heads next to chat messages
 * [Cubes Without Borders](https://modrinth.com/mod/cubes-without-borders) adds borderless fullscreen support
 * [Jade](https://modrinth.com/mod/jade) provides a small HUD at the top of your screen that displays the name of the block or entity you're looking at in the world
-  * [TFC Support Indicator](https://modrinth.com/mod/tfc-support-indicator) adds an optional indicator to Jade's HUD about whether the block you're looking at is [supported against collapse](https://terrafirmacraft.github.io/Field-Guide/en_us/mechanics/support_beams.html).
+  * [TFC Support Indicator](https://modrinth.com/mod/tfc-support-indicator) adds an optional indicator to Jade's HUD about whether the block you're looking at is [supported against collapse](https://terrafirmacraft.github.io/Field-Guide/en_us/core_mechanics/support_beams.html).
 * [Just Enough Items](https://modrinth.com/mod/jei) for more easily browsing and searching items and recipes in your inventory screen
 * [Mouse Tweaks](https://modrinth.com/mod/mouse-tweaks) allows you to use your scroll wheel to move items between your inventory and containers
 * [Quark](https://modrinth.com/mod/quark) adds an auto-walk keybind, inventory sorting and filtering, and a couple of other quality of life tweaks
