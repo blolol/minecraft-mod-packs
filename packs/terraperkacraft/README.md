@@ -1,6 +1,6 @@
 ![TerraPerkaCraft logo](images/title.png)
 
-**TerraPerkaCraft** is Blolol's [TerraFirmaCraft](https://modrinth.com/mod/terrafirmacraft) (TFC) hardcore survival Minecraft mod pack, based on Minecraft 1.20 and the NeoForge mod loader.
+**TerraPerkaCraft** is Blolol's [TerraFirmaCraft](https://modrinth.com/mod/terrafirmacraft) (TFC) hardcore survival Minecraft mod pack, based on Minecraft 1.21.1 and the NeoForge mod loader.
 
 TerraFirmaCraft is a total conversion mod that increases the depth and raises the difficulty of Minecraft's survival mode. Expect to spend much longer in the early game, collecting sticks and stones to [knap basic tools](https://terrafirmacraft.github.io/Field-Guide/en_us/getting_started/introduction.html), keeping your [campfire fueled](https://terrafirmacraft.github.io/Field-Guide/en_us/getting_started/firepit.html), and contending with [hunger, thirst](https://terrafirmacraft.github.io/Field-Guide/en_us/getting_started/food_and_water.html), [temperature and changing seasons](https://terrafirmacraft.github.io/Field-Guide/en_us/the_world/climate.html).
 
@@ -12,48 +12,35 @@ More information about Blolol's history with TerraFirmaCraft, and details about 
 
 ## How to play
 
-If you haven't played Minecraft in a while, you might want to peruse the last few major game updates to see what's new:
+It's just a few clicks to install the game launcher and the mod pack. Once you've installed it, TerraPerkaCraft will keep itself up to date each time you launch it.
 
-* [1.20 "Trails & Tails" update guide](https://minecraft.wiki/w/Java_Edition_guides/Trails_%26_Tales) (June 2023)
-* [1.19 "The Wild" update guide](https://minecraft.wiki/w/Java_Edition_guides/The_Wild_Update) (June 2022)
-* [1.17 and 1.18 "Caves & Cliffs" update guide](https://minecraft.wiki/w/Java_Edition_guides/Caves_%26_Cliffs:_Part_I) (June 2021)
-
-It's just a few clicks to install Java, the game launcher, and the mod pack. Once you've installed it, TerraPerkaCraft will keep itself up to date each time you launch it.
-
-> [!IMPORTANT]
-> TerraPerkaCraft and Minecraft 1.20.1 **require Java 17,** and are incompatible with newer or older releases. Make sure you install the correct version!
-
-1. Install [Java 17](https://prismlauncher.org/wiki/getting-started/installing-java/).
-2. Install [Prism Launcher](https://prismlauncher.org).
-3. In Prism Launcher, click "Add Instance", then "Import".
-4. Give the instance a name like "TerraPerkaCraft", then paste in this URL: https://github.com/blolol/minecraft-mod-packs/raw/main/packs/terraperkacraft/prism-instance.zip
-5. Right-click the instance, select Edit > Settings > Java, and ensure the selected version of Java points to an installation of Java 17.
-6. Once you're in-game, connect to `tpc.mc.blolol.com`.
+1. Install [Prism Launcher](https://prismlauncher.org).
+2. In Prism Launcher, click "Add Instance", then "Import".
+3. Give the instance a name like "TerraPerkaCraft", then paste in this URL: https://github.com/blolol/minecraft-mod-packs/raw/main/packs/terraperkacraft/prism-instance.zip
+4. Once you're in-game, connect to `tpc.mc.blolol.com` (`tfc.mc.blolol.com` also works).
 
 ### Tips and tricks
 
 * **Borderless fullscreen:** You can switch to borderless fullscreen window mode in Main Menu > Options > Video Settings > General, and cycle Fullscreen Mode until it says "Borderless".
 * **Jade:** To toggle [Jade](https://modrinth.com/mod/jade)'s HUD at the top of your screen that displays details of what you're looking at in the world, press <kbd>1</kbd> on your keypad with the default key binds. To customize Jade's settings, go to Main Menu > Mods > Jade > Config.
 * **Recipe viewer:** You can filter [Just Enough Items](https://modrinth.com/mod/jei)' item list by mod name. Open your inventory screen, press <kbd>^F</kbd> (or <kbd>⌘F</kbd> on a Mac) to focus the search input, and enter `@terra`, or any other fragment of a mod name prefixed with `@`, to filter the list of blocks and items to ones added by that mod. More advanced features are documented on [the mod's Modrinth page](https://modrinth.com/mod/jei).
-* **Maps:** You decide what level of navigation difficulty you find most enjoyable. You can play without any maps at all (the default), use the end-game [atlas](https://www.curseforge.com/minecraft/mc-mods/map-atlases-forge) recipe provided by [TFCivilization Atlases](https://modrinth.com/mod/tfcivilization-atlases) for an immersive mapping experience, or enable [Xaero's Minimap](https://modrinth.com/mod/xaeros-minimap) and/or [Xaero's World Map](https://modrinth.com/mod/xaeros-world-map) in Options > Controls > Key Binds. It's up to you!
+* **Maps:** You decide what level of navigation difficulty you find most enjoyable. You can play without any maps at all (the default) or enable [Xaero's Minimap](https://modrinth.com/mod/xaeros-minimap) and/or [Xaero's World Map](https://modrinth.com/mod/xaeros-world-map) in Options > Controls > Key Binds. It's up to you!
 * For tips about TerraFirmaCraft gameplay, check out [its Borkpaedia article](https://wiki.blolol.com/TerraPerkaCraft).
 
 ## Mods
 
 * [TerraFirmaCraft](https://modrinth.com/mod/terrafirmacraft) ([field guide](https://terrafirmacraft.github.io/Field-Guide/en_us/))
 * [Firmalife](https://modrinth.com/mod/firmalife) cooking and farming addon ([field guide](https://terrafirmacraft.github.io/Field-Guide/en_us/firmalife/))
-* [Firma: Civilization](https://modrinth.com/mod/firmaciv) boats and navigation addon ([field guide](https://terrafirmacraft.github.io/Field-Guide/en_us/firmaciv/)), which integrates TerraFirmaCraft with:
-  * [Nifty Ships](https://modrinth.com/mod/alekiships) adds small boats and larger ships that are built piece by piece in-world, and use a wind and sail simulation
-  * [Ridiculously Simple Roofs](https://modrinth.com/mod/alekiroofs) adds slab-like roof blocks
 * [ArborFirmaCraft](https://modrinth.com/mod/arborfirmacraft-(afc)) adds tree species that correspond with the vanilla Minecraft wood colors that are otherwise missing from TerraFirmaCraft
 * [Caelum](https://modrinth.com/mod/caelum) adds a realistic night sky and celestial objects that you can use to navigate
 * [GraveStone Mod](https://modrinth.com/mod/gravestone-mod) places a grave with your stuff when you die, so it doesn't despawn (its obituary feature is disabled, to prevent cheesing your location using the coordinates it shows)
-* [Map Atlases](https://www.curseforge.com/minecraft/mc-mods/map-atlases-forge) and [TFCivilization Atlases](https://modrinth.com/mod/tfcivilization-atlases) provides end-game minimap functionality using Firma: Civilization's navigation tools
 * [Roads and Roofs](https://modrinth.com/mod/roads-and-roofs-tfc) provides an immersive road-building process and a movement speed boost on completed roads
 * [Xaero's Minimap](https://modrinth.com/mod/xaeros-minimap) and [Xaero's World Map](https://modrinth.com/mod/xaeros-world-map)
 
 ### Quality of Life
 
+* [Chat Heads](https://modrinth.com/mod/chat-heads) adds player heads next to chat messages
+* [Cubes Without Borders](https://modrinth.com/mod/cubes-without-borders) adds borderless fullscreen support
 * [Jade](https://modrinth.com/mod/jade) provides a small HUD at the top of your screen that displays the name of the block or entity you're looking at in the world
   * [TFC Support Indicator](https://modrinth.com/mod/tfc-support-indicator) adds an optional indicator to Jade's HUD about whether the block you're looking at is [supported against collapse](https://terrafirmacraft.github.io/Field-Guide/en_us/mechanics/support_beams.html).
 * [Just Enough Items](https://modrinth.com/mod/jei) for more easily browsing and searching items and recipes in your inventory screen
@@ -68,10 +55,9 @@ It's just a few clicks to install Java, the game launcher, and the mod pack. Onc
 
 ### Performance
 
-* [Chunky](https://modrinth.com/plugin/chunky)
-* [Distant Horizons](https://modrinth.com/mod/sound-physics-remastered)
+* [Distant Horizons](https://modrinth.com/mod/distanthorizons)
 * [Embeddium](https://modrinth.com/mod/embeddium)
-* [Embeddium++](https://modrinth.com/mod/embeddiumplus)
+* [Embeddium Extra](https://modrinth.com/mod/rubidium-extra)
 * [FerriteCore](https://modrinth.com/mod/ferrite-core)
 * [ImmediatelyFast](https://modrinth.com/mod/immediatelyfast)
 * [ModernFix](https://modrinth.com/mod/modernfix)

@@ -1,10 +1,6 @@
-version:3465
+version:3955
 darkMojangStudiosBackground:true
-resourcePacks:["vanilla","file/Vexxed_Visuals_TFC_v1.2.7.1.zip"]
-key_key.map_atlases.open_minimap:key.keyboard.unknown
-key_key.map_atlases.zoom_out_minimap:key.keyboard.unknown
-key_key.map_atlases.zoom_in_minimap:key.keyboard.unknown
-key_key.map_atlases.place_pin:key.keyboard.unknown
+resourcePacks:["vanilla","file/Vexxed_Visuals_TFC_v1.3.8.zip"]
 key_gui.xaero_switch_waypoint_set:key.keyboard.unknown
 key_gui.xaero_instant_waypoint:key.keyboard.unknown
 key_gui.xaero_toggle_slime:key.keyboard.unknown
@@ -32,7 +28,4 @@ key_gui.xaero_map_zoom_in:key.keyboard.unknown
 key_gui.xaero_map_zoom_out:key.keyboard.unknown
 key_gui.xaero_quick_confirm:key.keyboard.unknown
 key_gui.xaero_toggle_dimension:key.keyboard.unknown
-key_quark.keybind.autorun:key.keyboard.grave.accent
-key_quark.keybind.camera_mode:key.keyboard.unknown
-key_quark.keybind.variant_selector:key.keyboard.unknown
 key_key.ryoamiclights.dyn_light:key.keyboard.unknown

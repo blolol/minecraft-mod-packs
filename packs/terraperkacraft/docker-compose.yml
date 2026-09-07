@@ -24,13 +24,13 @@ services:
       MEMORY: "8G"
       MODE: creative
       MOTD: "TerraPerkaCraft development server"
-      NEOFORGE_VERSION: "47.1.106"
+      NEOFORGE_VERSION: "21.1.250"
       OPS_FILE: https://s3.amazonaws.com/minecraft/allowlists/blolol.ops.json
       PACKWIZ_URL: http://caddy/pack.toml
       REMOVE_OLD_DATAPACKS: "true"
       SPAWN_PROTECTION: 0
       TYPE: NEOFORGE
       USE_AIKAR_FLAGS: "true"
-      VERSION: "1.20.1"
+      VERSION: "1.21.1"
 volumes:
   caddy_data:
