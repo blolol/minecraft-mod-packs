@@ -175,8 +175,18 @@ hash = "1e4cdafd20473e76cea6652d784cb07b6e72566560a39fcd926aebd44fed430d"
 metafile = true
 
 [[files]]
+file = "mods/tfc-ore-tooltips.pw.toml"
+hash = "56d00a78040251052e91a6f98a082a9a8b8ebec0dc8199e413aa48c5cf3810af"
+metafile = true
+
+[[files]]
 file = "mods/tfc-support-indicator.pw.toml"
 hash = "10bd34de2a963b7bf8d7dc711ca9c560521ae789e28eb81d40d983d6fc18eb4b"
+metafile = true
+
+[[files]]
+file = "mods/tfc-vessel-tooltip.pw.toml"
+hash = "4e9142d9fc1d7d1a056d77380bd625436233f9b0253a09990c037e9b31772a83"
 metafile = true
 
 [[files]]

@@ -47,6 +47,8 @@ It's just a few clicks to install the game launcher and the mod pack. Once you'v
 * [Mouse Tweaks](https://modrinth.com/mod/mouse-tweaks) allows you to use your scroll wheel to move items between your inventory and containers
 * [Quark](https://modrinth.com/mod/quark) adds an auto-walk keybind, inventory sorting and filtering, and a couple of other quality of life tweaks
 * [RyoamicLights](https://modrinth.com/mod/ryoamiclights) adds dynamic lights (a torch held in your hand lights up the world around you)
+* [TFC Ore Tooltips](https://modrinth.com/mod/tfc-ore-tooltips) displays useful geological information in ore item tooltips
+* [TFC Vessel Tooltip](https://modrinth.com/mod/tfc-vessel-tooltip) displays useful alloying information in vessel tooltips
 
 ### Ambience
 
