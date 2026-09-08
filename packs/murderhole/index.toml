@@ -16,6 +16,11 @@ hash = "4e5f3512f4e7d9e491bc303051666d9f61c0dbcc5b8d275b0567c18eef32b879"
 metafile = true
 
 [[files]]
+file = "mods/bundle-upgrade.pw.toml"
+hash = "733dfc61c4e1c24d547aa27c585d5992bf5dc3b460021475a9152c0f926cb702"
+metafile = true
+
+[[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "5c76a1e72c12255967cdc39636698133af73c2ac87378934a8efb42a15aaa195"
 metafile = true
@@ -58,6 +63,11 @@ metafile = true
 [[files]]
 file = "mods/easy-multi-item-sorter.pw.toml"
 hash = "8b83fd333751daf4248b6cbd8cb58221b174e48ae2bd39fdfd99f3e768fc17d7"
+metafile = true
+
+[[files]]
+file = "mods/easy-shulker-boxes.pw.toml"
+hash = "d1cb8ac6ce6ca4a27794b5f5cf619b279244a6a5da5a330fab0bbcca3ebe6c3a"
 metafile = true
 
 [[files]]
@@ -188,6 +198,11 @@ metafile = true
 [[files]]
 file = "mods/polymer.pw.toml"
 hash = "680c52dcd4b46783da0a8b789864df741c47e9059b245c57b75d50aa34fe25ab"
+metafile = true
+
+[[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "a535571c7e24a2fb76a7ec7f74efe902623ea61a4d42e7f1489e9180aecc36f4"
 metafile = true
 
 [[files]]
