@@ -1,0 +1,13 @@
+name = "Portals"
+filename = "ly-portals-1.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/r7vyY3IN/versions/iV5yM2t1/ly-portals-1.0.2.jar"
+hash-format = "sha512"
+hash = "8cff9edb0aaa7d88eb9cd387e562089232a10582606ed484bca9d0b0da876191a12bd819ae4996af1a526785ae33748cec3c625a1ed4e1e9fdda3f7063c6f07e"
+
+[update]
+[update.modrinth]
+mod-id = "r7vyY3IN"
+version = "iV5yM2t1"

@@ -1,0 +1,13 @@
+name = "Easy Multi Item Sorter"
+filename = "easy-multi-item-sorter-1.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/cfW1jJT7/versions/MwIzIBIA/easy-multi-item-sorter-1.0.2.jar"
+hash-format = "sha512"
+hash = "aac829904409c57a6011116aee7a3c7131f633ad89f277fcdcd9e2eb356b78f99fd09e7e8120fcca00878dd47f84192cd172e10bd2bb06f4b36e50b6cfb06f98"
+
+[update]
+[update.modrinth]
+mod-id = "cfW1jJT7"
+version = "MwIzIBIA"

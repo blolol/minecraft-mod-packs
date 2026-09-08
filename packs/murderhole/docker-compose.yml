@@ -1,0 +1,30 @@
+services:
+  caddy: # HTTP server to serve Packwiz files locally
+    image: caddy:2
+    ports:
+      - "8083:80"
+    volumes:
+      - "./Caddyfile:/etc/caddy/Caddyfile:ro"
+      - "caddy_data:/data"
+      - ".:/usr/share/caddy:ro"
+  minecraft:
+    image: itzg/minecraft-server
+    depends_on:
+      - caddy
+    ports:
+      - "25565:25565"
+    volumes:
+      - "./tmp/server:/data"
+    environment:
+      EULA: "true"
+      MEMORY: "4G"
+      MODE: creative
+      MOTD: "Murderhole development server"
+      OPS_FILE: https://s3.amazonaws.com/minecraft/allowlists/blolol.ops.json
+      PACKWIZ_URL: http://caddy/pack.toml
+      SPAWN_PROTECTION: 0
+      TYPE: FABRIC
+      USE_AIKAR_FLAGS: "true"
+      VERSION: "26.2"
+volumes:
+  caddy_data:

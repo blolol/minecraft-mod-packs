@@ -1,0 +1,13 @@
+name = "Murderhole"
+author = "Raws"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "827bc109320b00d2a87f941ca0aaeb63fd7113e136a3da04229bd8b7e262078a"
+
+[versions]
+fabric = "0.19.5"
+minecraft = "26.2"

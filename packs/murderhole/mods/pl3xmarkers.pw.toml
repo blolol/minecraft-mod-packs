@@ -1,0 +1,13 @@
+name = "Pl3xMarkers"
+filename = "Pl3xMarkers-0.8.3+26.2.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/pL3tkgTC/versions/xZasBC0p/Pl3xMarkers-0.8.3%2B26.2.jar"
+hash-format = "sha512"
+hash = "f2c84de814310852e3a959d4fd3784c9e045cff57c71eed866ea7fc84cbb1969e84d4bf95573efe4672d2e49d81b3bc288fe170838befad8d0f5e73119b6a94d"
+
+[update]
+[update.modrinth]
+mod-id = "pL3tkgTC"
+version = "xZasBC0p"

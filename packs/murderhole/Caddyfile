@@ -1,0 +1,10 @@
+http://
+
+root * /usr/share/caddy
+file_server
+
+reverse_proxy /map/* http://minecraft:8080
+
+log {
+	format console
+}
