@@ -36,9 +36,13 @@ It's just a few clicks to install the game launcher and the mod pack. Once you'v
 * [GraveStone Mod](https://modrinth.com/mod/gravestone-mod) places a grave with your stuff when you die, so it doesn't despawn (its obituary feature is disabled, to prevent cheesing your location using the coordinates it shows)
 * [Precision Prospecting](https://modrinth.com/mod/precision-prospecting) adds specialized prospecting tools beyond just the standard prospecting pick ([field guide](https://terrafirmacraft.github.io/Field-Guide/en_us/precisionprospecting/precisionprospecting.html))
 * [Roads and Roofs](https://modrinth.com/mod/roads-and-roofs-tfc) provides an immersive road-building process and a movement speed boost on completed roads
+* [Sophisticated Backpacks](https://modrinth.com/mod/sophisticated-backpacks) adds backpacks for easier inventory management, with these changes:
+  * Each backpack tier has a smaller capacity.
+  * Some backpack upgrades, and the netherite backpack, are disabled.
 
 ### Quality of Life
 
+* [Accessories](https://modrinth.com/mod/accessories) adds a back slot for your backpack
 * [Chat Heads](https://modrinth.com/mod/chat-heads) adds player heads next to chat messages
 * [Cubes Without Borders](https://modrinth.com/mod/cubes-without-borders) adds borderless fullscreen support
 * [Jade](https://modrinth.com/mod/jade) provides a small HUD at the top of your screen that displays the name of the block or entity you're looking at in the world

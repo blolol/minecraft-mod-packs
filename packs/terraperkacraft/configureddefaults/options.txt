@@ -1,6 +1,7 @@
 version:3955
 darkMojangStudiosBackground:true
-resourcePacks:["vanilla","file/Vexxed_Visuals_TFC_v1.3.8.zip"]
+resourcePacks:["vanilla","mod_resources","mod/afc:firmalife_compat_assets","firmalife_data","mod/rnr:afc_compat_assets","file/Vexxed_Visuals_TFC_v1.3.8.zip"]
+incompatibleResourcePacks:["mod/afc:firmalife_compat_assets","mod/rnr:afc_compat_assets"]
 key_key.journeymap.minimap_preset:key.keyboard.unknown
 key_key.journeymap.toggle_entity_names:key.keyboard.unknown
 key_key.journeymap.toggle_render_waypoints_map:key.keyboard.unknown

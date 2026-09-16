@@ -5,6 +5,14 @@ file = "config/bcc-common.toml"
 hash = "8e3a99829d55f4a0813fecd4c7c431aa5753ab9816176f2473b6b823d3163013"
 
 [[files]]
+file = "config/sophisticatedbackpacks-server.toml"
+hash = "df293815ab43ad9faf356cdda91155a40c1dbfcd041b1b9f44edd286a59d7a7b"
+
+[[files]]
+file = "config/sophisticatedcore-common.toml"
+hash = "c03b40ea0c6508517e40e121bfda15b626f5738fb9e4e7d5afe0969e747e59af"
+
+[[files]]
 file = "configureddefaults/config/MouseTweaks.cfg"
 hash = "adc06ca99bdc9ecb6181f28dc38199e2bbc2d1907bf095de41a0e7e2842c98ea"
 
@@ -34,7 +42,15 @@ hash = "2e4f3319428bbb2d83af58dd34e28666ef228b8a16055f1fb2586b4fdc6e7a1a"
 
 [[files]]
 file = "configureddefaults/options.txt"
-hash = "1d873e5ffd5780a17a0d3b800a5330712e2ddded37a02b9aea8cf7b8848ceecd"
+hash = "4ebc984b6796607895f2c7bb018d96166b71ff70d566af8cc1cd2447c4b4af1e"
+
+[[files]]
+file = "kubejs/client_scripts/sophisticated_backpacks.js"
+hash = "38b7060c1420886d921f5806be3342e3cf95ebd074d05e4a8ee821bca5636c5c"
+
+[[files]]
+file = "kubejs/server_scripts/sophisticated_backpacks.js"
+hash = "1e072177d43d719a7938d7c7f119a81624bf1e53d3252e607468263c949a28bb"
 
 [[files]]
 file = "mods/ambientsounds.pw.toml"
@@ -49,6 +65,11 @@ metafile = true
 [[files]]
 file = "mods/badpackets.pw.toml"
 hash = "e53392cab6393798f95c4ad012dcbd9a5a55d02ef2861ac0c23bee972686dddc"
+metafile = true
+
+[[files]]
+file = "mods/better-advanced-tooltips.pw.toml"
+hash = "03084ff4f74cedc1b8ac6c85a98842f75956fb4fa811d285d8ca7caa8d54da5d"
 metafile = true
 
 [[files]]
@@ -137,6 +158,11 @@ hash = "dd810f3219671ce18219eb83cd1463d3d127adf478159e0f10dea4b8ebe58ebe"
 metafile = true
 
 [[files]]
+file = "mods/kubejs.pw.toml"
+hash = "7e0eca275f27b6543f06c36dec433851a956960cbedd2be57d19e159d636bfc1"
+metafile = true
+
+[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "c84140c66f233909b392bd7253ca33c59903ffda51beff558d9a2a4a8c6bc269"
 metafile = true
@@ -177,6 +203,11 @@ hash = "1375600837a536424b4e99878da81bc126ad8a1b962b6dea8e38c245b124e143"
 metafile = true
 
 [[files]]
+file = "mods/rhino.pw.toml"
+hash = "e55ca32b338a0e0540f4fec5170675d860566255ae0f45692a00cb4ebf2eb535"
+metafile = true
+
+[[files]]
 file = "mods/roads-and-roofs-tfc.pw.toml"
 hash = "b12960e45bf3d59e9aaae3873208bc1305f43e9b266182f2960edfc97e6d2a79"
 metafile = true
@@ -189,6 +220,16 @@ metafile = true
 [[files]]
 file = "mods/ryoamiclights.pw.toml"
 hash = "907a7f3584909169937bdb0891304108f6a5291ae1fdce211b62e2e8c3e14e68"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-backpacks.pw.toml"
+hash = "d089be7d1b39541c418ea6a6a4d3797eb5afcc68ad511dbd606de66d5397d59d"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-core.pw.toml"
+hash = "2f0c858e1e303aba06718a27c1628134418d53825bd46e3c44cabe1b442636c7"
 metafile = true
 
 [[files]]
