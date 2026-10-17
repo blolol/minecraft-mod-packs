@@ -46,6 +46,11 @@ hash = "d3aedc361fa6fa735c72e83d0b35533460a0c732500b922410aa15e0b612e6a3"
 metafile = true
 
 [[files]]
+file = "mods/distant-horizons-seedgen.pw.toml"
+hash = "21a4f66f75cc2971685ee0980bea52bf798d88b608b766f66f853d087f9c2d1b"
+metafile = true
+
+[[files]]
 file = "mods/distanthorizons.pw.toml"
 hash = "8cfd619edd7190fdd7f048bc7815193699d0583857f988e421b8e7816167ad25"
 metafile = true
