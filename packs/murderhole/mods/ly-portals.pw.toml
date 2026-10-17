@@ -3,11 +3,11 @@ filename = "ly-portals-1.0.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/r7vyY3IN/versions/iV5yM2t1/ly-portals-1.0.2.jar"
+url = "https://cdn.modrinth.com/data/r7vyY3IN/versions/yLmjHAoX/ly-portals-1.0.2.jar"
 hash-format = "sha512"
-hash = "8cff9edb0aaa7d88eb9cd387e562089232a10582606ed484bca9d0b0da876191a12bd819ae4996af1a526785ae33748cec3c625a1ed4e1e9fdda3f7063c6f07e"
+hash = "99bdc3a52ceb75daa59695b9aa01e3d84179d89afe021f38d257d4d783690843ab02c176cb775357099f3c8b0af40b7e3ccd31929a6c0f54a1939dc5cc8b8597"
 
 [update]
 [update.modrinth]
 mod-id = "r7vyY3IN"
-version = "iV5yM2t1"
+version = "yLmjHAoX"
