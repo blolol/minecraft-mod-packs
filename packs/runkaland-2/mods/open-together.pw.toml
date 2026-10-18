@@ -1,0 +1,13 @@
+name = "Open Together"
+filename = "opentogether-v26.3.0-mc26.3.x+fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ssyvO6WG/versions/CtzKCBur/opentogether-v26.3.0-mc26.3.x%2Bfabric.jar"
+hash-format = "sha512"
+hash = "24ba5047f6fbe32696f5e19f9a9eac8262750dbeb06ef356c405f8f1f7d8cd702a32650496989142aabff12babdd6f50cf9ff7c4fbc504d51010e641ec1b32f0"
+
+[update]
+[update.modrinth]
+mod-id = "ssyvO6WG"
+version = "CtzKCBur"

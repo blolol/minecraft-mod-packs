@@ -1,0 +1,13 @@
+name = "Promenade"
+filename = "promenade-fabric-6.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/GuE5FpvB/versions/mxbWA9DX/promenade-fabric-6.0.2.jar"
+hash-format = "sha512"
+hash = "990c279c94fa9ebf314adc963568c2502e8e5ecfd7ee6fdc6f9256322c440726e2ae78b7de90bcc8cda88ed04467dd5128d4e7c9ecfdd759968515e0ee176006"
+
+[update]
+[update.modrinth]
+mod-id = "GuE5FpvB"
+version = "mxbWA9DX"

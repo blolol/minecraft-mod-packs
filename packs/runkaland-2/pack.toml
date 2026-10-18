@@ -1,0 +1,13 @@
+name = "Runkaland"
+author = "Raws"
+version = "2.0.0+26.3"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "209dcdb8689ef84e81699938fd794fd0e236b06e8d3dca8456184d4994e2cb24"
+
+[versions]
+fabric = "0.20.0"
+minecraft = "26.3"

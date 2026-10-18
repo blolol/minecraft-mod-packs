@@ -1,0 +1,13 @@
+name = "Auto-Run"
+filename = "autorun-mc26.3-v2.1.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/2i7tg1Wv/versions/Vzth8nEI/autorun-mc26.3-v2.1.0.jar"
+hash-format = "sha512"
+hash = "f630d1e472306e29431d94a45c445426b70bb9c4d437c075eb9aa2294fa9e12e9d801ec0e31bae3205428bd599e13e9ae8788ac42a5961541a53bd356b3afbcb"
+
+[update]
+[update.modrinth]
+mod-id = "2i7tg1Wv"
+version = "Vzth8nEI"
