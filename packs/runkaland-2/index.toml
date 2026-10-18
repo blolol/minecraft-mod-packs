@@ -376,11 +376,6 @@ hash = "1a275be7a75a6f09e2725af44cbb136caf3a3453dddbd41343fd17ccca00afd8"
 metafile = true
 
 [[files]]
-file = "mods/packed-packs.pw.toml"
-hash = "c83b172bd86772707c7dc67b91050dac52c5b1f25893b00950845a5dcc47a787"
-metafile = true
-
-[[files]]
 file = "mods/particle-rain.pw.toml"
 hash = "2e8a642dd8992063f0ba98d35321b2e965e3a2ea0525896b6c2a20dbd6748e27"
 metafile = true
@@ -408,6 +403,11 @@ metafile = true
 [[files]]
 file = "mods/renice-shot.pw.toml"
 hash = "f999114671c132b68324e70d75bb60051f4e4d7433b01ce87b4b06b8ed934a96"
+metafile = true
+
+[[files]]
+file = "mods/resource-pack-overrides.pw.toml"
+hash = "27ef8e986efd4f8b6e20f9c104d19673b499b45578161883bd1ffc2926f4def0"
 metafile = true
 
 [[files]]

@@ -117,7 +117,6 @@ Runkaland comes with these shader packs, but you can also [add more](https://mod
 * [Mouse Tweaks](https://modrinth.com/project/aC3cM3Vq)
 * [Ok Zoomer](https://modrinth.com/project/aXf2OSFU)
 * [Open Together](https://modrinth.com/project/ssyvO6WG)
-* [Packed Packs](https://modrinth.com/project/8Pq6Exn2)
 * [Reese's Sodium Options](https://modrinth.com/project/Bh37bMuy)
 * [Renice Shot](https://modrinth.com/project/ZDCwiIc3)
 * [RightClickHarvest](https://modrinth.com/project/Cnejf5xM)
