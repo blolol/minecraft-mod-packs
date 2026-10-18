@@ -413,11 +413,6 @@ hash = "adc68c850f1f1fabd3e92c1d94861f770b3580d7b614fbf5191f3f420d1c318e"
 metafile = true
 
 [[files]]
-file = "mods/os-weather.pw.toml"
-hash = "1a275be7a75a6f09e2725af44cbb136caf3a3453dddbd41343fd17ccca00afd8"
-metafile = true
-
-[[files]]
 file = "mods/particle-rain.pw.toml"
 hash = "2e8a642dd8992063f0ba98d35321b2e965e3a2ea0525896b6c2a20dbd6748e27"
 metafile = true
