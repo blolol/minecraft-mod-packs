@@ -1,0 +1,13 @@
+name = "Yeetus Experimentus"
+filename = "yeetusexperimentus-fabric-26.3.0.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/HaaH232J/versions/aSzA9PLW/yeetusexperimentus-fabric-26.3.0.1.jar"
+hash-format = "sha512"
+hash = "e690a2512910ed610404e75463b45855e2e82f19b1eaf55042ba922f6e46408ebab787757cb97a6bba567f88f596360f905151f88ff395fcb8180a2a984c4adc"
+
+[update]
+[update.modrinth]
+mod-id = "HaaH232J"
+version = "aSzA9PLW"

@@ -388,6 +388,11 @@ hash = "9743136ae653d66fa00903bca4f24b8ae39f2b5a3b3b7e2599ad15af6b78bca0"
 metafile = true
 
 [[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "54019b98e621d0ab792d7a2de0f8f2714660e367790b17ffa0ac902344166396"
+metafile = true
+
+[[files]]
 file = "mods/not-enough-animations.pw.toml"
 hash = "d60f63dffcf68f88d6abb0fabd2ba7246831929a41c1179744912d03e3ba28d3"
 metafile = true
@@ -415,6 +420,16 @@ metafile = true
 [[files]]
 file = "mods/particle-rain.pw.toml"
 hash = "2e8a642dd8992063f0ba98d35321b2e965e3a2ea0525896b6c2a20dbd6748e27"
+metafile = true
+
+[[files]]
+file = "mods/pl3xmap.pw.toml"
+hash = "269a86eb391c994822766f42fd52df175f1ea5b63a48e5559f8764069e50cb86"
+metafile = true
+
+[[files]]
+file = "mods/pl3xmarkers.pw.toml"
+hash = "574bf2fa799b248e125d0c9aecd78a4dd2b5ca0c644b0410890bafde176b123b"
 metafile = true
 
 [[files]]
@@ -540,6 +555,11 @@ metafile = true
 [[files]]
 file = "mods/waystones.pw.toml"
 hash = "85e00f97c2d58db3167bb6608558aa956654f5b0570e0abac082a1d0d4e3c19d"
+metafile = true
+
+[[files]]
+file = "mods/yeetus-experimentus.pw.toml"
+hash = "cf91f7cca73a389b7ee40262cd1a73f5371af6cefa81c18c1d36e93f1cda354b"
 metafile = true
 
 [[files]]

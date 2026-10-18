@@ -120,6 +120,7 @@ Runkaland comes with these shader packs, but you can also [add more](https://mod
 * [Mod Menu](https://modrinth.com/project/mOgUt4GM)
 * [More Chat History](https://modrinth.com/project/8qkXwOnk)
 * [Mouse Tweaks](https://modrinth.com/project/aC3cM3Vq)
+* [No Chat Reports](https://modrinth.com/project/qQyHxfxd)
 * [Ok Zoomer](https://modrinth.com/project/aXf2OSFU)
 * [Open Together](https://modrinth.com/project/ssyvO6WG)
 * [Reese's Sodium Options](https://modrinth.com/project/Bh37bMuy)
@@ -129,3 +130,4 @@ Runkaland comes with these shader packs, but you can also [add more](https://mod
 * [Stonecutting Upgrade](https://modrinth.com/project/ZCLuNtSF)
 * [Trade Cycling](https://modrinth.com/project/qpPoAL6m)
 * [Visual Workbench](https://modrinth.com/project/kfqD1JRw)
+* [Yeetus Experimentus](https://modrinth.com/project/HaaH232J)
