@@ -16,7 +16,8 @@ services:
     volumes:
       - "./tmp/server:/data"
     environment:
-      EULA: "true"
+      EULA: TRUE
+      FABRIC_LOADER_VERSION: "0.20.0"
       MEMORY: "4G"
       MODE: creative
       MOTD: "Runkaland 2 development server"

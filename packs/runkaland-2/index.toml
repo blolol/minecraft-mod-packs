@@ -51,6 +51,11 @@ hash = "e1751ca704017ffb0153bb00b195c93b80226da7d1f196679fe720cd03f1bbe3"
 metafile = true
 
 [[files]]
+file = "mods/c2me-fabric.pw.toml"
+hash = "ee523cfd058b4d85cc6a231c9a35aecffc1441098fbde5254fc34919115a4f53"
+metafile = true
+
+[[files]]
 file = "mods/cape-provider.pw.toml"
 hash = "97f708a1727aa9451dbe33b213b0679d4a46a0cf524d945164838020dd46dd4a"
 metafile = true
@@ -88,11 +93,6 @@ metafile = true
 [[files]]
 file = "mods/continuity.pw.toml"
 hash = "aad07f6496bbf478116eaa0e82fa7fbdd022ca755b392029193e1090d76716b3"
-metafile = true
-
-[[files]]
-file = "mods/crash-assistant.pw.toml"
-hash = "f7909025ba51d36c602efaf988449b66c1d44ab1bfce28ba7f0ad2806f077099"
 metafile = true
 
 [[files]]
@@ -326,6 +326,11 @@ hash = "9aff010771d11ec9fe4980ff0d746cbca61854fc638daeef73c057f4fafb39bf"
 metafile = true
 
 [[files]]
+file = "mods/scalablelux.pw.toml"
+hash = "8ab8d9da45456dfc8146a7d4b4b4243c69ba5b4375d086f361bf23df6e14988a"
+metafile = true
+
+[[files]]
 file = "mods/sodium-extra.pw.toml"
 hash = "69d683554d0db2dc59ce9ed08b28743ddb56d9ea12b80e52e43051d082987bd2"
 metafile = true
@@ -369,3 +374,33 @@ metafile = true
 file = "mods/visuality.pw.toml"
 hash = "654073f6a13203019cd895e3a4d2d531efc1c40f1f1c385b082473584ff0af48"
 metafile = true
+
+[[files]]
+file = "mods/zconfig.pw.toml"
+hash = "8078347c8e2fd79bbb3e414fd36bc319e2d043f8d3b955c14f430fee0b5d6843"
+metafile = true
+
+[[files]]
+file = "mods/zfastnoise.pw.toml"
+hash = "9340ec50bcad12369714aa7975a8e53d6fd20473f6f4a65c18f5eaeaaab8295a"
+metafile = true
+
+[[files]]
+file = "prism-instance/instance.cfg"
+hash = "adba2d7b87272e6c377c97b413645f0ac6aed55065ee5d2d3d9ff42e60be38c9"
+
+[[files]]
+file = "prism-instance/manifest.txt"
+hash = "b76d175798ee622ea995475bdf828ff5596a18542d1dec4c2dd659bae2fa3005"
+
+[[files]]
+file = "prism-instance/minecraft/packwiz-installer-bootstrap.jar"
+hash = "a8fbb24dc604278e97f4688e82d3d91a318b98efc08d5dbfcbcbcab6443d116c"
+
+[[files]]
+file = "prism-instance/mmc-pack.json"
+hash = "61ef7fa565b2177abce18f2a9c1e9a196c8e20166cdf8d09c966986c9f4fb430"
+
+[[files]]
+file = "prism-instance/runkaland-2.png"
+hash = "d53ede83be93c5e3315b0d157393de0e96a69a045d6e82eab2cacdc3ca649b9a"
