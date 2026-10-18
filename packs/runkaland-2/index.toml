@@ -1,6 +1,30 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/modpack_defaults/config/DistantHorizons.toml"
+hash = "1ad4f9e285044d08c797c62be11e1e055c076f77db25e84fcb408d4fbf3ece49"
+
+[[files]]
+file = "config/modpack_defaults/config/MouseTweaks.cfg"
+hash = "adc06ca99bdc9ecb6181f28dc38199e2bbc2d1907bf095de41a0e7e2842c98ea"
+
+[[files]]
+file = "config/modpack_defaults/journeymap/config/6.0/journeymap.core.config"
+hash = "65e50351db8f2655e73f81d0c9b7771eab6effdd4c9776d552fe750f4cb9235f"
+
+[[files]]
+file = "config/modpack_defaults/journeymap/config/6.0/journeymap.fullmap.config"
+hash = "71dd771b82185be87d51aff62b04f72a34cb205e991068d4c1d1fb5b522449ed"
+
+[[files]]
+file = "config/modpack_defaults/journeymap/config/6.0/journeymap.minimap.config"
+hash = "b898cfe19e7f0fab1cd935d2631b51bb32d618f87681cb5b27471ff283520300"
+
+[[files]]
+file = "config/modpack_defaults/options.txt"
+hash = "5a285556107cb84c6aa5d514ccc5d447970a5c17f6d3714fa05ce98c79a17770"
+
+[[files]]
 file = "mods/animaticarefabricated.pw.toml"
 hash = "541a40fcd45f578d27955b1cea270ff94398dcda07296bf283c41efe6a3bb0e0"
 metafile = true

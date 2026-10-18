@@ -1,0 +1,14 @@
+_version = 5
+
+[common.logging.warning]
+	#
+	# If enabled, a message will be displayed in chat if explicit garbage collection
+	# is disabled.
+	# This is known to cause out-of-memory issues
+	# and is better solved with a concurrent garbage collector.
+	showExplicitGcDisabledWarning = false
+	#
+	# If enabled, a chat message will be displayed in chat if the garbage
+	# collector Java is currently using is known
+	# to cause frame stuttering and/or other issues.
+	showGarbageCollectorWarning = false
