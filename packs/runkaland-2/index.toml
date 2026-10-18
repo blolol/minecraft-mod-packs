@@ -21,6 +21,11 @@ hash = "c5f5e490cc5d70f9b537cfa30e66c5aef75b4ea8976f71752cf4517c3068373f"
 metafile = true
 
 [[files]]
+file = "mods/balm.pw.toml"
+hash = "3f529d5fd5e99dbcba1364cfc68eefc9235e6956dcd05f4c6554116f89d9c9c9"
+metafile = true
+
+[[files]]
 file = "mods/better-block-entities.pw.toml"
 hash = "ef4828e5b33f6331ff869f2ff551e7f937e4f4ca5df0f5f8a995d8fa477a83c3"
 metafile = true
@@ -46,6 +51,11 @@ hash = "57791283291466d626b526aef786019522401efa5cea784a85c22e998463463c"
 metafile = true
 
 [[files]]
+file = "mods/boat-item-view.pw.toml"
+hash = "fe1a70074b24fe087e801bc2405d8e30eff06840c2073d88538b72f9ea7bbde0"
+metafile = true
+
+[[files]]
 file = "mods/bundle-upgrade.pw.toml"
 hash = "e1751ca704017ffb0153bb00b195c93b80226da7d1f196679fe720cd03f1bbe3"
 metafile = true
@@ -58,6 +68,11 @@ metafile = true
 [[files]]
 file = "mods/cape-provider.pw.toml"
 hash = "97f708a1727aa9451dbe33b213b0679d4a46a0cf524d945164838020dd46dd4a"
+metafile = true
+
+[[files]]
+file = "mods/chat-heads.pw.toml"
+hash = "7959f11cce0c14ffae150d4a3126b04b70b0af815d25453110d2a8408011e9cb"
 metafile = true
 
 [[files]]
@@ -96,8 +111,18 @@ hash = "aad07f6496bbf478116eaa0e82fa7fbdd022ca755b392029193e1090d76716b3"
 metafile = true
 
 [[files]]
+file = "mods/controlling.pw.toml"
+hash = "2fa46b8df6c6de59e8d793d1f3fe6de20f590ad8711b826a2a981680bc9aceb3"
+metafile = true
+
+[[files]]
 file = "mods/cut-through.pw.toml"
 hash = "a5b7657ae026fcdbd70daeeea8cd8ca04781ff3b385be975764e1999042e54fe"
+metafile = true
+
+[[files]]
+file = "mods/delight-lib.pw.toml"
+hash = "765ae5e8e22f2ff3e96cd1a8176e778d8759064707fcc455fc6b9470810705dd"
 metafile = true
 
 [[files]]
@@ -141,6 +166,11 @@ hash = "bdabe52b4c88b2f57ab21c130c3d00a1ebae771085d31b44674d13c35135feff"
 metafile = true
 
 [[files]]
+file = "mods/extended-drawers.pw.toml"
+hash = "8ebd2f8f2a123a9e11c1b465a4250413edd696bebcadae0ce5c3e11976badb17"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "249b9a3bfcb8a23719e656abb121094e63c6d88eeab08f2fbd8ae569948d5303"
 metafile = true
@@ -153,6 +183,11 @@ metafile = true
 [[files]]
 file = "mods/falling-leaves-plus.pw.toml"
 hash = "24ea0590ac9a9eea8bd10099ce4e4e24f1463702ae43c6797f19e877c878b9de"
+metafile = true
+
+[[files]]
+file = "mods/farmers-delight-refabricated.pw.toml"
+hash = "c11e8af403f5ed82c17807af19dd4675e590633599f6582f9cc1e646516491d7"
 metafile = true
 
 [[files]]
@@ -201,6 +236,11 @@ hash = "6a9c2f3995f8bf6d9b5dc0f711f22665c3c0ad488b0f4f04cf423c6f1f305ba6"
 metafile = true
 
 [[files]]
+file = "mods/jamlib.pw.toml"
+hash = "8605f25c98a6c59048affef9c5af079cf09184e7f3f1bd60c75be86be3e6d244"
+metafile = true
+
+[[files]]
 file = "mods/jei-trades.pw.toml"
 hash = "fb8d37ab666df62933de62c7fe515fabb4503f0957f14097655fd09e03bec845"
 metafile = true
@@ -218,6 +258,11 @@ metafile = true
 [[files]]
 file = "mods/journeymap.pw.toml"
 hash = "76468dc86541ea6241ce7a3364d6f87cae3126f9009d60469083b43458f75d14"
+metafile = true
+
+[[files]]
+file = "mods/just-hammers.pw.toml"
+hash = "9e6fb22879c45eb62777a0b38bbea652a4aafbe9c7a4888c29ce53be2e14ea78"
 metafile = true
 
 [[files]]
@@ -251,6 +296,11 @@ hash = "cd05db76d670773ace1184abdd46126e7b7c75c2b70da82e1764cff9544c4269"
 metafile = true
 
 [[files]]
+file = "mods/more-delight.pw.toml"
+hash = "e132ea9215f9d5009297198b9fe048dff89c75f99d1c0fc18816932bfbd2607a"
+metafile = true
+
+[[files]]
 file = "mods/morechathistory.pw.toml"
 hash = "6d505173f3abc478d4d961dbb6ba6e2c9d94ef2481c9d41bf0ce6279e5f132fb"
 metafile = true
@@ -266,8 +316,23 @@ hash = "d9f809b321cdd117600e45f92215c8e750ed0b65641c18d394bb4c111019581d"
 metafile = true
 
 [[files]]
+file = "mods/nanite-library.pw.toml"
+hash = "f977874ae10817f5aa05b718f7f55332cf48c345320126fcec31e6766c2100b8"
+metafile = true
+
+[[files]]
 file = "mods/natural-waters.pw.toml"
 hash = "4ff657d44ea9f03fcd0533bf067edf832ef94e84a1c76cda729a01568b3d6140"
+metafile = true
+
+[[files]]
+file = "mods/naturalist.pw.toml"
+hash = "c643d8443d2811c0275b7f8f80383c56343db2e69a3807e945254b7843dc8f58"
+metafile = true
+
+[[files]]
+file = "mods/new-linked-chests.pw.toml"
+hash = "9743136ae653d66fa00903bca4f24b8ae39f2b5a3b3b7e2599ad15af6b78bca0"
 metafile = true
 
 [[files]]
@@ -283,6 +348,11 @@ metafile = true
 [[files]]
 file = "mods/optigui.pw.toml"
 hash = "adc68c850f1f1fabd3e92c1d94861f770b3580d7b614fbf5191f3f420d1c318e"
+metafile = true
+
+[[files]]
+file = "mods/os-weather.pw.toml"
+hash = "1a275be7a75a6f09e2725af44cbb136caf3a3453dddbd41343fd17ccca00afd8"
 metafile = true
 
 [[files]]
@@ -321,13 +391,33 @@ hash = "f999114671c132b68324e70d75bb60051f4e4d7433b01ce87b4b06b8ed934a96"
 metafile = true
 
 [[files]]
+file = "mods/rightclickharvest.pw.toml"
+hash = "e5ade44d9469df6cb42c90c54da12658859f75a6f23c086ba2d9d9d8c8a94ddf"
+metafile = true
+
+[[files]]
 file = "mods/rrls.pw.toml"
 hash = "9aff010771d11ec9fe4980ff0d746cbca61854fc638daeef73c057f4fafb39bf"
 metafile = true
 
 [[files]]
+file = "mods/rustic-delight.pw.toml"
+hash = "5c936adcf3613da5f24d56ed8d3bed5b2414881e45ea7ce5d6c12ba2b93f6d2b"
+metafile = true
+
+[[files]]
 file = "mods/scalablelux.pw.toml"
 hash = "8ab8d9da45456dfc8146a7d4b4b4243c69ba5b4375d086f361bf23df6e14988a"
+metafile = true
+
+[[files]]
+file = "mods/searchables.pw.toml"
+hash = "91f6defb56c64900bd1ad69147acf1c151b5b372b3ec405933d92ef9308617ae"
+metafile = true
+
+[[files]]
+file = "mods/shogi.pw.toml"
+hash = "7dce4255d013864163503866db2a902f7071d64ef184c3d40189c1ac9641a7f2"
 metafile = true
 
 [[files]]
@@ -346,6 +436,11 @@ hash = "0bf314c578473659bd89915114cac8e60994988f405218726a48d35b06e9316c"
 metafile = true
 
 [[files]]
+file = "mods/sound-physics-remastered.pw.toml"
+hash = "1f2a07748eb8051e599f98f19a0ec89cd0ab536bb9c8dac0b644dbd80bfaa7c4"
+metafile = true
+
+[[files]]
 file = "mods/stonecutting-upgrade.pw.toml"
 hash = "53b3d53e093f59a66938622f3d2a57dfcc7af47811ab9b3f3a77475e1a6cd105"
 metafile = true
@@ -353,6 +448,11 @@ metafile = true
 [[files]]
 file = "mods/tcdcommons.pw.toml"
 hash = "12c110a8b1b654d71d1be5d9cc8538fa579d3f8adba607caf051bf519a7f636b"
+metafile = true
+
+[[files]]
+file = "mods/trade-cycling.pw.toml"
+hash = "e6a89097f8cf10c5ef593a961a0a5a3b4ac7cb26a7d71ae8d47e58ca31d0409a"
 metafile = true
 
 [[files]]
@@ -373,6 +473,16 @@ metafile = true
 [[files]]
 file = "mods/visuality.pw.toml"
 hash = "654073f6a13203019cd895e3a4d2d531efc1c40f1f1c385b082473584ff0af48"
+metafile = true
+
+[[files]]
+file = "mods/wakes.pw.toml"
+hash = "03ae9ef3b69a07ce1f40cb2cfcba63108005a2d0905883682e70bd18696dfffc"
+metafile = true
+
+[[files]]
+file = "mods/waystones.pw.toml"
+hash = "85e00f97c2d58db3167bb6608558aa956654f5b0570e0abac082a1d0d4e3c19d"
 metafile = true
 
 [[files]]

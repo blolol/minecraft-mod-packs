@@ -1,0 +1,13 @@
+name = "Extended Drawers"
+filename = "ExtendedDrawers-5.2.0+mc.26.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/AhtxbnpG/versions/d3DnRFOA/ExtendedDrawers-5.2.0%2Bmc.26.3.jar"
+hash-format = "sha512"
+hash = "daa45481e88956e0964ba8316c5a4b68cd8ef919727a518c53ffd8bb4e37895e006fa1586927b27f26bbe10509827c6c1f2f2e359c51e570cb4b19bdeff7bc33"
+
+[update]
+[update.modrinth]
+mod-id = "AhtxbnpG"
+version = "d3DnRFOA"
