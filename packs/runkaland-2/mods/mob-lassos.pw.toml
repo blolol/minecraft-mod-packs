@@ -1,0 +1,13 @@
+name = "Mob Lassos"
+filename = "moblassos-v26.3.0-mc26.3.x+fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ftOBbnu8/versions/ZmE0KjD2/moblassos-v26.3.0-mc26.3.x%2Bfabric.jar"
+hash-format = "sha512"
+hash = "2faa321c94f6225acbb66ce59ee7670011105376455329d1a7fda5f249f6da3a765374f935bd437759dc0f199793d31e4f0a0a6b2706cc507503ac0f5b416f42"
+
+[update]
+[update.modrinth]
+mod-id = "ftOBbnu8"
+version = "ZmE0KjD2"

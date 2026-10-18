@@ -1,0 +1,13 @@
+name = "Extended Drawers: Extensions"
+filename = "ExtendedDrawersExtensions-5.2.0+mc.26.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/gDfTLxwP/versions/WmpVpnim/ExtendedDrawersExtensions-5.2.0%2Bmc.26.3.jar"
+hash-format = "sha512"
+hash = "c4cc316f4e98237d406df78b1dff5683190c10a789fcab68e5103a00f16514f9b9748a4adedc45735ec23a4118f8b0f6e701d490d5625a72a51e053ea44f4793"
+
+[update]
+[update.modrinth]
+mod-id = "gDfTLxwP"
+version = "WmpVpnim"

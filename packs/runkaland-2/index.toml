@@ -26,6 +26,11 @@ hash = "3f529d5fd5e99dbcba1364cfc68eefc9235e6956dcd05f4c6554116f89d9c9c9"
 metafile = true
 
 [[files]]
+file = "mods/better-advancements.pw.toml"
+hash = "40a681ea910ad2029d96dbd67627088baf30ed37ab9b452ac575f50e1ad4c031"
+metafile = true
+
+[[files]]
 file = "mods/better-block-entities.pw.toml"
 hash = "ef4828e5b33f6331ff869f2ff551e7f937e4f4ca5df0f5f8a995d8fa477a83c3"
 metafile = true
@@ -48,11 +53,6 @@ metafile = true
 [[files]]
 file = "mods/bettergrassify.pw.toml"
 hash = "57791283291466d626b526aef786019522401efa5cea784a85c22e998463463c"
-metafile = true
-
-[[files]]
-file = "mods/boat-item-view.pw.toml"
-hash = "fe1a70074b24fe087e801bc2405d8e30eff06840c2073d88538b72f9ea7bbde0"
 metafile = true
 
 [[files]]
@@ -151,6 +151,11 @@ hash = "f2001b9e473822425da2a2141f468397265b308f6a4c50b27cbcf6128d43594e"
 metafile = true
 
 [[files]]
+file = "mods/easy-shulker-boxes.pw.toml"
+hash = "847ceb9229d4ca74f3e2d7b1655453c0c3a3951087ecac2d27cae8090db5cb73"
+metafile = true
+
+[[files]]
 file = "mods/entity-model-features.pw.toml"
 hash = "d00381d69d0dba1911229acbc2f89887026d72cc0270a27c94c1e7d06a61fd19"
 metafile = true
@@ -163,6 +168,11 @@ metafile = true
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
 hash = "bdabe52b4c88b2f57ab21c130c3d00a1ebae771085d31b44674d13c35135feff"
+metafile = true
+
+[[files]]
+file = "mods/extended-drawers-extensions.pw.toml"
+hash = "1c5516585f2173c28af1e52a2db0f1304b80cce88075600dc6b6e9d846adee17"
 metafile = true
 
 [[files]]
@@ -266,6 +276,11 @@ hash = "9e6fb22879c45eb62777a0b38bbea652a4aafbe9c7a4888c29ce53be2e14ea78"
 metafile = true
 
 [[files]]
+file = "mods/justenoughbreeding.pw.toml"
+hash = "ee69efe3f15307d0b683637e35e2f2e1c074db30154a2b13f7ff74016731fab0"
+metafile = true
+
+[[files]]
 file = "mods/lambdynamiclights.pw.toml"
 hash = "1bcd8fa2d0c2c3390361736420236c2a5331002ae36bb5cba5a062b8708b5ee9"
 metafile = true
@@ -283,6 +298,11 @@ metafile = true
 [[files]]
 file = "mods/mezzconfig.pw.toml"
 hash = "8257e769f3b2db4005d1eb546ba47f5f8aade30c8b23f0155be1ae40a46f0dfc"
+metafile = true
+
+[[files]]
+file = "mods/mob-lassos.pw.toml"
+hash = "08c2f592f3d8029373e9248df1ba929e684e126b1bc1c837bbfe61424ae85ba3"
 metafile = true
 
 [[files]]
@@ -514,3 +534,23 @@ hash = "61ef7fa565b2177abce18f2a9c1e9a196c8e20166cdf8d09c966986c9f4fb430"
 [[files]]
 file = "prism-instance/runkaland-2.png"
 hash = "d53ede83be93c5e3315b0d157393de0e96a69a045d6e82eab2cacdc3ca649b9a"
+
+[[files]]
+file = "shaderpacks/complementary-reimagined.pw.toml"
+hash = "75d1d2488a0c332a9a58af7e57f980a1b006c02b3a1c580fbd50443088e4eab0"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-unbound.pw.toml"
+hash = "1a3d3663c44dc21e227c39c42ea9b5e3c4f3b2e3b5272ed55b45da9e247a46d7"
+metafile = true
+
+[[files]]
+file = "shaderpacks/i-like-vanilla.pw.toml"
+hash = "48c08db0619a6acef520439c96e96240d4920a07b93d8355678aded35f4417fb"
+metafile = true
+
+[[files]]
+file = "shaderpacks/photon-shader.pw.toml"
+hash = "e9112a2da03f65451c8c949331d71b92546bbd75ff78eac554d27f6c41e1ba29"
+metafile = true
