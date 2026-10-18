@@ -23,6 +23,7 @@ services:
       MOTD: "Runkaland 2 development server"
       OPS_FILE: https://s3.amazonaws.com/minecraft/allowlists/blolol.ops.json
       PACKWIZ_URL: http://caddy/pack.toml
+      SEED: "-5265272675965132289"
       SPAWN_PROTECTION: 0
       TYPE: FABRIC
       USE_AIKAR_FLAGS: "true"

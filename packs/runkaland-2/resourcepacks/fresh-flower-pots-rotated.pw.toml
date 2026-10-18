@@ -1,0 +1,13 @@
+name = "Fresh Flower Pots: Rotated"
+filename = "§3Fresh §bFlower Pots Rotated.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/BrcYkHFu/versions/lP6pbPaP/%C2%A73Fresh%20%C2%A7bFlower%20Pots%20Rotated.zip"
+hash-format = "sha512"
+hash = "0018c657d4f159e49f4ed3f0c84d6aa99ec479e0c0b2658a78732b00a4c7729ff1318d1676635a5bf30d134a51f37b6c3adcd33102416364e943c9879e112811"
+
+[update]
+[update.modrinth]
+mod-id = "BrcYkHFu"
+version = "lP6pbPaP"

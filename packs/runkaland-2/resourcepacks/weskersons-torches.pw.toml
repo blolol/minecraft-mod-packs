@@ -1,0 +1,13 @@
+name = "Weskerson's Torches"
+filename = "Weskerson's Torches.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/TRUXOjZf/versions/2Dt11skt/Weskerson%27s%20Torches.zip"
+hash-format = "sha512"
+hash = "11b8055c76b9431a4762f3d4b4b9f422ae0c7e253f4208051193a267d05b16e15c11fc9acf626a30aacb1172658eb56511bb2fcf9c095e8511670383699f94a2"
+
+[update]
+[update.modrinth]
+mod-id = "TRUXOjZf"
+version = "2Dt11skt"

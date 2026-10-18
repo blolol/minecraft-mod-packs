@@ -1,0 +1,17 @@
+{
+  "schema_version": "2",
+  "default_packs": [
+    "vanilla",
+    "naturalwaters:opaque_water",
+    "continuity:default",
+    "continuity:glass_pane_culling_fix",
+    "file/\u00A73Fresh \u00A7bFlower Pots Rotated.zip",
+    "file/\u00A73Fresh \u00A7bFlower Pots.zip",
+    "file/Weskerson's Torches.zip",
+    "file/FreshAnimations_v1.10.5.zip",
+    "file/FA+Player-v1.1.zip"
+  ],
+  "default_overrides": {
+    "force_compatible": true
+  }
+}

@@ -9,6 +9,10 @@ file = "config/modpack_defaults/config/MouseTweaks.cfg"
 hash = "adc06ca99bdc9ecb6181f28dc38199e2bbc2d1907bf095de41a0e7e2842c98ea"
 
 [[files]]
+file = "config/modpack_defaults/config/jei/client/jei-client.ini"
+hash = "2c38e5640550944ac7d002df70dfdac497e2eb4a3677aedbc51772706400b94c"
+
+[[files]]
 file = "config/modpack_defaults/journeymap/config/6.0/journeymap.core.config"
 hash = "65e50351db8f2655e73f81d0c9b7771eab6effdd4c9776d552fe750f4cb9235f"
 
@@ -23,6 +27,10 @@ hash = "b898cfe19e7f0fab1cd935d2631b51bb32d618f87681cb5b27471ff283520300"
 [[files]]
 file = "config/modpack_defaults/options.txt"
 hash = "5a285556107cb84c6aa5d514ccc5d447970a5c17f6d3714fa05ce98c79a17770"
+
+[[files]]
+file = "config/resourcepackoverrides.json"
+hash = "4cb660621b654610d377c45e22a4de0246616d0946d71e6aca22648f391f5914"
 
 [[files]]
 file = "mods/animaticarefabricated.pw.toml"
@@ -126,7 +134,7 @@ metafile = true
 
 [[files]]
 file = "mods/configmanager.pw.toml"
-hash = "404b2ef9032434f6b0c7d70920c557f06b774a0455325481e1b7304eaf03934e"
+hash = "a87be91439cbbc4dff2db63b9efe0e6d1e054eb0e89c5e5c647d6f6f4152b35a"
 metafile = true
 
 [[files]]
@@ -147,11 +155,6 @@ metafile = true
 [[files]]
 file = "mods/delight-lib.pw.toml"
 hash = "765ae5e8e22f2ff3e96cd1a8176e778d8759064707fcc455fc6b9470810705dd"
-metafile = true
-
-[[files]]
-file = "mods/distant-horizons-seedgen.pw.toml"
-hash = "21a4f66f75cc2971685ee0980bea52bf798d88b608b766f66f853d087f9c2d1b"
 metafile = true
 
 [[files]]
@@ -325,6 +328,11 @@ hash = "8257e769f3b2db4005d1eb546ba47f5f8aade30c8b23f0155be1ae40a46f0dfc"
 metafile = true
 
 [[files]]
+file = "mods/mezzconfiggui.pw.toml"
+hash = "50bdd267ce26fe368586d74d7e87d13ed7582c7c76e33857afc0c9515a62524f"
+metafile = true
+
+[[files]]
 file = "mods/mob-lassos.pw.toml"
 hash = "08c2f592f3d8029373e9248df1ba929e684e126b1bc1c837bbfe61424ae85ba3"
 metafile = true
@@ -377,6 +385,11 @@ metafile = true
 [[files]]
 file = "mods/new-linked-chests.pw.toml"
 hash = "9743136ae653d66fa00903bca4f24b8ae39f2b5a3b3b7e2599ad15af6b78bca0"
+metafile = true
+
+[[files]]
+file = "mods/not-enough-animations.pw.toml"
+hash = "d60f63dffcf68f88d6abb0fabd2ba7246831929a41c1179744912d03e3ba28d3"
 metafile = true
 
 [[files]]
@@ -558,6 +571,31 @@ hash = "61ef7fa565b2177abce18f2a9c1e9a196c8e20166cdf8d09c966986c9f4fb430"
 [[files]]
 file = "prism-instance/runkaland-2.png"
 hash = "d53ede83be93c5e3315b0d157393de0e96a69a045d6e82eab2cacdc3ca649b9a"
+
+[[files]]
+file = "resourcepacks/fa-player-extension.pw.toml"
+hash = "2e1a6866e4366cebe200dcf71ab52923b7653f76dc48741b93411ee3bf77372a"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fresh-animations.pw.toml"
+hash = "213428b7676adfaa1c59fcfe93e6e7f3d0257e236f32a5a245eb0fc966e1b218"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fresh-flower-pots-rotated.pw.toml"
+hash = "fecaf9235e8d81ecb1a1d337be753d7583dd12c1ff6fcc66a67e8e589b0991ac"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fresh-flower-pots.pw.toml"
+hash = "83514e823a0a408a40fc9be1fab4ef960e24014df732cbc28de02be151eb863f"
+metafile = true
+
+[[files]]
+file = "resourcepacks/weskersons-torches.pw.toml"
+hash = "2956863fb1cf4743e8d5d036359eb6f43b79f8f78173db85e8a24e0eecb160b4"
+metafile = true
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
