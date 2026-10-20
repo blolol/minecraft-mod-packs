@@ -1,0 +1,13 @@
+name = "Better Days"
+filename = "betterdays-26.3-fabric-4.1.1.7-FABRIC.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/tPLE214j/versions/nGUdicIW/betterdays-26.3-fabric-4.1.1.7-FABRIC.jar"
+hash-format = "sha512"
+hash = "dc61c6579feec503dc5940fc085843606a125d82e1b5144bab48002c5541f901d0ebc3a3c0e9d29086f76a3f3b50fc0cb9b8eed414d41349f1f841ec3f6ddbbb"
+
+[update]
+[update.modrinth]
+mod-id = "tPLE214j"
+version = "nGUdicIW"

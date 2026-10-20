@@ -9,6 +9,14 @@ file = "config/modpack_defaults/config/MouseTweaks.cfg"
 hash = "adc06ca99bdc9ecb6181f28dc38199e2bbc2d1907bf095de41a0e7e2842c98ea"
 
 [[files]]
+file = "config/modpack_defaults/config/betterdays-common.toml"
+hash = "6a7f906bef93089478363c61876f46830ab388bc59ee248673d0a8bd32728dc5"
+
+[[files]]
+file = "config/modpack_defaults/config/farmersdelight-common.json"
+hash = "a3db7a8207534c2a03b8a0e95478aab64e30869b95fc6bfa595cfc6259caef13"
+
+[[files]]
 file = "config/modpack_defaults/config/jei/client/jei-client.ini"
 hash = "2c38e5640550944ac7d002df70dfdac497e2eb4a3677aedbc51772706400b94c"
 
@@ -75,6 +83,11 @@ metafile = true
 [[files]]
 file = "mods/better-stats.pw.toml"
 hash = "90f923838a67e36a7766af7e59161339c01c4c38f72422bd4058a0903698eb94"
+metafile = true
+
+[[files]]
+file = "mods/betterdays.pw.toml"
+hash = "da6e96d8006a89bdadd263d67a27ab953b64e914dc4063b43845eac74db1a687"
 metafile = true
 
 [[files]]

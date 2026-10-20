@@ -49,10 +49,13 @@ Each time you start the game, the mod pack will automatically keep itself up-to-
 ### Gameplay features
 
 * [Bag of Holding](https://modrinth.com/project/qbqWvc0D)
+* [Better Days](https://modrinth.com/project/tPLE214j)
+  * Days are now 25 minutes long, and nights are 15 minutes long.
 * [Cut Through](https://modrinth.com/project/Dk6su9JN)
 * [Extended Drawers](https://modrinth.com/project/AhtxbnpG)
   * [Extended Drawers: Extensions](https://modrinth.com/project/gDfTLxwP)
 * [Farmer's Delight](https://modrinth.com/project/7vxePowz)
+  * Rich soil's boost chance is increased to 80% from the default 10%, to incentivize using it.
   * [More Delight](https://modrinth.com/project/znHQQtuU)
   * [Rustic Delight](https://modrinth.com/project/foa4fGIH)
 * [Geophilic](https://modrinth.com/project/hl5OLM95)
