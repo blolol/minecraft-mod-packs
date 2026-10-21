@@ -161,6 +161,11 @@ hash = "2fa46b8df6c6de59e8d793d1f3fe6de20f590ad8711b826a2a981680bc9aceb3"
 metafile = true
 
 [[files]]
+file = "mods/craftsense.pw.toml"
+hash = "4ee56aabc57b508194126ae63f9e21f91334ebec908d371c74174aa314dd7f66"
+metafile = true
+
+[[files]]
 file = "mods/cut-through.pw.toml"
 hash = "a5b7657ae026fcdbd70daeeea8cd8ca04781ff3b385be975764e1999042e54fe"
 metafile = true
@@ -263,6 +268,11 @@ metafile = true
 [[files]]
 file = "mods/held-item-tooltips.pw.toml"
 hash = "02b67ca25c428489b3da9cce836433bc65ee1b1f535d3aef0182a8859e54a6b6"
+metafile = true
+
+[[files]]
+file = "mods/hopper-gadgetry.pw.toml"
+hash = "b713b447a589ebc2af3360a13f1c375e40801d285573cb458ee419ededdbbed7"
 metafile = true
 
 [[files]]

@@ -1,0 +1,13 @@
+name = "Hopper Gadgetry"
+filename = "hoppergadgetry-v26.3.0-mc26.3.x+fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/RCK4uOMN/versions/3LCZMvnP/hoppergadgetry-v26.3.0-mc26.3.x%2Bfabric.jar"
+hash-format = "sha512"
+hash = "82bb9ffeb33388ad6e8248c1d928cd261fb10e27badb37f964c2aa1038dfa00d70c0eb7a251e2728f1a57e3cbe0b01c3f346bb9be299eec0ec57b8e38cc6740c"
+
+[update]
+[update.modrinth]
+mod-id = "RCK4uOMN"
+version = "3LCZMvnP"
