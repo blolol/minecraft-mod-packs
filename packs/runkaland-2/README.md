@@ -64,6 +64,7 @@ Each time you start the game, the mod pack will automatically keep itself up-to-
 * [Linked Chests](https://modrinth.com/project/Mr2x2AUf)
 * [Mob Lassos](https://modrinth.com/project/ftOBbnu8)
 * [Promenade](https://modrinth.com/project/GuE5FpvB)
+* [SimpleKiln](https://modrinth.com/project/OlNftsb5)
 * [Tree Harvester](https://modrinth.com/project/abooMhox)
 * [Vehicle Upgrade](https://modrinth.com/project/9B9c6QcJ)
 * [Waystones](https://modrinth.com/project/LOpKHB2A)

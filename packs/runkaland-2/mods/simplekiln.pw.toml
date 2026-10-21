@@ -1,0 +1,13 @@
+name = "SimpleKiln"
+filename = "simple-kiln-1.0.0+26.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/OlNftsb5/versions/auUekujt/simple-kiln-1.0.0%2B26.3.jar"
+hash-format = "sha512"
+hash = "f24d0421512bc7472807e0574c31df2544dff5bd39745e72c0b6098679527f7175adca29b53cbe017b5bdc441ce294df8733d7864de99e8dbd7dfe31733ec0c8"
+
+[update]
+[update.modrinth]
+mod-id = "OlNftsb5"
+version = "auUekujt"
