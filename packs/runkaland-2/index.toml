@@ -21,6 +21,10 @@ file = "config/modpack_defaults/config/jei/client/jei-client.ini"
 hash = "2c38e5640550944ac7d002df70dfdac497e2eb4a3677aedbc51772706400b94c"
 
 [[files]]
+file = "config/modpack_defaults/config/rightclickharvest.json5"
+hash = "a49c77be40572baf25ab107b07cd761af63e12d574291cfd7df783e69359a35a"
+
+[[files]]
 file = "config/modpack_defaults/journeymap/config/6.0/journeymap.core.config"
 hash = "65e50351db8f2655e73f81d0c9b7771eab6effdd4c9776d552fe750f4cb9235f"
 
