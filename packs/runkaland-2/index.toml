@@ -165,6 +165,11 @@ hash = "2fa46b8df6c6de59e8d793d1f3fe6de20f590ad8711b826a2a981680bc9aceb3"
 metafile = true
 
 [[files]]
+file = "mods/crops-love-rain.pw.toml"
+hash = "4276514e7728b59dd598c137609657285768ab383db0526472210f5bb600f80e"
+metafile = true
+
+[[files]]
 file = "mods/cut-through.pw.toml"
 hash = "a5b7657ae026fcdbd70daeeea8cd8ca04781ff3b385be975764e1999042e54fe"
 metafile = true

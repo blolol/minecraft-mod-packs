@@ -51,6 +51,7 @@ Each time you start the game, the mod pack will automatically keep itself up-to-
 * [Bag of Holding](https://modrinth.com/project/qbqWvc0D)
 * [Better Days](https://modrinth.com/project/tPLE214j)
   * Days are now 25 minutes long, and nights are 15 minutes long.
+* [Crops Love Rain](https://modrinth.com/project/cRci7UZp)
 * [Cut Through](https://modrinth.com/project/Dk6su9JN)
 * [Extended Drawers](https://modrinth.com/project/AhtxbnpG)
   * [Extended Drawers: Extensions](https://modrinth.com/project/gDfTLxwP)
@@ -65,6 +66,7 @@ Each time you start the game, the mod pack will automatically keep itself up-to-
 * [Linked Chests](https://modrinth.com/project/Mr2x2AUf)
 * [Mob Lassos](https://modrinth.com/project/ftOBbnu8)
 * [Promenade](https://modrinth.com/project/GuE5FpvB)
+* [RightClickHarvest](https://modrinth.com/project/Cnejf5xM)
 * [SimpleKiln](https://modrinth.com/project/OlNftsb5)
 * [Tree Harvester](https://modrinth.com/project/abooMhox)
 * [Vehicle Upgrade](https://modrinth.com/project/9B9c6QcJ)
@@ -128,7 +130,6 @@ Runkaland comes with these shader packs, but you can also [add more](https://mod
 * [Open Together](https://modrinth.com/project/ssyvO6WG)
 * [Reese's Sodium Options](https://modrinth.com/project/Bh37bMuy)
 * [Renice Shot](https://modrinth.com/project/ZDCwiIc3)
-* [RightClickHarvest](https://modrinth.com/project/Cnejf5xM)
 * [Remove Reloading Screen](https://modrinth.com/project/ZP7xHXtw)
 * [Stonecutting Upgrade](https://modrinth.com/project/ZCLuNtSF)
 * [Trade Cycling](https://modrinth.com/project/qpPoAL6m)
