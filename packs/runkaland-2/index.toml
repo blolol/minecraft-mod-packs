@@ -165,6 +165,11 @@ hash = "2fa46b8df6c6de59e8d793d1f3fe6de20f590ad8711b826a2a981680bc9aceb3"
 metafile = true
 
 [[files]]
+file = "mods/crate-delight.pw.toml"
+hash = "21302564b02b8c04116a1b5f5a06e483e88f5c84453697435a3fedc23bfe723b"
+metafile = true
+
+[[files]]
 file = "mods/crops-love-rain.pw.toml"
 hash = "4276514e7728b59dd598c137609657285768ab383db0526472210f5bb600f80e"
 metafile = true

@@ -57,6 +57,7 @@ Each time you start the game, the mod pack will automatically keep itself up-to-
   * [Extended Drawers: Extensions](https://modrinth.com/project/gDfTLxwP)
 * [Farmer's Delight](https://modrinth.com/project/7vxePowz)
   * Rich soil's boost chance is increased to 80% from the default 10%, to incentivize using it.
+  * [Crate Delight](https://modrinth.com/project/9rlXSyLg)
   * [More Delight](https://modrinth.com/project/znHQQtuU)
   * [Rustic Delight](https://modrinth.com/project/foa4fGIH)
 * [Geophilic](https://modrinth.com/project/hl5OLM95)
