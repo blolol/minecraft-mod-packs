@@ -9,6 +9,10 @@ file = "config/modpack_defaults/config/MouseTweaks.cfg"
 hash = "adc06ca99bdc9ecb6181f28dc38199e2bbc2d1907bf095de41a0e7e2842c98ea"
 
 [[files]]
+file = "config/modpack_defaults/config/actuallyharvest-common.toml"
+hash = "0e0d2a92fd796331077d76ac6677e378b82b887571df62f4a4d98f8767039f69"
+
+[[files]]
 file = "config/modpack_defaults/config/betterdays-common.toml"
 hash = "6a7f906bef93089478363c61876f46830ab388bc59ee248673d0a8bd32728dc5"
 
@@ -19,10 +23,6 @@ hash = "a3db7a8207534c2a03b8a0e95478aab64e30869b95fc6bfa595cfc6259caef13"
 [[files]]
 file = "config/modpack_defaults/config/jei/client/jei-client.ini"
 hash = "2c38e5640550944ac7d002df70dfdac497e2eb4a3677aedbc51772706400b94c"
-
-[[files]]
-file = "config/modpack_defaults/config/rightclickharvest.json5"
-hash = "a49c77be40572baf25ab107b07cd761af63e12d574291cfd7df783e69359a35a"
 
 [[files]]
 file = "config/modpack_defaults/journeymap/config/6.0/journeymap.core.config"
@@ -43,6 +43,11 @@ hash = "5a285556107cb84c6aa5d514ccc5d447970a5c17f6d3714fa05ce98c79a17770"
 [[files]]
 file = "config/resourcepackoverrides.json"
 hash = "4cb660621b654610d377c45e22a4de0246616d0946d71e6aca22648f391f5914"
+
+[[files]]
+file = "mods/actually-harvest.pw.toml"
+hash = "650dac1687fb0ba238dfd690fda72e41e3cdd3a9507cb2cd49980839307ae675"
+metafile = true
 
 [[files]]
 file = "mods/animaticarefabricated.pw.toml"
@@ -487,11 +492,6 @@ metafile = true
 [[files]]
 file = "mods/resource-pack-overrides.pw.toml"
 hash = "27ef8e986efd4f8b6e20f9c104d19673b499b45578161883bd1ffc2926f4def0"
-metafile = true
-
-[[files]]
-file = "mods/rightclickharvest.pw.toml"
-hash = "e5ade44d9469df6cb42c90c54da12658859f75a6f23c086ba2d9d9d8c8a94ddf"
 metafile = true
 
 [[files]]

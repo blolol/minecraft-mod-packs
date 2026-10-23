@@ -48,6 +48,7 @@ Each time you start the game, the mod pack will automatically keep itself up-to-
 
 ### Gameplay features
 
+* [Actually Harvest](https://modrinth.com/project/sUbuUC7R)
 * [Bag of Holding](https://modrinth.com/project/qbqWvc0D)
 * [Better Days](https://modrinth.com/project/tPLE214j)
   * Days are now 25 minutes long, and nights are 15 minutes long.
@@ -68,7 +69,6 @@ Each time you start the game, the mod pack will automatically keep itself up-to-
 * [Mob Lassos](https://modrinth.com/project/ftOBbnu8)
 * [Promenade](https://modrinth.com/project/GuE5FpvB)
 * [Reconnectible Chains](https://modrinth.com/project/5pzBXDS3)
-* [RightClickHarvest](https://modrinth.com/project/Cnejf5xM)
 * [SimpleKiln](https://modrinth.com/project/OlNftsb5)
 * [Tree Harvester](https://modrinth.com/project/abooMhox)
 * [Vehicle Upgrade](https://modrinth.com/project/9B9c6QcJ)
