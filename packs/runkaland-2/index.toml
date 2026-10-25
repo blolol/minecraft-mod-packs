@@ -415,6 +415,11 @@ hash = "c643d8443d2811c0275b7f8f80383c56343db2e69a3807e945254b7843dc8f58"
 metafile = true
 
 [[files]]
+file = "mods/nemos-woodcutter.pw.toml"
+hash = "fe4ad8212278a54ca844cbf6d1382481ecaf87263285c942f9f3d54a6dbd80db"
+metafile = true
+
+[[files]]
 file = "mods/new-linked-chests.pw.toml"
 hash = "9743136ae653d66fa00903bca4f24b8ae39f2b5a3b3b7e2599ad15af6b78bca0"
 metafile = true

@@ -65,6 +65,7 @@ Each time you start the game, the mod pack will automatically keep itself up-to-
 * [Hopper Gadgetry](https://modrinth.com/project/RCK4uOMN)
 * [Just Hammers](https://modrinth.com/project/edU0NbZZ)
 * [Naturalist](https://modrinth.com/project/F8BQNPWX)
+* [Nemo's Woodcutter](https://modrinth.com/project/mr1LTtgz)
 * [Linked Chests](https://modrinth.com/project/Mr2x2AUf)
 * [Mob Lassos](https://modrinth.com/project/ftOBbnu8)
 * [Promenade](https://modrinth.com/project/GuE5FpvB)
