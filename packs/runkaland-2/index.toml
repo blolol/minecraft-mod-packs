@@ -570,6 +570,11 @@ hash = "4e514caf5727ce5f30095cd8f0c2af971553e5ea7e4b9688709840b71e963309"
 metafile = true
 
 [[files]]
+file = "mods/universal-bone-meal.pw.toml"
+hash = "03eb3ef4c0373fbc95f282be4b2a77eb4e3d2307165f155141ac2de83ee14261"
+metafile = true
+
+[[files]]
 file = "mods/vehicle-upgrade.pw.toml"
 hash = "873b0a750d14d337261d6bf5ed74916d40efee31d37c49db1da9efcc7706651b"
 metafile = true

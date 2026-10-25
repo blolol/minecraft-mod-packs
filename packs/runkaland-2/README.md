@@ -72,6 +72,7 @@ Each time you start the game, the mod pack will automatically keep itself up-to-
 * [Reconnectible Chains](https://modrinth.com/project/5pzBXDS3)
 * [SimpleKiln](https://modrinth.com/project/OlNftsb5)
 * [Tree Harvester](https://modrinth.com/project/abooMhox)
+* [Universal Bone Meal](https://modrinth.com/project/66VIiT1y)
 * [Vehicle Upgrade](https://modrinth.com/project/9B9c6QcJ)
 * [Waystones](https://modrinth.com/project/LOpKHB2A)
 
