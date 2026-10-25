@@ -70,6 +70,7 @@ Each time you start the game, the mod pack will automatically keep itself up-to-
 * [Mob Lassos](https://modrinth.com/project/ftOBbnu8)
 * [Promenade](https://modrinth.com/project/GuE5FpvB)
 * [Reconnectible Chains](https://modrinth.com/project/5pzBXDS3)
+* [Shroomcraft](https://modrinth.com/project/ORxNgqTW)
 * [SimpleKiln](https://modrinth.com/project/OlNftsb5)
 * [Tree Harvester](https://modrinth.com/project/abooMhox)
 * [Universal Bone Meal](https://modrinth.com/project/66VIiT1y)

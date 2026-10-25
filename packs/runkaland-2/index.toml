@@ -530,6 +530,11 @@ hash = "7dce4255d013864163503866db2a902f7071d64ef184c3d40189c1ac9641a7f2"
 metafile = true
 
 [[files]]
+file = "mods/shroomcraft.pw.toml"
+hash = "75058bbfdd287f2d63bb3b7d6c0293644e9b6638edceddea80fa90025ce36ec9"
+metafile = true
+
+[[files]]
 file = "mods/simplekiln.pw.toml"
 hash = "33c185b1601baf3ea8db344be99ff6d628102ef3e20da5a8228395fd86214df3"
 metafile = true
