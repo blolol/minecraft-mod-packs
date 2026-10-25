@@ -215,6 +215,11 @@ hash = "847ceb9229d4ca74f3e2d7b1655453c0c3a3951087ecac2d27cae8090db5cb73"
 metafile = true
 
 [[files]]
+file = "mods/enchantment-insights.pw.toml"
+hash = "e4c443011b53352ce0fe4aaef219370a1e72475b059b7d68180224567eabd20a"
+metafile = true
+
+[[files]]
 file = "mods/entity-model-features.pw.toml"
 hash = "d00381d69d0dba1911229acbc2f89887026d72cc0270a27c94c1e7d06a61fd19"
 metafile = true
@@ -572,6 +577,11 @@ metafile = true
 [[files]]
 file = "mods/universal-bone-meal.pw.toml"
 hash = "03eb3ef4c0373fbc95f282be4b2a77eb4e3d2307165f155141ac2de83ee14261"
+metafile = true
+
+[[files]]
+file = "mods/universal-enchants.pw.toml"
+hash = "123e295265929fd26e7b8ed39777211d61eef49dd9988411d095ae867e4fb2a0"
 metafile = true
 
 [[files]]

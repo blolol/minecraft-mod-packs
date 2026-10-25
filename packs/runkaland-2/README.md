@@ -73,6 +73,7 @@ Each time you start the game, the mod pack will automatically keep itself up-to-
 * [SimpleKiln](https://modrinth.com/project/OlNftsb5)
 * [Tree Harvester](https://modrinth.com/project/abooMhox)
 * [Universal Bone Meal](https://modrinth.com/project/66VIiT1y)
+* [Universal Enchants](https://modrinth.com/project/DT56YDir)
 * [Vehicle Upgrade](https://modrinth.com/project/9B9c6QcJ)
 * [Waystones](https://modrinth.com/project/LOpKHB2A)
 
@@ -119,6 +120,7 @@ Runkaland comes with these shader packs, but you can also [add more](https://mod
 * [Easy Anvils](https://modrinth.com/project/OZBR5JT5)
 * [Easy Magic](https://modrinth.com/project/9hx3AbJM)
 * [Easy Shulker Boxes](https://modrinth.com/project/gA5euN8S)
+* [Enchantment Insights](https://modrinth.com/project/xLSpHE43)
 * [Held Item Tooltips](https://modrinth.com/project/3wWtgZGB)
 * [Jade](https://modrinth.com/project/nvQzSEkH)
 * [Just Enough Items](https://modrinth.com/project/u6dRKJwZ) (JEI)
