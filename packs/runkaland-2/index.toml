@@ -265,6 +265,11 @@ hash = "c11e8af403f5ed82c17807af19dd4675e590633599f6582f9cc1e646516491d7"
 metafile = true
 
 [[files]]
+file = "mods/fast-item-frames.pw.toml"
+hash = "15dc9ae2155cd0d81c79f71e3747fff188cd8ffa8626cc7e30d271e945c4c54e"
+metafile = true
+
+[[files]]
 file = "mods/fastquit.pw.toml"
 hash = "57dcec4d226345a506ebcc889093e37ac6da9b0c94394275d962fb7df1f7f649"
 metafile = true
@@ -482,6 +487,11 @@ metafile = true
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "1468fe3ca18b35fc53563de46046b3ada11913f1ca2a74b057437474128df85a"
+metafile = true
+
+[[files]]
+file = "mods/reach-behind.pw.toml"
+hash = "253b644e5a2363232402d1b20f04bae7f5b4e88f7ad81f7bb9670db22f659ad2"
 metafile = true
 
 [[files]]
